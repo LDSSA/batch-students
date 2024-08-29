@@ -1,6 +1,6 @@
 # Setup _Git_ and _GitHub_
 
-Having a _GitHub_ account and knowing the basics of committing and pushing changes are **mandatory** for this academy. All the learning materials and exercises will be released on this repository. If you need a refresher on Git, check out the learning units 3 and 6 in our [Python prep course](https://github.com/LDSSA/ds-prep-course-2023).
+Having a _GitHub_ account and knowing the basics of committing and pushing changes are **mandatory** for this academy. All the learning materials and exercises will be released in this repository. If you need a refresher on Git, check out the learning units 3 and 6 in our [Python prep course](https://github.com/LDSSA/ds-prep-course-2024).
 
 With this guide, you will set up GitHub, then create and clone your workspace repository and clone the learning material repository (this one).
 

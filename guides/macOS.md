@@ -45,16 +45,16 @@ brew update --verbose
 brew install git
 ```
 
-**Step 5:** Now run the following command to install `Python 3.10`:
+**Step 5:** Now run the following command to install `Python 3.12`:
 
 ```bash
-brew install python@3.10
+brew install python@3.12
 ```
 
-**Step 6:** then run the following command to set the default `python3` version to 3.10:
+**Step 6:** then run the following command to set the default `python3` version to 3.12:
 
 ```bash
-brew link python@3.10
+brew link python@3.12
 ```
 
 And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.

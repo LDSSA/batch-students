@@ -22,9 +22,9 @@ The workspace directory/repository is where you will place everything you are wo
 #### 1.1 Create the Workspace Repository
 
 1. Log into _GitHub_
-1. Create a new **private** _GitHub_ repository called *batch7-workspace*, see
+1. Create a new **private** _GitHub_ repository called *batch8-workspace*, see
 [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository).
-:warning: The repo **MUST** be named *batch7-workspace*! 
+:warning: The repo **MUST** be named *batch8-workspace*! 
 If you name it anything else, you will be unable to submit any of your work for grading.
 
     1. You need to explicitly select **Private** - This is your work and you will be graded on it, so it should not be open to the world while you are working on it.
@@ -60,38 +60,38 @@ As you're already in the portal, please add your SlackID to your profile. In you
 #### 1.3 Clone Your Workspace Repository
 
 1. Open a Terminal or Git Bash. The next steps are on this terminal.
-1. Clone your `<username>/batch7-workspace` repository. If you're not sure where to put the repository, you can create a `~/projects` folder, and clone it there.
+1. Clone your `<username>/batch8-workspace` repository. If you're not sure where to put the repository, you can create a `~/projects` folder, and clone it there.
 
 1. If you have your [**ssh keys set up**](#Setup-Git-and-GitHub) as instructed (replace `<username>` with your GitHub username):
 
 ```bash
-git clone git@github.com:<username>/batch7-workspace.git
+git clone git@github.com:<username>/batch8-workspace.git
 ```
 
 If for some reason you don't have the ssh key, do:
 
 ```bash
-git clone https://github.com/<username>/batch7-workspace.git
+git clone https://github.com/<username>/batch8-workspace.git
 ```
 
 ### 2. Get the Learning Material
 
-Now you will clone the [batch7-students](https://github.com/LDSSA/batch7-students)
+Now you will clone the [batch-students](https://github.com/LDSSA/batch-students)
 repository. All the learning material will be made available on this repo
 as the academy progresses.
 
 1. Open a Terminal or Git Bash, the next steps are on this terminal
 1. Clone the students repository
-[batch7-students](https://github.com/LDSSA/batch7-students)
+[batch-students](https://github.com/LDSSA/batch-students)
 
 ```bash
-git clone git@github.com:LDSSA/batch7-students.git
+git clone git@github.com:LDSSA/batch-students.git
 ```
 
 Or if you don't have the ssh keys set up:
 
 ```bash
-git clone https://github.com/LDSSA/batch7-students.git
+git clone https://github.com/LDSSA/batch-students.git
 
 ```
 

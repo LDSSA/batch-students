@@ -1,6 +1,6 @@
 # LDSSA Learning Units
 
-## 1. Structure of the batch7-students repository
+## 1. Structure of the batch-students repository
 The repository has a directory for each specialization S01 - S06. Inside are the directories for the learning units. See the example below:
 
 ```
@@ -44,20 +44,20 @@ A new Learning Unit is usually released on Monday mornings.
 To get the new material, enter your local copy of this repo and pull from the repo:
 
 ```bash
-cd ~/projects/batch7-students/
+cd ~/projects/batch-students/
 git pull
 ```
 
-Copy the Learning Unit folder to your local `batch7-workspace`:
+Copy the Learning Unit folder to your local `batch8-workspace`:
 
 ```bash
-cp -r ~/projects/batch7-students/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learning unit name>" ~/projects/batch7-workspace/"<specialization ID> - <specialization name>"
+cp -r ~/projects/batch-students/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learning unit name>" ~/projects/batch8-workspace/"<specialization ID> - <specialization name>"
 ```
 
 For example, for the `S01 - Bootcamp and Binary Classification` and `SLU01 - Pandas 101`, it would look like this:
 
 ```bash
-cp -r ~/projects/batch7-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"
+cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"
 ```
 
 :warning: It is important to copy just the newly release LU folders, otherwise you can overwrite your already solved Exercise notebooks.
@@ -70,7 +70,7 @@ You will need a new virtual environment for every specialization. You have alrea
 1. Open the terminal and create the virtual environment for the specialization:
 
 ```bash
-python3.10 -m venv ~/.virtualenvs/s01
+python3.12 -m venv ~/.virtualenvs/s01
 ```
 1. Activate the virtual environment of the specialization:
 
@@ -81,7 +81,7 @@ source ~/.virtualenvs/s01/bin/activate
 1. Enter the directory of the specialization and install the requirements:
 
 ```bash
-cd ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"
+cd ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"
 pip install -r requirements.txt
 ```
 
@@ -89,12 +89,12 @@ You will see a lot of output on the terminal while pip installs the packages. Yo
 
 ### 3.2 Launch the Jupyter notebook
 
-1. Enter the learning unit directory in your workspace directory (`batch7-workspace`).
+1. Enter the learning unit directory in your workspace directory (`batch8-workspace`).
 
-    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files in your `batch7-workspace` repository, and **NEVER** change the files in the `batch7-students` local repository! If you do change these files, you can have a merge conflict when you next pull from the GitHub repository.
+    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files in your `batch8-workspace` repository, and **NEVER** change the files in the `batch-students` local repository! If you do change these files, you can have a merge conflict when you next pull from the GitHub repository.
 
 ```bash
-cd ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101"
+cd ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101"
 ```
 
 1. Activate the correct virtual environment 
@@ -124,8 +124,6 @@ Your browser should pop up with Jupyter open, however, if this does not happen, 
 
 ![Open exercise notebook](/media/jupyter_error_red.png "Open exercise notebook")
 
-You will also see a message about the update of the jupyter notebook, you can ignore it.
-
 ### 3.3 Solve the Exercise Notebook
 
 After you have studied the Learning Notebook, do the exercises in the Exercise notebook. The notebook has cells where you should write your solutions followed by cells with tests for the solutions. The tests are series of `assert` statements. If all the asserts pass, that is if you don't get an `AssertionError` or any other kind of error, your solution is correct. 
@@ -140,8 +138,10 @@ checklist to avoid unexpected surprises:
 ![Restart & Run All](/media/jupyter_clear_and_run.png "Restart & Run All")
 1. At this point the notebook should have run without any failing assertions
 
-If you want to submit your notebook before it is all the way done to
+If you want to submit your notebook before it is done all the way to
 check intermediate progress, feel free to do so. The grader in the portal will run all your code, even if there are errors further up in the notebook.
+
+Warning: if you use a different software, e.g. VSCode, to complete the exercise notebook, the portal might not be able to grade it. VSCode can add something to the notebook and the portal won't be able to recognize the notebook.
 
 ### 3.4 Commit and push the Exercise notebook to your repo
 
@@ -166,7 +166,7 @@ Now go to the portal and ask it to grade your notebook.
 1. You will see your grade, e.g. 20/20.
 1. If all the exercise asserts passed locally but the grader doesn't give you the expected
 output head to [troubleshooting](https://github.com/LDSSA/LDSA-setup/blob/main/troubleshooting.md)
-
+1. You can check the state of the notebook in the portal by clicking on the grade and selecting `Raw Data`. It will show the notebook in plain text and you can search for possible errors.
 
 ## 4. Updates to Learning Units
 
@@ -194,7 +194,7 @@ Our suggestion to merge the changes is:
 
 We understand it's not ideal and are working on improving this workflow using
 [_nbdime_](https://nbdime.readthedocs.io/).
-If you are comfortable installing _Python_ packages you can try it out, but
+If you are comfortable installing Python packages you can try it out, but
 we offer no support for this at the moment.
 
 ## 4. Help

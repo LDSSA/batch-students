@@ -24,7 +24,7 @@ Please make sure:
 - Make sure you are running Windows 10 version `1909` or newer.
 - Then, try following [these steps](https://teckangaroo.com/enable-windows-10-virtual-machine-platform/)
 
-### 3. When I pull from the `batch7-students` repository, I get an error
+### 3. When I pull from the `batch-students` repository, I get an error
 
 If you get an error like the following when pulling:
 
@@ -39,15 +39,15 @@ what `git` is telling you is that changes were made by you to the files in the `
 
 To fix this do the following:
 
-1. Make sure that any changes you made to the files in `~/projects/batch7-students`  (that you don't want to lose) are saved in your `~/projects/ds-prep-workspace` repository (refer to [Updates of the learning units](ldssa-workflow.md#4-updates-to-learning-units) on how to do this). If you don't want to keep the changes you made to these files, continue to the next step.
-2. Go to the `~/projects/batch7-students` folder and run:
+1. Make sure that any changes you made to the files in `~/projects/batch-students`  (that you don't want to lose) are saved in your `~/projects/batch8-workspace` repository (refer to [Updates of the learning units](ldssa-workflow.md#4-updates-to-learning-units) on how to do this). If you don't want to keep the changes you made to these files, continue to the next step.
+2. Go to the `~/projects/batch-students` folder and run:
 
     ```bash
-    cd ~/projects/batch7-students
+    cd ~/projects/batch-students
     git stash
     ```
 
-3. Now you can pull from the `batch7-students` repository:
+3. Now you can pull from the `batch-students` repository:
 
     ```bash
     git pull
@@ -64,13 +64,13 @@ source ~/.virtualenvs/s01/bin/activate
 ### 5. When I use the `cp` command the `>` sign appears and the command does not execute
 
 ```bash
-cp -r ~/projects/batch7-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"
+cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"
 >
 ```
 
 Make sure to use this type of quotes `"` and not this one `“`.
 
-### 6. When setting up python 3.10 I get an error
+### 6. When setting up python 3.12 I get an error
 
 When I run this command:
 

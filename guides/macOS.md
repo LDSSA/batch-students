@@ -102,16 +102,16 @@ echo 'alias ibrew="arch -x86_64 /usr/local/bin/brew"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
-**Step 5:** Install `Python 3.10` with `ibrew`:
+**Step 5:** Install `Python 3.12` with `ibrew`:
 
 ```bash
-ibrew install python@3.10
+ibrew install python@3.12
 ```
 
-**Step 6:** Add `Python 3.10` to `$PATH`:
+**Step 6:** Add `Python 3.12` to `$PATH`:
 
 ```bash
-export PATH="/usr/local/opt/python@3.10/bin:$PATH" >> ~/.zshrc
+export PATH="/usr/local/opt/python@3.12/bin:$PATH" >> ~/.zshrc
 ```
 
 **Step 7** Re-activate the alterations done to the `.zshrc` file:

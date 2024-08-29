@@ -12,6 +12,10 @@ You will need a virtual environment for each specialization (S01 - S06). We will
 ```bash
 python3.12 -m pip install --user --upgrade pip setuptools wheel
 ```
+If you get an error at this point, run the following command, then repeat the line above.
+```bash
+python3.12 -m ensurepip --upgrade
+```
 
 **Step 2** Create a virtual environment with the name `s01` for the specialization S01:
 

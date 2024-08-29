@@ -27,7 +27,7 @@ First and foremost, we'll talk about how to use our communication tool, Slack. Y
 
 ## 2. Initial Setup
 
-At the end of this part, you should have Python 3.10 installed in your machine. Please choose your operating system:
+At the end of this part, you should have Python 3.12 installed in your machine. Please choose your operating system:
 
 <table>
   <tr>

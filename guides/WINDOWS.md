@@ -12,22 +12,32 @@ Your first step in this journey is to **carefully read** the steps in this tutor
 sudo apt update && sudo apt upgrade && sudo apt install git
 ```
 
-**Step 3:** Open a terminal (remember **[this](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md#Opening-the-WSL-terminal)**!!) and confirm that you have `python3.10` with the command:
+**Step 3:** Open a terminal (remember **[this](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md#Opening-the-WSL-terminal)**!!) and run the following commands to setup `Python 3.12. 
+
+**Step 3.1:** Add the `deadsnakes repository`:
 
 ```bash
-python3.10 --version
+sudo add-apt-repository ppa:deadsnakes/ppa
 ```
 
-then install libraries necessary for the installation of the virtual environment: 
+**Step 3.2:** Run the following commands to install `Python 3.12`:
 
 ```bash
-sudo apt install libpython3-dev
-
+sudo apt update && sudo apt install python3.12 -y
 ```
+
+**Step 3.3:**  Run the following command to check that `Python 3.12` is installed.
+
+```bash
+python3.12 --version
+```
+
+If your version is `Python 3.12.x` (`x` = any number), everything worked out fine.
 
 **Step 4** Run the following command to get `pip` and `venv`. `pip` is a package manager - it will help you easily install software. `venv` is a software for creating virtual environments (we will come back to what this means in the next set up step):
 
 ```bash
-sudo apt update && sudo apt upgrade && sudo apt install python3-pip python3.10-venv -y
+sudo apt update && sudo apt upgrade && sudo apt install libpython3-dev python3-pip python3.12-venv -y
 ```
+
 And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.

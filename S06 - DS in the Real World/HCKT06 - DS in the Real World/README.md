@@ -1,1 +1,0 @@
- Everything you need to know is in this [link](https://docs.google.com/document/d/1uflT6LmNdVtnVcU9LfSC1FjVhcuVqYu-bxZ6QiTuPos/edit?usp=sharing).

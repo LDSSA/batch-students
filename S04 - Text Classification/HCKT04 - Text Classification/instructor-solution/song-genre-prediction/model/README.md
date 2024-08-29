@@ -1,1 +1,0 @@
-You can download my trained models here: https://drive.google.com/drive/folders/1NBi2vfn71PxZ5gNx2DoRkpzSmhGPUOkX?usp=sharing

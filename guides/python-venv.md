@@ -10,13 +10,13 @@ You will need a virtual environment for each specialization (S01 - S06). We will
 **Step 1** Start by ensuring pip, setuptools, and wheel are up to date:
 
 ```bash
-python3.10 -m pip install --user --upgrade pip setuptools wheel
+python3.12 -m pip install --user --upgrade pip setuptools wheel
 ```
 
 **Step 2** Create a virtual environment with the name `s01` for the specialization S01:
 
 ```bash
-python3.10 -m venv ~/.virtualenvs/s01
+python3.12 -m venv ~/.virtualenvs/s01
 ```
 
 **Step 3** Activate the environment

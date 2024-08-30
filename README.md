@@ -1,6 +1,6 @@
 # Batch 8 Students Repository
 
-Welcome to **Lisbon Data Science Starters Academy Batch 7** Students Repository!
+Welcome to **Lisbon Data Science Starters Academy Batch 8** Students Repository!
 
 Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **15.9. - 21.9. 2024**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
 

@@ -3,6 +3,7 @@
 In this unit you will learn how to use data visualization to find patterns in data as well as to tell whether there is an issue with it.
 
 # New concepts in this unit
+
 - Scatter plots
 - Line charts
 - Bar/Column charts
@@ -14,6 +15,7 @@ In this unit you will learn how to use data visualization to find patterns in da
 - Different Plotting libraries
 
 # New tools in this unit
+
 - Uses of data visualization
 - Common chart types
 - [pandas .plot()](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)

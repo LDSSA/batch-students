@@ -42,7 +42,7 @@ To do this, you need to add a deploy key to your repository, which we
 provide to you in our [_Portal_](https://portal.lisbondatascience.org/).
 
 1. Go to the [_Portal_](https://portal.lisbondatascience.org/)
-1. Log in with your _GitHub_ account
+1. Log in with your account
 1. Go to your [profile](https://portal.lisbondatascience.org/users/info/) and
 copy the deploy key including the `ssh-rsa` part.
 ![Profile](../media/profile.png "Profile")

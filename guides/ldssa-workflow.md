@@ -163,7 +163,8 @@ Now go to the portal and ask it to grade your notebook.
 ![Learning unit](/media/portal_sample_lu.png "Learning unit")
 1. Select "Grade"
 ![Grade](/media/portal_grade.png "Grade")
-1. You will see your grade, e.g. 20/20.
+1. The `Last Grade` status will change to `Sent`. The portal is now running your notebook. It can take some time, depending on the complexity of the code.
+1. Your grade will appear next, e.g. 20/20.
 1. If all the exercise asserts passed locally but the grader doesn't give you the expected
 output head to [troubleshooting](https://github.com/LDSSA/LDSA-setup/blob/main/troubleshooting.md)
 1. You can check the state of the notebook in the portal by clicking on the grade and selecting `Raw Data`. It will show the notebook in plain text and you can search for possible errors.

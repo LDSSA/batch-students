@@ -1,6 +1,6 @@
 # Small Learning Unit 2 - Subsetting data in  Pandas
 
-# New concepts in this unit
+# New concepts in this unit:
 
 - Setting pandas Dataframe index
 - Selecting columns (brackets and dot notation)

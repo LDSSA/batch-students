@@ -1,0 +1,11 @@
+A value investor buys assets that they believe to be undervalued (and sells overvalued ones). To identify undervalued securities, a value investor uses analysis of the financial reports of the issuer to evaluate the security. Value investors employ accounting ratios, such as earnings per share and sales growth, to identify securities trading at prices below their worth.
+
+Warren Buffett and Benjamin Graham are notable examples of value investors. Graham and Dodd's seminal work, Security Analysis, was written in the wake of the Wall Street Crash of 1929.[6]
+
+The price to earnings ratio (P/E), or earnings multiple, is a particularly significant and recognized fundamental ratio, with a function of dividing the share price of the stock, by its earnings per share. This will provide the value representing the sum investors are prepared to expend for each dollar of company earnings. This ratio is an important aspect, due to its capacity as measurement for the comparison of valuations of various companies. A stock with a lower P/E ratio will cost less per share than one with a higher P/E, taking into account the same level of financial performance; therefore, it essentially means a low P/E is the preferred option.[7]
+
+An instance in which the price to earnings ratio has a lesser significance is when companies in different industries are compared. For example, although it is reasonable for a telecommunications stock to show a P/E in the low teens, in the case of hi-tech stock, a P/E in the 40s range is not unusual. When making comparisons, the P/E ratio can give you a refined view of a particular stock valuation.
+
+For investors paying for each dollar of a company's earnings, the P/E ratio is a significant indicator, but the price-to-book ratio (P/B) is also a reliable indication of how much investors are willing to spend on each dollar of company assets. In the process of the P/B ratio, the share price of a stock is divided by its net assets; any intangibles, such as goodwill, are not taken into account. It is a crucial factor of the price-to-book ratio, due to it indicating the actual payment for tangible assets and not the more difficult valuation of intangibles. Accordingly, the P/B could be considered a comparatively conservative metric.
+
+Source: https://en.wikipedia.org/wiki/Investment

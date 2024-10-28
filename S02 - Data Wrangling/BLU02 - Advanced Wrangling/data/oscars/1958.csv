@@ -1,0 +1,101 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1957,1958,30,ACTOR,Marlon Brando,Sayonara,False
+1,1957,1958,30,ACTOR,Anthony Franciosa,A Hatful of Rain,False
+2,1957,1958,30,ACTOR,Alec Guinness,The Bridge on the River Kwai,True
+3,1957,1958,30,ACTOR,Charles Laughton,Witness for the Prosecution,False
+4,1957,1958,30,ACTOR,Anthony Quinn,Wild Is the Wind,False
+5,1957,1958,30,ACTOR IN A SUPPORTING ROLE,Red Buttons,Sayonara,True
+6,1957,1958,30,ACTOR IN A SUPPORTING ROLE,Vittorio De Sica,A Farewell to Arms,False
+7,1957,1958,30,ACTOR IN A SUPPORTING ROLE,Sessue Hayakawa,The Bridge on the River Kwai,False
+8,1957,1958,30,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Peyton Place,False
+9,1957,1958,30,ACTOR IN A SUPPORTING ROLE,Russ Tamblyn,Peyton Place,False
+10,1957,1958,30,ACTRESS,Deborah Kerr,"Heaven Knows, Mr. Allison",False
+11,1957,1958,30,ACTRESS,Anna Magnani,Wild Is the Wind,False
+12,1957,1958,30,ACTRESS,Elizabeth Taylor,Raintree County,False
+13,1957,1958,30,ACTRESS,Lana Turner,Peyton Place,False
+14,1957,1958,30,ACTRESS,Joanne Woodward,The Three Faces of Eve,True
+15,1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Carolyn Jones,The Bachelor Party,False
+16,1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Elsa Lanchester,Witness for the Prosecution,False
+17,1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Hope Lange,Peyton Place,False
+18,1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,Sayonara,True
+19,1957,1958,30,ACTRESS IN A SUPPORTING ROLE,Diane Varsi,Peyton Place,False
+20,1957,1958,30,ART DIRECTION,"Art Direction:  Hal Pereira, George W. Davis;  Set Decoration:  Sam Comer, Ray Moyer",Funny Face,False
+21,1957,1958,30,ART DIRECTION,"Art Direction:  William A. Horning, Gene Allen;  Set Decoration:  Edwin B. Willis, Richard Pefferle",Les Girls,False
+22,1957,1958,30,ART DIRECTION,"Art Direction:  Walter Holscher;  Set Decoration:  William Kiernan, Louis Diage",Pal Joey,False
+23,1957,1958,30,ART DIRECTION,"Art Direction:  William A. Horning, Urie McCleary;  Set Decoration:  Edwin B. Willis, Hugh Hunt",Raintree County,False
+24,1957,1958,30,ART DIRECTION,Art Direction:  Ted Haworth;  Set Decoration:  Robert Priestley,Sayonara,True
+25,1957,1958,30,CINEMATOGRAPHY,Milton Krasner,An Affair to Remember,False
+26,1957,1958,30,CINEMATOGRAPHY,Jack Hildyard,The Bridge on the River Kwai,True
+27,1957,1958,30,CINEMATOGRAPHY,Ray June,Funny Face,False
+28,1957,1958,30,CINEMATOGRAPHY,William Mellor,Peyton Place,False
+29,1957,1958,30,CINEMATOGRAPHY,Ellsworth Fredricks,Sayonara,False
+30,1957,1958,30,COSTUME DESIGN,Charles LeMaire,An Affair to Remember,False
+31,1957,1958,30,COSTUME DESIGN,"Edith Head, Hubert de Givenchy",Funny Face,False
+32,1957,1958,30,COSTUME DESIGN,Orry-Kelly,Les Girls,True
+33,1957,1958,30,COSTUME DESIGN,Jean Louis,Pal Joey,False
+34,1957,1958,30,COSTUME DESIGN,Walter Plunkett,Raintree County,False
+35,1957,1958,30,DIRECTING,David Lean,The Bridge on the River Kwai,True
+36,1957,1958,30,DIRECTING,Mark Robson,Peyton Place,False
+37,1957,1958,30,DIRECTING,Joshua Logan,Sayonara,False
+38,1957,1958,30,DIRECTING,Sidney Lumet,12 Angry Men,False
+39,1957,1958,30,DIRECTING,Billy Wilder,Witness for the Prosecution,False
+40,1957,1958,30,DOCUMENTARY (Feature),"Jerome Hill, Producer",Albert Schweitzer,True
+41,1957,1958,30,DOCUMENTARY (Feature),"Lionel Rogosin, Producer",On the Bowery,False
+42,1957,1958,30,DOCUMENTARY (Feature),"Manuel Barbachano Ponce, Producer",Torero!,False
+43,1957,1958,30,FILM EDITING,Peter Taylor,The Bridge on the River Kwai,True
+44,1957,1958,30,FILM EDITING,Warren Low,Gunfight at the O.K. Corral,False
+45,1957,1958,30,FILM EDITING,"Viola Lawrence, Jerome Thoms",Pal Joey,False
+46,1957,1958,30,FILM EDITING,"Arthur P. Schmidt, Philip W. Anderson",Sayonara,False
+47,1957,1958,30,FILM EDITING,Daniel Mandell,Witness for the Prosecution,False
+48,1957,1958,30,FOREIGN LANGUAGE FILM,West Germany,The Devil Came at Night,False
+49,1957,1958,30,FOREIGN LANGUAGE FILM,France,Gates of Paris,False
+50,1957,1958,30,FOREIGN LANGUAGE FILM,India,Mother India,False
+51,1957,1958,30,FOREIGN LANGUAGE FILM,Italy,The Nights of Cabiria,True
+52,1957,1958,30,FOREIGN LANGUAGE FILM,Norway,Nine Lives,False
+53,1957,1958,30,MUSIC (Scoring),Hugo Friedhofer,An Affair to Remember,False
+54,1957,1958,30,MUSIC (Scoring),Hugo Friedhofer,Boy on a Dolphin,False
+55,1957,1958,30,MUSIC (Scoring),Malcolm Arnold,The Bridge on the River Kwai,True
+56,1957,1958,30,MUSIC (Scoring),Paul Smith,Perri,False
+57,1957,1958,30,MUSIC (Scoring),Johnny Green,Raintree County,False
+58,1957,1958,30,MUSIC (Song),Music by Harry Warren; Lyrics by Harold Adamson and Leo McCarey,An Affair to Remember,False
+59,1957,1958,30,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,The Joker Is Wild,True
+60,1957,1958,30,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,April Love,False
+61,1957,1958,30,MUSIC (Song),Music and Lyrics by Ray Evans and Jay Livingston,Tammy and the Bachelor,False
+62,1957,1958,30,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,Wild Is the Wind,False
+63,1957,1958,30,BEST MOTION PICTURE,"Sam Spiegel, Producer",The Bridge on the River Kwai,True
+64,1957,1958,30,BEST MOTION PICTURE,"Jerry Wald, Producer",Peyton Place,False
+65,1957,1958,30,BEST MOTION PICTURE,"William Goetz, Producer",Sayonara,False
+66,1957,1958,30,BEST MOTION PICTURE,"Henry Fonda and Reginald Rose, Producers",12 Angry Men,False
+67,1957,1958,30,BEST MOTION PICTURE,"Arthur Hornblow, Jr., Producer",Witness for the Prosecution,False
+68,1957,1958,30,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Birds Anonymous,True
+69,1957,1958,30,SHORT SUBJECT (Cartoon),"William Hanna and Joseph Barbera, Producers",One Droopy Knight,False
+70,1957,1958,30,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Tabasco Road,False
+71,1957,1958,30,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Trees and Jamaica Daddy,False
+72,1957,1958,30,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Truth about Mother Goose,False
+73,1957,1958,30,SHORT SUBJECT (Live Action),"Norman McLaren, Producer",A Chairy Tale,False
+74,1957,1958,30,SHORT SUBJECT (Live Action),"Tom Daly, Producer",City of Gold,False
+75,1957,1958,30,SHORT SUBJECT (Live Action),"James Carr, Producer",Foothold on Antarctica,False
+76,1957,1958,30,SHORT SUBJECT (Live Action),"Ben Sharpsteen, Producer",Portugal,False
+77,1957,1958,30,SHORT SUBJECT (Live Action),"Larry Lansburgh, Producer",The Wetback Hound,True
+78,1957,1958,30,SOUND RECORDING,"Paramount Studio Sound Department, George Dutton, Sound Director",Gunfight at the O.K. Corral,False
+79,1957,1958,30,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Dr. Wesley C. Miller, Sound Director",Les Girls,False
+80,1957,1958,30,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",Pal Joey,False
+81,1957,1958,30,SOUND RECORDING,"Warner Bros. Studio Sound Department, George Groves, Sound Director",Sayonara,True
+82,1957,1958,30,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",Witness for the Prosecution,False
+83,1957,1958,30,SPECIAL EFFECTS,Audible Effects by Walter Rossi,The Enemy Below,True
+84,1957,1958,30,SPECIAL EFFECTS,Visual Effects by Louis Lichtenfield,The Spirit of St. Louis,False
+85,1957,1958,30,WRITING (Screenplay--based on material from another medium),"Michael Wilson, Carl Foreman, Pierre Boulle",The Bridge on the River Kwai,True
+86,1957,1958,30,WRITING (Screenplay--based on material from another medium),"John Lee Mahin, John Huston","Heaven Knows, Mr. Allison",False
+87,1957,1958,30,WRITING (Screenplay--based on material from another medium),John Michael Hayes,Peyton Place,False
+88,1957,1958,30,WRITING (Screenplay--based on material from another medium),Paul Osborn,Sayonara,False
+89,1957,1958,30,WRITING (Screenplay--based on material from another medium),Reginald Rose,12 Angry Men,False
+90,1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),George Wells,Designing Woman,True
+91,1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),Leonard Gershe,Funny Face,False
+92,1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Ralph Wheelwright;  Screenplay by R. Wright Campbell, Ivan Goff, Ben Roberts",Man of a Thousand Faces,False
+93,1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Barney Slater, Joel Kane;  Screenplay by Dudley Nichols",The Tin Star,False
+94,1957,1958,30,WRITING (Story and Screenplay--written directly for the screen),"Story by Federico Fellini, Ennio Flaiano, Tullio Pinelli;  Screenplay by Federico Fellini, Ennio Flaiano",Vitelloni,False
+95,1957,1958,30,JEAN HERSHOLT HUMANITARIAN AWARD,Samuel Goldwyn,,True
+96,1957,1958,30,HONORARY AWARD, Charles Brackett for outstanding service to the Academy.,,True
+97,1957,1958,30,HONORARY AWARD, B.B. Kahane for distinguished service to the motion picture industry.,,True
+98,1957,1958,30,HONORARY AWARD," Gilbert M. (""Broncho Billy"") Anderson",,True
+99,1957,1958,30,HONORARY AWARD, The Society of Motion Picture and Television Engineers for their contributions to the advancement of the motion picture industry.,,True

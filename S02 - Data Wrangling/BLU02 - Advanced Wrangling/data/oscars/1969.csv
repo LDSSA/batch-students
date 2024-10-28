@@ -1,0 +1,109 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1968,1969,41,ACTOR,Alan Arkin,The Heart Is a Lonely Hunter,False
+1,1968,1969,41,ACTOR,Alan Bates,The Fixer,False
+2,1968,1969,41,ACTOR,Ron Moody,Oliver!,False
+3,1968,1969,41,ACTOR,Peter O'Toole,The Lion in Winter,False
+4,1968,1969,41,ACTOR,Cliff Robertson,Charly,True
+5,1968,1969,41,ACTOR IN A SUPPORTING ROLE,Jack Albertson,The Subject Was Roses,True
+6,1968,1969,41,ACTOR IN A SUPPORTING ROLE,Seymour Cassel,Faces,False
+7,1968,1969,41,ACTOR IN A SUPPORTING ROLE,Daniel Massey,Star!,False
+8,1968,1969,41,ACTOR IN A SUPPORTING ROLE,Jack Wild,Oliver!,False
+9,1968,1969,41,ACTOR IN A SUPPORTING ROLE,Gene Wilder,The Producers,False
+10,1968,1969,41,ACTRESS,Katharine Hepburn,The Lion in Winter,True
+11,1968,1969,41,ACTRESS,Patricia Neal,The Subject Was Roses,False
+12,1968,1969,41,ACTRESS,Vanessa Redgrave,Isadora,False
+13,1968,1969,41,ACTRESS,Barbra Streisand,Funny Girl,True
+14,1968,1969,41,ACTRESS,Joanne Woodward,"Rachel, Rachel",False
+15,1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Lynn Carlin,Faces,False
+16,1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Rosemary's Baby,True
+17,1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Sondra Locke,The Heart Is a Lonely Hunter,False
+18,1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Kay Medford,Funny Girl,False
+19,1968,1969,41,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,"Rachel, Rachel",False
+20,1968,1969,41,ART DIRECTION,"Art Direction:  John Box, Terence Marsh;  Set Decoration:  Vernon Dixon, Ken Muggleston",Oliver!,True
+21,1968,1969,41,ART DIRECTION,"Art Direction:  George W. Davis, Edward Carfagno",The Shoes of the Fisherman,False
+22,1968,1969,41,ART DIRECTION,"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, Howard Bristol",Star!,False
+23,1968,1969,41,ART DIRECTION,"Art Direction:  Tony Masters, Harry Lange, Ernie Archer",2001: A Space Odyssey,False
+24,1968,1969,41,ART DIRECTION,"Art Direction:  Mikhail Bogdanov, Gennady Myasnikov;  Set Decoration:  G. Koshelev, V. Uvarov",War and Peace,False
+25,1968,1969,41,CINEMATOGRAPHY,Harry Stradling,Funny Girl,False
+26,1968,1969,41,CINEMATOGRAPHY,Daniel L. Fapp,Ice Station Zebra,False
+27,1968,1969,41,CINEMATOGRAPHY,Oswald Morris,Oliver!,False
+28,1968,1969,41,CINEMATOGRAPHY,Pasqualino De Santis,Romeo and Juliet,True
+29,1968,1969,41,CINEMATOGRAPHY,Ernest Laszlo,Star!,False
+30,1968,1969,41,COSTUME DESIGN,Margaret Furse,The Lion in Winter,False
+31,1968,1969,41,COSTUME DESIGN,Phyllis Dalton,Oliver!,False
+32,1968,1969,41,COSTUME DESIGN,Morton Haack,Planet of the Apes,False
+33,1968,1969,41,COSTUME DESIGN,Danilo Donati,Romeo and Juliet,True
+34,1968,1969,41,COSTUME DESIGN,Donald Brooks,Star!,False
+35,1968,1969,41,DIRECTING,Gillo Pontecorvo,The Battle of Algiers,False
+36,1968,1969,41,DIRECTING,Anthony Harvey,The Lion in Winter,False
+37,1968,1969,41,DIRECTING,Carol Reed,Oliver!,True
+38,1968,1969,41,DIRECTING,Franco Zeffirelli,Romeo and Juliet,False
+39,1968,1969,41,DIRECTING,Stanley Kubrick,2001: A Space Odyssey,False
+40,1968,1969,41,DOCUMENTARY (Feature),"James Blue, Producer",A Few Notes on Our Food Problem,False
+41,1968,1969,41,DOCUMENTARY (Feature),"Bill McGaw, Producer",Journey into Self,True
+42,1968,1969,41,DOCUMENTARY (Feature),"William Cayton, Producer",The Legendary Champions,False
+43,1968,1969,41,DOCUMENTARY (Feature),"David H. Sawyer, Producer",Other Voices,False
+44,1968,1969,41,DOCUMENTARY (Feature),"Robert Cohn and Alex Grasshoff, Producers",Young Americans,False
+45,1968,1969,41,DOCUMENTARY (Short Subject),"Fali Bilimoria, Producer",The House That Ananda Built,False
+46,1968,1969,41,DOCUMENTARY (Short Subject),"Lee R. Bobker, Producer",The Revolving Door,False
+47,1968,1969,41,DOCUMENTARY (Short Subject),"Thomas P. Kelly, Jr., Producer",A Space to Grow,False
+48,1968,1969,41,DOCUMENTARY (Short Subject),"Dan E. Weisburd, Producer",A Way Out of the Wilderness,False
+49,1968,1969,41,DOCUMENTARY (Short Subject),"Saul Bass, Producer",Why Man Creates,True
+50,1968,1969,41,FILM EDITING,Frank P. Keller,Bullitt,True
+51,1968,1969,41,FILM EDITING,"Robert Swink, Maury Winetrobe, William Sands",Funny Girl,False
+52,1968,1969,41,FILM EDITING,Frank Bracht,The Odd Couple,False
+53,1968,1969,41,FILM EDITING,Ralph Kemplen,Oliver!,False
+54,1968,1969,41,FILM EDITING,"Fred Feitshans, Eve Newman",Wild in the Streets,False
+55,1968,1969,41,FOREIGN LANGUAGE FILM,Hungary,The Boys of Paul Street,False
+56,1968,1969,41,FOREIGN LANGUAGE FILM,Czechoslovakia,The Firemen's Ball,False
+57,1968,1969,41,FOREIGN LANGUAGE FILM,Italy,The Girl with the Pistol,False
+58,1968,1969,41,FOREIGN LANGUAGE FILM,France,Stolen Kisses,False
+59,1968,1969,41,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,War and Peace,True
+60,1968,1969,41,MUSIC (Original Score--for a motion picture [not a musical]),Lalo Schifrin,The Fox,False
+61,1968,1969,41,MUSIC (Original Score--for a motion picture [not a musical]),John Barry,The Lion in Winter,True
+62,1968,1969,41,MUSIC (Original Score--for a motion picture [not a musical]),Jerry Goldsmith,Planet of the Apes,False
+63,1968,1969,41,MUSIC (Original Score--for a motion picture [not a musical]),Alex North,The Shoes of the Fisherman,False
+64,1968,1969,41,MUSIC (Original Score--for a motion picture [not a musical]),Michel Legrand,The Thomas Crown Affair,False
+65,1968,1969,41,MUSIC (Score of a Musical Picture--original or adaptation),Adaptation score by Ray Heindorf,Finian's Rainbow,False
+66,1968,1969,41,MUSIC (Score of a Musical Picture--original or adaptation),Adaptation score by Walter Scharf,Funny Girl,False
+67,1968,1969,41,MUSIC (Score of a Musical Picture--original or adaptation),Adaptation score by John Green,Oliver!,True
+68,1968,1969,41,MUSIC (Score of a Musical Picture--original or adaptation),Adaptation score by Lennie Hayton,Star!,False
+69,1968,1969,41,MUSIC (Score of a Musical Picture--original or adaptation),Music and adaptation score by Michel Legrand; lyrics by Jacques Demy,The Young Girls of Rochefort,False
+70,1968,1969,41,MUSIC (Song--Original for the Picture),Music and Lyrics by Richard M. Sherman and Robert B. Sherman,Chitty Chitty Bang Bang,False
+71,1968,1969,41,MUSIC (Song--Original for the Picture),Music by Quincy Jones; Lyrics by Bob Russell,For Love of Ivy,False
+72,1968,1969,41,MUSIC (Song--Original for the Picture),Music by Jule Styne; Lyrics by Bob Merrill,Funny Girl,False
+73,1968,1969,41,MUSIC (Song--Original for the Picture),Music by Jimmy Van Heusen; Lyrics by Sammy Cahn,Star!,False
+74,1968,1969,41,MUSIC (Song--Original for the Picture),Music by Michel Legrand; Lyrics by Alan Bergman and Marilyn Bergman,The Thomas Crown Affair,True
+75,1968,1969,41,BEST PICTURE,"Ray Stark, Producer",Funny Girl,False
+76,1968,1969,41,BEST PICTURE,"Martin Poll, Producer",The Lion in Winter,False
+77,1968,1969,41,BEST PICTURE,"John Woolf, Producer",Oliver!,True
+78,1968,1969,41,BEST PICTURE,"Paul Newman, Producer","Rachel, Rachel",False
+79,1968,1969,41,BEST PICTURE,"Anthony Havelock-Allan and John Brabourne, Producers",Romeo and Juliet,False
+80,1968,1969,41,SHORT SUBJECT (Cartoon),"Wolf Koenig and Jim MacKay, Producers",The House That Jack Built,False
+81,1968,1969,41,SHORT SUBJECT (Cartoon),"Jimmy Murakami, Producer",The Magic Pear Tree,False
+82,1968,1969,41,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",Windy Day,False
+83,1968,1969,41,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Winnie the Pooh and the Blustery Day,True
+84,1968,1969,41,SHORT SUBJECT (Live Action),"George Coe, Sidney Davis and Anthony Lover, Producers",The Dove,False
+85,1968,1969,41,SHORT SUBJECT (Live Action),National Film Board of Canada,Duo,False
+86,1968,1969,41,SHORT SUBJECT (Live Action),"John Astin, Producer",Prelude,False
+87,1968,1969,41,SHORT SUBJECT (Live Action),"Charles Guggenheim, Producer",Robert Kennedy Remembered,True
+88,1968,1969,41,SOUND,Warner Bros.-Seven Arts Studio Sound Department,Bullitt,False
+89,1968,1969,41,SOUND,Warner Bros.-Seven Arts Studio Sound Department,Finian's Rainbow,False
+90,1968,1969,41,SOUND,Columbia Studio Sound Department,Funny Girl,False
+91,1968,1969,41,SOUND,Shepperton Studio Sound Department,Oliver!,True
+92,1968,1969,41,SOUND,20th Century-Fox Studio Sound Department,Star!,False
+93,1968,1969,41,SPECIAL VISUAL EFFECTS,"Hal Millar, J. McMillan Johnson",Ice Station Zebra,False
+94,1968,1969,41,SPECIAL VISUAL EFFECTS,Stanley Kubrick,2001: A Space Odyssey,True
+95,1968,1969,41,WRITING (Screenplay--based on material from another medium),James Goldman,The Lion in Winter,True
+96,1968,1969,41,WRITING (Screenplay--based on material from another medium),Neil Simon,The Odd Couple,False
+97,1968,1969,41,WRITING (Screenplay--based on material from another medium),Vernon Harris,Oliver!,False
+98,1968,1969,41,WRITING (Screenplay--based on material from another medium),Stewart Stern,"Rachel, Rachel",False
+99,1968,1969,41,WRITING (Screenplay--based on material from another medium),Roman Polanski,Rosemary's Baby,False
+100,1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Franco Solinas, Gillo Pontecorvo",The Battle of Algiers,False
+101,1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),John Cassavetes,Faces,False
+102,1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Ira Wallach, Peter Ustinov",Hot Millions,False
+103,1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),Mel Brooks,The Producers,True
+104,1968,1969,41,WRITING (Story and Screenplay--written directly for the screen),"Stanley Kubrick, Arthur C. Clarke",2001: A Space Odyssey,False
+105,1968,1969,41,JEAN HERSHOLT HUMANITARIAN AWARD,Martha Raye,,True
+106,1968,1969,41,HONORARY AWARD, John Chambers for his outstanding makeup achievement for Planet of the Apes.,,True
+107,1968,1969,41,HONORARY AWARD, Onna White for her outstanding choreography achievement for Oliver!,,True

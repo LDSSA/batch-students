@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1972,1973,45,ACTOR,Marlon Brando,The Godfather,True
+1,1972,1973,45,ACTOR,Michael Caine,Sleuth,False
+2,1972,1973,45,ACTOR,Laurence Olivier,Sleuth,False
+3,1972,1973,45,ACTOR,Peter O'Toole,The Ruling Class,False
+4,1972,1973,45,ACTOR,Paul Winfield,Sounder,False
+5,1972,1973,45,ACTOR IN A SUPPORTING ROLE,Eddie Albert,The Heartbreak Kid,False
+6,1972,1973,45,ACTOR IN A SUPPORTING ROLE,James Caan,The Godfather,False
+7,1972,1973,45,ACTOR IN A SUPPORTING ROLE,Robert Duvall,The Godfather,False
+8,1972,1973,45,ACTOR IN A SUPPORTING ROLE,Joel Grey,Cabaret,True
+9,1972,1973,45,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Godfather,False
+10,1972,1973,45,ACTRESS,Liza Minnelli,Cabaret,True
+11,1972,1973,45,ACTRESS,Diana Ross,Lady Sings the Blues,False
+12,1972,1973,45,ACTRESS,Maggie Smith,Travels with My Aunt,False
+13,1972,1973,45,ACTRESS,Cicely Tyson,Sounder,False
+14,1972,1973,45,ACTRESS,Liv Ullmann,The Emigrants,False
+15,1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Jeannie Berlin,The Heartbreak Kid,False
+16,1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,Butterflies Are Free,True
+17,1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,Pete 'n' Tillie,False
+18,1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Susan Tyrrell,Fat City,False
+19,1972,1973,45,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Poseidon Adventure,False
+20,1972,1973,45,ART DIRECTION,"Art Direction:  Rolf Zehetbauer, Jurgen Kiebach;  Set Decoration:  Herbert Strabel",Cabaret,True
+21,1972,1973,45,ART DIRECTION,Art Direction:  Carl Anderson;  Set Decoration:  Reg Allen,Lady Sings the Blues,False
+22,1972,1973,45,ART DIRECTION,Art Direction:  William Creber;  Set Decoration:  Raphael Bretton,The Poseidon Adventure,False
+23,1972,1973,45,ART DIRECTION,"Art Direction:  John Box, Gil Parrondo, Robert W. Laing",Travels with My Aunt,False
+24,1972,1973,45,ART DIRECTION,"Art Direction:  Geoffrey Drake, Don Ashton, John Graysmark, William Hutchinson;  Set Decoration:  Peter James",Young Winston,False
+25,1972,1973,45,CINEMATOGRAPHY,Charles B. Lang,Butterflies Are Free,False
+26,1972,1973,45,CINEMATOGRAPHY,Geoffrey Unsworth,Cabaret,True
+27,1972,1973,45,CINEMATOGRAPHY,Harold E. Stine,The Poseidon Adventure,False
+28,1972,1973,45,CINEMATOGRAPHY,"Harry Stradling, Jr.",1776,False
+29,1972,1973,45,CINEMATOGRAPHY,Douglas Slocombe,Travels with My Aunt,False
+30,1972,1973,45,COSTUME DESIGN,Anna Hill Johnstone,The Godfather,False
+31,1972,1973,45,COSTUME DESIGN,"Bob Mackie, Ray Aghayan, Norma Koch",Lady Sings the Blues,False
+32,1972,1973,45,COSTUME DESIGN,Paul Zastupnevich,The Poseidon Adventure,False
+33,1972,1973,45,COSTUME DESIGN,Anthony Powell,Travels with My Aunt,True
+34,1972,1973,45,COSTUME DESIGN,Anthony Mendleson,Young Winston,False
+35,1972,1973,45,DIRECTING,Bob Fosse,Cabaret,True
+36,1972,1973,45,DIRECTING,John Boorman,Deliverance,False
+37,1972,1973,45,DIRECTING,Jan Troell,The Emigrants,False
+38,1972,1973,45,DIRECTING,Francis Ford Coppola,The Godfather,False
+39,1972,1973,45,DIRECTING,Joseph L. Mankiewicz,Sleuth,False
+40,1972,1973,45,DOCUMENTARY (Feature),"Bert Haanstra, Producer",Ape and Super-Ape,False
+41,1972,1973,45,DOCUMENTARY (Feature),"Marvin Worth and Arnold Perl, Producers",Malcolm X,False
+42,1972,1973,45,DOCUMENTARY (Feature),"Robert Hendrickson and Laurence Merrick, Producers",Manson,False
+43,1972,1973,45,DOCUMENTARY (Feature),"Howard Smith and Sarah Kernochan, Producers",Marjoe,True
+44,1972,1973,45,DOCUMENTARY (Feature),"Eckehard Munck, Producer",The Silent Revolution,False
+45,1972,1973,45,DOCUMENTARY (Short Subject),"Peter Schamoni, Producer",Hundertwasser's Rainy Day,False
+46,1972,1973,45,DOCUMENTARY (Short Subject),"Giorgio Treves, Producer",K-Z,False
+47,1972,1973,45,DOCUMENTARY (Short Subject),"Tadeusz Jaworski, Producer",Selling Out,False
+48,1972,1973,45,DOCUMENTARY (Short Subject),"Charles Huguenot van der Linden and Martina Huguenot van der Linden, Producers",This Tiny World,True
+49,1972,1973,45,DOCUMENTARY (Short Subject),"Humphrey Swingler, Producer",The Tide of Traffic,False
+50,1972,1973,45,FILM EDITING,David Bretherton,Cabaret,True
+51,1972,1973,45,FILM EDITING,Tom Priestley,Deliverance,False
+52,1972,1973,45,FILM EDITING,"William Reynolds, Peter Zinner",The Godfather,False
+53,1972,1973,45,FILM EDITING,"Frank P. Keller, Fred W. Berger",The Hot Rock,False
+54,1972,1973,45,FILM EDITING,Harold F. Kress,The Poseidon Adventure,False
+55,1972,1973,45,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,The Dawns Here Are Quiet,False
+56,1972,1973,45,FOREIGN LANGUAGE FILM,France,The Discreet Charm of the Bourgeoisie,True
+57,1972,1973,45,FOREIGN LANGUAGE FILM,Israel,I Love You Rosa,False
+58,1972,1973,45,FOREIGN LANGUAGE FILM,Spain,My Dearest Señorita,False
+59,1972,1973,45,FOREIGN LANGUAGE FILM,Sweden,The New Land,False
+60,1972,1973,45,MUSIC (Original Dramatic Score),Nino Rota,The Godfather,False
+61,1972,1973,45,MUSIC (Original Dramatic Score),John Williams,images,False
+62,1972,1973,45,MUSIC (Original Dramatic Score),"Charles Chaplin, Raymond Rasch, Larry Russell",Limelight,True
+63,1972,1973,45,MUSIC (Original Dramatic Score),Buddy Baker,Napoleon and Samantha,False
+64,1972,1973,45,MUSIC (Original Dramatic Score),John Williams,The Poseidon Adventure,False
+65,1972,1973,45,MUSIC (Original Dramatic Score),John Addison,Sleuth,False
+66,1972,1973,45,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by Ralph Burns,Cabaret,True
+67,1972,1973,45,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by Gil Askey,Lady Sings the Blues,False
+68,1972,1973,45,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by Laurence Rosenthal,Man of La Mancha,False
+69,1972,1973,45,MUSIC (Song--Original for the Picture),Music by Walter Scharf; Lyrics by Don Black,Ben,False
+70,1972,1973,45,MUSIC (Song--Original for the Picture),Music by Fred Karlin; Lyrics by Marsha Karlin,The Little Ark,False
+71,1972,1973,45,MUSIC (Song--Original for the Picture),Music by Maurice Jarre; Lyrics by Marilyn Bergman and Alan Bergman,The Life and Times of Judge Roy Bean,False
+72,1972,1973,45,MUSIC (Song--Original for the Picture),Music and Lyrics by Al Kasha and Joel Hirschhorn,The Poseidon Adventure,True
+73,1972,1973,45,MUSIC (Song--Original for the Picture),Music by Sammy Fain; Lyrics by Paul Francis Webster,The Stepmother,False
+74,1972,1973,45,BEST PICTURE,"Cy Feuer, Producer",Cabaret,False
+75,1972,1973,45,BEST PICTURE,"John Boorman, Producer",Deliverance,False
+76,1972,1973,45,BEST PICTURE,"Bengt Forslund, Producer",The Emigrants,False
+77,1972,1973,45,BEST PICTURE,"Albert S. Ruddy, Producer",The Godfather,True
+78,1972,1973,45,BEST PICTURE,"Robert B. Radnitz, Producer",Sounder,False
+79,1972,1973,45,SHORT SUBJECT (Animated),"Richard Williams, Producer",A Christmas Carol,True
+80,1972,1973,45,SHORT SUBJECT (Animated),"Bob Godfrey, Producer",Kama Sutra Rides Again,False
+81,1972,1973,45,SHORT SUBJECT (Animated),"Nedeljko Dragic, Producer",Tup Tup,False
+82,1972,1973,45,SHORT SUBJECT (Live Action),"Ron Satlof and Ray Gideon, Producers",Frog Story,False
+83,1972,1973,45,SHORT SUBJECT (Live Action),"Richard Barclay, Producer",Norman Rockwell's World...An American Dream,True
+84,1972,1973,45,SHORT SUBJECT (Live Action),"David Adams, Producer",Solo,False
+85,1972,1973,45,SOUND,"Arthur Piantadosi, Charles Knight",Butterflies Are Free,False
+86,1972,1973,45,SOUND,"Robert Knudson, David Hildyard",Cabaret,True
+87,1972,1973,45,SOUND,"Richard Portman, Gene Cantamessa",The Candidate,False
+88,1972,1973,45,SOUND,"Bud Grenzbach, Richard Portman, Christopher Newman",The Godfather,False
+89,1972,1973,45,SOUND,"Theodore Soderberg, Herman Lewis",The Poseidon Adventure,False
+90,1972,1973,45,WRITING (Screenplay--based on material from another medium),Jay Allen,Cabaret,False
+91,1972,1973,45,WRITING (Screenplay--based on material from another medium),"Jan Troell, Bengt Forslund",The Emigrants,False
+92,1972,1973,45,WRITING (Screenplay--based on material from another medium),"Mario Puzo, Francis Ford Coppola",The Godfather,True
+93,1972,1973,45,WRITING (Screenplay--based on material from another medium),Julius J. Epstein,Pete 'n' Tillie,False
+94,1972,1973,45,WRITING (Screenplay--based on material from another medium),"Lonne Elder, III",Sounder,False
+95,1972,1973,45,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Jeremy Larner,The Candidate,True
+96,1972,1973,45,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Story and Screenplay by Luis Buñuel;  in collaboration with Jean-Claude Carrière,The Discreet Charm of the Bourgeoisie,False
+97,1972,1973,45,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),"Terence McCloy, Chris Clark, Suzanne de Passe",Lady Sings the Blues,False
+98,1972,1973,45,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Louis Malle,Murmur of the Heart,False
+99,1972,1973,45,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Carl Foreman,Young Winston,False
+100,1972,1973,45,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"L. B. Abbott, A. D. Flowers",The Poseidon Adventure,True
+101,1972,1973,45,JEAN HERSHOLT HUMANITARIAN AWARD,Rosalind Russell,,True
+102,1972,1973,45,HONORARY AWARD, Charles S. Boren,,True
+103,1972,1973,45,HONORARY AWARD, Edward G. Robinson who achieved greatness as a player,,True

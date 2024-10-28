@@ -1,0 +1,127 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2012,2013,85,ACTOR IN A LEADING ROLE,Bradley Cooper,Silver Linings Playbook,False
+1,2012,2013,85,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Lincoln,True
+2,2012,2013,85,ACTOR IN A LEADING ROLE,Hugh Jackman,Les Misérables,False
+3,2012,2013,85,ACTOR IN A LEADING ROLE,Joaquin Phoenix,The Master,False
+4,2012,2013,85,ACTOR IN A LEADING ROLE,Denzel Washington,Flight,False
+5,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Argo,False
+6,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Robert De Niro,Silver Linings Playbook,False
+7,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,The Master,False
+8,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,Lincoln,False
+9,2012,2013,85,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,True
+10,2012,2013,85,ACTRESS IN A LEADING ROLE,Jessica Chastain,Zero Dark Thirty,False
+11,2012,2013,85,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Silver Linings Playbook,True
+12,2012,2013,85,ACTRESS IN A LEADING ROLE,Emmanuelle Riva,Amour,False
+13,2012,2013,85,ACTRESS IN A LEADING ROLE,Quvenzhané Wallis,Beasts of the Southern Wild,False
+14,2012,2013,85,ACTRESS IN A LEADING ROLE,Naomi Watts,The Impossible,False
+15,2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Master,False
+16,2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Sally Field,Lincoln,False
+17,2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Anne Hathaway,Les Misérables,True
+18,2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Helen Hunt,The Sessions,False
+19,2012,2013,85,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Silver Linings Playbook,False
+20,2012,2013,85,ANIMATED FEATURE FILM,Mark Andrews and Brenda Chapman,Brave,True
+21,2012,2013,85,ANIMATED FEATURE FILM,Tim Burton,Frankenweenie,False
+22,2012,2013,85,ANIMATED FEATURE FILM,Sam Fell and Chris Butler,ParaNorman,False
+23,2012,2013,85,ANIMATED FEATURE FILM,Peter Lord,The Pirates! Band of Misfits,False
+24,2012,2013,85,ANIMATED FEATURE FILM,Rich Moore,Wreck-It Ralph,False
+25,2012,2013,85,CINEMATOGRAPHY,Seamus McGarvey,Anna Karenina,False
+26,2012,2013,85,CINEMATOGRAPHY,Robert Richardson,Django Unchained,False
+27,2012,2013,85,CINEMATOGRAPHY,Claudio Miranda,Life of Pi,True
+28,2012,2013,85,CINEMATOGRAPHY,Janusz Kaminski,Lincoln,False
+29,2012,2013,85,CINEMATOGRAPHY,Roger Deakins,Skyfall,False
+30,2012,2013,85,COSTUME DESIGN,Jacqueline Durran,Anna Karenina,True
+31,2012,2013,85,COSTUME DESIGN,Paco Delgado,Les Misérables,False
+32,2012,2013,85,COSTUME DESIGN,Joanna Johnston,Lincoln,False
+33,2012,2013,85,COSTUME DESIGN,Eiko Ishioka,Mirror Mirror,False
+34,2012,2013,85,COSTUME DESIGN,Colleen Atwood,Snow White and the Huntsman,False
+35,2012,2013,85,DIRECTING,Michael Haneke,Amour,False
+36,2012,2013,85,DIRECTING,Benh Zeitlin,Beasts of the Southern Wild,False
+37,2012,2013,85,DIRECTING,Ang Lee,Life of Pi,True
+38,2012,2013,85,DIRECTING,Steven Spielberg,Lincoln,False
+39,2012,2013,85,DIRECTING,David O. Russell,Silver Linings Playbook,False
+40,2012,2013,85,DOCUMENTARY (Feature),Emad Burnat and Guy Davidi,5 Broken Cameras,False
+41,2012,2013,85,DOCUMENTARY (Feature),"Dror Moreh, Philippa Kowarsky and Estelle Fialon",The Gatekeepers,False
+42,2012,2013,85,DOCUMENTARY (Feature),David France and Howard Gertler,How to Survive a Plague,False
+43,2012,2013,85,DOCUMENTARY (Feature),Kirby Dick and Amy Ziering,The Invisible War,False
+44,2012,2013,85,DOCUMENTARY (Feature),Malik Bendjelloul and Simon Chinn,Searching for Sugar Man,True
+45,2012,2013,85,DOCUMENTARY (Short Subject),Sean Fine and Andrea Nix Fine,Inocente,True
+46,2012,2013,85,DOCUMENTARY (Short Subject),Sari Gilman and Jedd Wider,Kings Point,False
+47,2012,2013,85,DOCUMENTARY (Short Subject),Cynthia Wade and Robin Honan,Mondays at Racine,False
+48,2012,2013,85,DOCUMENTARY (Short Subject),Kief Davidson and Cori Shepherd Stern,Open Heart,False
+49,2012,2013,85,DOCUMENTARY (Short Subject),Jon Alpert and Matthew O'Neill,Redemption,False
+50,2012,2013,85,FILM EDITING,William Goldenberg,Argo,True
+51,2012,2013,85,FILM EDITING,Tim Squyres,Life of Pi,False
+52,2012,2013,85,FILM EDITING,Michael Kahn,Lincoln,False
+53,2012,2013,85,FILM EDITING,Jay Cassidy and Crispin Struthers,Silver Linings Playbook,False
+54,2012,2013,85,FILM EDITING,Dylan Tichenor and William Goldenberg,Zero Dark Thirty,False
+55,2012,2013,85,FOREIGN LANGUAGE FILM,Austria,Amour,True
+56,2012,2013,85,FOREIGN LANGUAGE FILM,Norway,Kon-Tiki,False
+57,2012,2013,85,FOREIGN LANGUAGE FILM,Chile,No,False
+58,2012,2013,85,FOREIGN LANGUAGE FILM,Denmark,A Royal Affair,False
+59,2012,2013,85,FOREIGN LANGUAGE FILM,Canada,War Witch,False
+60,2012,2013,85,MAKEUP AND HAIRSTYLING,"Howard Berger, Peter Montagna and Martin Samuel",Hitchcock,False
+61,2012,2013,85,MAKEUP AND HAIRSTYLING,"Peter Swords King, Rick Findlater and Tami Lane",The Hobbit: An Unexpected Journey,False
+62,2012,2013,85,MAKEUP AND HAIRSTYLING,Lisa Westcott and Julie Dartnell,Les Misérables,True
+63,2012,2013,85,MUSIC (Original Score),Dario Marianelli,Anna Karenina,False
+64,2012,2013,85,MUSIC (Original Score),Alexandre Desplat,Argo,False
+65,2012,2013,85,MUSIC (Original Score),Mychael Danna,Life of Pi,True
+66,2012,2013,85,MUSIC (Original Score),John Williams,Lincoln,False
+67,2012,2013,85,MUSIC (Original Score),Thomas Newman,Skyfall,False
+68,2012,2013,85,MUSIC (Original Song),Music and Lyric by J. Ralph,Chasing Ice,False
+69,2012,2013,85,MUSIC (Original Song),Music by Walter Murphy; Lyric by Seth MacFarlane,Ted,False
+70,2012,2013,85,MUSIC (Original Song),Music by Mychael Danna; Lyric by Bombay Jayashri,Life of Pi,False
+71,2012,2013,85,MUSIC (Original Song),Music and Lyric by Adele Adkins and Paul Epworth,Skyfall,True
+72,2012,2013,85,MUSIC (Original Song),Music by Claude-Michel Schönberg; Lyric by Herbert Kretzmer and Alain Boublil,Les Misérables,False
+73,2012,2013,85,BEST PICTURE,"Margaret Menegoz, Stefan Arndt, Veit Heiduschka and Michael Katz, Producers",Amour,False
+74,2012,2013,85,BEST PICTURE,"Grant Heslov, Ben Affleck and George Clooney, Producers",Argo,True
+75,2012,2013,85,BEST PICTURE,"Dan Janvey, Josh Penn and Michael Gottwald, Producers",Beasts of the Southern Wild,False
+76,2012,2013,85,BEST PICTURE,"Stacey Sher, Reginald Hudlin and Pilar Savone, Producers",Django Unchained,False
+77,2012,2013,85,BEST PICTURE,"Tim Bevan, Eric Fellner, Debra Hayward and Cameron Mackintosh, Producers",Les Misérables,False
+78,2012,2013,85,BEST PICTURE,"Gil Netter, Ang Lee and David Womark, Producers",Life of Pi,False
+79,2012,2013,85,BEST PICTURE,"Steven Spielberg and Kathleen Kennedy, Producers",Lincoln,False
+80,2012,2013,85,BEST PICTURE,"Donna Gigliotti, Bruce Cohen and Jonathan Gordon, Producers",Silver Linings Playbook,False
+81,2012,2013,85,BEST PICTURE,"Mark Boal, Kathryn Bigelow and Megan Ellison, Producers",Zero Dark Thirty,False
+82,2012,2013,85,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,Anna Karenina,False
+83,2012,2013,85,PRODUCTION DESIGN,Production Design: Dan Hennah; Set Decoration: Ra Vincent and Simon Bright,The Hobbit: An Unexpected Journey,False
+84,2012,2013,85,PRODUCTION DESIGN,Production Design: Eve Stewart; Set Decoration: Anna Lynch-Robinson,Les Misérables,False
+85,2012,2013,85,PRODUCTION DESIGN,Production Design: David Gropman; Set Decoration: Anna Pinnock,Life of Pi,False
+86,2012,2013,85,PRODUCTION DESIGN,Production Design: Rick Carter; Set Decoration: Jim Erickson,Lincoln,True
+87,2012,2013,85,SHORT FILM (Animated),Minkyu Lee,Adam and Dog,False
+88,2012,2013,85,SHORT FILM (Animated),PES,Fresh Guacamole,False
+89,2012,2013,85,SHORT FILM (Animated),Timothy Reckart and Fodhla Cronin O'Reilly,Head over Heels,False
+90,2012,2013,85,SHORT FILM (Animated),David Silverman,"Maggie Simpson in ""The Longest Daycare""",False
+91,2012,2013,85,SHORT FILM (Animated),John Kahrs,Paperman,True
+92,2012,2013,85,SHORT FILM (Live Action),Bryan Buckley and Mino Jarjoura,Asad,False
+93,2012,2013,85,SHORT FILM (Live Action),Sam French and Ariel Nasr,Buzkashi Boys,False
+94,2012,2013,85,SHORT FILM (Live Action),Shawn Christensen,Curfew,True
+95,2012,2013,85,SHORT FILM (Live Action),Tom Van Avermaet and Ellen De Waele,Death of a Shadow (Dood van een Schaduw),False
+96,2012,2013,85,SHORT FILM (Live Action),Yan England,Henry,False
+97,2012,2013,85,SOUND EDITING,Erik Aadahl and Ethan Van der Ryn,Argo,False
+98,2012,2013,85,SOUND EDITING,Wylie Stateman,Django Unchained,False
+99,2012,2013,85,SOUND EDITING,Eugene Gearty and Philip Stockton,Life of Pi,False
+100,2012,2013,85,SOUND EDITING,Per Hallberg and Karen Baker Landers,Skyfall,True
+101,2012,2013,85,SOUND EDITING,Paul N.J. Ottosson,Zero Dark Thirty,True
+102,2012,2013,85,SOUND MIXING,"John Reitz, Gregg Rudloff and Jose Antonio Garcia",Argo,False
+103,2012,2013,85,SOUND MIXING,"Andy Nelson, Mark Paterson and Simon Hayes",Les Misérables,True
+104,2012,2013,85,SOUND MIXING,"Ron Bartlett, D.M. Hemphill and Drew Kunin",Life of Pi,False
+105,2012,2013,85,SOUND MIXING,"Andy Nelson, Gary Rydstrom and Ronald Judkins",Lincoln,False
+106,2012,2013,85,SOUND MIXING,"Scott Millan, Greg P. Russell and Stuart Wilson",Skyfall,False
+107,2012,2013,85,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and R. Christopher White",The Hobbit: An Unexpected Journey,False
+108,2012,2013,85,VISUAL EFFECTS,"Bill Westenhofer, Guillaume Rocheron, Erik-Jan De Boer and Donald R. Elliott",Life of Pi,True
+109,2012,2013,85,VISUAL EFFECTS,"Janek Sirrs, Jeff White, Guy Williams and Dan Sudick",Marvel's The Avengers,False
+110,2012,2013,85,VISUAL EFFECTS,"Richard Stammers, Trevor Wood, Charley Henley and Martin Hill",Prometheus,False
+111,2012,2013,85,VISUAL EFFECTS,"Cedric Nicolas-Troyan, Philip Brennan, Neil Corbould and Michael Dawson",Snow White and the Huntsman,False
+112,2012,2013,85,WRITING (Adapted Screenplay),Screenplay by Chris Terrio,Argo,True
+113,2012,2013,85,WRITING (Adapted Screenplay),Screenplay by Lucy Alibar & Benh Zeitlin,Beasts of the Southern Wild,False
+114,2012,2013,85,WRITING (Adapted Screenplay),Screenplay by David Magee,Life of Pi,False
+115,2012,2013,85,WRITING (Adapted Screenplay),Screenplay by Tony Kushner,Lincoln,False
+116,2012,2013,85,WRITING (Adapted Screenplay),Screenplay by David O. Russell,Silver Linings Playbook,False
+117,2012,2013,85,WRITING (Original Screenplay),Written by Michael Haneke,Amour,False
+118,2012,2013,85,WRITING (Original Screenplay),Written by Quentin Tarantino,Django Unchained,True
+119,2012,2013,85,WRITING (Original Screenplay),Written by John Gatins,Flight,False
+120,2012,2013,85,WRITING (Original Screenplay),Written by Wes Anderson & Roman Coppola,Moonrise Kingdom,False
+121,2012,2013,85,WRITING (Original Screenplay),Written by Mark Boal,Zero Dark Thirty,False
+122,2012,2013,85,JEAN HERSHOLT HUMANITARIAN AWARD,Jeffrey Katzenberg,,True
+123,2012,2013,85,HONORARY AWARD, Hal Needham,,True
+124,2012,2013,85,HONORARY AWARD, D.A. Pennebaker,,True
+125,2012,2013,85,HONORARY AWARD, George Stevens,,True

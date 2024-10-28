@@ -1,0 +1,129 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2019,2020,92,ACTOR IN A LEADING ROLE,Antonio Banderas,Pain and Glory,FALSE
+1,2019,2020,92,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Once upon a Time...in Hollywood,FALSE
+2,2019,2020,92,ACTOR IN A LEADING ROLE,Adam Driver,Marriage Story,FALSE
+3,2019,2020,92,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,TRUE
+4,2019,2020,92,ACTOR IN A LEADING ROLE,Jonathan Pryce,The Two Popes,FALSE
+5,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Tom Hanks,A Beautiful Day in the Neighborhood,FALSE
+6,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,The Two Popes,FALSE
+7,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Irishman,FALSE
+8,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Joe Pesci,The Irishman,FALSE
+9,2019,2020,92,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,TRUE
+10,2019,2020,92,ACTRESS IN A LEADING ROLE,Cynthia Erivo,Harriet,FALSE
+11,2019,2020,92,ACTRESS IN A LEADING ROLE,Scarlett Johansson,Marriage Story,FALSE
+12,2019,2020,92,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,FALSE
+13,2019,2020,92,ACTRESS IN A LEADING ROLE,Charlize Theron,Bombshell,FALSE
+14,2019,2020,92,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,TRUE
+15,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Richard Jewell,FALSE
+16,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,TRUE
+17,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Scarlett Johansson,Jojo Rabbit,FALSE
+18,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Florence Pugh,Little Women,FALSE
+19,2019,2020,92,ACTRESS IN A SUPPORTING ROLE,Margot Robbie,Bombshell,FALSE
+20,2019,2020,92,ANIMATED FEATURE FILM,"Dean DeBlois, Bradford Lewis and Bonnie Arnold",How to Train Your Dragon: The Hidden World,FALSE
+21,2019,2020,92,ANIMATED FEATURE FILM,Jérémy Clapin and Marc du Pontavice,I Lost My Body,FALSE
+22,2019,2020,92,ANIMATED FEATURE FILM,"Sergio Pablos, Jinko Gotoh and Marisa Román",Klaus,FALSE
+23,2019,2020,92,ANIMATED FEATURE FILM,"Chris Butler, Arianne Sutner and Travis Knight",Missing Link,FALSE
+24,2019,2020,92,ANIMATED FEATURE FILM,"Josh Cooley, Mark Nielsen and Jonas Rivera",Toy Story 4,TRUE
+25,2019,2020,92,CINEMATOGRAPHY,Rodrigo Prieto,The Irishman,FALSE
+26,2019,2020,92,CINEMATOGRAPHY,Lawrence Sher,Joker,FALSE
+27,2019,2020,92,CINEMATOGRAPHY,Jarin Blaschke,The Lighthouse,FALSE
+28,2019,2020,92,CINEMATOGRAPHY,Roger Deakins,1917,TRUE
+29,2019,2020,92,CINEMATOGRAPHY,Robert Richardson,Once upon a Time...in Hollywood,FALSE
+30,2019,2020,92,COSTUME DESIGN,Sandy Powell and Christopher Peterson,The Irishman,FALSE
+31,2019,2020,92,COSTUME DESIGN,Mayes C. Rubeo,Jojo Rabbit,FALSE
+32,2019,2020,92,COSTUME DESIGN,Mark Bridges,Joker,FALSE
+33,2019,2020,92,COSTUME DESIGN,Jacqueline Durran,Little Women,TRUE
+34,2019,2020,92,COSTUME DESIGN,Arianne Phillips,Once upon a Time...in Hollywood,FALSE
+35,2019,2020,92,DIRECTING,Martin Scorsese,The Irishman,FALSE
+36,2019,2020,92,DIRECTING,Todd Phillips,Joker,FALSE
+37,2019,2020,92,DIRECTING,Sam Mendes,1917,FALSE
+38,2019,2020,92,DIRECTING,Quentin Tarantino,Once upon a Time...in Hollywood,FALSE
+39,2019,2020,92,DIRECTING,Bong Joon Ho,Parasite,TRUE
+40,2019,2020,92,DOCUMENTARY (Feature),"Steven Bognar, Julia Reichert and Jeff Reichert",American Factory,TRUE
+41,2019,2020,92,DOCUMENTARY (Feature),"Feras Fayyad, Kirstine Barfod and Sigrid Dyekjær",The Cave,FALSE
+42,2019,2020,92,DOCUMENTARY (Feature),"Petra Costa, Joanna Natasegara, Shane Boris and Tiago Pavan",The Edge of Democracy,FALSE
+43,2019,2020,92,DOCUMENTARY (Feature),Waad al-Kateab and Edward Watts,For Sama,FALSE
+44,2019,2020,92,DOCUMENTARY (Feature),"Ljubo Stefanov, Tamara Kotevska and Atanas Georgiev",Honeyland,FALSE
+45,2019,2020,92,DOCUMENTARY (Short Subject),Yi Seung-Jun and Gary Byung-Seok Kam,In the Absence,FALSE
+46,2019,2020,92,DOCUMENTARY (Short Subject),Carol Dysinger and Elena Andreicheva,Learning to Skateboard in a Warzone (If You're a Girl),TRUE
+47,2019,2020,92,DOCUMENTARY (Short Subject),John Haptas and Kristine Samuelson,Life Overtakes Me,FALSE
+48,2019,2020,92,DOCUMENTARY (Short Subject),Smriti Mundhra and Sami Khan,St. Louis Superman,FALSE
+49,2019,2020,92,DOCUMENTARY (Short Subject),Laura Nix and Colette Sandstedt,Walk Run Cha-Cha,FALSE
+50,2019,2020,92,FILM EDITING,Michael McCusker and Andrew Buckland,Ford v Ferrari,TRUE
+51,2019,2020,92,FILM EDITING,Thelma Schoonmaker,The Irishman,FALSE
+52,2019,2020,92,FILM EDITING,Tom Eagles,Jojo Rabbit,FALSE
+53,2019,2020,92,FILM EDITING,Jeff Groth,Joker,FALSE
+54,2019,2020,92,FILM EDITING,Yang Jinmo,Parasite,FALSE
+55,2019,2020,92,INTERNATIONAL FEATURE FILM,Poland,Corpus Christi,FALSE
+56,2019,2020,92,INTERNATIONAL FEATURE FILM,North Macedonia,Honeyland,FALSE
+57,2019,2020,92,INTERNATIONAL FEATURE FILM,France,Les Misérables,FALSE
+58,2019,2020,92,INTERNATIONAL FEATURE FILM,Spain,Pain and Glory,FALSE
+59,2019,2020,92,INTERNATIONAL FEATURE FILM,South Korea,Parasite,TRUE
+60,2019,2020,92,MAKEUP AND HAIRSTYLING,"Kazu Hiro, Anne Morgan and Vivian Baker",Bombshell,TRUE
+61,2019,2020,92,MAKEUP AND HAIRSTYLING,Nicki Ledermann and Kay Georgiou,Joker,FALSE
+62,2019,2020,92,MAKEUP AND HAIRSTYLING,Jeremy Woodhead,Judy,FALSE
+63,2019,2020,92,MAKEUP AND HAIRSTYLING,"Paul Gooch, Arjen Tuiten and David White",Maleficent: Mistress of Evil,FALSE
+64,2019,2020,92,MAKEUP AND HAIRSTYLING,"Naomi Donne, Tristan Versluis and Rebecca Cole",1917,FALSE
+65,2019,2020,92,MUSIC (Original Score),Hildur Guðnadóttir,Joker,TRUE
+66,2019,2020,92,MUSIC (Original Score),Alexandre Desplat,Little Women,FALSE
+67,2019,2020,92,MUSIC (Original Score),Randy Newman,Marriage Story,FALSE
+68,2019,2020,92,MUSIC (Original Score),Thomas Newman,1917,FALSE
+69,2019,2020,92,MUSIC (Original Score),John Williams,Star Wars: The Rise of Skywalker,FALSE
+70,2019,2020,92,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story 4,FALSE
+71,2019,2020,92,MUSIC (Original Song),Music by Elton John; Lyric by Bernie Taupin,Rocketman,TRUE
+72,2019,2020,92,MUSIC (Original Song),Music and Lyric by Diane Warren,Breakthrough,FALSE
+73,2019,2020,92,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Frozen II,FALSE
+74,2019,2020,92,MUSIC (Original Song),Music and Lyric by Joshuah Brian Campbell and Cynthia Erivo,Harriet,FALSE
+75,2019,2020,92,BEST PICTURE,"Peter Chernin, Jenno Topping and James Mangold, Producers",Ford v Ferrari,FALSE
+76,2019,2020,92,BEST PICTURE,"Martin Scorsese, Robert De Niro, Jane Rosenthal and Emma Tillinger Koskoff, Producers",The Irishman,FALSE
+77,2019,2020,92,BEST PICTURE,"Carthew Neal, Taika Waititi and Chelsea Winstanley, Producers",Jojo Rabbit,FALSE
+78,2019,2020,92,BEST PICTURE,"Todd Phillips, Bradley Cooper and Emma Tillinger Koskoff, Producers",Joker,FALSE
+79,2019,2020,92,BEST PICTURE,"Amy Pascal, Producer",Little Women,FALSE
+80,2019,2020,92,BEST PICTURE,"Noah Baumbach and David Heyman, Producers",Marriage Story,FALSE
+81,2019,2020,92,BEST PICTURE,"Sam Mendes, Pippa Harris, Jayne-Ann Tenggren and Callum McDougall, Producers",1917,FALSE
+82,2019,2020,92,BEST PICTURE,"David Heyman, Shannon McIntosh and Quentin Tarantino, Producers",Once upon a Time...in Hollywood,FALSE
+83,2019,2020,92,BEST PICTURE,"Kwak Sin Ae and Bong Joon Ho, Producers",Parasite,TRUE
+84,2019,2020,92,PRODUCTION DESIGN,Production Design: Bob Shaw; Set Decoration: Regina Graves,The Irishman,FALSE
+85,2019,2020,92,PRODUCTION DESIGN,Production Design: Ra Vincent; Set Decoration: Nora Sopková,Jojo Rabbit,FALSE
+86,2019,2020,92,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Lee Sandales,1917,FALSE
+87,2019,2020,92,PRODUCTION DESIGN,Production Design: Barbara Ling; Set Decoration: Nancy Haigh,Once upon a Time...in Hollywood,TRUE
+88,2019,2020,92,PRODUCTION DESIGN,Production Design: Lee Ha Jun; Set Decoration: Cho Won Woo,Parasite,FALSE
+89,2019,2020,92,SHORT FILM (Animated),Daria Kashcheeva,Dcera (Daughter),FALSE
+90,2019,2020,92,SHORT FILM (Animated),Matthew A. Cherry and Karen Rupert Toliver,Hair Love,TRUE
+91,2019,2020,92,SHORT FILM (Animated),Rosana Sullivan and Kathryn Hendrickson,Kitbull,FALSE
+92,2019,2020,92,SHORT FILM (Animated),Bruno Collet and Jean-François Le Corre,Memorable,FALSE
+93,2019,2020,92,SHORT FILM (Animated),Siqi Song,Sister,FALSE
+94,2019,2020,92,SHORT FILM (Live Action),Meryam Joobeur and Maria Gracia Turgeon,Brotherhood,FALSE
+95,2019,2020,92,SHORT FILM (Live Action),Yves Piat and Damien Megherbi,Nefta Football Club,FALSE
+96,2019,2020,92,SHORT FILM (Live Action),Marshall Curry,The Neighbors' Window,TRUE
+97,2019,2020,92,SHORT FILM (Live Action),Bryan Buckley and Matt Lefebvre,Saria,FALSE
+98,2019,2020,92,SHORT FILM (Live Action),Delphine Girard,A Sister,FALSE
+99,2019,2020,92,SOUND EDITING,Donald Sylvester,Ford v Ferrari,TRUE
+100,2019,2020,92,SOUND EDITING,Alan Robert Murray,Joker,FALSE
+101,2019,2020,92,SOUND EDITING,Oliver Tarney and Rachael Tate,1917,FALSE
+102,2019,2020,92,SOUND EDITING,Wylie Stateman,Once upon a Time...in Hollywood,FALSE
+103,2019,2020,92,SOUND EDITING,Matthew Wood and David Acord,Star Wars: The Rise of Skywalker,FALSE
+104,2019,2020,92,SOUND MIXING,"Gary Rydstrom, Tom Johnson and Mark Ulano",Ad Astra,FALSE
+105,2019,2020,92,SOUND MIXING,"Paul Massey, David Giammarco and Steven A. Morrow",Ford v Ferrari,FALSE
+106,2019,2020,92,SOUND MIXING,"Tom Ozanich, Dean Zupancic and Tod Maitland",Joker,FALSE
+107,2019,2020,92,SOUND MIXING,Mark Taylor and Stuart Wilson,1917,TRUE
+108,2019,2020,92,SOUND MIXING,"Michael Minkler, Christian P. Minkler and Mark Ulano",Once upon a Time...in Hollywood,FALSE
+109,2019,2020,92,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Matt Aitken and Dan Sudick",Avengers: Endgame,FALSE
+110,2019,2020,92,VISUAL EFFECTS,"Pablo Helman, Leandro Estebecorena, Nelson Sepulveda-Fauser and Stephane Grabli",The Irishman,FALSE
+111,2019,2020,92,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Elliot Newman",The Lion King (Live Action),FALSE
+112,2019,2020,92,VISUAL EFFECTS,"Guillaume Rocheron, Greg Butler and Dominic Tuohy",1917,TRUE
+113,2019,2020,92,VISUAL EFFECTS,"Roger Guyett, Neal Scanlan, Patrick Tubach and Dominic Tuohy",Star Wars: The Rise of Skywalker,FALSE
+114,2019,2020,92,WRITING (Adapted Screenplay),Screenplay by Steven Zaillian,The Irishman,FALSE
+115,2019,2020,92,WRITING (Adapted Screenplay),Screenplay by Taika Waititi,Jojo Rabbit,TRUE
+116,2019,2020,92,WRITING (Adapted Screenplay),Written by Todd Phillips & Scott Silver,Joker,FALSE
+117,2019,2020,92,WRITING (Adapted Screenplay),Written for the screen by Greta Gerwig,Little Women,FALSE
+118,2019,2020,92,WRITING (Adapted Screenplay),Written by Anthony McCarten,The Two Popes,FALSE
+119,2019,2020,92,WRITING (Original Screenplay),Written by Rian Johnson,Knives Out,FALSE
+120,2019,2020,92,WRITING (Original Screenplay),Written by Noah Baumbach,Marriage Story,FALSE
+121,2019,2020,92,WRITING (Original Screenplay),Written by Sam Mendes & Krysty Wilson-Cairns,1917,FALSE
+122,2019,2020,92,WRITING (Original Screenplay),Written by Quentin Tarantino,Once upon a Time...in Hollywood,FALSE
+123,2019,2020,92,WRITING (Original Screenplay),"Screenplay by Bong Joon Ho, Han Jin Won; Story by Bong Joon Ho",Parasite,TRUE
+124,2019,2020,92,JEAN HERSHOLT HUMANITARIAN AWARD,Geena Davis,,TRUE
+125,2019,2020,92,HONORARY AWARD, David Lynch,,TRUE
+126,2019,2020,92,HONORARY AWARD, Wes Studi,,TRUE
+127,2019,2020,92,HONORARY AWARD, Lina Wertmüller,,TRUE

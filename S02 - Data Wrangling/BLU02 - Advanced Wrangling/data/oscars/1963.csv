@@ -1,0 +1,119 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1962,1963,35,ACTOR,Burt Lancaster,Birdman of Alcatraz,False
+1,1962,1963,35,ACTOR,Jack Lemmon,Days of Wine and Roses,False
+2,1962,1963,35,ACTOR,Marcello Mastroianni,Divorce--Italian Style,False
+3,1962,1963,35,ACTOR,Peter O'Toole,Lawrence of Arabia,False
+4,1962,1963,35,ACTOR,Gregory Peck,To Kill a Mockingbird,True
+5,1962,1963,35,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,True
+6,1962,1963,35,ACTOR IN A SUPPORTING ROLE,Victor Buono,What Ever Happened to Baby Jane?,False
+7,1962,1963,35,ACTOR IN A SUPPORTING ROLE,Telly Savalas,Birdman of Alcatraz,False
+8,1962,1963,35,ACTOR IN A SUPPORTING ROLE,Omar Sharif,Lawrence of Arabia,False
+9,1962,1963,35,ACTOR IN A SUPPORTING ROLE,Terence Stamp,Billy Budd,False
+10,1962,1963,35,ACTRESS,Anne Bancroft,The Miracle Worker,True
+11,1962,1963,35,ACTRESS,Bette Davis,What Ever Happened to Baby Jane?,False
+12,1962,1963,35,ACTRESS,Katharine Hepburn,Long Day's Journey into Night,False
+13,1962,1963,35,ACTRESS,Geraldine Page,Sweet Bird of Youth,False
+14,1962,1963,35,ACTRESS,Lee Remick,Days of Wine and Roses,False
+15,1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Mary Badham,To Kill a Mockingbird,False
+16,1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Patty Duke,The Miracle Worker,True
+17,1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,Sweet Bird of Youth,False
+18,1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,The Manchurian Candidate,False
+19,1962,1963,35,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Birdman of Alcatraz,False
+20,1962,1963,35,ART DIRECTION (Black-and-White),Art Direction:  Joseph Wright;  Set Decoration:  George James Hopkins,Days of Wine and Roses,False
+21,1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Ted Haworth, Leon Barsacq, Vincent Korda;  Set Decoration:  Gabriel Bechir",The Longest Day,False
+22,1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",Period of Adjustment,False
+23,1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Frank R. McKelvy",The Pigeon That Took Rome,False
+24,1962,1963,35,ART DIRECTION (Black-and-White),"Art Direction:  Alexander Golitzen, Henry Bumstead;  Set Decoration:  Oliver Emert",To Kill a Mockingbird,True
+25,1962,1963,35,ART DIRECTION (Color),"Art Direction:  John Box, John Stoll;  Set Decoration:  Dario Simoni",Lawrence of Arabia,True
+26,1962,1963,35,ART DIRECTION (Color),Art Direction:  Paul Groesse;  Set Decoration:  George James Hopkins,Meredith Willson's The Music Man,False
+27,1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, J. McMillan Johnson;  Set Decoration:  Henry Grace, Hugh Hunt",Mutiny on the Bounty,False
+28,1962,1963,35,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Robert Clatworthy;  Set Decoration:  George Milo",That Touch of Mink,False
+29,1962,1963,35,ART DIRECTION (Color),"Art Direction:  George W. Davis, Edward Carfagno;  Set Decoration:  Henry Grace, Dick Pefferle",The Wonderful World of the Brothers Grimm,False
+30,1962,1963,35,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,Birdman of Alcatraz,False
+31,1962,1963,35,CINEMATOGRAPHY (Black-and-White),"Jean Bourgoin, Walter Wottitz, (Henri Persin)",The Longest Day,True
+32,1962,1963,35,CINEMATOGRAPHY (Black-and-White),Russell Harlan,To Kill a Mockingbird,False
+33,1962,1963,35,CINEMATOGRAPHY (Black-and-White),Ted McCord,Two for the Seesaw,False
+34,1962,1963,35,CINEMATOGRAPHY (Black-and-White),Ernest Haller,What Ever Happened to Baby Jane?,False
+35,1962,1963,35,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",Gypsy,False
+36,1962,1963,35,CINEMATOGRAPHY (Color),Russell Harlan,Hatari!,False
+37,1962,1963,35,CINEMATOGRAPHY (Color),Fred A. Young,Lawrence of Arabia,True
+38,1962,1963,35,CINEMATOGRAPHY (Color),Robert L. Surtees,Mutiny on the Bounty,False
+39,1962,1963,35,CINEMATOGRAPHY (Color),Paul C. Vogel,The Wonderful World of the Brothers Grimm,False
+40,1962,1963,35,COSTUME DESIGN (Black-and-White),Don Feld,Days of Wine and Roses,False
+41,1962,1963,35,COSTUME DESIGN (Black-and-White),Edith Head,The Man Who Shot Liberty Valance,False
+42,1962,1963,35,COSTUME DESIGN (Black-and-White),Ruth Morley,The Miracle Worker,False
+43,1962,1963,35,COSTUME DESIGN (Black-and-White),Denny Vachlioti,Phaedra,False
+44,1962,1963,35,COSTUME DESIGN (Black-and-White),Norma Koch,What Ever Happened to Baby Jane?,True
+45,1962,1963,35,COSTUME DESIGN (Color),Bill Thomas,Bon Voyage!,False
+46,1962,1963,35,COSTUME DESIGN (Color),Orry-Kelly,Gypsy,False
+47,1962,1963,35,COSTUME DESIGN (Color),Dorothy Jeakins,Meredith Willson's The Music Man,False
+48,1962,1963,35,COSTUME DESIGN (Color),Edith Head,My Geisha,False
+49,1962,1963,35,COSTUME DESIGN (Color),Mary Wills,The Wonderful World of the Brothers Grimm,True
+50,1962,1963,35,DIRECTING,Frank Perry,David and Lisa,False
+51,1962,1963,35,DIRECTING,Pietro Germi,Divorce--Italian Style,False
+52,1962,1963,35,DIRECTING,David Lean,Lawrence of Arabia,True
+53,1962,1963,35,DIRECTING,Arthur Penn,The Miracle Worker,False
+54,1962,1963,35,DIRECTING,Robert Mulligan,To Kill a Mockingbird,False
+55,1962,1963,35,DOCUMENTARY (Feature),"Hugo Niebeling, Producer",Alvorada (Brazil's Changing Face),False
+56,1962,1963,35,DOCUMENTARY (Feature),"Louis Clyde Stoumen, Producer",Black Fox,True
+57,1962,1963,35,DOCUMENTARY (Short Subject),"Jack Howells, Producer",Dylan Thomas,True
+58,1962,1963,35,DOCUMENTARY (Short Subject),"William L. Hendricks, Producer",The John Glenn Story,False
+59,1962,1963,35,DOCUMENTARY (Short Subject),"Robert Saudek, Producer",The Road to the Wall,False
+60,1962,1963,35,FILM EDITING,Anne Coates,Lawrence of Arabia,True
+61,1962,1963,35,FILM EDITING,Samuel E. Beetley,The Longest Day,False
+62,1962,1963,35,FILM EDITING,Ferris Webster,The Manchurian Candidate,False
+63,1962,1963,35,FILM EDITING,William Ziegler,Meredith Willson's The Music Man,False
+64,1962,1963,35,FILM EDITING,"John McSweeney, Jr.",Mutiny on the Bounty,False
+65,1962,1963,35,FOREIGN LANGUAGE FILM,Greece,Electra,False
+66,1962,1963,35,FOREIGN LANGUAGE FILM,Italy,The Four Days of Naples,False
+67,1962,1963,35,FOREIGN LANGUAGE FILM,Brazil,Keeper of Promises (The Given Word),False
+68,1962,1963,35,FOREIGN LANGUAGE FILM,France,Sundays and Cybele,True
+69,1962,1963,35,FOREIGN LANGUAGE FILM,Mexico,Tlayucan,False
+70,1962,1963,35,MUSIC (Music Score--substantially original),Jerry Goldsmith,Freud,False
+71,1962,1963,35,MUSIC (Music Score--substantially original),Maurice Jarre,Lawrence of Arabia,True
+72,1962,1963,35,MUSIC (Music Score--substantially original),Bronislau Kaper,Mutiny on the Bounty,False
+73,1962,1963,35,MUSIC (Music Score--substantially original),Franz Waxman,Taras Bulba,False
+74,1962,1963,35,MUSIC (Music Score--substantially original),Elmer Bernstein,To Kill a Mockingbird,False
+75,1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),George Stoll,Billy Rose's Jumbo,False
+76,1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Michel Magne,Gigot,False
+77,1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Frank Perkins,Gypsy,False
+78,1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Ray Heindorf,Meredith Willson's The Music Man,True
+79,1962,1963,35,MUSIC (Scoring of Music--adaptation or treatment),Leigh Harline,The Wonderful World of the Brothers Grimm,False
+80,1962,1963,35,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Days of Wine and Roses,True
+81,1962,1963,35,MUSIC (Song),Music by Bronislau Kaper; Lyrics by Paul Francis Webster,Mutiny on the Bounty,False
+82,1962,1963,35,MUSIC (Song),Music by Andre Previn; Lyrics by Dory Langdon,Two for the Seesaw,False
+83,1962,1963,35,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Tender Is the Night,False
+84,1962,1963,35,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Walk on the Wild Side,False
+85,1962,1963,35,BEST PICTURE,"Sam Spiegel, Producer",Lawrence of Arabia,True
+86,1962,1963,35,BEST PICTURE,"Darryl F. Zanuck, Producer",The Longest Day,False
+87,1962,1963,35,BEST PICTURE,"Morton Da Costa, Producer",Meredith Willson's The Music Man,False
+88,1962,1963,35,BEST PICTURE,"Aaron Rosenberg, Producer",Mutiny on the Bounty,False
+89,1962,1963,35,BEST PICTURE,"Alan J. Pakula, Producer",To Kill a Mockingbird,False
+90,1962,1963,35,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",The Hole,True
+91,1962,1963,35,SHORT SUBJECT (Cartoon),"Jules Engel, Producer",Icarus Montgolfier Wright,False
+92,1962,1963,35,SHORT SUBJECT (Cartoon),Warner Bros.,Now Hear This,False
+93,1962,1963,35,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Self Defense--For Cowards,False
+94,1962,1963,35,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Symposium on Popular Songs,False
+95,1962,1963,35,SHORT SUBJECT (Live Action),"Martina Huguenot van der Linden and Charles Huguenot van der Linden, Producers",Big City Blues,False
+96,1962,1963,35,SHORT SUBJECT (Live Action),"Robert Clouse, Producer",The Cadillac,False
+97,1962,1963,35,SHORT SUBJECT (Live Action),"Hayward Anderson, Producer",The Cliff Dwellers (formerly titled 'One Plus One'),False
+98,1962,1963,35,SHORT SUBJECT (Live Action),"Pierre Etaix and J.C. Carrière, Producers",Heureux Anniversaire (Happy Anniversary),True
+99,1962,1963,35,SHORT SUBJECT (Live Action),"Herman van der Horst, Producer",Pan,False
+100,1962,1963,35,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Bon Voyage!,False
+101,1962,1963,35,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Lawrence of Arabia,True
+102,1962,1963,35,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Meredith Willson's The Music Man,False
+103,1962,1963,35,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",That Touch of Mink,False
+104,1962,1963,35,SOUND,"Glen Glenn Sound Department, Joseph Kelly, Sound Director",What Ever Happened to Baby Jane?,False
+105,1962,1963,35,SPECIAL EFFECTS,Visual Effects by Robert MacDonald; Audible Effects by Jacques Maumont,The Longest Day,True
+106,1962,1963,35,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Milo Lory,Mutiny on the Bounty,False
+107,1962,1963,35,WRITING (Screenplay--based on material from another medium),Eleanor Perry,David and Lisa,False
+108,1962,1963,35,WRITING (Screenplay--based on material from another medium),"Robert Bolt, Michael Wilson",Lawrence of Arabia,False
+109,1962,1963,35,WRITING (Screenplay--based on material from another medium),Vladimir Nabokov,Lolita,False
+110,1962,1963,35,WRITING (Screenplay--based on material from another medium),William Gibson,The Miracle Worker,False
+111,1962,1963,35,WRITING (Screenplay--based on material from another medium),Horton Foote,To Kill a Mockingbird,True
+112,1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Ennio de Concini, Alfredo Giannetti, Pietro Germi",Divorce--Italian Style,True
+113,1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Story by Charles Kaufman;  Screenplay by Charles Kaufman, Wolfgang Reinhardt",Freud,False
+114,1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),Alain Robbe-Grillet,Last Year at Marienbad,False
+115,1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Nate Monaster",That Touch of Mink,False
+116,1962,1963,35,WRITING (Story and Screenplay--written directly for the screen),Ingmar Bergman,Through a Glass Darkly,False
+117,1962,1963,35,JEAN HERSHOLT HUMANITARIAN AWARD,Steve Broidy,,True

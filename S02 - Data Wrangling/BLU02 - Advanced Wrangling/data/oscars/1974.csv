@@ -1,0 +1,104 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1973,1974,46,ACTOR,Marlon Brando,Last Tango in Paris,False
+1,1973,1974,46,ACTOR,Jack Lemmon,Save the Tiger,True
+2,1973,1974,46,ACTOR,Jack Nicholson,The Last Detail,False
+3,1973,1974,46,ACTOR,Al Pacino,Serpico,False
+4,1973,1974,46,ACTOR,Robert Redford,The Sting,False
+5,1973,1974,46,ACTOR IN A SUPPORTING ROLE,Vincent Gardenia,Bang the Drum Slowly,False
+6,1973,1974,46,ACTOR IN A SUPPORTING ROLE,Jack Gilford,Save the Tiger,False
+7,1973,1974,46,ACTOR IN A SUPPORTING ROLE,John Houseman,The Paper Chase,True
+8,1973,1974,46,ACTOR IN A SUPPORTING ROLE,Jason Miller,The Exorcist,False
+9,1973,1974,46,ACTOR IN A SUPPORTING ROLE,Randy Quaid,The Last Detail,False
+10,1973,1974,46,ACTRESS,Ellen Burstyn,The Exorcist,False
+11,1973,1974,46,ACTRESS,Glenda Jackson,A Touch of Class,True
+12,1973,1974,46,ACTRESS,Marsha Mason,Cinderella Liberty,False
+13,1973,1974,46,ACTRESS,Barbra Streisand,The Way We Were,False
+14,1973,1974,46,ACTRESS,Joanne Woodward,"Summer Wishes, Winter Dreams",False
+15,1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Linda Blair,The Exorcist,False
+16,1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Candy Clark,American Graffiti,False
+17,1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Madeline Kahn,Paper Moon,False
+18,1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Tatum O'Neal,Paper Moon,True
+19,1973,1974,46,ACTRESS IN A SUPPORTING ROLE,Sylvia Sidney,"Summer Wishes, Winter Dreams",False
+20,1973,1974,46,ART DIRECTION,"Art Direction:  Lorenzo Mongiardino, Gianni Quaranta;  Set Decoration:  Carmelo Patrono",Brother Sun Sister Moon,False
+21,1973,1974,46,ART DIRECTION,Art Direction:  Bill Malley;  Set Decoration:  Jerry Wunderlich,The Exorcist,False
+22,1973,1974,46,ART DIRECTION,Art Direction:  Henry Bumstead;  Set Decoration:  James Payne,The Sting,True
+23,1973,1974,46,ART DIRECTION,Art Direction:  Philip Jefferies;  Set Decoration:  Robert de Vestel,Tom Sawyer,False
+24,1973,1974,46,ART DIRECTION,Art Direction:  Stephen Grimes;  Set Decoration:  William Kiernan,The Way We Were,False
+25,1973,1974,46,CINEMATOGRAPHY,Sven Nykvist,Cries and Whispers,True
+26,1973,1974,46,CINEMATOGRAPHY,Owen Roizman,The Exorcist,False
+27,1973,1974,46,CINEMATOGRAPHY,Jack Couffer,Jonathan Livingston Seagull,False
+28,1973,1974,46,CINEMATOGRAPHY,Robert Surtees,The Sting,False
+29,1973,1974,46,CINEMATOGRAPHY,"Harry Stradling, Jr.",The Way We Were,False
+30,1973,1974,46,COSTUME DESIGN,Marik Vos,Cries and Whispers,False
+31,1973,1974,46,COSTUME DESIGN,Piero Tosi,Ludwig,False
+32,1973,1974,46,COSTUME DESIGN,Edith Head,The Sting,True
+33,1973,1974,46,COSTUME DESIGN,Donfeld,Tom Sawyer,False
+34,1973,1974,46,COSTUME DESIGN,"Dorothy Jeakins, Moss Mabry",The Way We Were,False
+35,1973,1974,46,DIRECTING,George Lucas,American Graffiti,False
+36,1973,1974,46,DIRECTING,Ingmar Bergman,Cries and Whispers,False
+37,1973,1974,46,DIRECTING,William Friedkin,The Exorcist,False
+38,1973,1974,46,DIRECTING,Bernardo Bertolucci,Last Tango in Paris,False
+39,1973,1974,46,DIRECTING,George Roy Hill,The Sting,True
+40,1973,1974,46,DOCUMENTARY (Feature),"John D. Goodell, Producer",Always a New Beginning,False
+41,1973,1974,46,DOCUMENTARY (Feature),"Bengt von zur Muehlen, Producer",Battle of Berlin,False
+42,1973,1974,46,DOCUMENTARY (Feature),"Kieth Merrill, Producer",The Great American Cowboy,True
+43,1973,1974,46,DOCUMENTARY (Feature),"Alex Grasshoff, Producer",Journey to the Outer Limits,False
+44,1973,1974,46,DOCUMENTARY (Feature),"Gertrude Ross Marks and Edmund F. Penney, Producers",Walls of Fire,False
+45,1973,1974,46,DOCUMENTARY (Short Subject),"Carmen D'Avino, Producer",Background,False
+46,1973,1974,46,DOCUMENTARY (Short Subject),"Louis Marcus, Producer",Children at Work (Paisti Ag Obair),False
+47,1973,1974,46,DOCUMENTARY (Short Subject),"Albert Maysles and David Maysles, Producers",Christo's Valley Curtain,False
+48,1973,1974,46,DOCUMENTARY (Short Subject),"Terry Sanders and June Wayne, Producers",Four Stones for Kanemitsu,False
+49,1973,1974,46,DOCUMENTARY (Short Subject),"Julian Krainin and DeWitt L. Sage, Jr., Producers",Princeton: A Search for Answers,True
+50,1973,1974,46,FILM EDITING,"Verna Fields, Marcia Lucas",American Graffiti,False
+51,1973,1974,46,FILM EDITING,Ralph Kemplen,The Day of the Jackal,False
+52,1973,1974,46,FILM EDITING,"Jordan Leondopoulos, Bud Smith, Evan Lottman, Norman Gay",The Exorcist,False
+53,1973,1974,46,FILM EDITING,"Frank P. Keller, James Galloway",Jonathan Livingston Seagull,False
+54,1973,1974,46,FILM EDITING,William Reynolds,The Sting,True
+55,1973,1974,46,FOREIGN LANGUAGE FILM,France,Day for Night,True
+56,1973,1974,46,FOREIGN LANGUAGE FILM,Israel,The House on Chelouche Street,False
+57,1973,1974,46,FOREIGN LANGUAGE FILM,Switzerland,L'Invitation,False
+58,1973,1974,46,FOREIGN LANGUAGE FILM,West Germany,The Pedestrian,False
+59,1973,1974,46,FOREIGN LANGUAGE FILM,The Netherlands,Turkish Delight,False
+60,1973,1974,46,MUSIC (Original Dramatic Score),John Williams,Cinderella Liberty,False
+61,1973,1974,46,MUSIC (Original Dramatic Score),Georges Delerue,The Day of the Dolphin,False
+62,1973,1974,46,MUSIC (Original Dramatic Score),Jerry Goldsmith,Papillon,False
+63,1973,1974,46,MUSIC (Original Dramatic Score),John Cameron,A Touch of Class,False
+64,1973,1974,46,MUSIC (Original Dramatic Score),Marvin Hamlisch,The Way We Were,True
+65,1973,1974,46,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),"Adaptation Score by Andre Previn, Herbert Spencer and Andrew Lloyd Webber",Jesus Christ Superstar,False
+66,1973,1974,46,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Marvin Hamlisch,The Sting,True
+67,1973,1974,46,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by John Williams,Tom Sawyer,False
+68,1973,1974,46,MUSIC (Song),Music by George Barrie; Lyrics by Sammy Cahn,A Touch of Class,False
+69,1973,1974,46,MUSIC (Song),Music and Lyrics by Paul McCartney and Linda McCartney,Live and Let Die,False
+70,1973,1974,46,MUSIC (Song),Music by George Bruns; Lyrics by Floyd Huddleston,Robin Hood,False
+71,1973,1974,46,MUSIC (Song),Music by John Williams; Lyrics by Paul Williams,Cinderella Liberty,False
+72,1973,1974,46,MUSIC (Song),Music by Marvin Hamlisch; Lyrics by Alan Bergman and Marilyn Bergman,The Way We Were,True
+73,1973,1974,46,BEST PICTURE,"Francis Ford Coppola, Producer;  Gary Kurtz, Co-Producer",American Graffiti,False
+74,1973,1974,46,BEST PICTURE,"Ingmar Bergman, Producer",Cries and Whispers,False
+75,1973,1974,46,BEST PICTURE,"William Peter Blatty, Producer",The Exorcist,False
+76,1973,1974,46,BEST PICTURE,"Tony Bill, Michael Phillips and Julia Phillips, Producers",The Sting,True
+77,1973,1974,46,BEST PICTURE,"Melvin Frank, Producer",A Touch of Class,False
+78,1973,1974,46,SHORT SUBJECT (Animated),"Frank Mouris, Producer",Frank Film,True
+79,1973,1974,46,SHORT SUBJECT (Animated),"Nick Bosustow and David Adams, Producers",The Legend of John Henry,False
+80,1973,1974,46,SHORT SUBJECT (Animated),"Emanuele Luzzati and Giulio Gianini, Producers",Pulcinella,False
+81,1973,1974,46,SHORT SUBJECT (Live Action),"Allan Miller and William Fertik, Producers",The Bolero,True
+82,1973,1974,46,SHORT SUBJECT (Live Action),"Richard Gayer, Producer",Clockmaker,False
+83,1973,1974,46,SHORT SUBJECT (Live Action),"Pen Densham and John Watson, Producers",Life Times Nine,False
+84,1973,1974,46,SOUND,"Richard Portman, Lawrence O. Jost",The Day of the Dolphin,False
+85,1973,1974,46,SOUND,"Robert Knudson, Chris Newman",The Exorcist,True
+86,1973,1974,46,SOUND,"Donald O. Mitchell, Lawrence O. Jost",The Paper Chase,False
+87,1973,1974,46,SOUND,"Richard Portman, Les Fresholtz",Paper Moon,False
+88,1973,1974,46,SOUND,"Ronald K. Pierce, Robert Bertrand",The Sting,False
+89,1973,1974,46,WRITING (Screenplay--based on material from another medium),William Peter Blatty,The Exorcist,True
+90,1973,1974,46,WRITING (Screenplay--based on material from another medium),Robert Towne,The Last Detail,False
+91,1973,1974,46,WRITING (Screenplay--based on material from another medium),James Bridges,The Paper Chase,False
+92,1973,1974,46,WRITING (Screenplay--based on material from another medium),Alvin Sargent,Paper Moon,False
+93,1973,1974,46,WRITING (Screenplay--based on material from another medium),"Waldo Salt, Norman Wexler",Serpico,False
+94,1973,1974,46,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),"George Lucas, Gloria Katz, Willard Huyck",American Graffiti,False
+95,1973,1974,46,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Ingmar Bergman,Cries and Whispers,False
+96,1973,1974,46,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Steve Shagan,Save the Tiger,False
+97,1973,1974,46,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),David S. Ward,The Sting,True
+98,1973,1974,46,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),"Melvin Frank, Jack Rose",A Touch of Class,False
+99,1973,1974,46,JEAN HERSHOLT HUMANITARIAN AWARD,Lew Wasserman,,True
+100,1973,1974,46,HONORARY AWARD, Henri Langlois for his devotion to the art of film,,True
+101,1973,1974,46,HONORARY AWARD, Groucho Marx in recognition of his brilliant creativity and for the unequalled achievements of the Marx Brothers in the art of motion picture comedy.,,True
+102,1973,1974,46,IRVING G. THALBERG MEMORIAL AWARD,Lawrence Weingarten,,True

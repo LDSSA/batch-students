@@ -1,0 +1,125 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2015,2016,88,ACTOR IN A LEADING ROLE,Bryan Cranston,Trumbo,False
+1,2015,2016,88,ACTOR IN A LEADING ROLE,Matt Damon,The Martian,False
+2,2015,2016,88,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,True
+3,2015,2016,88,ACTOR IN A LEADING ROLE,Michael Fassbender,Steve Jobs,False
+4,2015,2016,88,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Danish Girl,False
+5,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Big Short,False
+6,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Tom Hardy,The Revenant,False
+7,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Spotlight,False
+8,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,True
+9,2015,2016,88,ACTOR IN A SUPPORTING ROLE,Sylvester Stallone,Creed,False
+10,2015,2016,88,ACTRESS IN A LEADING ROLE,Cate Blanchett,Carol,False
+11,2015,2016,88,ACTRESS IN A LEADING ROLE,Brie Larson,Room,True
+12,2015,2016,88,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Joy,False
+13,2015,2016,88,ACTRESS IN A LEADING ROLE,Charlotte Rampling,45 Years,False
+14,2015,2016,88,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Brooklyn,False
+15,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Jennifer Jason Leigh,The Hateful Eight,False
+16,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Rooney Mara,Carol,False
+17,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Rachel McAdams,Spotlight,False
+18,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,True
+19,2015,2016,88,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Steve Jobs,False
+20,2015,2016,88,ANIMATED FEATURE FILM,"Charlie Kaufman, Duke Johnson and Rosa Tran",Anomalisa,False
+21,2015,2016,88,ANIMATED FEATURE FILM,Alê Abreu,Boy and the World,False
+22,2015,2016,88,ANIMATED FEATURE FILM,Pete Docter and Jonas Rivera,Inside Out,True
+23,2015,2016,88,ANIMATED FEATURE FILM,Mark Burton and Richard Starzak,Shaun the Sheep Movie,False
+24,2015,2016,88,ANIMATED FEATURE FILM,Hiromasa Yonebayashi and Yoshiaki Nishimura,When Marnie Was There,False
+25,2015,2016,88,CINEMATOGRAPHY,Ed Lachman,Carol,False
+26,2015,2016,88,CINEMATOGRAPHY,Robert Richardson,The Hateful Eight,False
+27,2015,2016,88,CINEMATOGRAPHY,John Seale,Mad Max: Fury Road,False
+28,2015,2016,88,CINEMATOGRAPHY,Emmanuel Lubezki,The Revenant,True
+29,2015,2016,88,CINEMATOGRAPHY,Roger Deakins,Sicario,False
+30,2015,2016,88,COSTUME DESIGN,Sandy Powell,Carol,False
+31,2015,2016,88,COSTUME DESIGN,Sandy Powell,Cinderella,False
+32,2015,2016,88,COSTUME DESIGN,Paco Delgado,The Danish Girl,False
+33,2015,2016,88,COSTUME DESIGN,Jenny Beavan,Mad Max: Fury Road,True
+34,2015,2016,88,COSTUME DESIGN,Jacqueline West,The Revenant,False
+35,2015,2016,88,DIRECTING,Adam McKay,The Big Short,False
+36,2015,2016,88,DIRECTING,George Miller,Mad Max: Fury Road,False
+37,2015,2016,88,DIRECTING,Alejandro G. Iñárritu,The Revenant,True
+38,2015,2016,88,DIRECTING,Lenny Abrahamson,Room,False
+39,2015,2016,88,DIRECTING,Tom McCarthy,Spotlight,False
+40,2015,2016,88,DOCUMENTARY (Feature),Asif Kapadia and James Gay-Rees,Amy,True
+41,2015,2016,88,DOCUMENTARY (Feature),Matthew Heineman and Tom Yellin,Cartel Land,False
+42,2015,2016,88,DOCUMENTARY (Feature),Joshua Oppenheimer and Signe Byrge Sørensen,The Look of Silence,False
+43,2015,2016,88,DOCUMENTARY (Feature),"Liz Garbus, Amy Hobby and Justin Wilkes","What Happened, Miss Simone?",False
+44,2015,2016,88,DOCUMENTARY (Feature),Evgeny Afineevsky and Den Tolmor,Winter on Fire: Ukraine's Fight for Freedom,False
+45,2015,2016,88,DOCUMENTARY (Short Subject),David Darg and Bryn Mooser,Body Team 12,False
+46,2015,2016,88,DOCUMENTARY (Short Subject),Courtney Marsh and Jerry Franck,"Chau, beyond the Lines",False
+47,2015,2016,88,DOCUMENTARY (Short Subject),Adam Benzine,Claude Lanzmann: Spectres of the Shoah,False
+48,2015,2016,88,DOCUMENTARY (Short Subject),Sharmeen Obaid-Chinoy,A Girl in the River: The Price of Forgiveness,True
+49,2015,2016,88,DOCUMENTARY (Short Subject),Dee Hibbert-Jones and Nomi Talisman,Last Day of Freedom,False
+50,2015,2016,88,FILM EDITING,Hank Corwin,The Big Short,False
+51,2015,2016,88,FILM EDITING,Margaret Sixel,Mad Max: Fury Road,True
+52,2015,2016,88,FILM EDITING,Stephen Mirrione,The Revenant,False
+53,2015,2016,88,FILM EDITING,Tom McArdle,Spotlight,False
+54,2015,2016,88,FILM EDITING,Maryann Brandon and Mary Jo Markey,Star Wars: The Force Awakens,False
+55,2015,2016,88,FOREIGN LANGUAGE FILM,Colombia,Embrace of the Serpent,False
+56,2015,2016,88,FOREIGN LANGUAGE FILM,France,Mustang,False
+57,2015,2016,88,FOREIGN LANGUAGE FILM,Hungary,Son of Saul,True
+58,2015,2016,88,FOREIGN LANGUAGE FILM,Jordan,Theeb,False
+59,2015,2016,88,FOREIGN LANGUAGE FILM,Denmark,A War,False
+60,2015,2016,88,MAKEUP AND HAIRSTYLING,"Lesley Vanderwalt, Elka Wardega and Damian Martin",Mad Max: Fury Road,True
+61,2015,2016,88,MAKEUP AND HAIRSTYLING,Love Larson and Eva von Bahr,The 100-Year-Old Man Who Climbed out the Window and Disappeared,False
+62,2015,2016,88,MAKEUP AND HAIRSTYLING,"Siân Grigg, Duncan Jarman and Robert Pandini",The Revenant,False
+63,2015,2016,88,MUSIC (Original Score),Thomas Newman,Bridge of Spies,False
+64,2015,2016,88,MUSIC (Original Score),Carter Burwell,Carol,False
+65,2015,2016,88,MUSIC (Original Score),Ennio Morricone,The Hateful Eight,True
+66,2015,2016,88,MUSIC (Original Score),Jóhann Jóhannsson,Sicario,False
+67,2015,2016,88,MUSIC (Original Score),John Williams,Star Wars: The Force Awakens,False
+68,2015,2016,88,MUSIC (Original Song),"Music and Lyric by The Weeknd, Ahmad Balshe, Jason Quenneville and Stephan Moccio",Fifty Shades of Grey,False
+69,2015,2016,88,MUSIC (Original Song),Music by J. Ralph; Lyric by Anohni,Racing Extinction,False
+70,2015,2016,88,MUSIC (Original Song),Music and Lyric by David Lang,Youth,False
+71,2015,2016,88,MUSIC (Original Song),Music and Lyric by Diane Warren and Lady Gaga,The Hunting Ground,False
+72,2015,2016,88,MUSIC (Original Song),Music and Lyric by Jimmy Napes and Sam Smith,Spectre,True
+73,2015,2016,88,BEST PICTURE,"Brad Pitt, Dede Gardner and Jeremy Kleiner, Producers",The Big Short,False
+74,2015,2016,88,BEST PICTURE,"Steven Spielberg, Marc Platt and Kristie Macosko Krieger, Producers",Bridge of Spies,False
+75,2015,2016,88,BEST PICTURE,"Finola Dwyer and Amanda Posey, Producers",Brooklyn,False
+76,2015,2016,88,BEST PICTURE,"Doug Mitchell and George Miller, Producers",Mad Max: Fury Road,False
+77,2015,2016,88,BEST PICTURE,"Simon Kinberg, Ridley Scott, Michael Schaefer and Mark Huffam, Producers",The Martian,False
+78,2015,2016,88,BEST PICTURE,"Arnon Milchan, Steve Golin, Alejandro G. Iñárritu, Mary Parent and Keith Redmon, Producers",The Revenant,False
+79,2015,2016,88,BEST PICTURE,"Ed Guiney, Producer",Room,False
+80,2015,2016,88,BEST PICTURE,"Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers",Spotlight,True
+81,2015,2016,88,PRODUCTION DESIGN,Production Design: Adam Stockhausen; Set Decoration: Rena DeAngelo and Bernhard Henrich,Bridge of Spies,False
+82,2015,2016,88,PRODUCTION DESIGN,Production Design: Eve Stewart; Set Decoration: Michael Standish,The Danish Girl,False
+83,2015,2016,88,PRODUCTION DESIGN,Production Design: Colin Gibson; Set Decoration: Lisa Thompson,Mad Max: Fury Road,True
+84,2015,2016,88,PRODUCTION DESIGN,Production Design: Arthur Max; Set Decoration: Celia Bobak,The Martian,False
+85,2015,2016,88,PRODUCTION DESIGN,Production Design: Jack Fisk; Set Decoration: Hamish Purdy,The Revenant,False
+86,2015,2016,88,SHORT FILM (Animated),Gabriel Osorio and Pato Escala,Bear Story,True
+87,2015,2016,88,SHORT FILM (Animated),Richard Williams and Imogen Sutton,Prologue,False
+88,2015,2016,88,SHORT FILM (Animated),Sanjay Patel and Nicole Grindle,Sanjay's Super Team,False
+89,2015,2016,88,SHORT FILM (Animated),Konstantin Bronzit,We Can't Live without Cosmos,False
+90,2015,2016,88,SHORT FILM (Animated),Don Hertzfeldt,World of Tomorrow,False
+91,2015,2016,88,SHORT FILM (Live Action),Basil Khalil and Eric Dupont,Ave Maria,False
+92,2015,2016,88,SHORT FILM (Live Action),Henry Hughes,Day One,False
+93,2015,2016,88,SHORT FILM (Live Action),Patrick Vollrath,Everything Will Be Okay (Alles Wird Gut),False
+94,2015,2016,88,SHORT FILM (Live Action),Jamie Donoughue,Shok,False
+95,2015,2016,88,SHORT FILM (Live Action),Benjamin Cleary and Serena Armitage,Stutterer,True
+96,2015,2016,88,SOUND EDITING,Mark Mangini and David White,Mad Max: Fury Road,True
+97,2015,2016,88,SOUND EDITING,Oliver Tarney,The Martian,False
+98,2015,2016,88,SOUND EDITING,Martin Hernandez and Lon Bender,The Revenant,False
+99,2015,2016,88,SOUND EDITING,Alan Robert Murray,Sicario,False
+100,2015,2016,88,SOUND EDITING,Matthew Wood and David Acord,Star Wars: The Force Awakens,False
+101,2015,2016,88,SOUND MIXING,"Andy Nelson, Gary Rydstrom and Drew Kunin",Bridge of Spies,False
+102,2015,2016,88,SOUND MIXING,"Chris Jenkins, Gregg Rudloff and Ben Osmo",Mad Max: Fury Road,True
+103,2015,2016,88,SOUND MIXING,"Paul Massey, Mark Taylor and Mac Ruth",The Martian,False
+104,2015,2016,88,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Randy Thom and Chris Duesterdiek",The Revenant,False
+105,2015,2016,88,SOUND MIXING,"Andy Nelson, Christopher Scarabosio and Stuart Wilson",Star Wars: The Force Awakens,False
+106,2015,2016,88,VISUAL EFFECTS,"Andrew Whitehurst, Paul Norris, Mark Ardington and Sara Bennett",Ex Machina,True
+107,2015,2016,88,VISUAL EFFECTS,"Andrew Jackson, Tom Wood, Dan Oliver and Andy Williams",Mad Max: Fury Road,False
+108,2015,2016,88,VISUAL EFFECTS,"Richard Stammers, Anders Langlands, Chris Lawrence and Steven Warner",The Martian,False
+109,2015,2016,88,VISUAL EFFECTS,"Rich McBride, Matthew Shumway, Jason Smith and Cameron Waldbauer",The Revenant,False
+110,2015,2016,88,VISUAL EFFECTS,"Roger Guyett, Patrick Tubach, Neal Scanlan and Chris Corbould",Star Wars: The Force Awakens,False
+111,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Charles Randolph and Adam McKay,The Big Short,True
+112,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Nick Hornby,Brooklyn,False
+113,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Phyllis Nagy,Carol,False
+114,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Drew Goddard,The Martian,False
+115,2015,2016,88,WRITING (Adapted Screenplay),Screenplay by Emma Donoghue,Room,False
+116,2015,2016,88,WRITING (Original Screenplay),Written by Matt Charman and Ethan Coen & Joel Coen,Bridge of Spies,False
+117,2015,2016,88,WRITING (Original Screenplay),Written by Alex Garland,Ex Machina,False
+118,2015,2016,88,WRITING (Original Screenplay),"Screenplay by Pete Docter, Meg LeFauve, Josh Cooley; Original story by Pete Docter, Ronnie del Carmen",Inside Out,False
+119,2015,2016,88,WRITING (Original Screenplay),Written by Josh Singer & Tom McCarthy,Spotlight,True
+120,2015,2016,88,WRITING (Original Screenplay),Screenplay by Jonathan Herman and Andrea Berloff; Story by S. Leigh Savidge & Alan Wenkus and Andrea Berloff,Straight Outta Compton,False
+121,2015,2016,88,JEAN HERSHOLT HUMANITARIAN AWARD,Debbie Reynolds,,True
+122,2015,2016,88,HONORARY AWARD, Spike Lee,,True
+123,2015,2016,88,HONORARY AWARD, Gena Rowlands,,True

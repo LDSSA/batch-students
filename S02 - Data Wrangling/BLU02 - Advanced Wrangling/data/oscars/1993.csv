@@ -1,0 +1,113 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1992,1993,65,ACTOR IN A LEADING ROLE,Robert Downey Jr.,Chaplin,False
+1,1992,1993,65,ACTOR IN A LEADING ROLE,Clint Eastwood,Unforgiven,False
+2,1992,1993,65,ACTOR IN A LEADING ROLE,Al Pacino,Scent of a Woman,True
+3,1992,1993,65,ACTOR IN A LEADING ROLE,Stephen Rea,The Crying Game,False
+4,1992,1993,65,ACTOR IN A LEADING ROLE,Denzel Washington,Malcolm X,False
+5,1992,1993,65,ACTOR IN A SUPPORTING ROLE,Jaye Davidson,The Crying Game,False
+6,1992,1993,65,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Unforgiven,True
+7,1992,1993,65,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,A Few Good Men,False
+8,1992,1993,65,ACTOR IN A SUPPORTING ROLE,Al Pacino,Glengarry Glen Ross,False
+9,1992,1993,65,ACTOR IN A SUPPORTING ROLE,David Paymer,Mr. Saturday Night,False
+10,1992,1993,65,ACTRESS IN A LEADING ROLE,Catherine Deneuve,Indochine,False
+11,1992,1993,65,ACTRESS IN A LEADING ROLE,Mary McDonnell,Passion Fish,False
+12,1992,1993,65,ACTRESS IN A LEADING ROLE,Michelle Pfeiffer,Love Field,False
+13,1992,1993,65,ACTRESS IN A LEADING ROLE,Susan Sarandon,Lorenzo's Oil,False
+14,1992,1993,65,ACTRESS IN A LEADING ROLE,Emma Thompson,Howards End,True
+15,1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Judy Davis,Husbands and Wives,False
+16,1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Joan Plowright,Enchanted April,False
+17,1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Howards End,False
+18,1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Miranda Richardson,Damage,False
+19,1992,1993,65,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,My Cousin Vinny,True
+20,1992,1993,65,ART DIRECTION,Art Direction:  Thomas Sanders;  Set Decoration:  Garrett Lewis,Bram Stoker's Dracula,False
+21,1992,1993,65,ART DIRECTION,Art Direction:  Stuart Craig;  Set Decoration:  Chris A. Butler,Chaplin,False
+22,1992,1993,65,ART DIRECTION,Art Direction:  Luciana Arrighi;  Set Decoration:  Ian Whittaker,Howards End,True
+23,1992,1993,65,ART DIRECTION,Art Direction:  Ferdinando Scarfiotti;  Set Decoration:  Linda DeScenna,Toys,False
+24,1992,1993,65,ART DIRECTION,Art Direction:  Henry Bumstead;  Set Decoration:  Janice Blackie-Goodine,Unforgiven,False
+25,1992,1993,65,CINEMATOGRAPHY,Stephen H. Burum,Hoffa,False
+26,1992,1993,65,CINEMATOGRAPHY,Tony Pierce-Roberts,Howards End,False
+27,1992,1993,65,CINEMATOGRAPHY,Robert Fraisse,The Lover,False
+28,1992,1993,65,CINEMATOGRAPHY,Philippe Rousselot,A River Runs through It,True
+29,1992,1993,65,CINEMATOGRAPHY,Jack N. Green,Unforgiven,False
+30,1992,1993,65,COSTUME DESIGN,Eiko Ishioka,Bram Stoker's Dracula,True
+31,1992,1993,65,COSTUME DESIGN,Sheena Napier,Enchanted April,False
+32,1992,1993,65,COSTUME DESIGN,"Jenny Beavan, John Bright",Howards End,False
+33,1992,1993,65,COSTUME DESIGN,Ruth Carter,Malcolm X,False
+34,1992,1993,65,COSTUME DESIGN,Albert Wolsky,Toys,False
+35,1992,1993,65,DIRECTING,Neil Jordan,The Crying Game,False
+36,1992,1993,65,DIRECTING,James Ivory,Howards End,False
+37,1992,1993,65,DIRECTING,Robert Altman,The Player,False
+38,1992,1993,65,DIRECTING,Martin Brest,Scent of a Woman,False
+39,1992,1993,65,DIRECTING,Clint Eastwood,Unforgiven,True
+40,1992,1993,65,DOCUMENTARY (Feature),"David Haugland, Producer",Changing Our Minds: The Story of Dr. Evelyn Hooker,False
+41,1992,1993,65,DOCUMENTARY (Feature),"Sally Dundas, Producer",Fires of Kuwait,False
+42,1992,1993,65,DOCUMENTARY (Feature),"William Miles and Nina Rosenblum, Producers",Liberators: Fighting on Two Fronts in World War II,False
+43,1992,1993,65,DOCUMENTARY (Feature),"Margaret Smilow and Roma Baran, Producers",Music for the Movies: Bernard Herrmann,False
+44,1992,1993,65,DOCUMENTARY (Feature),"Barbara Trent and David Kasper, Producers",The Panama Deception,True
+45,1992,1993,65,DOCUMENTARY (Short Subject),"Geoffrey O'Connor, Producer",At the Edge of Conquest: The Journey of Chief Wai-Wai,False
+46,1992,1993,65,DOCUMENTARY (Short Subject),"Wendy L. Weinberg, Producer",Beyond Imagining: Margaret Anderson and the 'Little Review',False
+47,1992,1993,65,DOCUMENTARY (Short Subject),"Richard Elson and Sally Bochner, Producers",The Colours of My Father: A Portrait of Sam Borenstein,False
+48,1992,1993,65,DOCUMENTARY (Short Subject),"Thomas C. Goodwin and Gerardine Wurzburg, Producers",Educating Peter,True
+49,1992,1993,65,DOCUMENTARY (Short Subject),"Dorothy Fadiman, Producer",When Abortion Was Illegal: Untold Stories,False
+50,1992,1993,65,FILM EDITING,Frank J. Urioste,Basic Instinct,False
+51,1992,1993,65,FILM EDITING,Kant Pan,The Crying Game,False
+52,1992,1993,65,FILM EDITING,Robert Leighton,A Few Good Men,False
+53,1992,1993,65,FILM EDITING,Geraldine Peroni,The Player,False
+54,1992,1993,65,FILM EDITING,Joel Cox,Unforgiven,True
+55,1992,1993,65,FOREIGN LANGUAGE FILM,Russia,Close to Eden,False
+56,1992,1993,65,FOREIGN LANGUAGE FILM,Belgium,Daens,False
+57,1992,1993,65,FOREIGN LANGUAGE FILM,France,Indochine,True
+58,1992,1993,65,FOREIGN LANGUAGE FILM,Uruguay,A Place in the World,False
+59,1992,1993,65,FOREIGN LANGUAGE FILM,Germany,Schtonk!,False
+60,1992,1993,65,MAKEUP,"Ve Neill, Ronnie Specter, Stan Winston",Batman Returns,False
+61,1992,1993,65,MAKEUP,"Greg Cannom, Michèle Burke, Matthew W. Mungle",Bram Stoker's Dracula,True
+62,1992,1993,65,MAKEUP,"Ve Neill, Greg Cannom, John Blake",Hoffa,False
+63,1992,1993,65,MUSIC (Original Score),Alan Menken,Aladdin,True
+64,1992,1993,65,MUSIC (Original Score),Jerry Goldsmith,Basic Instinct,False
+65,1992,1993,65,MUSIC (Original Score),John Barry,Chaplin,False
+66,1992,1993,65,MUSIC (Original Score),Richard Robbins,Howards End,False
+67,1992,1993,65,MUSIC (Original Score),Mark Isham,A River Runs through It,False
+68,1992,1993,65,MUSIC (Original Song),Music by Robert Kraft; Lyric by Arne Glimcher,The Mambo Kings,False
+69,1992,1993,65,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,Aladdin,False
+70,1992,1993,65,MUSIC (Original Song),Music by David Foster; Lyric by Linda Thompson,The Bodyguard,False
+71,1992,1993,65,MUSIC (Original Song),Music by Jud Friedman; Lyric by Allan Rich,The Bodyguard,False
+72,1992,1993,65,MUSIC (Original Song),Music by Alan Menken; Lyric by Tim Rice,Aladdin,True
+73,1992,1993,65,BEST PICTURE,"Stephen Woolley, Producer",The Crying Game,False
+74,1992,1993,65,BEST PICTURE,"David Brown, Rob Reiner and Andrew Scheinman, Producers",A Few Good Men,False
+75,1992,1993,65,BEST PICTURE,"Ismail Merchant, Producer",Howards End,False
+76,1992,1993,65,BEST PICTURE,"Martin Brest, Producer",Scent of a Woman,False
+77,1992,1993,65,BEST PICTURE,"Clint Eastwood, Producer",Unforgiven,True
+78,1992,1993,65,SHORT FILM (Animated),Peter Lord,Adam,False
+79,1992,1993,65,SHORT FILM (Animated),Joan C. Gratz,Mona Lisa Descending a Staircase,True
+80,1992,1993,65,SHORT FILM (Animated),Michaela Pavlátová,"Reci, Reci, Reci... (Words, Words, Words)",False
+81,1992,1993,65,SHORT FILM (Animated),Paul Berry,The Sandman,False
+82,1992,1993,65,SHORT FILM (Animated),Barry J.C. Purves,Screen Play,False
+83,1992,1993,65,SHORT FILM (Live Action),"Jonathan Darby, Jana Sue Memel",Contact,False
+84,1992,1993,65,SHORT FILM (Live Action),Matt Palmieri,Cruise Control,False
+85,1992,1993,65,SHORT FILM (Live Action),Christian M. Taylor,The Lady in Waiting,False
+86,1992,1993,65,SHORT FILM (Live Action),Sam Karmann,Omnibus,True
+87,1992,1993,65,SHORT FILM (Live Action),"Kenneth Branagh, David Parfitt",Swan Song,False
+88,1992,1993,65,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",Aladdin,False
+89,1992,1993,65,SOUND,"Kevin O'Connell, Rick Kline, Bob Eber",A Few Good Men,False
+90,1992,1993,65,SOUND,"Chris Jenkins, Doug Hemphill, Mark Smith, Simon Kaye",The Last of the Mohicans,True
+91,1992,1993,65,SOUND,"Don Mitchell, Frank A. Montaño, Rick Hart, Scott Smith",Under Siege,False
+92,1992,1993,65,SOUND,"Les Fresholtz, Vern Poore, Dick Alexander, Rob Young",Unforgiven,False
+93,1992,1993,65,SOUND EFFECTS EDITING,Mark Mangini,Aladdin,False
+94,1992,1993,65,SOUND EFFECTS EDITING,"Tom C. McCarthy, David E. Stone",Bram Stoker's Dracula,True
+95,1992,1993,65,SOUND EFFECTS EDITING,"John Leveque, Bruce Stambler",Under Siege,False
+96,1992,1993,65,VISUAL EFFECTS,"Richard Edlund, Alec Gillis, Tom Woodruff, Jr., George Gibbs",Alien 3,False
+97,1992,1993,65,VISUAL EFFECTS,"Michael Fink, Craig Barron, John Bruno, Dennis Skotak",Batman Returns,False
+98,1992,1993,65,VISUAL EFFECTS,"Ken Ralston, Doug Chiang, Doug Smythe, Tom Woodruff, Jr.",Death Becomes Her,True
+99,1992,1993,65,WRITING (Screenplay Based on Material Previously Produced or Published),Peter Barnes,Enchanted April,False
+100,1992,1993,65,WRITING (Screenplay Based on Material Previously Produced or Published),Ruth Prawer Jhabvala,Howards End,True
+101,1992,1993,65,WRITING (Screenplay Based on Material Previously Produced or Published),Michael Tolkin,The Player,False
+102,1992,1993,65,WRITING (Screenplay Based on Material Previously Produced or Published),Richard Friedenberg,A River Runs through It,False
+103,1992,1993,65,WRITING (Screenplay Based on Material Previously Produced or Published),Bo Goldman,Scent of a Woman,False
+104,1992,1993,65,WRITING (Screenplay Written Directly for the Screen),Neil Jordan,The Crying Game,True
+105,1992,1993,65,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Husbands and Wives,False
+106,1992,1993,65,WRITING (Screenplay Written Directly for the Screen),"George Miller, Nick Enright",Lorenzo's Oil,False
+107,1992,1993,65,WRITING (Screenplay Written Directly for the Screen),John Sayles,Passion Fish,False
+108,1992,1993,65,WRITING (Screenplay Written Directly for the Screen),David Webb Peoples,Unforgiven,False
+109,1992,1993,65,JEAN HERSHOLT HUMANITARIAN AWARD,Audrey Hepburn,,True
+110,1992,1993,65,JEAN HERSHOLT HUMANITARIAN AWARD,Elizabeth Taylor,,True
+111,1992,1993,65,HONORARY AWARD, Federico Fellini in recognition of his place as one of the screen's master storytellers.,,True

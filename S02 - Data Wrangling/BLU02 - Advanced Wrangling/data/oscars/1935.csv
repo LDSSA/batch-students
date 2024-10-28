@@ -1,0 +1,65 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1934,1935,7,ACTOR,Clark Gable,It Happened One Night,True
+1,1934,1935,7,ACTOR,Frank Morgan,The Affairs of Cellini,False
+2,1934,1935,7,ACTOR,William Powell,The Thin Man,False
+3,1934,1935,7,ACTRESS,Claudette Colbert,It Happened One Night,True
+4,1934,1935,7,ACTRESS,Bette Davis,Of Human Bondage,False
+5,1934,1935,7,ACTRESS,Grace Moore,One Night of Love,False
+6,1934,1935,7,ACTRESS,Norma Shearer,The Barretts of Wimpole Street,False
+7,1934,1935,7,ART DIRECTION,Richard Day,The Affairs of Cellini,False
+8,1934,1935,7,ART DIRECTION,"Van Nest Polglase, Carroll Clark",The Gay Divorcee,False
+9,1934,1935,7,ART DIRECTION,"Cedric Gibbons, Fredric Hope",The Merry Widow,True
+10,1934,1935,7,ASSISTANT DIRECTOR,Cullen Tate,Cleopatra,False
+11,1934,1935,7,ASSISTANT DIRECTOR,Scott Beal,Imitation of Life,False
+12,1934,1935,7,ASSISTANT DIRECTOR,John Waters,Viva Villa!,True
+13,1934,1935,7,CINEMATOGRAPHY,Charles Rosher,The Affairs of Cellini,False
+14,1934,1935,7,CINEMATOGRAPHY,Victor Milner,Cleopatra,True
+15,1934,1935,7,CINEMATOGRAPHY,George Folsey,Operator 13,False
+16,1934,1935,7,DIRECTING,Frank Capra,It Happened One Night,True
+17,1934,1935,7,DIRECTING,Victor Schertzinger,One Night of Love,False
+18,1934,1935,7,DIRECTING,W. S. Van Dyke,The Thin Man,False
+19,1934,1935,7,FILM EDITING,Anne Bauchens,Cleopatra,False
+20,1934,1935,7,FILM EDITING,Conrad Nervig,Eskimo,True
+21,1934,1935,7,FILM EDITING,Gene Milford,One Night of Love,False
+22,1934,1935,7,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Kenneth Webb and Samuel Hoffenstein)",The Gay Divorcee,False
+23,1934,1935,7,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Lost Patrol,False
+24,1934,1935,7,MUSIC (Scoring),"Columbia Studio Music Department, Louis Silvers, head of department  (Thematic Music by Victor Schertzinger and Gus Kahn)",One Night of Love,True
+25,1934,1935,7,MUSIC (Song),Music by Vincent Youmans; Lyrics by Edward Eliscu and Gus Kahn,Flying Down to Rio,False
+26,1934,1935,7,MUSIC (Song),Music by Con Conrad; Lyrics by Herb Magidson,The Gay Divorcee,True
+27,1934,1935,7,MUSIC (Song),Music by Ralph Rainger; Lyrics by Leo Robin,She Loves Me Not,False
+28,1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Barretts of Wimpole Street,False
+29,1934,1935,7,OUTSTANDING PRODUCTION,Paramount,Cleopatra,False
+30,1934,1935,7,OUTSTANDING PRODUCTION,First National,Flirtation Walk,False
+31,1934,1935,7,OUTSTANDING PRODUCTION,RKO Radio,The Gay Divorcee,False
+32,1934,1935,7,OUTSTANDING PRODUCTION,Warner Bros.,Here Comes the Navy,False
+33,1934,1935,7,OUTSTANDING PRODUCTION,20th Century,The House of Rothschild,False
+34,1934,1935,7,OUTSTANDING PRODUCTION,Universal,Imitation of Life,False
+35,1934,1935,7,OUTSTANDING PRODUCTION,Columbia,It Happened One Night,True
+36,1934,1935,7,OUTSTANDING PRODUCTION,Columbia,One Night of Love,False
+37,1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Thin Man,False
+38,1934,1935,7,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Viva Villa!,False
+39,1934,1935,7,OUTSTANDING PRODUCTION,Jesse L. Lasky (production company),The White Parade,False
+40,1934,1935,7,SHORT SUBJECT (Cartoon),"Charles Mintz, Producer",Holiday Land,False
+41,1934,1935,7,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Jolly Little Elves,False
+42,1934,1935,7,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Tortoise and the Hare,True
+43,1934,1935,7,SHORT SUBJECT (Comedy),"Kenneth Macgowan, Producer",La Cucaracha,True
+44,1934,1935,7,SHORT SUBJECT (Comedy),"Jules White, Producer",Men in Black,False
+45,1934,1935,7,SHORT SUBJECT (Comedy),Warner Bros.,"What, No Men!",False
+46,1934,1935,7,SHORT SUBJECT (Novelty),Skibo Productions,Bosom Friends,False
+47,1934,1935,7,SHORT SUBJECT (Novelty),"Stacy Woodard and Horace Woodard, Producers",City of Wax,True
+48,1934,1935,7,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Strikes and Spares,False
+49,1934,1935,7,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Affairs of Cellini,False
+50,1934,1935,7,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",Cleopatra,False
+51,1934,1935,7,SOUND RECORDING,"Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",Flirtation Walk,False
+52,1934,1935,7,SOUND RECORDING,"RKO Radio Studio Sound Department, Carl Dreher, Sound Director",The Gay Divorcee,False
+53,1934,1935,7,SOUND RECORDING,"Universal Studio Sound Department, Theodore Soderberg, Sound Director",Imitation of Life,False
+54,1934,1935,7,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",One Night of Love,True
+55,1934,1935,7,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Viva Villa!,False
+56,1934,1935,7,SOUND RECORDING,"Fox Studio Sound Department, E. H. Hansen, Sound Director",The White Parade,False
+57,1934,1935,7,WRITING (Adaptation),Robert Riskin,It Happened One Night,True
+58,1934,1935,7,WRITING (Adaptation),"Frances Goodrich, Albert Hackett",The Thin Man,False
+59,1934,1935,7,WRITING (Adaptation),Ben Hecht,Viva Villa!,False
+60,1934,1935,7,WRITING (Original Story),Mauri Grashin,Hide-Out,False
+61,1934,1935,7,WRITING (Original Story),Arthur Caesar,Manhattan Melodrama,True
+62,1934,1935,7,WRITING (Original Story),Norman Krasna,The Richest Girl in the World,False
+63,1934,1935,7,SPECIAL AWARD, Shirley Temple,,True

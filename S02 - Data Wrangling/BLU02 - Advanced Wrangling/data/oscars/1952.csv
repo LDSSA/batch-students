@@ -1,0 +1,119 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1951,1952,24,ACTOR,Humphrey Bogart,The African Queen,True
+1,1951,1952,24,ACTOR,Marlon Brando,A Streetcar Named Desire,False
+2,1951,1952,24,ACTOR,Montgomery Clift,A Place in the Sun,False
+3,1951,1952,24,ACTOR,Arthur Kennedy,Bright Victory,False
+4,1951,1952,24,ACTOR,Fredric March,Death of a Salesman,False
+5,1951,1952,24,ACTOR IN A SUPPORTING ROLE,Leo Genn,Quo Vadis,False
+6,1951,1952,24,ACTOR IN A SUPPORTING ROLE,Kevin McCarthy,Death of a Salesman,False
+7,1951,1952,24,ACTOR IN A SUPPORTING ROLE,Karl Malden,A Streetcar Named Desire,True
+8,1951,1952,24,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Quo Vadis,False
+9,1951,1952,24,ACTOR IN A SUPPORTING ROLE,Gig Young,Come Fill the Cup,False
+10,1951,1952,24,ACTRESS,Katharine Hepburn,The African Queen,False
+11,1951,1952,24,ACTRESS,Vivien Leigh,A Streetcar Named Desire,True
+12,1951,1952,24,ACTRESS,Eleanor Parker,Detective Story,False
+13,1951,1952,24,ACTRESS,Shelley Winters,A Place in the Sun,False
+14,1951,1952,24,ACTRESS,Jane Wyman,The Blue Veil,False
+15,1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Joan Blondell,The Blue Veil,False
+16,1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Mildred Dunnock,Death of a Salesman,False
+17,1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Detective Story,False
+18,1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Kim Hunter,A Streetcar Named Desire,True
+19,1951,1952,24,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,The Mating Season,False
+20,1951,1952,24,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Thomas Little, Fred J. Rode",Fourteen Hours,False
+21,1951,1952,24,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, John DeCuir;  Set Decoration:  Thomas Little, Paul S. Fox",House on Telegraph Hill,False
+22,1951,1952,24,ART DIRECTION (Black-and-White),D'Eaubonne,La Ronde,False
+23,1951,1952,24,ART DIRECTION (Black-and-White),Art Direction:  Richard Day;  Set Decoration:  George James Hopkins,A Streetcar Named Desire,True
+24,1951,1952,24,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Too Young to Kiss,False
+25,1951,1952,24,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Preston Ames;  Set Decoration:  Edwin B. Willis, Keogh Gleason",An American in Paris,True
+26,1951,1952,24,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, George Davis;  Set Decoration:  Thomas Little, Paul S. Fox",David and Bathsheba,False
+27,1951,1952,24,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, Leland Fuller;  Musical Settings:  Joseph C. Wright;  Set Decoration:  Thomas Little, Walter M. Scott",On the Riviera,False
+28,1951,1952,24,ART DIRECTION (Color),"Art Direction:  William A. Horning, Cedric Gibbons, Edward Carfagno;  Set Decoration:  Hugh Hunt",Quo Vadis,False
+29,1951,1952,24,ART DIRECTION (Color),Hein Heckroth,Tales of Hoffmann,False
+30,1951,1952,24,CINEMATOGRAPHY (Black-and-White),Frank Planer,Death of a Salesman,False
+31,1951,1952,24,CINEMATOGRAPHY (Black-and-White),Norbert Brodine,The Frogmen,False
+32,1951,1952,24,CINEMATOGRAPHY (Black-and-White),William C. Mellor,A Place in the Sun,True
+33,1951,1952,24,CINEMATOGRAPHY (Black-and-White),Robert Burks,Strangers on a Train,False
+34,1951,1952,24,CINEMATOGRAPHY (Black-and-White),Harry Stradling,A Streetcar Named Desire,False
+35,1951,1952,24,CINEMATOGRAPHY (Color),Alfred Gilks; Ballet Photography by John Alton,An American in Paris,True
+36,1951,1952,24,CINEMATOGRAPHY (Color),Leon Shamroy,David and Bathsheba,False
+37,1951,1952,24,CINEMATOGRAPHY (Color),"Robert Surtees, William V. Skall",Quo Vadis,False
+38,1951,1952,24,CINEMATOGRAPHY (Color),Charles Rosher,Show Boat,False
+39,1951,1952,24,CINEMATOGRAPHY (Color),"John F. Seitz, W. Howard Greene",When Worlds Collide,False
+40,1951,1952,24,COSTUME DESIGN (Black-and-White),"Walter Plunkett, Gile Steele",Kind Lady,False
+41,1951,1952,24,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Renie",The Model and the Marriage Broker,False
+42,1951,1952,24,COSTUME DESIGN (Black-and-White),"Edward Stevenson, Margaret Furse",The Mudlark,False
+43,1951,1952,24,COSTUME DESIGN (Black-and-White),Edith Head,A Place in the Sun,True
+44,1951,1952,24,COSTUME DESIGN (Black-and-White),Lucinda Ballard,A Streetcar Named Desire,False
+45,1951,1952,24,COSTUME DESIGN (Color),"Orry-Kelly, Walter Plunkett, Irene Sharaff",An American in Paris,True
+46,1951,1952,24,COSTUME DESIGN (Color),"Charles LeMaire, Edward Stevenson",David and Bathsheba,False
+47,1951,1952,24,COSTUME DESIGN (Color),"Helen Rose, Gile Steele",The Great Caruso,False
+48,1951,1952,24,COSTUME DESIGN (Color),Herschel McCoy,Quo Vadis,False
+49,1951,1952,24,COSTUME DESIGN (Color),Hein Heckroth,Tales of Hoffmann,False
+50,1951,1952,24,DIRECTING,John Huston,The African Queen,False
+51,1951,1952,24,DIRECTING,Vincente Minnelli,An American in Paris,False
+52,1951,1952,24,DIRECTING,William Wyler,Detective Story,False
+53,1951,1952,24,DIRECTING,George Stevens,A Place in the Sun,True
+54,1951,1952,24,DIRECTING,Elia Kazan,A Streetcar Named Desire,False
+55,1951,1952,24,DOCUMENTARY (Feature),"Bryan Foy, Producer",I Was a Communist for the F.B.I.,False
+56,1951,1952,24,DOCUMENTARY (Feature),"Olle Nordemar, Producer",Kon-Tiki,True
+57,1951,1952,24,DOCUMENTARY (Short Subject),'Made by Fred Zinnemann with the cooperation of Paramount Pictures Corporation for the Los Angeles Orthopaedic Hospital',Benjy,True
+58,1951,1952,24,DOCUMENTARY (Short Subject),"Owen Crump, Producer.  (Film sponsored by the Disabled American Veterans, in cooperation with the United States Department of Defense and the Association of Motion Picture Producers)",One Who Came Back,False
+59,1951,1952,24,DOCUMENTARY (Short Subject),"Gordon Hollingshead, Producer",The Seeing Eye,False
+60,1951,1952,24,FILM EDITING,Adrienne Fazan,An American in Paris,False
+61,1951,1952,24,FILM EDITING,Dorothy Spencer,Decision before Dawn,False
+62,1951,1952,24,FILM EDITING,William Hornbeck,A Place in the Sun,True
+63,1951,1952,24,FILM EDITING,Ralph E. Winters,Quo Vadis,False
+64,1951,1952,24,FILM EDITING,Chester Schaeffer,The Well,False
+65,1951,1952,24,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,David and Bathsheba,False
+66,1951,1952,24,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,Death of a Salesman,False
+67,1951,1952,24,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,A Place in the Sun,True
+68,1951,1952,24,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Quo Vadis,False
+69,1951,1952,24,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,A Streetcar Named Desire,False
+70,1951,1952,24,MUSIC (Scoring of a Musical Picture),Oliver Wallace,Alice in Wonderland,False
+71,1951,1952,24,MUSIC (Scoring of a Musical Picture),"Johnny Green, Saul Chaplin",An American in Paris,True
+72,1951,1952,24,MUSIC (Scoring of a Musical Picture),"Peter Herman Adler, Johnny Green",The Great Caruso,False
+73,1951,1952,24,MUSIC (Scoring of a Musical Picture),Alfred Newman,On the Riviera,False
+74,1951,1952,24,MUSIC (Scoring of a Musical Picture),"Adolph Deutsch, Conrad Salinger",Show Boat,False
+75,1951,1952,24,MUSIC (Song),Music by Hoagy Carmichael; Lyrics by Johnny Mercer,Here Comes the Groom,True
+76,1951,1952,24,MUSIC (Song),"Music and Lyrics by Bert Kalmar, Harry Ruby and Oscar Hammerstein II",The Strip,False
+77,1951,1952,24,MUSIC (Song),Music by Lionel Newman; Lyrics by Eliot Daniel,Golden Girl,False
+78,1951,1952,24,MUSIC (Song),Music by Burton Lane; Lyrics by Alan Jay Lerner,Royal Wedding,False
+79,1951,1952,24,MUSIC (Song),Music by Nicholas Brodszky; Lyrics by Sammy Cahn,"Rich, Young and Pretty",False
+80,1951,1952,24,BEST MOTION PICTURE,"Arthur Freed, Producer",An American in Paris,True
+81,1951,1952,24,BEST MOTION PICTURE,"Anatole Litvak and Frank McCarthy, Producers",Decision before Dawn,False
+82,1951,1952,24,BEST MOTION PICTURE,"George Stevens, Producer",A Place in the Sun,False
+83,1951,1952,24,BEST MOTION PICTURE,"Sam Zimbalist, Producer",Quo Vadis,False
+84,1951,1952,24,BEST MOTION PICTURE,"Charles K. Feldman, Producer",A Streetcar Named Desire,False
+85,1951,1952,24,SHORT SUBJECT (Cartoon),"Walt Disney, Producer","Lambert, the Sheepish Lion",False
+86,1951,1952,24,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Rooty Toot Toot,False
+87,1951,1952,24,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",The Two Mouseketeers,True
+88,1951,1952,24,SHORT SUBJECT (One-reel),"Jack Eaton, Producer",Ridin' the Rails,False
+89,1951,1952,24,SHORT SUBJECT (One-reel),"Robert G. Leffingwell, Producer",The Story of Time,False
+90,1951,1952,24,SHORT SUBJECT (One-reel),"Robert Youngson, Producer",World of Kids,True
+91,1951,1952,24,SHORT SUBJECT (Two-reel),Les Films du Compass,Balzac,False
+92,1951,1952,24,SHORT SUBJECT (Two-reel),"Tom Mead, Producer",Danger under the Sea,False
+93,1951,1952,24,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Nature's Half Acre,True
+94,1951,1952,24,SOUND RECORDING,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",Bright Victory,False
+95,1951,1952,24,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Great Caruso,True
+96,1951,1952,24,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",I Want You,False
+97,1951,1952,24,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan Levinson, Sound Director",A Streetcar Named Desire,False
+98,1951,1952,24,SOUND RECORDING,"RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",Two Tickets to Broadway,False
+99,1951,1952,24,SPECIAL EFFECTS,Paramount,When Worlds Collide,True
+100,1951,1952,24,WRITING (Motion Picture Story),"Budd Boetticher, Ray Nazarro",Bullfighter and the Lady,False
+101,1951,1952,24,WRITING (Motion Picture Story),Oscar Millard,The Frogmen,False
+102,1951,1952,24,WRITING (Motion Picture Story),"Robert Riskin, Liam O'Brien",Here Comes the Groom,False
+103,1951,1952,24,WRITING (Motion Picture Story),"Paul Dehn, James Bernard",Seven Days to Noon,True
+104,1951,1952,24,WRITING (Motion Picture Story),"Alfred Hayes, Stewart Stern",Teresa,False
+105,1951,1952,24,WRITING (Screenplay),"James Agee, John Huston",The African Queen,False
+106,1951,1952,24,WRITING (Screenplay),"Philip Yordan, Robert Wyler",Detective Story,False
+107,1951,1952,24,WRITING (Screenplay),"Max Ophuls, Jacques Natanson",La Ronde,False
+108,1951,1952,24,WRITING (Screenplay),"Michael Wilson, Harry Brown",A Place in the Sun,True
+109,1951,1952,24,WRITING (Screenplay),Tennessee Williams,A Streetcar Named Desire,False
+110,1951,1952,24,WRITING (Story and Screenplay),Alan Jay Lerner,An American in Paris,True
+111,1951,1952,24,WRITING (Story and Screenplay),"Billy Wilder, Lesser Samuels, Walter Newman",The Big Carnival,False
+112,1951,1952,24,WRITING (Story and Screenplay),Philip Dunne,David and Bathsheba,False
+113,1951,1952,24,WRITING (Story and Screenplay),Robert Pirosh,Go for Broke!,False
+114,1951,1952,24,WRITING (Story and Screenplay),"Clarence Greene, Russell Rouse",The Well,False
+115,1951,1952,24,HONORARY FOREIGN LANGUAGE FILM AWARD, Rashomon - voted by the Board of Governors as the most outstanding foreign language film released in the United States during 1951.,,True
+116,1951,1952,24,HONORARY AWARD, Gene Kelly in appreciation of his versatility as an actor,,True
+117,1951,1952,24,IRVING G. THALBERG MEMORIAL AWARD,Arthur Freed,,True

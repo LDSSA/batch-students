@@ -1,0 +1,130 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1953,1954,26,ACTOR,Marlon Brando,Julius Caesar,False
+1,1953,1954,26,ACTOR,Richard Burton,The Robe,False
+2,1953,1954,26,ACTOR,Montgomery Clift,From Here to Eternity,False
+3,1953,1954,26,ACTOR,William Holden,Stalag 17,True
+4,1953,1954,26,ACTOR,Burt Lancaster,From Here to Eternity,False
+5,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Eddie Albert,Roman Holiday,False
+6,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Brandon De Wilde,Shane,False
+7,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Jack Palance,Shane,False
+8,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,From Here to Eternity,True
+9,1953,1954,26,ACTOR IN A SUPPORTING ROLE,Robert Strauss,Stalag 17,False
+10,1953,1954,26,ACTRESS,Leslie Caron,Lili,False
+11,1953,1954,26,ACTRESS,Ava Gardner,Mogambo,False
+12,1953,1954,26,ACTRESS,Audrey Hepburn,Roman Holiday,True
+13,1953,1954,26,ACTRESS,Deborah Kerr,From Here to Eternity,False
+14,1953,1954,26,ACTRESS,Maggie McNamara,The Moon Is Blue,False
+15,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Grace Kelly,Mogambo,False
+16,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,Hondo,False
+17,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Marjorie Rambeau,Torch Song,False
+18,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Donna Reed,From Here to Eternity,True
+19,1953,1954,26,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Pickup on South Street,False
+20,1953,1954,26,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Hugh Hunt",Julius Caesar,True
+21,1953,1954,26,ART DIRECTION (Black-and-White),"Art Direction:  Fritz Maurischat, Paul Markwitz",Martin Luther,False
+22,1953,1954,26,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Paul S. Fox",The President's Lady,False
+23,1953,1954,26,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler",Roman Holiday,False
+24,1953,1954,26,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Maurice Ransford;  Set Decoration:  Stuart Reiss",Titanic,False
+25,1953,1954,26,ART DIRECTION (Color),"Art Direction:  Alfred Junge, Hans Peters;  Set Decoration:  John Jarvis",Knights of the Round Table,False
+26,1953,1954,26,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Arthur Krams",Lili,False
+27,1953,1954,26,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Paul S. Fox",The Robe,True
+28,1953,1954,26,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Preston Ames, Edward Carfagno, Gabriel Scognamillo;  Set Decoration:  Edwin B. Willis, Keogh Gleason, Arthur Krams, Jack D. Moore",The Story of Three Loves,False
+29,1953,1954,26,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Urie McCleary;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Young Bess,False
+30,1953,1954,26,CINEMATOGRAPHY (Black-and-White),Hal Mohr,The Four Poster,False
+31,1953,1954,26,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,From Here to Eternity,True
+32,1953,1954,26,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Julius Caesar,False
+33,1953,1954,26,CINEMATOGRAPHY (Black-and-White),Joseph C. Brun,Martin Luther,False
+34,1953,1954,26,CINEMATOGRAPHY (Black-and-White),"Frank Planer, Henri Alekan",Roman Holiday,False
+35,1953,1954,26,CINEMATOGRAPHY (Color),George Folsey,All the Brothers Were Valiant,False
+36,1953,1954,26,CINEMATOGRAPHY (Color),Edward Cronjager,Beneath the 12-Mile Reef,False
+37,1953,1954,26,CINEMATOGRAPHY (Color),Robert Planck,Lili,False
+38,1953,1954,26,CINEMATOGRAPHY (Color),Leon Shamroy,The Robe,False
+39,1953,1954,26,CINEMATOGRAPHY (Color),Loyal Griggs,Shane,True
+40,1953,1954,26,COSTUME DESIGN (Black-and-White),Walter Plunkett,The Actress,False
+41,1953,1954,26,COSTUME DESIGN (Black-and-White),"Helen Rose, Herschel McCoy",Dream Wife,False
+42,1953,1954,26,COSTUME DESIGN (Black-and-White),Jean Louis,From Here to Eternity,False
+43,1953,1954,26,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Renie",The President's Lady,False
+44,1953,1954,26,COSTUME DESIGN (Black-and-White),Edith Head,Roman Holiday,True
+45,1953,1954,26,COSTUME DESIGN (Color),Mary Ann Nyberg,The Band Wagon,False
+46,1953,1954,26,COSTUME DESIGN (Color),Irene Sharaff,Call Me Madam,False
+47,1953,1954,26,COSTUME DESIGN (Color),"Charles LeMaire, Travilla",How to Marry a Millionaire,False
+48,1953,1954,26,COSTUME DESIGN (Color),"Charles LeMaire, Emile Santiago",The Robe,True
+49,1953,1954,26,COSTUME DESIGN (Color),Walter Plunkett,Young Bess,False
+50,1953,1954,26,DIRECTING,Fred Zinnemann,From Here to Eternity,True
+51,1953,1954,26,DIRECTING,Charles Walters,Lili,False
+52,1953,1954,26,DIRECTING,William Wyler,Roman Holiday,False
+53,1953,1954,26,DIRECTING,George Stevens,Shane,False
+54,1953,1954,26,DIRECTING,Billy Wilder,Stalag 17,False
+55,1953,1954,26,DOCUMENTARY (Feature),"John Taylor, Leon Clore and Grahame Tharp, Producers",The Conquest of Everest,False
+56,1953,1954,26,DOCUMENTARY (Feature),"Walt Disney, Producer",The Living Desert,True
+57,1953,1954,26,DOCUMENTARY (Feature),"Castleton Knight, Producer",A Queen Is Crowned,False
+58,1953,1954,26,DOCUMENTARY (Short Subject),"Walt Disney, Producer",The Alaskan Eskimo,True
+59,1953,1954,26,DOCUMENTARY (Short Subject),"John Barnes, Producer",The Living City,False
+60,1953,1954,26,DOCUMENTARY (Short Subject),United States Army Signal Corps,Operation Blue Jay,False
+61,1953,1954,26,DOCUMENTARY (Short Subject),"James Carr, Producer",They Planted a Stone,False
+62,1953,1954,26,DOCUMENTARY (Short Subject),"John Healy and John Adams, Producers",The Word,False
+63,1953,1954,26,FILM EDITING,Irvine (Cotton) Warburton,Crazylegs,False
+64,1953,1954,26,FILM EDITING,William Lyon,From Here to Eternity,True
+65,1953,1954,26,FILM EDITING,Otto Ludwig,The Moon Is Blue,False
+66,1953,1954,26,FILM EDITING,Robert Swink,Roman Holiday,False
+67,1953,1954,26,FILM EDITING,Everett Douglas,The War of the Worlds,False
+68,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Above and Beyond,False
+69,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morris Stoloff, George Duning",From Here to Eternity,False
+70,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Julius Caesar,False
+71,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),Bronislau Kaper,Lili,True
+72,1953,1954,26,MUSIC (Music Score of a Dramatic or Comedy Picture),Louis Forbes,This Is Cinerama,False
+73,1953,1954,26,MUSIC (Scoring of a Musical Picture),Adolph Deutsch,The Band Wagon,False
+74,1953,1954,26,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Calamity Jane,False
+75,1953,1954,26,MUSIC (Scoring of a Musical Picture),Alfred Newman,Call Me Madam,True
+76,1953,1954,26,MUSIC (Scoring of a Musical Picture),"Frederick Hollander, Morris Stoloff","The 5,000 Fingers of Dr. T",False
+77,1953,1954,26,MUSIC (Scoring of a Musical Picture),"Andre Previn, Saul Chaplin",Kiss Me Kate,False
+78,1953,1954,26,MUSIC (Song),Music by Herschel Burke Gilbert; Lyrics by Sylvia Fine,The Moon Is Blue,False
+79,1953,1954,26,MUSIC (Song),Music by Nicholas Brodszky; Lyrics by Leo Robin,Small Town Girl,False
+80,1953,1954,26,MUSIC (Song),Music by Lester Lee; Lyrics by Ned Washington,Miss Sadie Thompson,False
+81,1953,1954,26,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Calamity Jane,True
+82,1953,1954,26,MUSIC (Song),Music by Harry Warren; Lyrics by Jack Brooks,The Caddy,False
+83,1953,1954,26,BEST MOTION PICTURE,"Buddy Adler, Producer",From Here to Eternity,True
+84,1953,1954,26,BEST MOTION PICTURE,"John Houseman, Producer",Julius Caesar,False
+85,1953,1954,26,BEST MOTION PICTURE,"Frank Ross, Producer",The Robe,False
+86,1953,1954,26,BEST MOTION PICTURE,"William Wyler, Producer",Roman Holiday,False
+87,1953,1954,26,BEST MOTION PICTURE,"George Stevens, Producer",Shane,False
+88,1953,1954,26,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Christopher Crumpet,False
+89,1953,1954,26,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",From A to Z-Z-Z-Z,False
+90,1953,1954,26,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Rugged Bear,False
+91,1953,1954,26,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",The Tell Tale Heart,False
+92,1953,1954,26,SHORT SUBJECT (Cartoon),"Walt Disney, Producer","Toot, Whistle, Plunk and Boom",True
+93,1953,1954,26,SHORT SUBJECT (One-reel),"Vincenzo Lucci-Chiarissi, Producer",Christ among the Primitives,False
+94,1953,1954,26,SHORT SUBJECT (One-reel),National Film Board of Canada,Herring Hunt,False
+95,1953,1954,26,SHORT SUBJECT (One-reel),"Boris Vermont, Producer",Joy of Living,False
+96,1953,1954,26,SHORT SUBJECT (One-reel),"Johnny Green, Producer",The Merry Wives of Windsor Overture,True
+97,1953,1954,26,SHORT SUBJECT (One-reel),"Jack Eaton, Producer",Wee Water Wonders,False
+98,1953,1954,26,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Bear Country,True
+99,1953,1954,26,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Ben and Me,False
+100,1953,1954,26,SHORT SUBJECT (Two-reel),Dublin Gate Theatre Productions,Return to Glennascaul,False
+101,1953,1954,26,SHORT SUBJECT (Two-reel),"Otto Lang, Producer",Vesuvius Express,False
+102,1953,1954,26,SHORT SUBJECT (Two-reel),"Cedric Francis, Producer",Winter Paradise,False
+103,1953,1954,26,SOUND RECORDING,"Warner Bros. Studio Sound Department, William A. Mueller, Sound Director",Calamity Jane,False
+104,1953,1954,26,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",From Here to Eternity,True
+105,1953,1954,26,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, A. W. Watkins, Sound Director",Knights of the Round Table,False
+106,1953,1954,26,SOUND RECORDING,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",The Mississippi Gambler,False
+107,1953,1954,26,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",The War of the Worlds,False
+108,1953,1954,26,SPECIAL EFFECTS,Paramount Studio,The War of the Worlds,True
+109,1953,1954,26,WRITING (Motion Picture Story),"Beirne Lay, Jr.",Above and Beyond,False
+110,1953,1954,26,WRITING (Motion Picture Story),Alec Coppel,The Captain's Paradise,False
+111,1953,1954,26,WRITING (Motion Picture Story),Louis L'Amour,Hondo,False
+112,1953,1954,26,WRITING (Motion Picture Story),"Ray Ashley, Morris Engel, Ruth Orkin",Little Fugitive,False
+113,1953,1954,26,WRITING (Motion Picture Story),Dalton Trumbo,Roman Holiday,True
+114,1953,1954,26,WRITING (Screenplay),Eric Ambler,The Cruel Sea,False
+115,1953,1954,26,WRITING (Screenplay),Daniel Taradash,From Here to Eternity,True
+116,1953,1954,26,WRITING (Screenplay),Helen Deutsch,Lili,False
+117,1953,1954,26,WRITING (Screenplay),"Ian McLellan Hunter, John Dighton",Roman Holiday,False
+118,1953,1954,26,WRITING (Screenplay),"A. B. Guthrie, Jr.",Shane,False
+119,1953,1954,26,WRITING (Story and Screenplay),"Betty Comden, Adolph Green",The Band Wagon,False
+120,1953,1954,26,WRITING (Story and Screenplay),Richard Murphy,The Desert Rats,False
+121,1953,1954,26,WRITING (Story and Screenplay),"Sam Rolfe, Harold Jack Bloom",The Naked Spur,False
+122,1953,1954,26,WRITING (Story and Screenplay),Millard Kaufman,Take the High Ground,False
+123,1953,1954,26,WRITING (Story and Screenplay),"Charles Brackett, Walter Reisch, Richard Breen",Titanic,True
+124,1953,1954,26,HONORARY AWARD," Pete Smith for his witty and pungent observations on the American scene in his series of ""Pete Smith Specialties.""",,True
+125,1953,1954,26,HONORARY AWARD, 20th Century-Fox Film Corporation in recognition of their imagination,,True
+126,1953,1954,26,HONORARY AWARD, Joseph I. Breen for his conscientious,,True
+127,1953,1954,26,HONORARY AWARD, Bell and Howell Company for their pioneering and basic achievements in the advancement of the motion picture industry.,,True
+128,1953,1954,26,IRVING G. THALBERG MEMORIAL AWARD,George Stevens,,True

@@ -1,0 +1,125 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1961,1962,34,ACTOR,Charles Boyer,Fanny,False
+1,1961,1962,34,ACTOR,Paul Newman,The Hustler,False
+2,1961,1962,34,ACTOR,Maximilian Schell,Judgment at Nuremberg,True
+3,1961,1962,34,ACTOR,Spencer Tracy,Judgment at Nuremberg,False
+4,1961,1962,34,ACTOR,Stuart Whitman,The Mark,False
+5,1961,1962,34,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,True
+6,1961,1962,34,ACTOR IN A SUPPORTING ROLE,Montgomery Clift,Judgment at Nuremberg,False
+7,1961,1962,34,ACTOR IN A SUPPORTING ROLE,Peter Falk,Pocketful of Miracles,False
+8,1961,1962,34,ACTOR IN A SUPPORTING ROLE,Jackie Gleason,The Hustler,False
+9,1961,1962,34,ACTOR IN A SUPPORTING ROLE,George C. Scott,The Hustler,False
+10,1961,1962,34,ACTRESS,Audrey Hepburn,Breakfast at Tiffany's,False
+11,1961,1962,34,ACTRESS,Piper Laurie,The Hustler,False
+12,1961,1962,34,ACTRESS,Sophia Loren,Two Women,True
+13,1961,1962,34,ACTRESS,Geraldine Page,Summer and Smoke,False
+14,1961,1962,34,ACTRESS,Natalie Wood,Splendor in the Grass,False
+15,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,The Children's Hour,False
+16,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Judy Garland,Judgment at Nuremberg,False
+17,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Lotte Lenya,The Roman Spring of Mrs. Stone,False
+18,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Una Merkel,Summer and Smoke,False
+19,1961,1962,34,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,True
+20,1961,1962,34,ART DIRECTION (Black-and-White),"Art Direction:  Carroll Clark;  Set Decoration:  Emile Kuri, Hal Gausman",The Absent Minded Professor,False
+21,1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Fernando Carrere;  Set Decoration:  Edward G. Boyle,The Children's Hour,False
+22,1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Harry Horner;  Set Decoration:  Gene Callahan,The Hustler,True
+23,1961,1962,34,ART DIRECTION (Black-and-White),Art Direction:  Rudolph Sternad;  Set Decoration:  George Milo,Judgment at Nuremberg,False
+24,1961,1962,34,ART DIRECTION (Black-and-White),Piero Gherardi,La Dolce Vita,False
+25,1961,1962,34,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Ray Moyer",Breakfast at Tiffany's,False
+26,1961,1962,34,ART DIRECTION (Color),"Art Direction:  Veniero Colasanti, John Moore",El Cid,False
+27,1961,1962,34,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Joseph Wright;  Set Decoration:  Howard Bristol",Flower Drum Song,False
+28,1961,1962,34,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Summer and Smoke,False
+29,1961,1962,34,ART DIRECTION (Color),Art Direction:  Boris Leven;  Set Decoration:  Victor A. Gangelin,West Side Story,True
+30,1961,1962,34,CINEMATOGRAPHY (Black-and-White),Edward Colman,The Absent Minded Professor,False
+31,1961,1962,34,CINEMATOGRAPHY (Black-and-White),Franz F. Planer,The Children's Hour,False
+32,1961,1962,34,CINEMATOGRAPHY (Black-and-White),Eugen Shuftan,The Hustler,True
+33,1961,1962,34,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Judgment at Nuremberg,False
+34,1961,1962,34,CINEMATOGRAPHY (Black-and-White),Daniel L. Fapp,"One, Two, Three",False
+35,1961,1962,34,CINEMATOGRAPHY (Color),Jack Cardiff,Fanny,False
+36,1961,1962,34,CINEMATOGRAPHY (Color),Russell Metty,Flower Drum Song,False
+37,1961,1962,34,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",A Majority of One,False
+38,1961,1962,34,CINEMATOGRAPHY (Color),"Charles Lang, Jr.",One-Eyed Jacks,False
+39,1961,1962,34,CINEMATOGRAPHY (Color),Daniel L. Fapp,West Side Story,True
+40,1961,1962,34,COSTUME DESIGN (Black-and-White),Dorothy Jeakins,The Children's Hour,False
+41,1961,1962,34,COSTUME DESIGN (Black-and-White),Howard Shoup,Claudelle Inglish,False
+42,1961,1962,34,COSTUME DESIGN (Black-and-White),Jean Louis,Judgment at Nuremberg,False
+43,1961,1962,34,COSTUME DESIGN (Black-and-White),Piero Gherardi,La Dolce Vita,True
+44,1961,1962,34,COSTUME DESIGN (Black-and-White),Yoshiro Muraki,Yojimbo,False
+45,1961,1962,34,COSTUME DESIGN (Color),Bill Thomas,Babes in Toyland,False
+46,1961,1962,34,COSTUME DESIGN (Color),Jean Louis,Back Street,False
+47,1961,1962,34,COSTUME DESIGN (Color),Irene Sharaff,Flower Drum Song,False
+48,1961,1962,34,COSTUME DESIGN (Color),"Edith Head, Walter Plunkett",Pocketful of Miracles,False
+49,1961,1962,34,COSTUME DESIGN (Color),Irene Sharaff,West Side Story,True
+50,1961,1962,34,DIRECTING,J. Lee Thompson,The Guns of Navarone,False
+51,1961,1962,34,DIRECTING,Robert Rossen,The Hustler,False
+52,1961,1962,34,DIRECTING,Stanley Kramer,Judgment at Nuremberg,False
+53,1961,1962,34,DIRECTING,Federico Fellini,La Dolce Vita,False
+54,1961,1962,34,DIRECTING,"Robert Wise, Jerome Robbins",West Side Story,True
+55,1961,1962,34,DOCUMENTARY (Feature),"dell Istituto Nazionale Luce, Comitato Organizzatore Del Giochi Della XVII Olimpiade",La Grande Olimpiade (Olympic Games 1960),False
+56,1961,1962,34,DOCUMENTARY (Feature),"Arthur Cohn and Rene Lafuite, Producers",Le Ciel et la Boue (Sky Above and Mud Beneath),True
+57,1961,1962,34,DOCUMENTARY (Short Subject),United States Air Force,Breaking the Language Barrier,False
+58,1961,1962,34,DOCUMENTARY (Short Subject),"Jim O'Connor and Tom Hayes, Producers",Cradle of Genius,False
+59,1961,1962,34,DOCUMENTARY (Short Subject),Dido-Film-GmbH,Kahl,False
+60,1961,1962,34,DOCUMENTARY (Short Subject),"Benedetto Benedetti, Producer",L'Uomo in Grigio (The Man in Gray),False
+61,1961,1962,34,DOCUMENTARY (Short Subject),"Frank P. Bibas, Producer",Project Hope,True
+62,1961,1962,34,FILM EDITING,William H. Reynolds,Fanny,False
+63,1961,1962,34,FILM EDITING,Alan Osbiston,The Guns of Navarone,False
+64,1961,1962,34,FILM EDITING,Frederic Knudtson,Judgment at Nuremberg,False
+65,1961,1962,34,FILM EDITING,Philip W. Anderson,The Parent Trap,False
+66,1961,1962,34,FILM EDITING,Thomas Stanford,West Side Story,True
+67,1961,1962,34,FOREIGN LANGUAGE FILM,Denmark,Harry and the Butler,False
+68,1961,1962,34,FOREIGN LANGUAGE FILM,Japan,Immortal Love,False
+69,1961,1962,34,FOREIGN LANGUAGE FILM,Mexico,The Important Man,False
+70,1961,1962,34,FOREIGN LANGUAGE FILM,Spain,Placido,False
+71,1961,1962,34,FOREIGN LANGUAGE FILM,Sweden,Through a Glass Darkly,True
+72,1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Henry Mancini,Breakfast at Tiffany's,True
+73,1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,El Cid,False
+74,1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morris Stoloff, Harry Sukman",Fanny,False
+75,1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Guns of Navarone,False
+76,1961,1962,34,MUSIC (Music Score of a Dramatic or Comedy Picture),Elmer Bernstein,Summer and Smoke,False
+77,1961,1962,34,MUSIC (Scoring of a Musical Picture),George Bruns,Babes in Toyland,False
+78,1961,1962,34,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Ken Darby",Flower Drum Song,False
+79,1961,1962,34,MUSIC (Scoring of a Musical Picture),Dimitri Shostakovich,Khovanshchina,False
+80,1961,1962,34,MUSIC (Scoring of a Musical Picture),Duke Ellington,Paris Blues,False
+81,1961,1962,34,MUSIC (Scoring of a Musical Picture),"Saul Chaplin, Johnny Green, Sid Ramin, Irwin Kostal",West Side Story,True
+82,1961,1962,34,MUSIC (Song),Music by Henry Mancini; Lyrics by Mack David,Bachelor in Paradise,False
+83,1961,1962,34,MUSIC (Song),Music by Miklos Rozsa; Lyrics by Paul Francis Webster,El Cid,False
+84,1961,1962,34,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Breakfast at Tiffany's,True
+85,1961,1962,34,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Pocketful of Miracles,False
+86,1961,1962,34,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,Town without Pity,False
+87,1961,1962,34,BEST MOTION PICTURE,"Joshua Logan, Producer",Fanny,False
+88,1961,1962,34,BEST MOTION PICTURE,"Carl Foreman, Producer",The Guns of Navarone,False
+89,1961,1962,34,BEST MOTION PICTURE,"Robert Rossen, Producer",The Hustler,False
+90,1961,1962,34,BEST MOTION PICTURE,"Stanley Kramer, Producer",Judgment at Nuremberg,False
+91,1961,1962,34,BEST MOTION PICTURE,"Robert Wise, Producer",West Side Story,True
+92,1961,1962,34,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Aquamania,False
+93,1961,1962,34,SHORT SUBJECT (Cartoon),"Chuck Jones, Producer",Beep Prepared,False
+94,1961,1962,34,SHORT SUBJECT (Cartoon),Zagreb Film,Ersatz (The Substitute),True
+95,1961,1962,34,SHORT SUBJECT (Cartoon),"Chuck Jones, Producer",Nelly's Folly,False
+96,1961,1962,34,SHORT SUBJECT (Cartoon),"Friz Freleng, Producer",The Pied Piper of Guadalupe,False
+97,1961,1962,34,SHORT SUBJECT (Live Action),Ciné-Documents,Ballon Vole (Play Ball!),False
+98,1961,1962,34,SHORT SUBJECT (Live Action),"Dr. John D. Jennings, Producer",The Face of Jesus,False
+99,1961,1962,34,SHORT SUBJECT (Live Action),"Robert Gaffney, Producer",Rooftops of New York,False
+100,1961,1962,34,SHORT SUBJECT (Live Action),Templar Film Studios,Seawards the Great Ships,True
+101,1961,1962,34,SHORT SUBJECT (Live Action),National Film Board of Canada,"Very Nice, Very Nice",False
+102,1961,1962,34,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",The Children's Hour,False
+103,1961,1962,34,SOUND,"Revue Studio Sound Department, Waldon O. Watson, Sound Director",Flower Drum Song,False
+104,1961,1962,34,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",The Guns of Navarone,False
+105,1961,1962,34,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",The Parent Trap,False
+106,1961,1962,34,SOUND,"Todd-AO Sound Department, Fred Hynes, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",West Side Story,True
+107,1961,1962,34,SPECIAL EFFECTS,"Visual Effects by Robert A. Mattey, Eustace Lycett",The Absent Minded Professor,False
+108,1961,1962,34,SPECIAL EFFECTS,Visual Effects by Bill Warrington; Audible Effects by Vivian C. Greenham,The Guns of Navarone,True
+109,1961,1962,34,WRITING (Screenplay--based on material from another medium),George Axelrod,Breakfast at Tiffany's,False
+110,1961,1962,34,WRITING (Screenplay--based on material from another medium),Carl Foreman,The Guns of Navarone,False
+111,1961,1962,34,WRITING (Screenplay--based on material from another medium),"Sidney Carroll, Robert Rossen",The Hustler,False
+112,1961,1962,34,WRITING (Screenplay--based on material from another medium),Abby Mann,Judgment at Nuremberg,True
+113,1961,1962,34,WRITING (Screenplay--based on material from another medium),Ernest Lehman,West Side Story,False
+114,1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Valentin Yoshov, Grigori Chukhrai",Ballad of a Soldier,False
+115,1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Sergio Amidei, Diego Fabbri, Indro Montanelli",General Della Rovere,False
+116,1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Federico Fellini, Tullio Pinelli, Ennio Flaiano, Brunello Rondi",La Dolce Vita,False
+117,1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),"Stanley Shapiro, Paul Henning",Lover Come Back,False
+118,1961,1962,34,WRITING (Story and Screenplay--written directly for the screen),William Inge,Splendor in the Grass,True
+119,1961,1962,34,JEAN HERSHOLT HUMANITARIAN AWARD,George Seaton,,True
+120,1961,1962,34,HONORARY AWARD, William L. Hendricks for his outstanding patriotic service in the conception,,True
+121,1961,1962,34,HONORARY AWARD, Fred L. Metzler for his dedication and outstanding service to the Academy of Motion Picture Arts and Sciences.,,True
+122,1961,1962,34,HONORARY AWARD, Jerome Robbins for his brilliant achievements in the art of choreography on film.,,True
+123,1961,1962,34,IRVING G. THALBERG MEMORIAL AWARD,Stanley Kramer,,True

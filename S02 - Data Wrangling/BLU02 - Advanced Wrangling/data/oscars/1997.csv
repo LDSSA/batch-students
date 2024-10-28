@@ -1,0 +1,116 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1996,1997,69,ACTOR IN A LEADING ROLE,Tom Cruise,Jerry Maguire,False
+1,1996,1997,69,ACTOR IN A LEADING ROLE,Ralph Fiennes,The English Patient,False
+2,1996,1997,69,ACTOR IN A LEADING ROLE,Woody Harrelson,The People vs. Larry Flynt,False
+3,1996,1997,69,ACTOR IN A LEADING ROLE,Geoffrey Rush,Shine,True
+4,1996,1997,69,ACTOR IN A LEADING ROLE,Billy Bob Thornton,Sling Blade,False
+5,1996,1997,69,ACTOR IN A SUPPORTING ROLE,"Cuba Gooding, Jr.",Jerry Maguire,True
+6,1996,1997,69,ACTOR IN A SUPPORTING ROLE,William H. Macy,Fargo,False
+7,1996,1997,69,ACTOR IN A SUPPORTING ROLE,Armin Mueller-Stahl,Shine,False
+8,1996,1997,69,ACTOR IN A SUPPORTING ROLE,Edward Norton,Primal Fear,False
+9,1996,1997,69,ACTOR IN A SUPPORTING ROLE,James Woods,Ghosts of Mississippi,False
+10,1996,1997,69,ACTRESS IN A LEADING ROLE,Brenda Blethyn,Secrets & Lies,False
+11,1996,1997,69,ACTRESS IN A LEADING ROLE,Diane Keaton,Marvin's Room,False
+12,1996,1997,69,ACTRESS IN A LEADING ROLE,Frances McDormand,Fargo,True
+13,1996,1997,69,ACTRESS IN A LEADING ROLE,Kristin Scott Thomas,The English Patient,False
+14,1996,1997,69,ACTRESS IN A LEADING ROLE,Emily Watson,Breaking the Waves,False
+15,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Joan Allen,The Crucible,False
+16,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Lauren Bacall,The Mirror Has Two Faces,False
+17,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient,True
+18,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Barbara Hershey,The Portrait of a Lady,False
+19,1996,1997,69,ACTRESS IN A SUPPORTING ROLE,Marianne Jean-Baptiste,Secrets & Lies,False
+20,1996,1997,69,ART DIRECTION,Art Direction:  Bo Welch;  Set Decoration:  Cheryl Carasik,The Birdcage,False
+21,1996,1997,69,ART DIRECTION,Art Direction:  Stuart Craig;  Set Decoration:  Stephenie McMillan,The English Patient,True
+22,1996,1997,69,ART DIRECTION,Art Direction:  Brian Morris;  Set Decoration:  Philippe Turlure,Evita,False
+23,1996,1997,69,ART DIRECTION,Tim Harvey,Hamlet,False
+24,1996,1997,69,ART DIRECTION,Art Direction:  Catherine Martin;  Set Decoration:  Brigitte Broch,William Shakespeare's Romeo & Juliet,False
+25,1996,1997,69,CINEMATOGRAPHY,John Seale,The English Patient,True
+26,1996,1997,69,CINEMATOGRAPHY,Darius Khondji,Evita,False
+27,1996,1997,69,CINEMATOGRAPHY,Roger Deakins,Fargo,False
+28,1996,1997,69,CINEMATOGRAPHY,Caleb Deschanel,Fly Away Home,False
+29,1996,1997,69,CINEMATOGRAPHY,Chris Menges,Michael Collins,False
+30,1996,1997,69,COSTUME DESIGN,Paul Brown,Angels and Insects,False
+31,1996,1997,69,COSTUME DESIGN,Ruth Myers,Emma,False
+32,1996,1997,69,COSTUME DESIGN,Ann Roth,The English Patient,True
+33,1996,1997,69,COSTUME DESIGN,Alex Byrne,Hamlet,False
+34,1996,1997,69,COSTUME DESIGN,Janet Patterson,The Portrait of a Lady,False
+35,1996,1997,69,DIRECTING,Anthony Minghella,The English Patient,True
+36,1996,1997,69,DIRECTING,Joel Coen,Fargo,False
+37,1996,1997,69,DIRECTING,Milos Forman,The People vs. Larry Flynt,False
+38,1996,1997,69,DIRECTING,Mike Leigh,Secrets & Lies,False
+39,1996,1997,69,DIRECTING,Scott Hicks,Shine,False
+40,1996,1997,69,DOCUMENTARY (Feature),Susan W. Dryfoos,The Line King: The Al Hirschfeld Story,False
+41,1996,1997,69,DOCUMENTARY (Feature),"Jo Menell, Angus Gibson",Mandela,False
+42,1996,1997,69,DOCUMENTARY (Feature),"Anne Belle, Deborah Dickson",Suzanne Farrell: Elusive Muse,False
+43,1996,1997,69,DOCUMENTARY (Feature),Rick Goldsmith,Tell the Truth and Run: George Seldes and the American Press,False
+44,1996,1997,69,DOCUMENTARY (Feature),"Leon Gast, David Sonenberg",When We Were Kings,True
+45,1996,1997,69,DOCUMENTARY (Short Subject),Jessica Yu,Breathing Lessons: The Life and Work of Mark O'Brien,True
+46,1996,1997,69,DOCUMENTARY (Short Subject),"Jeffrey Marvin, Bayley Silleck",Cosmic Voyage,False
+47,1996,1997,69,DOCUMENTARY (Short Subject),Perry Wolff,An Essay on Matisse,False
+48,1996,1997,69,DOCUMENTARY (Short Subject),"Susanne Simpson, Ben Burtt",Special Effects,False
+49,1996,1997,69,DOCUMENTARY (Short Subject),"Paul Seydor, Nick Redman",The Wild Bunch: An Album in Montage,False
+50,1996,1997,69,FILM EDITING,Walter Murch,The English Patient,True
+51,1996,1997,69,FILM EDITING,Gerry Hambling,Evita,False
+52,1996,1997,69,FILM EDITING,Roderick Jaynes,Fargo,False
+53,1996,1997,69,FILM EDITING,Joe Hutshing,Jerry Maguire,False
+54,1996,1997,69,FILM EDITING,Pip Karmel,Shine,False
+55,1996,1997,69,FOREIGN LANGUAGE FILM,Georgia,A Chef in Love,False
+56,1996,1997,69,FOREIGN LANGUAGE FILM,Czech Republic,Kolya,True
+57,1996,1997,69,FOREIGN LANGUAGE FILM,Norway,The Other Side of Sunday,False
+58,1996,1997,69,FOREIGN LANGUAGE FILM,Russia,Prisoner of the Mountains,False
+59,1996,1997,69,FOREIGN LANGUAGE FILM,France,Ridicule,False
+60,1996,1997,69,MAKEUP,"Matthew W. Mungle, Deborah La Mia Denaver",Ghosts of Mississippi,False
+61,1996,1997,69,MAKEUP,"Rick Baker, David LeRoy Anderson",The Nutty Professor,True
+62,1996,1997,69,MAKEUP,"Michael Westmore, Scott Wheeler, Jake Garber",Star Trek: First Contact,False
+63,1996,1997,69,MUSIC (Original Dramatic Score),Gabriel Yared,The English Patient,True
+64,1996,1997,69,MUSIC (Original Dramatic Score),Patrick Doyle,Hamlet,False
+65,1996,1997,69,MUSIC (Original Dramatic Score),Elliot Goldenthal,Michael Collins,False
+66,1996,1997,69,MUSIC (Original Dramatic Score),David Hirschfelder,Shine,False
+67,1996,1997,69,MUSIC (Original Dramatic Score),John Williams,Sleepers,False
+68,1996,1997,69,MUSIC (Original Musical or Comedy Score),Rachel Portman,Emma,True
+69,1996,1997,69,MUSIC (Original Musical or Comedy Score),Marc Shaiman,The First Wives Club,False
+70,1996,1997,69,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,The Hunchback of Notre Dame,False
+71,1996,1997,69,MUSIC (Original Musical or Comedy Score),Randy Newman,James and the Giant Peach,False
+72,1996,1997,69,MUSIC (Original Musical or Comedy Score),Hans Zimmer,The Preacher's Wife,False
+73,1996,1997,69,MUSIC (Original Song),Music and Lyric by Diane Warren,Up Close and Personal,False
+74,1996,1997,69,MUSIC (Original Song),"Music and Lyric by James Newton Howard, Jud J. Friedman and Allan Dennis Rich",One Fine Day,False
+75,1996,1997,69,MUSIC (Original Song),"Music and Lyric by Barbra Streisand, Marvin Hamlisch, Bryan Adams and Robert 'Mutt' Lange",The Mirror Has Two Faces,False
+76,1996,1997,69,MUSIC (Original Song),Music and Lyric by Adam Schlesinger,That Thing You Do!,False
+77,1996,1997,69,MUSIC (Original Song),Music by Andrew Lloyd Webber; Lyric by Tim Rice,Evita,True
+78,1996,1997,69,BEST PICTURE,"Saul Zaentz, Producer",The English Patient,True
+79,1996,1997,69,BEST PICTURE,"Ethan Coen, Producer",Fargo,False
+80,1996,1997,69,BEST PICTURE,"James L. Brooks, Laurence Mark, Richard Sakai and Cameron Crowe, Producers",Jerry Maguire,False
+81,1996,1997,69,BEST PICTURE,"Simon Channing-Williams, Producer",Secrets & Lies,False
+82,1996,1997,69,BEST PICTURE,"Jane Scott, Producer",Shine,False
+83,1996,1997,69,SHORT FILM (Animated),"Timothy Hittle, Chris Peterson",Canhead,False
+84,1996,1997,69,SHORT FILM (Animated),Richard Condie,La Salla,False
+85,1996,1997,69,SHORT FILM (Animated),"Tyron Montgomery, Thomas Stellmach",Quest,True
+86,1996,1997,69,SHORT FILM (Animated),Peter Lord,Wat's Pig,False
+87,1996,1997,69,SHORT FILM (Live Action),Antonio Urrutia,"De Tripas, Corazon",False
+88,1996,1997,69,SHORT FILM (Live Action),"David Frankel, Barry Jossen",Dear Diary,True
+89,1996,1997,69,SHORT FILM (Live Action),"Kim Magnusson, Anders Thomas Jensen",Ernst & Lyset,False
+90,1996,1997,69,SHORT FILM (Live Action),Juan Carlos Fresnadillo,Esposados,False
+91,1996,1997,69,SHORT FILM (Live Action),"Bernadette Carranza, Antonello De Leo",Wordless,False
+92,1996,1997,69,SOUND,"Walter Murch, Mark Berger, David Parker, Chris Newman",The English Patient,True
+93,1996,1997,69,SOUND,"Andy Nelson, Anna Behlmer, Ken Weston",Evita,False
+94,1996,1997,69,SOUND,"Chris Carpenter, Bill W. Benton, Bob Beemer, Jeff Wexler",Independence Day,False
+95,1996,1997,69,SOUND,"Kevin O'Connell, Greg P. Russell, Keith A. Wester",The Rock,False
+96,1996,1997,69,SOUND,"Steve Maslow, Gregg Landaker, Kevin O'Connell, Geoffrey Patterson",Twister,False
+97,1996,1997,69,SOUND EFFECTS EDITING,"Richard L. Anderson, David A. Whittaker",Daylight,False
+98,1996,1997,69,SOUND EFFECTS EDITING,"Alan Robert Murray, Bub Asman",Eraser,False
+99,1996,1997,69,SOUND EFFECTS EDITING,Bruce Stambler,The Ghost and the Darkness,True
+100,1996,1997,69,VISUAL EFFECTS,"Scott Squires, Phil Tippett, James Straus, Kit West",Dragonheart,False
+101,1996,1997,69,VISUAL EFFECTS,"Volker Engel, Douglas Smith, Clay Pinney, Joseph Viskocil",Independence Day,True
+102,1996,1997,69,VISUAL EFFECTS,"Stefen Fangmeier, John Frazier, Habib Zargarpour, Henry La Bounta",Twister,False
+103,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Arthur Miller,The Crucible,False
+104,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Anthony Minghella,The English Patient,False
+105,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Kenneth Branagh,Hamlet,False
+106,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),Billy Bob Thornton,Sling Blade,True
+107,1996,1997,69,WRITING (Screenplay Based on Material Previously Produced or Published),John Hodge,Trainspotting,False
+108,1996,1997,69,WRITING (Screenplay Written Directly for the Screen),"Ethan Coen, Joel Coen",Fargo,True
+109,1996,1997,69,WRITING (Screenplay Written Directly for the Screen),Cameron Crowe,Jerry Maguire,False
+110,1996,1997,69,WRITING (Screenplay Written Directly for the Screen),John Sayles,Lone Star,False
+111,1996,1997,69,WRITING (Screenplay Written Directly for the Screen),Mike Leigh,Secrets & Lies,False
+112,1996,1997,69,WRITING (Screenplay Written Directly for the Screen),Screenplay by Jan Sardi;  Story by Scott Hicks,Shine,False
+113,1996,1997,69,HONORARY AWARD, Michael Kidd in recognition of his services to the art of the dance in the art of the screen.,,True
+114,1996,1997,69,IRVING G. THALBERG MEMORIAL AWARD,Saul Zaentz,,True

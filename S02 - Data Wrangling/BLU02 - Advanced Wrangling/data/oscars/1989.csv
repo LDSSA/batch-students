@@ -1,0 +1,107 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1988,1989,61,ACTOR IN A LEADING ROLE,Gene Hackman,Mississippi Burning,False
+1,1988,1989,61,ACTOR IN A LEADING ROLE,Tom Hanks,Big,False
+2,1988,1989,61,ACTOR IN A LEADING ROLE,Dustin Hoffman,Rain Man,True
+3,1988,1989,61,ACTOR IN A LEADING ROLE,Edward James Olmos,Stand and Deliver,False
+4,1988,1989,61,ACTOR IN A LEADING ROLE,Max von Sydow,Pelle the Conqueror,False
+5,1988,1989,61,ACTOR IN A SUPPORTING ROLE,Alec Guinness,Little Dorrit,False
+6,1988,1989,61,ACTOR IN A SUPPORTING ROLE,Kevin Kline,A Fish Called Wanda,True
+7,1988,1989,61,ACTOR IN A SUPPORTING ROLE,Martin Landau,Tucker The Man and His Dream,False
+8,1988,1989,61,ACTOR IN A SUPPORTING ROLE,River Phoenix,Running on Empty,False
+9,1988,1989,61,ACTOR IN A SUPPORTING ROLE,Dean Stockwell,Married to the Mob,False
+10,1988,1989,61,ACTRESS IN A LEADING ROLE,Glenn Close,Dangerous Liaisons,False
+11,1988,1989,61,ACTRESS IN A LEADING ROLE,Jodie Foster,The Accused,True
+12,1988,1989,61,ACTRESS IN A LEADING ROLE,Melanie Griffith,Working Girl,False
+13,1988,1989,61,ACTRESS IN A LEADING ROLE,Meryl Streep,A Cry in the Dark,False
+14,1988,1989,61,ACTRESS IN A LEADING ROLE,Sigourney Weaver,Gorillas in the Mist,False
+15,1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Joan Cusack,Working Girl,False
+16,1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Geena Davis,The Accidental Tourist,True
+17,1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,Mississippi Burning,False
+18,1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Michelle Pfeiffer,Dangerous Liaisons,False
+19,1988,1989,61,ACTRESS IN A SUPPORTING ROLE,Sigourney Weaver,Working Girl,False
+20,1988,1989,61,ART DIRECTION,Art Direction:  Albert Brenner;  Set Decoration:  Garrett Lewis,Beaches,False
+21,1988,1989,61,ART DIRECTION,Art Direction:  Stuart Craig;  Set Decoration:  Gerard James,Dangerous Liaisons,True
+22,1988,1989,61,ART DIRECTION,Art Direction:  Ida Random;  Set Decoration:  Linda DeScenna,Rain Man,False
+23,1988,1989,61,ART DIRECTION,Art Direction:  Dean Tavoularis;  Set Decoration:  Armin Ganz,Tucker The Man and His Dream,False
+24,1988,1989,61,ART DIRECTION,Art Direction:  Elliot Scott;  Set Decoration:  Peter Howitt,Who Framed Roger Rabbit,False
+25,1988,1989,61,CINEMATOGRAPHY,Peter Biziou,Mississippi Burning,True
+26,1988,1989,61,CINEMATOGRAPHY,John Seale,Rain Man,False
+27,1988,1989,61,CINEMATOGRAPHY,Conrad L. Hall,Tequila Sunrise,False
+28,1988,1989,61,CINEMATOGRAPHY,Sven Nykvist,The Unbearable Lightness of Being,False
+29,1988,1989,61,CINEMATOGRAPHY,Dean Cundey,Who Framed Roger Rabbit,False
+30,1988,1989,61,COSTUME DESIGN,Deborah Nadoolman,Coming to America,False
+31,1988,1989,61,COSTUME DESIGN,James Acheson,Dangerous Liaisons,True
+32,1988,1989,61,COSTUME DESIGN,Jane Robinson,A Handful of Dust,False
+33,1988,1989,61,COSTUME DESIGN,Patricia Norris,Sunset,False
+34,1988,1989,61,COSTUME DESIGN,Milena Canonero,Tucker The Man and His Dream,False
+35,1988,1989,61,DIRECTING,Charles Crichton,A Fish Called Wanda,False
+36,1988,1989,61,DIRECTING,Martin Scorsese,The Last Temptation of Christ,False
+37,1988,1989,61,DIRECTING,Alan Parker,Mississippi Burning,False
+38,1988,1989,61,DIRECTING,Barry Levinson,Rain Man,True
+39,1988,1989,61,DIRECTING,Mike Nichols,Working Girl,False
+40,1988,1989,61,DOCUMENTARY (Feature),"Robert Bilheimer and Ronald Mix, Producers",The Cry of Reason - Beyers Naudé: An Afrikaner Speaks Out,False
+41,1988,1989,61,DOCUMENTARY (Feature),"Marcel Ophuls, Producer",Hotel Terminus: The Life and Times of Klaus Barbie,True
+42,1988,1989,61,DOCUMENTARY (Feature),"Bruce Weber and Nan Bush, Producers",Let's Get Lost,False
+43,1988,1989,61,DOCUMENTARY (Feature),"Ginny Durrin, Producer",Promises to Keep,False
+44,1988,1989,61,DOCUMENTARY (Feature),"Renee Tajima and Christine Choy, Producers",Who Killed Vincent Chin?,False
+45,1988,1989,61,DOCUMENTARY (Short Subject),"Karen Goodman, Producer",The Children's Storefront,False
+46,1988,1989,61,DOCUMENTARY (Short Subject),"Lise Yasui and Ann Tegnell, Producers",Family Gathering,False
+47,1988,1989,61,DOCUMENTARY (Short Subject),"Thomas B. Fleming and Daniel J. Marks, Producers",Gang Cops,False
+48,1988,1989,61,DOCUMENTARY (Short Subject),"Nancy Hale and Meg Partridge, Producers",Portrait of Imogen,False
+49,1988,1989,61,DOCUMENTARY (Short Subject),"William Guttentag and Malcolm Clarke, Producers",You Don't Have to Die,True
+50,1988,1989,61,FILM EDITING,"Frank J. Urioste, John F. Link",Die Hard,False
+51,1988,1989,61,FILM EDITING,Stuart Baird,Gorillas in the Mist,False
+52,1988,1989,61,FILM EDITING,Gerry Hambling,Mississippi Burning,False
+53,1988,1989,61,FILM EDITING,Stu Linder,Rain Man,False
+54,1988,1989,61,FILM EDITING,Arthur Schmidt,Who Framed Roger Rabbit,True
+55,1988,1989,61,FOREIGN LANGUAGE FILM,Hungary,Hanussen,False
+56,1988,1989,61,FOREIGN LANGUAGE FILM,Belgium,The Music Teacher,False
+57,1988,1989,61,FOREIGN LANGUAGE FILM,Denmark,Pelle the Conqueror,True
+58,1988,1989,61,FOREIGN LANGUAGE FILM,India,Salaam Bombay!,False
+59,1988,1989,61,FOREIGN LANGUAGE FILM,Spain,Women on the Verge of a Nervous Breakdown,False
+60,1988,1989,61,MAKEUP,"Ve Neill, Steve La Porte, Robert Short",Beetlejuice,True
+61,1988,1989,61,MAKEUP,Rick Baker,Coming to America,False
+62,1988,1989,61,MAKEUP,"Tom Burman, Bari Dreiband-Burman",Scrooged,False
+63,1988,1989,61,MUSIC (Original Score),John Williams,The Accidental Tourist,False
+64,1988,1989,61,MUSIC (Original Score),George Fenton,Dangerous Liaisons,False
+65,1988,1989,61,MUSIC (Original Score),Maurice Jarre,Gorillas in the Mist,False
+66,1988,1989,61,MUSIC (Original Score),Dave Grusin,The Milagro Beanfield War,True
+67,1988,1989,61,MUSIC (Original Score),Hans Zimmer,Rain Man,False
+68,1988,1989,61,MUSIC (Original Song),Music and Lyric by Bob Telson,Bagdad Cafe,False
+69,1988,1989,61,MUSIC (Original Song),Music and Lyric by Carly Simon,Working Girl,True
+70,1988,1989,61,MUSIC (Original Song),Music by Lamont Dozier; Lyric by Phil Collins,Buster,False
+71,1988,1989,61,BEST PICTURE,"Lawrence Kasdan, Charles Okun and Michael Grillo, Producers",The Accidental Tourist,False
+72,1988,1989,61,BEST PICTURE,"Norma Heyman and Hank Moonjean, Producers",Dangerous Liaisons,False
+73,1988,1989,61,BEST PICTURE,"Frederick Zollo and Robert F. Colesberry, Producers",Mississippi Burning,False
+74,1988,1989,61,BEST PICTURE,"Mark Johnson, Producer",Rain Man,True
+75,1988,1989,61,BEST PICTURE,"Douglas Wick, Producer",Working Girl,False
+76,1988,1989,61,SHORT FILM (Animated),Cordell Barker,The Cat Came Back,False
+77,1988,1989,61,SHORT FILM (Animated),"Bill Kroyer, Brian Jennings",Technological Threat,False
+78,1988,1989,61,SHORT FILM (Animated),"John Lasseter, William Reeves",Tin Toy,True
+79,1988,1989,61,SHORT FILM (Live Action),"Dean Parisot, Steven Wright",The Appointments of Dennis Jennings,True
+80,1988,1989,61,SHORT FILM (Live Action),"Matia Karrell, Abbee Goldstein",Cadillac Dreams,False
+81,1988,1989,61,SHORT FILM (Live Action),"George deGolian, Gary Moss",Gullah Tales,False
+82,1988,1989,61,SOUND,"Les Fresholtz, Dick Alexander, Vern Poore, Willie D. Burton",Bird,True
+83,1988,1989,61,SOUND,"Don Bassman, Kevin F. Cleary, Richard Overton, Al Overton",Die Hard,False
+84,1988,1989,61,SOUND,"Andy Nelson, Brian Saunders, Peter Handford",Gorillas in the Mist,False
+85,1988,1989,61,SOUND,"Robert Litt, Elliot Tyson, Rick Kline, Danny Michael",Mississippi Burning,False
+86,1988,1989,61,SOUND,"Robert Knudson, John Boyd, Don Digirolamo, Tony Dawe",Who Framed Roger Rabbit,False
+87,1988,1989,61,SOUND EFFECTS EDITING,"Stephen H. Flick, Richard Shorr",Die Hard,False
+88,1988,1989,61,SOUND EFFECTS EDITING,"Charles L. Campbell, Louis L. Edemann",Who Framed Roger Rabbit,True
+89,1988,1989,61,SOUND EFFECTS EDITING,"Ben Burtt, Richard Hymns",Willow,False
+90,1988,1989,61,VISUAL EFFECTS,"Richard Edlund, Al DiSarro, Brent Boates, Thaine Morris",Die Hard,False
+91,1988,1989,61,VISUAL EFFECTS,"Ken Ralston, Richard Williams, Edward Jones, George Gibbs",Who Framed Roger Rabbit,True
+92,1988,1989,61,VISUAL EFFECTS,"Dennis Muren, Michael McAlister, Phil Tippett, Chris Evans",Willow,False
+93,1988,1989,61,WRITING (Screenplay Based on Material from Another Medium),"Frank Galati, Lawrence Kasdan",The Accidental Tourist,False
+94,1988,1989,61,WRITING (Screenplay Based on Material from Another Medium),Christopher Hampton,Dangerous Liaisons,True
+95,1988,1989,61,WRITING (Screenplay Based on Material from Another Medium),"Screenplay by Anna Hamilton Phelan;  Story by Anna Hamilton Phelan, Tab Murphy",Gorillas in the Mist,False
+96,1988,1989,61,WRITING (Screenplay Based on Material from Another Medium),Christine Edzard,Little Dorrit,False
+97,1988,1989,61,WRITING (Screenplay Based on Material from Another Medium),"Jean-Claude Carrière, Philip Kaufman",The Unbearable Lightness of Being,False
+98,1988,1989,61,WRITING (Screenplay Written Directly for the Screen),"Gary Ross, Anne Spielberg",Big,False
+99,1988,1989,61,WRITING (Screenplay Written Directly for the Screen),Ron Shelton,Bull Durham,False
+100,1988,1989,61,WRITING (Screenplay Written Directly for the Screen),"Screenplay by John Cleese;  Story by John Cleese, Charles Crichton",A Fish Called Wanda,False
+101,1988,1989,61,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Ronald Bass, Barry Morrow;  Story by Barry Morrow",Rain Man,True
+102,1988,1989,61,WRITING (Screenplay Written Directly for the Screen),Naomi Foner,Running on Empty,False
+103,1988,1989,61,SPECIAL ACHIEVEMENT AWARD, Richard Williams for the animation direction of Who Framed Roger Rabbit.,,True
+104,1988,1989,61,HONORARY AWARD, the National Film Board of Canada in recognition of its 50th anniversary and its dedicated commitment to originate artistic,,True
+105,1988,1989,61,HONORARY AWARD, Eastman Kodak Company in recognition of the company's fundamental contributions to the art of motion pictures during the first century of film history.,,True

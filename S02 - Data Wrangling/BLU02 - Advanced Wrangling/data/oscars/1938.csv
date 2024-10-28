@@ -1,0 +1,124 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1937,1938,10,ACTOR,Charles Boyer,Conquest,False
+1,1937,1938,10,ACTOR,Fredric March,A Star Is Born,False
+2,1937,1938,10,ACTOR,Robert Montgomery,Night Must Fall,False
+3,1937,1938,10,ACTOR,Paul Muni,The Life of Emile Zola,False
+4,1937,1938,10,ACTOR,Spencer Tracy,Captains Courageous,True
+5,1937,1938,10,ACTOR IN A SUPPORTING ROLE,Ralph Bellamy,The Awful Truth,False
+6,1937,1938,10,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,The Hurricane,False
+7,1937,1938,10,ACTOR IN A SUPPORTING ROLE,Joseph Schildkraut,The Life of Emile Zola,True
+8,1937,1938,10,ACTOR IN A SUPPORTING ROLE,H. B. Warner,Lost Horizon,False
+9,1937,1938,10,ACTOR IN A SUPPORTING ROLE,Roland Young,Topper,False
+10,1937,1938,10,ACTRESS,Irene Dunne,The Awful Truth,False
+11,1937,1938,10,ACTRESS,Greta Garbo,Camille,False
+12,1937,1938,10,ACTRESS,Janet Gaynor,A Star Is Born,False
+13,1937,1938,10,ACTRESS,Luise Rainer,The Good Earth,True
+14,1937,1938,10,ACTRESS,Barbara Stanwyck,Stella Dallas,False
+15,1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Alice Brady,In Old Chicago,True
+16,1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Andrea Leeds,Stage Door,False
+17,1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Anne Shirley,Stella Dallas,False
+18,1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Dead End,False
+19,1937,1938,10,ACTRESS IN A SUPPORTING ROLE,Dame May Whitty,Night Must Fall,False
+20,1937,1938,10,ART DIRECTION,"Cedric Gibbons, William Horning",Conquest,False
+21,1937,1938,10,ART DIRECTION,Carroll Clark,A Damsel in Distress,False
+22,1937,1938,10,ART DIRECTION,Richard Day,Dead End,False
+23,1937,1938,10,ART DIRECTION,Wiard Ihnen,Every Day's a Holiday,False
+24,1937,1938,10,ART DIRECTION,Anton Grot,The Life of Emile Zola,False
+25,1937,1938,10,ART DIRECTION,Stephen Goosson,Lost Horizon,True
+26,1937,1938,10,ART DIRECTION,John Victor Mackay,Manhattan Merry-Go-Round,False
+27,1937,1938,10,ART DIRECTION,Lyle Wheeler,The Prisoner of Zenda,False
+28,1937,1938,10,ART DIRECTION,"Hans Dreier, Roland Anderson",Souls at Sea,False
+29,1937,1938,10,ART DIRECTION,Alexander Toluboff,Walter Wanger's Vogues of 1938,False
+30,1937,1938,10,ART DIRECTION,"William S. Darling, David Hall",Wee Willie Winkie,False
+31,1937,1938,10,ART DIRECTION,Jack Otterson,You're a Sweetheart,False
+32,1937,1938,10,ASSISTANT DIRECTOR,Robert Webb,In Old Chicago,True
+33,1937,1938,10,ASSISTANT DIRECTOR,Russ Saunders,The Life of Emile Zola,False
+34,1937,1938,10,ASSISTANT DIRECTOR,"C. C. Coleman, Jr.",Lost Horizon,False
+35,1937,1938,10,ASSISTANT DIRECTOR,Hal Walker,Souls at Sea,False
+36,1937,1938,10,ASSISTANT DIRECTOR,Eric Stacey,A Star Is Born,False
+37,1937,1938,10,CINEMATOGRAPHY,Gregg Toland,Dead End,False
+38,1937,1938,10,CINEMATOGRAPHY,Karl Freund,The Good Earth,True
+39,1937,1938,10,CINEMATOGRAPHY,Joseph Valentine,Wings over Honolulu,False
+40,1937,1938,10,DANCE DIRECTION,Busby Berkeley,Varsity Show,False
+41,1937,1938,10,DANCE DIRECTION,Bobby Connolly,"Ready, Willing and Able",False
+42,1937,1938,10,DANCE DIRECTION,Dave Gould,A Day at the Races,False
+43,1937,1938,10,DANCE DIRECTION,Sammy Lee,Ali Baba Goes to Town,False
+44,1937,1938,10,DANCE DIRECTION,Harry Losee,Thin Ice,False
+45,1937,1938,10,DANCE DIRECTION,Hermes Pan,A Damsel in Distress,True
+46,1937,1938,10,DANCE DIRECTION,LeRoy Prinz,Waikiki Wedding,False
+47,1937,1938,10,DIRECTING,Leo McCarey,The Awful Truth,True
+48,1937,1938,10,DIRECTING,Sidney Franklin,The Good Earth,False
+49,1937,1938,10,DIRECTING,William Dieterle,The Life of Emile Zola,False
+50,1937,1938,10,DIRECTING,Gregory La Cava,Stage Door,False
+51,1937,1938,10,DIRECTING,William Wellman,A Star Is Born,False
+52,1937,1938,10,FILM EDITING,Al Clark,The Awful Truth,False
+53,1937,1938,10,FILM EDITING,Elmo Veron,Captains Courageous,False
+54,1937,1938,10,FILM EDITING,Basil Wrangell,The Good Earth,False
+55,1937,1938,10,FILM EDITING,"Gene Havlick, Gene Milford",Lost Horizon,True
+56,1937,1938,10,FILM EDITING,Bernard W. Burton,One Hundred Men and a Girl,False
+57,1937,1938,10,MUSIC (Scoring),"Samuel Goldwyn Studio Music Department, Alfred Newman, head of department  (Score by Alfred Newman)",The Hurricane,False
+58,1937,1938,10,MUSIC (Scoring),"20th Century-Fox Studio Music Department, Louis Silvers, head of department  (no composer credit)",In Old Chicago,False
+59,1937,1938,10,MUSIC (Scoring),"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Max Steiner)",The Life of Emile Zola,False
+60,1937,1938,10,MUSIC (Scoring),"Columbia Studio Music Department, Morris Stoloff, head of department  (Score by Dimitri Tiomkin)",Lost Horizon,False
+61,1937,1938,10,MUSIC (Scoring),"Principal Productions, Dr. Hugo Riesenfeld, musical director  (Score by Dr. Hugo Riesenfeld)",Make a Wish,False
+62,1937,1938,10,MUSIC (Scoring),"Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",Maytime,False
+63,1937,1938,10,MUSIC (Scoring),"Universal Studio Music Department, Charles Previn, head of department  (no composer credit)",One Hundred Men and a Girl,True
+64,1937,1938,10,MUSIC (Scoring),"Republic Studio Music Department, Alberto Colombo, head of department  (Score by Alberto Colombo)",Portia on Trial,False
+65,1937,1938,10,MUSIC (Scoring),"Selznick International Pictures Music Department, Alfred Newman, musical director  (Score by Alfred Newman)",The Prisoner of Zenda,False
+66,1937,1938,10,MUSIC (Scoring),"RKO Radio Studio Music Department, Roy Webb, musical director  (Score by Roy Webb)",Quality Street,False
+67,1937,1938,10,MUSIC (Scoring),"Walt Disney Studio Music Department, Leigh Harline, head of department  (Score by Frank Churchill, Leigh Harline and Paul J. Smith)",Snow White and the Seven Dwarfs,False
+68,1937,1938,10,MUSIC (Scoring),"Grand National Studio Music Department, C. Bakaleinikoff, musical director  (Score by Victor Schertzinger)",Something to Sing About,False
+69,1937,1938,10,MUSIC (Scoring),"Paramount Studio Music Department, Boris Morros, head of department  (Score by W. Franke Harling and Milan Roder)",Souls at Sea,False
+70,1937,1938,10,MUSIC (Scoring),"Hal Roach Studio Music Department, Marvin Hatley, head of department  (Score by Marvin Hatley)",Way Out West,False
+71,1937,1938,10,MUSIC (Song),Music by Harry Warren; Lyrics by Al Dubin,Mr. Dodd Takes the Air,False
+72,1937,1938,10,MUSIC (Song),Music and Lyrics by Harry Owens,Waikiki Wedding,True
+73,1937,1938,10,MUSIC (Song),Music by Sammy Fain; Lyrics by Lew Brown,Walter Wanger's Vogues of 1938,False
+74,1937,1938,10,MUSIC (Song),Music by George Gershwin; Lyrics by Ira Gershwin,Shall We Dance,False
+75,1937,1938,10,MUSIC (Song),Music by Frederick Hollander; Lyrics by Leo Robin,Artists and Models,False
+76,1937,1938,10,OUTSTANDING PRODUCTION,Columbia,The Awful Truth,False
+77,1937,1938,10,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Captains Courageous,False
+78,1937,1938,10,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Dead End,False
+79,1937,1938,10,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Good Earth,False
+80,1937,1938,10,OUTSTANDING PRODUCTION,20th Century-Fox,In Old Chicago,False
+81,1937,1938,10,OUTSTANDING PRODUCTION,Warner Bros.,The Life of Emile Zola,True
+82,1937,1938,10,OUTSTANDING PRODUCTION,Columbia,Lost Horizon,False
+83,1937,1938,10,OUTSTANDING PRODUCTION,Universal,One Hundred Men and a Girl,False
+84,1937,1938,10,OUTSTANDING PRODUCTION,RKO Radio,Stage Door,False
+85,1937,1938,10,OUTSTANDING PRODUCTION,Selznick International Pictures,A Star Is Born,False
+86,1937,1938,10,SHORT SUBJECT (Cartoon),Paramount,Educated Fish,False
+87,1937,1938,10,SHORT SUBJECT (Cartoon),"Charles Mintz, Producer",The Little Match Girl,False
+88,1937,1938,10,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Old Mill,True
+89,1937,1938,10,SHORT SUBJECT (Color),Warner Bros.,The Man without a Country,False
+90,1937,1938,10,SHORT SUBJECT (Color),"Pete Smith, Producer",Penny Wisdom,True
+91,1937,1938,10,SHORT SUBJECT (Color),Paramount,Popular Science J-7-1,False
+92,1937,1938,10,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,A Night at the Movies,False
+93,1937,1938,10,SHORT SUBJECT (One-reel),Skibo Productions,The Private Life of the Gannets,True
+94,1937,1938,10,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Romance of Radium,False
+95,1937,1938,10,SHORT SUBJECT (Two-reel),RKO Radio,Deep South,False
+96,1937,1938,10,SHORT SUBJECT (Two-reel),RKO Radio,Should Wives Work?,False
+97,1937,1938,10,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Torture Money,True
+98,1937,1938,10,SOUND RECORDING,"Grand National Studio Sound Department, A. E. Kaye, Sound Director",The Girl Said No,False
+99,1937,1938,10,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",Hitting a New High,False
+100,1937,1938,10,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Hurricane,True
+101,1937,1938,10,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",In Old Chicago,False
+102,1937,1938,10,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",The Life of Emile Zola,False
+103,1937,1938,10,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Lost Horizon,False
+104,1937,1938,10,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Maytime,False
+105,1937,1938,10,SOUND RECORDING,"Universal Studio Sound Department, Homer G. Tasker, Sound Director",One Hundred Men and a Girl,False
+106,1937,1938,10,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",Topper,False
+107,1937,1938,10,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",Wells Fargo,False
+108,1937,1938,10,WRITING (Original Story),Robert Lord,Black Legion,False
+109,1937,1938,10,WRITING (Original Story),Niven Busch,In Old Chicago,False
+110,1937,1938,10,WRITING (Original Story),"Heinz Herald, Geza Herczeg",The Life of Emile Zola,False
+111,1937,1938,10,WRITING (Original Story),Hans Kraly,One Hundred Men and a Girl,False
+112,1937,1938,10,WRITING (Original Story),"William A. Wellman, Robert Carson",A Star Is Born,True
+113,1937,1938,10,WRITING (Screenplay),Vina Delmar,The Awful Truth,False
+114,1937,1938,10,WRITING (Screenplay),"John Lee Mahin, Marc Connelly, Dale Van Every",Captains Courageous,False
+115,1937,1938,10,WRITING (Screenplay),"Norman Reilly Raine, Heinz Herald, Geza Herczeg",The Life of Emile Zola,True
+116,1937,1938,10,WRITING (Screenplay),"Morris Ryskind, Anthony Veiller",Stage Door,False
+117,1937,1938,10,WRITING (Screenplay),"Dorothy Parker, Alan Campbell, Robert Carson",A Star Is Born,False
+118,1937,1938,10,SPECIAL AWARD, Mack Sennett,,True
+119,1937,1938,10,SPECIAL AWARD, Edgar Bergen for his outstanding comedy creation,,True
+120,1937,1938,10,SPECIAL AWARD, The Museum of Modern Art Film Library for its significant work in collecting films dating from 1895 to the present and for the first time making available to the public the means of studying the historical and aesthetic development of the motion picture as one of the major arts.,,True
+121,1937,1938,10,SPECIAL AWARD, W. Howard Greene for the color photography of A Star Is Born.  (This Award was recommended by a committee of leading cinematographers after viewing all the color pictures made during the year.),,True
+122,1937,1938,10,IRVING G. THALBERG MEMORIAL AWARD,Darryl F. Zanuck,,True

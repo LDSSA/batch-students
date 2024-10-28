@@ -1,0 +1,43 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1929,1930,3,ACTOR,George Arliss,Disraeli,True
+1,1929,1930,3,ACTOR,George Arliss,The Green Goddess,False
+2,1929,1930,3,ACTOR,Wallace Beery,The Big House,False
+3,1929,1930,3,ACTOR,Maurice Chevalier,The Big Pond,False
+4,1929,1930,3,ACTOR,Ronald Colman,Bulldog Drummond,False
+5,1929,1930,3,ACTOR,Lawrence Tibbett,The Rogue Song,False
+6,1929,1930,3,ACTRESS,Nancy Carroll,The Devil's Holiday,False
+7,1929,1930,3,ACTRESS,Ruth Chatterton,Sarah and Son,False
+8,1929,1930,3,ACTRESS,Greta Garbo,Anna Christie,False
+9,1929,1930,3,ACTRESS,Norma Shearer,The Divorcee,True
+10,1929,1930,3,ACTRESS,Norma Shearer,Their Own Desire,False
+11,1929,1930,3,ACTRESS,Gloria Swanson,The Trespasser,False
+12,1929,1930,3,ART DIRECTION,(William Cameron Menzies),Bulldog Drummond,False
+13,1929,1930,3,ART DIRECTION,Herman Rosse,King of Jazz,True
+14,1929,1930,3,ART DIRECTION,(Hans Dreier),The Love Parade,False
+15,1929,1930,3,ART DIRECTION,(Jack Okey),Sally,False
+16,1929,1930,3,ART DIRECTION,(Hans Dreier),The Vagabond King,False
+17,1929,1930,3,CINEMATOGRAPHY,(Arthur Edeson),All Quiet on the Western Front,False
+18,1929,1930,3,CINEMATOGRAPHY,(William Daniels),Anna Christie,False
+19,1929,1930,3,CINEMATOGRAPHY,"(Gaetano Gaudio), (Harry Perry)",Hell's Angels,False
+20,1929,1930,3,CINEMATOGRAPHY,(Victor Milner),The Love Parade,False
+21,1929,1930,3,CINEMATOGRAPHY,"Joseph T. Rucker, Willard Van Der Veer",With Byrd at the South Pole,True
+22,1929,1930,3,DIRECTING,Clarence Brown,Anna Christie;,False
+23,1929,1930,3,DIRECTING,Robert Leonard,The Divorcee,False
+24,1929,1930,3,DIRECTING,Ernst Lubitsch,The Love Parade,False
+25,1929,1930,3,DIRECTING,Lewis Milestone,All Quiet on the Western Front,True
+26,1929,1930,3,DIRECTING,King Vidor,Hallelujah,False
+27,1929,1930,3,OUTSTANDING PRODUCTION,Universal,All Quiet on the Western Front,True
+28,1929,1930,3,OUTSTANDING PRODUCTION,Cosmopolitan,The Big House,False
+29,1929,1930,3,OUTSTANDING PRODUCTION,Warner Bros.,Disraeli,False
+30,1929,1930,3,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Divorcee,False
+31,1929,1930,3,OUTSTANDING PRODUCTION,Paramount Famous Lasky,The Love Parade,False
+32,1929,1930,3,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Big House,True
+33,1929,1930,3,SOUND RECORDING,"(RKO Radio Studio Sound Department, John Tribby, Sound Director)",The Case of Sergeant Grischa,False
+34,1929,1930,3,SOUND RECORDING,"(Paramount Famous Lasky Studio Sound Department, Franklin Hansen, Sound Director)",The Love Parade,False
+35,1929,1930,3,SOUND RECORDING,"(United Artists Studio Sound Department, Oscar Lagerstrom, Sound Director)",Raffles,False
+36,1929,1930,3,SOUND RECORDING,"(First National Studio Sound Department, George Groves, Sound Director)",Song of the Flame,False
+37,1929,1930,3,WRITING,"(George Abbott), (Maxwell Anderson), (Del Andrews)",All Quiet on the Western Front,False
+38,1929,1930,3,WRITING,Frances Marion,The Big House,True
+39,1929,1930,3,WRITING,(Julian Josephson),Disraeli,False
+40,1929,1930,3,WRITING,(John Meehan),The Divorcee,False
+41,1929,1930,3,WRITING,(Howard Estabrook),Street of Chance,False

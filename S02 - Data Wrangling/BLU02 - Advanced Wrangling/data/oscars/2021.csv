@@ -1,0 +1,121 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2020,2021,93,ACTOR IN A LEADING ROLE,Riz Ahmed,Sound of Metal,False
+1,2020,2021,93,ACTOR IN A LEADING ROLE,Chadwick Boseman,Ma Rainey's Black Bottom,False
+2,2020,2021,93,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Father,True
+3,2020,2021,93,ACTOR IN A LEADING ROLE,Gary Oldman,Mank,False
+4,2020,2021,93,ACTOR IN A LEADING ROLE,Steven Yeun,Minari,False
+5,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Sacha Baron Cohen,The Trial of the Chicago 7,False
+6,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Daniel Kaluuya,Judas and the Black Messiah,True
+7,2020,2021,93,ACTOR IN A SUPPORTING ROLE,"Leslie Odom, Jr.",One Night in Miami...,False
+8,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Paul Raci,Sound of Metal,False
+9,2020,2021,93,ACTOR IN A SUPPORTING ROLE,Lakeith Stanfield,Judas and the Black Messiah,False
+10,2020,2021,93,ACTRESS IN A LEADING ROLE,Viola Davis,Ma Rainey's Black Bottom,False
+11,2020,2021,93,ACTRESS IN A LEADING ROLE,Andra Day,The United States vs. Billie Holiday,False
+12,2020,2021,93,ACTRESS IN A LEADING ROLE,Vanessa Kirby,Pieces of a Woman,False
+13,2020,2021,93,ACTRESS IN A LEADING ROLE,Frances McDormand,Nomadland,True
+14,2020,2021,93,ACTRESS IN A LEADING ROLE,Carey Mulligan,Promising Young Woman,False
+15,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Maria Bakalova,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,False
+16,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Glenn Close,Hillbilly Elegy,False
+17,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Olivia Colman,The Father,False
+18,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Amanda Seyfried,Mank,False
+19,2020,2021,93,ACTRESS IN A SUPPORTING ROLE,Yuh-Jung Youn,Minari,True
+20,2020,2021,93,ANIMATED FEATURE FILM,Dan Scanlon and Kori Rae,Onward,False
+21,2020,2021,93,ANIMATED FEATURE FILM,"Glen Keane, Gennie Rim and Peilin Chou",Over the Moon,False
+22,2020,2021,93,ANIMATED FEATURE FILM,"Richard Phelan, Will Becher and Paul Kewley",A Shaun the Sheep Movie: Farmageddon,False
+23,2020,2021,93,ANIMATED FEATURE FILM,Pete Docter and Dana Murray,Soul,True
+24,2020,2021,93,ANIMATED FEATURE FILM,"Tomm Moore, Ross Stewart, Paul Young and Stéphan Roelants",Wolfwalkers,False
+25,2020,2021,93,CINEMATOGRAPHY,Sean Bobbitt,Judas and the Black Messiah,False
+26,2020,2021,93,CINEMATOGRAPHY,Erik Messerschmidt,Mank,True
+27,2020,2021,93,CINEMATOGRAPHY,Dariusz Wolski,News of the World,False
+28,2020,2021,93,CINEMATOGRAPHY,Joshua James Richards,Nomadland,False
+29,2020,2021,93,CINEMATOGRAPHY,Phedon Papamichael,The Trial of the Chicago 7,False
+30,2020,2021,93,COSTUME DESIGN,Alexandra Byrne,Emma,False
+31,2020,2021,93,COSTUME DESIGN,Ann Roth,Ma Rainey's Black Bottom,True
+32,2020,2021,93,COSTUME DESIGN,Trish Summerville,Mank,False
+33,2020,2021,93,COSTUME DESIGN,Bina Daigeler,Mulan,False
+34,2020,2021,93,COSTUME DESIGN,Massimo Cantini Parrini,Pinocchio,False
+35,2020,2021,93,DIRECTING,Thomas Vinterberg,Another Round,False
+36,2020,2021,93,DIRECTING,David Fincher,Mank,False
+37,2020,2021,93,DIRECTING,Lee Isaac Chung,Minari,False
+38,2020,2021,93,DIRECTING,Chloé Zhao,Nomadland,True
+39,2020,2021,93,DIRECTING,Emerald Fennell,Promising Young Woman,False
+40,2020,2021,93,DOCUMENTARY (Feature),Alexander Nanau and Bianca Oana,Collective,False
+41,2020,2021,93,DOCUMENTARY (Feature),"Nicole Newnham, Jim LeBrecht and Sara Bolder",Crip Camp,False
+42,2020,2021,93,DOCUMENTARY (Feature),Maite Alberdi and Marcela Santibáñez,The Mole Agent,False
+43,2020,2021,93,DOCUMENTARY (Feature),"Pippa Ehrlich, James Reed and Craig Foster",My Octopus Teacher,True
+44,2020,2021,93,DOCUMENTARY (Feature),"Garrett Bradley, Lauren Domino and Kellen Quinn",Time,False
+45,2020,2021,93,DOCUMENTARY (Short Subject),Anthony Giacchino and Alice Doyard,Colette,True
+46,2020,2021,93,DOCUMENTARY (Short Subject),Ben Proudfoot and Kris Bowers,A Concerto Is a Conversation,False
+47,2020,2021,93,DOCUMENTARY (Short Subject),Anders Hammer and Charlotte Cook,Do Not Split,False
+48,2020,2021,93,DOCUMENTARY (Short Subject),Skye Fitzgerald and Michael Scheuerman,Hunger Ward,False
+49,2020,2021,93,DOCUMENTARY (Short Subject),Sophia Nahli Allison and Janice Duncan,A Love Song for Latasha,False
+50,2020,2021,93,FILM EDITING,Yorgos Lamprinos,The Father,False
+51,2020,2021,93,FILM EDITING,Chloé Zhao,Nomadland,False
+52,2020,2021,93,FILM EDITING,Frédéric Thoraval,Promising Young Woman,False
+53,2020,2021,93,FILM EDITING,Mikkel E. G. Nielsen,Sound of Metal,True
+54,2020,2021,93,FILM EDITING,Alan Baumgarten,The Trial of the Chicago 7,False
+55,2020,2021,93,INTERNATIONAL FEATURE FILM,Denmark,Another Round,True
+56,2020,2021,93,INTERNATIONAL FEATURE FILM,Hong Kong,Better Days,False
+57,2020,2021,93,INTERNATIONAL FEATURE FILM,Romania,Collective,False
+58,2020,2021,93,INTERNATIONAL FEATURE FILM,Tunisia,The Man Who Sold His Skin,False
+59,2020,2021,93,INTERNATIONAL FEATURE FILM,Bosnia and Herzegovina,"Quo Vadis, Aida?",False
+60,2020,2021,93,MAKEUP AND HAIRSTYLING,"Marese Langan, Laura Allen and Claudia Stolze",Emma,False
+61,2020,2021,93,MAKEUP AND HAIRSTYLING,"Eryn Krueger Mekash, Matthew Mungle and Patricia Dehaney",Hillbilly Elegy,False
+62,2020,2021,93,MAKEUP AND HAIRSTYLING,"Sergio Lopez-Rivera, Mia Neal and Jamika Wilson",Ma Rainey's Black Bottom,True
+63,2020,2021,93,MAKEUP AND HAIRSTYLING,"Gigi Williams, Kimberley Spiteri and Colleen LaBaff",Mank,False
+64,2020,2021,93,MAKEUP AND HAIRSTYLING,"Mark Coulier, Dalia Colli and Francesco Pegoretti",Pinocchio,False
+65,2020,2021,93,MUSIC (Original Score),Terence Blanchard,Da 5 Bloods,False
+66,2020,2021,93,MUSIC (Original Score),Trent Reznor and Atticus Ross,Mank,False
+67,2020,2021,93,MUSIC (Original Score),Emile Mosseri,Minari,False
+68,2020,2021,93,MUSIC (Original Score),James Newton Howard,News of the World,False
+69,2020,2021,93,MUSIC (Original Score),"Trent Reznor, Atticus Ross and Jon Batiste",Soul,True
+70,2020,2021,93,MUSIC (Original Song),Music by H.E.R. and Dernst Emile II; Lyric by H.E.R. and Tiara Thomas,Judas and the Black Messiah,True
+71,2020,2021,93,MUSIC (Original Song),Music by Daniel Pemberton; Lyric by Daniel Pemberton and Celeste Waite,The Trial of the Chicago 7,False
+72,2020,2021,93,MUSIC (Original Song),"Music and Lyric by Savan Kotecha, Fat Max Gsus and Rickard Göransson",Eurovision Song Contest: The Story of Fire Saga,False
+73,2020,2021,93,MUSIC (Original Song),Music by Diane Warren; Lyric by Diane Warren and Laura Pausini,The Life Ahead (La Vita Davanti a Se),False
+74,2020,2021,93,MUSIC (Original Song),"Music and Lyric by Leslie Odom, Jr. and Sam Ashworth",One Night in Miami...,False
+75,2020,2021,93,BEST PICTURE,"David Parfitt, Jean-Louis Livi and Philippe Carcassonne, Producers",The Father,False
+76,2020,2021,93,BEST PICTURE,"Shaka King, Charles D. King and Ryan Coogler, Producers",Judas and the Black Messiah,False
+77,2020,2021,93,BEST PICTURE,"Ceán Chaffin, Eric Roth and Douglas Urbanski, Producers",Mank,False
+78,2020,2021,93,BEST PICTURE,"Christina Oh, Producer",Minari,False
+79,2020,2021,93,BEST PICTURE,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers",Nomadland,True
+80,2020,2021,93,BEST PICTURE,"Ben Browning, Ashley Fox, Emerald Fennell and Josey McNamara, Producers",Promising Young Woman,False
+81,2020,2021,93,BEST PICTURE,"Bert Hamelinck and Sacha Ben Harroche, Producers",Sound of Metal,False
+82,2020,2021,93,BEST PICTURE,"Marc Platt and Stuart Besser, Producers",The Trial of the Chicago 7,False
+83,2020,2021,93,PRODUCTION DESIGN,Production Design: Peter Francis; Set Decoration: Cathy Featherstone,The Father,False
+84,2020,2021,93,PRODUCTION DESIGN,Production Design: Mark Ricker; Set Decoration: Karen O'Hara and Diana Stoughton,Ma Rainey's Black Bottom,False
+85,2020,2021,93,PRODUCTION DESIGN,Production Design: Donald Graham Burt; Set Decoration: Jan Pascale,Mank,True
+86,2020,2021,93,PRODUCTION DESIGN,Production Design: David Crank; Set Decoration: Elizabeth Keenan,News of the World,False
+87,2020,2021,93,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,Tenet,False
+88,2020,2021,93,SHORT FILM (Animated),Madeline Sharafian and Michael Capbarat,Burrow,False
+89,2020,2021,93,SHORT FILM (Animated),Adrien Mérigeau and Amaury Ovise,Genius Loci,False
+90,2020,2021,93,SHORT FILM (Animated),Will McCormack and Michael Govier,If Anything Happens I Love You,True
+91,2020,2021,93,SHORT FILM (Animated),Erick Oh,Opera,False
+92,2020,2021,93,SHORT FILM (Animated),Gísli Darri Halldórsson and Arnar Gunnarsson,Yes-People,False
+93,2020,2021,93,SHORT FILM (Live Action),Doug Roland and Susan Ruzenski,Feeling Through,False
+94,2020,2021,93,SHORT FILM (Live Action),Elvira Lind and Sofia Sondervan,The Letter Room,False
+95,2020,2021,93,SHORT FILM (Live Action),Farah Nabulsi and Ossama Bawardi,The Present,False
+96,2020,2021,93,SHORT FILM (Live Action),Travon Free and Martin Desmond Roe,Two Distant Strangers,True
+97,2020,2021,93,SHORT FILM (Live Action),Tomer Shushan and Shira Hochman,White Eye,False
+98,2020,2021,93,SOUND,"Warren Shaw, Michael Minkler, Beau Borders and David Wyman",Greyhound,False
+99,2020,2021,93,SOUND,"Ren Klyce, Jeremy Molod, David Parker, Nathan Nance and Drew Kunin",Mank,False
+100,2020,2021,93,SOUND,"Oliver Tarney, Mike Prestwood Smith, William Miller and John Pritchett",News of the World,False
+101,2020,2021,93,SOUND,"Ren Klyce, Coya Elliott and David Parker",Soul,False
+102,2020,2021,93,SOUND,"Nicolas Becker, Jaime Baksht, Michellee Couttolenc, Carlos Cortés and Phillip Bladh",Sound of Metal,True
+103,2020,2021,93,VISUAL EFFECTS,"Matt Sloan, Genevieve Camilleri, Matt Everitt and Brian Cox",Love and Monsters,False
+104,2020,2021,93,VISUAL EFFECTS,"Matthew Kasmir, Christopher Lawrence, Max Solomon and David Watkins",The Midnight Sky,False
+105,2020,2021,93,VISUAL EFFECTS,"Sean Faden, Anders Langlands, Seth Maury and Steve Ingram",Mulan,False
+106,2020,2021,93,VISUAL EFFECTS,"Nick Davis, Greg Fisher, Ben Jones and Santiago Colomo Martinez",The One and Only Ivan,False
+107,2020,2021,93,VISUAL EFFECTS,"Andrew Jackson, David Lee, Andrew Lockley and Scott Fisher",Tenet,True
+108,2020,2021,93,WRITING (Adapted Screenplay),Screenplay by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Peter Baynham & Erica Rivinoja & Dan Mazer & Jena Friedman & Lee Kern; Story by Sacha Baron Cohen & Anthony Hines & Dan Swimer & Nina Pedrad,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,False
+109,2020,2021,93,WRITING (Adapted Screenplay),Screenplay by Christopher Hampton and Florian Zeller,The Father,True
+110,2020,2021,93,WRITING (Adapted Screenplay),Written for the screen by Chloé Zhao,Nomadland,False
+111,2020,2021,93,WRITING (Adapted Screenplay),Screenplay by Kemp Powers,One Night in Miami...,False
+112,2020,2021,93,WRITING (Adapted Screenplay),Written for the screen by Ramin Bahrani,The White Tiger,False
+113,2020,2021,93,WRITING (Original Screenplay),Screenplay by Will Berson & Shaka King; Story by Will Berson & Shaka King and Kenny Lucas & Keith Lucas,Judas and the Black Messiah,False
+114,2020,2021,93,WRITING (Original Screenplay),Written by Lee Isaac Chung,Minari,False
+115,2020,2021,93,WRITING (Original Screenplay),Written by Emerald Fennell,Promising Young Woman,True
+116,2020,2021,93,WRITING (Original Screenplay),Screenplay by Darius Marder & Abraham Marder; Story by Darius Marder & Derek Cianfrance,Sound of Metal,False
+117,2020,2021,93,WRITING (Original Screenplay),Written by Aaron Sorkin,The Trial of the Chicago 7,False
+118,2020,2021,93,JEAN HERSHOLT HUMANITARIAN AWARD,,,True
+119,2020,2021,93,JEAN HERSHOLT HUMANITARIAN AWARD,,,True

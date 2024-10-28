@@ -1,0 +1,115 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2007,2008,80,ACTOR IN A LEADING ROLE,George Clooney,Michael Clayton,False
+1,2007,2008,80,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,There Will Be Blood,True
+2,2007,2008,80,ACTOR IN A LEADING ROLE,Johnny Depp,Sweeney Todd The Demon Barber of Fleet Street,False
+3,2007,2008,80,ACTOR IN A LEADING ROLE,Tommy Lee Jones,In the Valley of Elah,False
+4,2007,2008,80,ACTOR IN A LEADING ROLE,Viggo Mortensen,Eastern Promises,False
+5,2007,2008,80,ACTOR IN A SUPPORTING ROLE,Casey Affleck,The Assassination of Jesse James by the Coward Robert Ford,False
+6,2007,2008,80,ACTOR IN A SUPPORTING ROLE,Javier Bardem,No Country for Old Men,True
+7,2007,2008,80,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Charlie Wilson's War,False
+8,2007,2008,80,ACTOR IN A SUPPORTING ROLE,Hal Holbrook,Into the Wild,False
+9,2007,2008,80,ACTOR IN A SUPPORTING ROLE,Tom Wilkinson,Michael Clayton,False
+10,2007,2008,80,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth: The Golden Age,False
+11,2007,2008,80,ACTRESS IN A LEADING ROLE,Julie Christie,Away from Her,False
+12,2007,2008,80,ACTRESS IN A LEADING ROLE,Marion Cotillard,La Vie en Rose,True
+13,2007,2008,80,ACTRESS IN A LEADING ROLE,Laura Linney,The Savages,False
+14,2007,2008,80,ACTRESS IN A LEADING ROLE,Ellen Page,Juno,False
+15,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,I'm Not There,False
+16,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Ruby Dee,American Gangster,False
+17,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Saoirse Ronan,Atonement,False
+18,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Amy Ryan,Gone Baby Gone,False
+19,2007,2008,80,ACTRESS IN A SUPPORTING ROLE,Tilda Swinton,Michael Clayton,True
+20,2007,2008,80,ANIMATED FEATURE FILM,Marjane Satrapi and Vincent Paronnaud,Persepolis,False
+21,2007,2008,80,ANIMATED FEATURE FILM,Brad Bird,Ratatouille,True
+22,2007,2008,80,ANIMATED FEATURE FILM,Ash Brannon and Chris Buck,Surf's Up,False
+23,2007,2008,80,ART DIRECTION,Art Direction: Arthur Max; Set Decoration: Beth A. Rubino,American Gangster,False
+24,2007,2008,80,ART DIRECTION,Art Direction: Sarah Greenwood; Set Decoration: Katie Spencer,Atonement,False
+25,2007,2008,80,ART DIRECTION,Art Direction: Dennis Gassner; Set Decoration: Anna Pinnock,The Golden Compass,False
+26,2007,2008,80,ART DIRECTION,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,Sweeney Todd The Demon Barber of Fleet Street,True
+27,2007,2008,80,ART DIRECTION,Art Direction: Jack Fisk; Set Decoration: Jim Erickson,There Will Be Blood,False
+28,2007,2008,80,CINEMATOGRAPHY,Roger Deakins,The Assassination of Jesse James by the Coward Robert Ford,False
+29,2007,2008,80,CINEMATOGRAPHY,Seamus McGarvey,Atonement,False
+30,2007,2008,80,CINEMATOGRAPHY,Janusz Kaminski,The Diving Bell and the Butterfly,False
+31,2007,2008,80,CINEMATOGRAPHY,Roger Deakins,No Country for Old Men,False
+32,2007,2008,80,CINEMATOGRAPHY,Robert Elswit,There Will Be Blood,True
+33,2007,2008,80,COSTUME DESIGN,Albert Wolsky,Across the Universe,False
+34,2007,2008,80,COSTUME DESIGN,Jacqueline Durran,Atonement,False
+35,2007,2008,80,COSTUME DESIGN,Alexandra Byrne,Elizabeth: The Golden Age,True
+36,2007,2008,80,COSTUME DESIGN,Marit Allen,La Vie en Rose,False
+37,2007,2008,80,COSTUME DESIGN,Colleen Atwood,Sweeney Todd The Demon Barber of Fleet Street,False
+38,2007,2008,80,DIRECTING,Julian Schnabel,The Diving Bell and the Butterfly,False
+39,2007,2008,80,DIRECTING,Jason Reitman,Juno,False
+40,2007,2008,80,DIRECTING,Tony Gilroy,Michael Clayton,False
+41,2007,2008,80,DIRECTING,Joel Coen and Ethan Coen,No Country for Old Men,True
+42,2007,2008,80,DIRECTING,Paul Thomas Anderson,There Will Be Blood,False
+43,2007,2008,80,DOCUMENTARY (Feature),Charles Ferguson and Audrey Marrs,No End in Sight,False
+44,2007,2008,80,DOCUMENTARY (Feature),Richard E. Robbins,Operation Homecoming: Writing the Wartime Experience,False
+45,2007,2008,80,DOCUMENTARY (Feature),Michael Moore and Meghan O'Hara,Sicko,False
+46,2007,2008,80,DOCUMENTARY (Feature),Alex Gibney and Eva Orner,Taxi to the Dark Side,True
+47,2007,2008,80,DOCUMENTARY (Feature),Andrea Nix Fine and Sean Fine,War/Dance,False
+48,2007,2008,80,DOCUMENTARY (Short Subject),Cynthia Wade and Vanessa Roth,Freeheld,True
+49,2007,2008,80,DOCUMENTARY (Short Subject),Amanda Micheli and Isabel Vega,La Corona (The Crown),False
+50,2007,2008,80,DOCUMENTARY (Short Subject),Tim Sternberg and Francisco Bello,Salim Baba,False
+51,2007,2008,80,DOCUMENTARY (Short Subject),James Longley,Sari's Mother,False
+52,2007,2008,80,FILM EDITING,Christopher Rouse,The Bourne Ultimatum,True
+53,2007,2008,80,FILM EDITING,Juliette Welfling,The Diving Bell and the Butterfly,False
+54,2007,2008,80,FILM EDITING,Jay Cassidy,Into the Wild,False
+55,2007,2008,80,FILM EDITING,Roderick Jaynes,No Country for Old Men,False
+56,2007,2008,80,FILM EDITING,Dylan Tichenor,There Will Be Blood,False
+57,2007,2008,80,FOREIGN LANGUAGE FILM,Israel,Beaufort,False
+58,2007,2008,80,FOREIGN LANGUAGE FILM,Austria,The Counterfeiters,True
+59,2007,2008,80,FOREIGN LANGUAGE FILM,Poland,Katyn,False
+60,2007,2008,80,FOREIGN LANGUAGE FILM,Kazakhstan,Mongol,False
+61,2007,2008,80,FOREIGN LANGUAGE FILM,Russia,12,False
+62,2007,2008,80,MAKEUP,Didier Lavergne and Jan Archibald,La Vie en Rose,True
+63,2007,2008,80,MAKEUP,Rick Baker and Kazuhiro Tsuji,Norbit,False
+64,2007,2008,80,MAKEUP,Ve Neill and Martin Samuel,Pirates of the Caribbean: At World's End,False
+65,2007,2008,80,MUSIC (Original Score),Dario Marianelli,Atonement,True
+66,2007,2008,80,MUSIC (Original Score),Alberto Iglesias,The Kite Runner,False
+67,2007,2008,80,MUSIC (Original Score),James Newton Howard,Michael Clayton,False
+68,2007,2008,80,MUSIC (Original Score),Michael Giacchino,Ratatouille,False
+69,2007,2008,80,MUSIC (Original Score),Marco Beltrami,3:10 to Yuma,False
+70,2007,2008,80,MUSIC (Original Song),Music and Lyric by Glen Hansard and Marketa Irglova,Once,True
+71,2007,2008,80,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,Enchanted,False
+72,2007,2008,80,MUSIC (Original Song),"Music and Lyric by Jamal Joseph, Charles Mack and Tevin Thomas",August Rush,False
+73,2007,2008,80,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,Enchanted,False
+74,2007,2008,80,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,Enchanted,False
+75,2007,2008,80,BEST PICTURE,"Tim Bevan, Eric Fellner and Paul Webster, Producers",Atonement,False
+76,2007,2008,80,BEST PICTURE,"Lianne Halfon, Mason Novick and Russell Smith, Producers",Juno,False
+77,2007,2008,80,BEST PICTURE,"Sydney Pollack, Jennifer Fox and Kerry Orent, Producers",Michael Clayton,False
+78,2007,2008,80,BEST PICTURE,"Scott Rudin, Ethan Coen and Joel Coen, Producers",No Country for Old Men,True
+79,2007,2008,80,BEST PICTURE,"JoAnne Sellar, Paul Thomas Anderson and Daniel Lupi, Producers",There Will Be Blood,False
+80,2007,2008,80,SHORT FILM (Animated),Josh Raskin,I Met the Walrus,False
+81,2007,2008,80,SHORT FILM (Animated),Chris Lavis and Maciek Szczerbowski,Madame Tutli-Putli,False
+82,2007,2008,80,SHORT FILM (Animated),Samuel Tourneux and Simon Vanesse,Même les Pigeons Vont au Paradis (Even Pigeons Go to Heaven),False
+83,2007,2008,80,SHORT FILM (Animated),Alexander Petrov,My Love (Moya Lyubov),False
+84,2007,2008,80,SHORT FILM (Animated),Suzie Templeton and Hugh Welchman,Peter & the Wolf,True
+85,2007,2008,80,SHORT FILM (Live Action),Christian E. Christiansen and Louise Vesth,At Night,False
+86,2007,2008,80,SHORT FILM (Live Action),Andrea Jublin,Il Supplente (The Substitute),False
+87,2007,2008,80,SHORT FILM (Live Action),Philippe Pollet-Villard,Le Mozart des Pickpockets (The Mozart of Pickpockets),True
+88,2007,2008,80,SHORT FILM (Live Action),Guido Thys and Anja Daelemans,Tanghi Argentini,False
+89,2007,2008,80,SHORT FILM (Live Action),Daniel Barber and Matthew Brown,The Tonto Woman,False
+90,2007,2008,80,SOUND EDITING,Karen Baker Landers and Per Hallberg,The Bourne Ultimatum,True
+91,2007,2008,80,SOUND EDITING,Skip Lievsay,No Country for Old Men,False
+92,2007,2008,80,SOUND EDITING,Randy Thom and Michael Silvers,Ratatouille,False
+93,2007,2008,80,SOUND EDITING,Christopher Scarabosio and Matthew Wood,There Will Be Blood,False
+94,2007,2008,80,SOUND EDITING,Ethan Van der Ryn and Mike Hopkins,Transformers,False
+95,2007,2008,80,SOUND MIXING,"Scott Millan, David Parker and Kirk Francis",The Bourne Ultimatum,True
+96,2007,2008,80,SOUND MIXING,"Skip Lievsay, Craig Berkey, Greg Orloff and Peter Kurland",No Country for Old Men,False
+97,2007,2008,80,SOUND MIXING,"Randy Thom, Michael Semanick and Doc Kane",Ratatouille,False
+98,2007,2008,80,SOUND MIXING,"Paul Massey, David Giammarco and Jim Stuebe",3:10 to Yuma,False
+99,2007,2008,80,SOUND MIXING,"Kevin O'Connell, Greg P. Russell and Peter J. Devlin",Transformers,False
+100,2007,2008,80,VISUAL EFFECTS,"Michael Fink, Bill Westenhofer, Ben Morris and Trevor Wood",The Golden Compass,True
+101,2007,2008,80,VISUAL EFFECTS,"John Knoll, Hal Hickel, Charles Gibson and John Frazier",Pirates of the Caribbean: At World's End,False
+102,2007,2008,80,VISUAL EFFECTS,"Scott Farrar, Scott Benza, Russell Earl and John Frazier",Transformers,False
+103,2007,2008,80,WRITING (Adapted Screenplay),Screenplay by Christopher Hampton,Atonement,False
+104,2007,2008,80,WRITING (Adapted Screenplay),Written by Sarah Polley,Away from Her,False
+105,2007,2008,80,WRITING (Adapted Screenplay),Screenplay by Ronald Harwood,The Diving Bell and the Butterfly,False
+106,2007,2008,80,WRITING (Adapted Screenplay),Written for the screen by Joel Coen & Ethan Coen,No Country for Old Men,True
+107,2007,2008,80,WRITING (Adapted Screenplay),Written for the Screen by Paul Thomas Anderson,There Will Be Blood,False
+108,2007,2008,80,WRITING (Original Screenplay),Written by Diablo Cody,Juno,True
+109,2007,2008,80,WRITING (Original Screenplay),Written by Nancy Oliver,Lars and the Real Girl,False
+110,2007,2008,80,WRITING (Original Screenplay),Written by Tony Gilroy,Michael Clayton,False
+111,2007,2008,80,WRITING (Original Screenplay),"Screenplay by Brad Bird; Story by Jan Pinkava, Jim Capobianco, Brad Bird",Ratatouille,False
+112,2007,2008,80,WRITING (Original Screenplay),Written by Tamara Jenkins,The Savages,False
+113,2007,2008,80,HONORARY AWARD, Robert Boyle in recognition of one of cinema's great careers in art direction.,,True

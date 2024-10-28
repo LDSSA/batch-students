@@ -1,0 +1,114 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2002,2003,75,ACTOR IN A LEADING ROLE,Adrien Brody,The Pianist,True
+1,2002,2003,75,ACTOR IN A LEADING ROLE,Nicolas Cage,Adaptation,False
+2,2002,2003,75,ACTOR IN A LEADING ROLE,Michael Caine,The Quiet American,False
+3,2002,2003,75,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Gangs of New York,False
+4,2002,2003,75,ACTOR IN A LEADING ROLE,Jack Nicholson,About Schmidt,False
+5,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Chris Cooper,Adaptation,True
+6,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Hours,False
+7,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Paul Newman,Road to Perdition,False
+8,2002,2003,75,ACTOR IN A SUPPORTING ROLE,John C. Reilly,Chicago,False
+9,2002,2003,75,ACTOR IN A SUPPORTING ROLE,Christopher Walken,Catch Me If You Can,False
+10,2002,2003,75,ACTRESS IN A LEADING ROLE,Salma Hayek,Frida,False
+11,2002,2003,75,ACTRESS IN A LEADING ROLE,Nicole Kidman,The Hours,True
+12,2002,2003,75,ACTRESS IN A LEADING ROLE,Diane Lane,Unfaithful,False
+13,2002,2003,75,ACTRESS IN A LEADING ROLE,Julianne Moore,Far from Heaven,False
+14,2002,2003,75,ACTRESS IN A LEADING ROLE,Renée Zellweger,Chicago,False
+15,2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,About Schmidt,False
+16,2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Julianne Moore,The Hours,False
+17,2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Queen Latifah,Chicago,False
+18,2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Adaptation,False
+19,2002,2003,75,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,Chicago,True
+20,2002,2003,75,ANIMATED FEATURE FILM,Chris Wedge,Ice Age,False
+21,2002,2003,75,ANIMATED FEATURE FILM,Chris Sanders,Lilo & Stitch,False
+22,2002,2003,75,ANIMATED FEATURE FILM,Jeffrey Katzenberg,Spirit: Stallion of the Cimarron,False
+23,2002,2003,75,ANIMATED FEATURE FILM,Hayao Miyazaki,Spirited Away,True
+24,2002,2003,75,ANIMATED FEATURE FILM,Ron Clements,Treasure Planet,False
+25,2002,2003,75,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Gordon Sim,Chicago,True
+26,2002,2003,75,ART DIRECTION,Art Direction:  Felipe Fernandez del Paso; Set Decoration:  Hania Robledo,Frida,False
+27,2002,2003,75,ART DIRECTION,Art Direction:  Dante Ferretti; Set Decoration:  Francesca Lo Schiavo,Gangs of New York,False
+28,2002,2003,75,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Alan Lee,The Lord of the Rings: The Two Towers,False
+29,2002,2003,75,ART DIRECTION,Art Direction:  Dennis Gassner; Set Decoration:  Nancy Haigh,Road to Perdition,False
+30,2002,2003,75,CINEMATOGRAPHY,Dion Beebe,Chicago,False
+31,2002,2003,75,CINEMATOGRAPHY,Edward Lachman,Far from Heaven,False
+32,2002,2003,75,CINEMATOGRAPHY,Michael Ballhaus,Gangs of New York,False
+33,2002,2003,75,CINEMATOGRAPHY,Pawel Edelman,The Pianist,False
+34,2002,2003,75,CINEMATOGRAPHY,Conrad L. Hall,Road to Perdition,True
+35,2002,2003,75,COSTUME DESIGN,Colleen Atwood,Chicago,True
+36,2002,2003,75,COSTUME DESIGN,Julie Weiss,Frida,False
+37,2002,2003,75,COSTUME DESIGN,Sandy Powell,Gangs of New York,False
+38,2002,2003,75,COSTUME DESIGN,Ann Roth,The Hours,False
+39,2002,2003,75,COSTUME DESIGN,Anna Sheppard,The Pianist,False
+40,2002,2003,75,DIRECTING,Rob Marshall,Chicago,False
+41,2002,2003,75,DIRECTING,Martin Scorsese,Gangs of New York,False
+42,2002,2003,75,DIRECTING,Stephen Daldry,The Hours,False
+43,2002,2003,75,DIRECTING,Roman Polanski,The Pianist,True
+44,2002,2003,75,DIRECTING,Pedro Almodóvar,Talk to Her,False
+45,2002,2003,75,DOCUMENTARY (Feature),"Michael Moore, Michael Donovan",Bowling for Columbine,True
+46,2002,2003,75,DOCUMENTARY (Feature),"Gail Dolgin, Vicente Franco",Daughter from Danang,False
+47,2002,2003,75,DOCUMENTARY (Feature),"Malcolm Clarke, Stuart Sender",Prisoner of Paradise,False
+48,2002,2003,75,DOCUMENTARY (Feature),"Jeffrey Blitz, Sean Welch",Spellbound,False
+49,2002,2003,75,DOCUMENTARY (Feature),Jacques Perrin,Winged Migration,False
+50,2002,2003,75,DOCUMENTARY (Short Subject),Alice Elliott,The Collector of Bedford Street,False
+51,2002,2003,75,DOCUMENTARY (Short Subject),"Robert Hudson, Bobby Houston",Mighty Times: The Legacy of Rosa Parks,False
+52,2002,2003,75,DOCUMENTARY (Short Subject),"Bill Guttentag, Robert David Port",Twin Towers,True
+53,2002,2003,75,DOCUMENTARY (Short Subject),"Roger Weisberg, Murray Nossel",Why Can't We Be a Family Again?,False
+54,2002,2003,75,FILM EDITING,Martin Walsh,Chicago,True
+55,2002,2003,75,FILM EDITING,Thelma Schoonmaker,Gangs of New York,False
+56,2002,2003,75,FILM EDITING,Peter Boyle,The Hours,False
+57,2002,2003,75,FILM EDITING,Michael Horton,The Lord of the Rings: The Two Towers,False
+58,2002,2003,75,FILM EDITING,Hervé de Luze,The Pianist,False
+59,2002,2003,75,FOREIGN LANGUAGE FILM,Mexico,El Crimen del Padre Amaro,False
+60,2002,2003,75,FOREIGN LANGUAGE FILM,People's Republic of China,Hero,False
+61,2002,2003,75,FOREIGN LANGUAGE FILM,Finland,The Man without a Past,False
+62,2002,2003,75,FOREIGN LANGUAGE FILM,Germany,Nowhere in Africa,True
+63,2002,2003,75,FOREIGN LANGUAGE FILM,The Netherlands,Zus & Zo,False
+64,2002,2003,75,MAKEUP,"John Jackson, Beatrice De Alba",Frida,True
+65,2002,2003,75,MAKEUP,"John M. Elliott, Jr., Barbara Lorenz",The Time Machine,False
+66,2002,2003,75,MUSIC (Original Score),John Williams,Catch Me If You Can,False
+67,2002,2003,75,MUSIC (Original Score),Elmer Bernstein,Far from Heaven,False
+68,2002,2003,75,MUSIC (Original Score),Elliot Goldenthal,Frida,True
+69,2002,2003,75,MUSIC (Original Score),Philip Glass,The Hours,False
+70,2002,2003,75,MUSIC (Original Score),Thomas Newman,Road to Perdition,False
+71,2002,2003,75,MUSIC (Original Song),Music by Elliot Goldenthal; Lyric by Julie Taymor,Frida,False
+72,2002,2003,75,MUSIC (Original Song),Music and Lyric by Paul Simon,The Wild Thornberrys Movie,False
+73,2002,2003,75,MUSIC (Original Song),"Music and Lyric by Bono, The Edge, Adam Clayton and Larry Mullen",Gangs of New York,False
+74,2002,2003,75,MUSIC (Original Song),Music by John Kander; Lyric by Fred Ebb,Chicago,False
+75,2002,2003,75,MUSIC (Original Song),"Music by Eminem, Jeff Bass and Luis Resto; Lyric by Eminem",8 Mile,True
+76,2002,2003,75,BEST PICTURE,"Martin Richards, Producer",Chicago,True
+77,2002,2003,75,BEST PICTURE,"Alberto Grimaldi and Harvey Weinstein, Producers",Gangs of New York,False
+78,2002,2003,75,BEST PICTURE,"Scott Rudin and Robert Fox, Producers",The Hours,False
+79,2002,2003,75,BEST PICTURE,"Barrie M. Osborne, Fran Walsh and Peter Jackson, Producers",The Lord of the Rings: The Two Towers,False
+80,2002,2003,75,BEST PICTURE,"Roman Polanski, Robert Benmussa and Alain Sarde, Producers",The Pianist,False
+81,2002,2003,75,SHORT FILM (Animated),Tomek Baginski,The Cathedral,False
+82,2002,2003,75,SHORT FILM (Animated),Eric Armstrong,The ChubbChubbs!,True
+83,2002,2003,75,SHORT FILM (Animated),"Chris Stenner, Heidi Wittlinger",Das Rad,False
+84,2002,2003,75,SHORT FILM (Animated),"Pete Docter, Roger Gould",Mike's New Car,False
+85,2002,2003,75,SHORT FILM (Animated),Koji Yamamura,Mt. Head,False
+86,2002,2003,75,SHORT FILM (Live Action),"Dirk Beliën, Anja Daelemans",Fait D'Hiver,False
+87,2002,2003,75,SHORT FILM (Live Action),"Philippe Orreindy, Thomas Gaudin",I'll Wait for the Next One... (J'Attendrai Le Suivant...),False
+88,2002,2003,75,SHORT FILM (Live Action),"Steven Pasvolsky, Joe Weatherstone",Inja (Dog),False
+89,2002,2003,75,SHORT FILM (Live Action),"Lexi Alexander, Alexander Buono",Johnny Flynton,False
+90,2002,2003,75,SHORT FILM (Live Action),"Martin Strange-Hansen, Mie Andreasen",This Charming Man (Der Er En Yndig Mand),True
+91,2002,2003,75,SOUND,"Michael Minkler, Dominick Tavella, David Lee",Chicago,True
+92,2002,2003,75,SOUND,"Tom Fleischman, Eugene Gearty, Ivan Sharrock",Gangs of New York,False
+93,2002,2003,75,SOUND,"Christopher Boyes, Michael Semanick, Michael Hedges, Hammond Peek",The Lord of the Rings: The Two Towers,False
+94,2002,2003,75,SOUND,"Scott Millan, Bob Beemer, John Patrick Pritchett",Road to Perdition,False
+95,2002,2003,75,SOUND,"Kevin O'Connell, Greg P. Russell, Ed Novick",Spider-Man,False
+96,2002,2003,75,SOUND EDITING,"Ethan Van der Ryn, Michael Hopkins",The Lord of the Rings: The Two Towers,True
+97,2002,2003,75,SOUND EDITING,"Richard Hymns, Gary Rydstrom",Minority Report,False
+98,2002,2003,75,SOUND EDITING,Scott A. Hecker,Road to Perdition,False
+99,2002,2003,75,VISUAL EFFECTS,"Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke",The Lord of the Rings: The Two Towers,True
+100,2002,2003,75,VISUAL EFFECTS,"John Dykstra, Scott Stokdyk, Anthony LaMolinara, John Frazier",Spider-Man,False
+101,2002,2003,75,VISUAL EFFECTS,"Rob Coleman, Pablo Helman, John Knoll, Ben Snow",Star Wars Episode II Attack of the Clones,False
+102,2002,2003,75,WRITING (Adapted Screenplay),Screenplay by Peter Hedges and Chris Weitz & Paul Weitz,About a Boy,False
+103,2002,2003,75,WRITING (Adapted Screenplay),Screenplay by Charlie Kaufman and Donald Kaufman,Adaptation,False
+104,2002,2003,75,WRITING (Adapted Screenplay),Screenplay by Bill Condon,Chicago,False
+105,2002,2003,75,WRITING (Adapted Screenplay),Screenplay by David Hare,The Hours,False
+106,2002,2003,75,WRITING (Adapted Screenplay),Screenplay by Ronald Harwood,The Pianist,True
+107,2002,2003,75,WRITING (Original Screenplay),Written by Todd Haynes,Far from Heaven,False
+108,2002,2003,75,WRITING (Original Screenplay),Screenplay by Jay Cocks and Steve Zaillian and Kenneth Lonergan; Story by Jay Cocks,Gangs of New York,False
+109,2002,2003,75,WRITING (Original Screenplay),Written by Nia Vardalos,My Big Fat Greek Wedding,False
+110,2002,2003,75,WRITING (Original Screenplay),Written by Pedro Almodóvar,Talk to Her,True
+111,2002,2003,75,WRITING (Original Screenplay),Written by Carlos Cuarón and Alfonso Cuarón,Y Tu Mamá También,False
+112,2002,2003,75,HONORARY AWARD, Peter O'ole,,True

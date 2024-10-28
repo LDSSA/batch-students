@@ -1,0 +1,128 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1954,1955,27,ACTOR,Humphrey Bogart,The Caine Mutiny,False
+1,1954,1955,27,ACTOR,Marlon Brando,On the Waterfront,True
+2,1954,1955,27,ACTOR,Bing Crosby,The Country Girl,False
+3,1954,1955,27,ACTOR,James Mason,A Star Is Born,False
+4,1954,1955,27,ACTOR,Dan O'Herlihy,Adventures of Robinson Crusoe,False
+5,1954,1955,27,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,On the Waterfront,False
+6,1954,1955,27,ACTOR IN A SUPPORTING ROLE,Karl Malden,On the Waterfront,False
+7,1954,1955,27,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,The Barefoot Contessa,True
+8,1954,1955,27,ACTOR IN A SUPPORTING ROLE,Rod Steiger,On the Waterfront,False
+9,1954,1955,27,ACTOR IN A SUPPORTING ROLE,Tom Tully,The Caine Mutiny,False
+10,1954,1955,27,ACTRESS,Dorothy Dandridge,Carmen Jones,False
+11,1954,1955,27,ACTRESS,Judy Garland,A Star Is Born,False
+12,1954,1955,27,ACTRESS,Audrey Hepburn,Sabrina,False
+13,1954,1955,27,ACTRESS,Grace Kelly,The Country Girl,True
+14,1954,1955,27,ACTRESS,Jane Wyman,Magnificent Obsession,False
+15,1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Nina Foch,Executive Suite,False
+16,1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Katy Jurado,Broken Lance,False
+17,1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Eva Marie Saint,On the Waterfront,True
+18,1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Jan Sterling,The High and the Mighty,False
+19,1954,1955,27,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,The High and the Mighty,False
+20,1954,1955,27,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Grace Gregory",The Country Girl,False
+21,1954,1955,27,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Emile Kuri",Executive Suite,False
+22,1954,1955,27,ART DIRECTION (Black-and-White),Max Ophuls,Le Plaisir,False
+23,1954,1955,27,ART DIRECTION (Black-and-White),Richard Day,On the Waterfront,True
+24,1954,1955,27,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Ray Moyer",Sabrina,False
+25,1954,1955,27,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Preston Ames;  Set Decoration:  Edwin B. Willis, Keogh Gleason",Brigadoon,False
+26,1954,1955,27,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Walter M. Scott, Paul S. Fox",Desiree,False
+27,1954,1955,27,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Ray Moyer",Red Garters,False
+28,1954,1955,27,ART DIRECTION (Color),"Art Direction:  Malcolm Bert, Gene Allen, Irene Sharaff;  Set Decoration:  George James Hopkins",A Star Is Born,False
+29,1954,1955,27,ART DIRECTION (Color),Art Direction:  John Meehan;  Set Decoration:  Emile Kuri,"20,000 Leagues under the Sea",True
+30,1954,1955,27,CINEMATOGRAPHY (Black-and-White),John F. Warren,The Country Girl,False
+31,1954,1955,27,CINEMATOGRAPHY (Black-and-White),George Folsey,Executive Suite,False
+32,1954,1955,27,CINEMATOGRAPHY (Black-and-White),Boris Kaufman,On the Waterfront,True
+33,1954,1955,27,CINEMATOGRAPHY (Black-and-White),John Seitz,Rogue Cop,False
+34,1954,1955,27,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",Sabrina,False
+35,1954,1955,27,CINEMATOGRAPHY (Color),Leon Shamroy,The Egyptian,False
+36,1954,1955,27,CINEMATOGRAPHY (Color),Robert Burks,Rear Window,False
+37,1954,1955,27,CINEMATOGRAPHY (Color),George Folsey,Seven Brides for Seven Brothers,False
+38,1954,1955,27,CINEMATOGRAPHY (Color),William V. Skall,The Silver Chalice,False
+39,1954,1955,27,CINEMATOGRAPHY (Color),Milton Krasner,Three Coins in the Fountain,True
+40,1954,1955,27,COSTUME DESIGN (Black-and-White),"Georges Annenkov, Rosine Delamare",The Earrings of Madame de...,False
+41,1954,1955,27,COSTUME DESIGN (Black-and-White),Helen Rose,Executive Suite,False
+42,1954,1955,27,COSTUME DESIGN (Black-and-White),Christian Dior,Indiscretion of an American Wife,False
+43,1954,1955,27,COSTUME DESIGN (Black-and-White),Jean Louis,It Should Happen to You,False
+44,1954,1955,27,COSTUME DESIGN (Black-and-White),Edith Head,Sabrina,True
+45,1954,1955,27,COSTUME DESIGN (Color),Irene Sharaff,Brigadoon,False
+46,1954,1955,27,COSTUME DESIGN (Color),"Charles LeMaire, René Hubert",Desiree,False
+47,1954,1955,27,COSTUME DESIGN (Color),Sanzo Wada,Gate of Hell,True
+48,1954,1955,27,COSTUME DESIGN (Color),"Jean Louis, Mary Ann Nyberg, Irene Sharaff",A Star Is Born,False
+49,1954,1955,27,COSTUME DESIGN (Color),"Charles LeMaire, Travilla, Miles White",There's No Business Like Show Business,False
+50,1954,1955,27,DIRECTING,George Seaton,The Country Girl,False
+51,1954,1955,27,DIRECTING,William Wellman,The High and the Mighty,False
+52,1954,1955,27,DIRECTING,Elia Kazan,On the Waterfront,True
+53,1954,1955,27,DIRECTING,Alfred Hitchcock,Rear Window,False
+54,1954,1955,27,DIRECTING,Billy Wilder,Sabrina,False
+55,1954,1955,27,DOCUMENTARY (Feature),"Guy Glover, Producer",The Stratford Adventure,False
+56,1954,1955,27,DOCUMENTARY (Feature),"Walt Disney, Producer",The Vanishing Prairie,True
+57,1954,1955,27,DOCUMENTARY (Short Subject),"Otto Lang, Producer",Jet Carrier,False
+58,1954,1955,27,DOCUMENTARY (Short Subject),"Morrie Roizman, Producer",Rembrandt: A Self-Portrait,False
+59,1954,1955,27,DOCUMENTARY (Short Subject),World Wide Pictures and Morse Films,Thursday's Children,True
+60,1954,1955,27,FILM EDITING,"William A. Lyon, Henry Batista",The Caine Mutiny,False
+61,1954,1955,27,FILM EDITING,Ralph Dawson,The High and the Mighty,False
+62,1954,1955,27,FILM EDITING,Gene Milford,On the Waterfront,True
+63,1954,1955,27,FILM EDITING,Ralph E. Winters,Seven Brides for Seven Brothers,False
+64,1954,1955,27,FILM EDITING,Elmo Williams,"20,000 Leagues under the Sea",False
+65,1954,1955,27,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,The Caine Mutiny,False
+66,1954,1955,27,MUSIC (Music Score of a Dramatic or Comedy Picture),Larry Adler,Genevieve,False
+67,1954,1955,27,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The High and the Mighty,True
+68,1954,1955,27,MUSIC (Music Score of a Dramatic or Comedy Picture),Leonard Bernstein,On the Waterfront,False
+69,1954,1955,27,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,The Silver Chalice,False
+70,1954,1955,27,MUSIC (Scoring of a Musical Picture),Herschel Burke Gilbert,Carmen Jones,False
+71,1954,1955,27,MUSIC (Scoring of a Musical Picture),"Joseph Gershenson, Henry Mancini",The Glenn Miller Story,False
+72,1954,1955,27,MUSIC (Scoring of a Musical Picture),"Adolph Deutsch, Saul Chaplin",Seven Brides for Seven Brothers,True
+73,1954,1955,27,MUSIC (Scoring of a Musical Picture),Ray Heindorf,A Star Is Born,False
+74,1954,1955,27,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Lionel Newman",There's No Business Like Show Business,False
+75,1954,1955,27,MUSIC (Song),Music and Lyrics by Irving Berlin,White Christmas,False
+76,1954,1955,27,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,The High and the Mighty,False
+77,1954,1955,27,MUSIC (Song),Music and Lyrics by Jack Lawrence and Richard Myers,Susan Slept Here,False
+78,1954,1955,27,MUSIC (Song),Music by Harold Arlen; Lyrics by Ira Gershwin,A Star Is Born,False
+79,1954,1955,27,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Three Coins in the Fountain,True
+80,1954,1955,27,BEST MOTION PICTURE,"Stanley Kramer, Producer",The Caine Mutiny,False
+81,1954,1955,27,BEST MOTION PICTURE,"William Perlberg, Producer",The Country Girl,False
+82,1954,1955,27,BEST MOTION PICTURE,"Sam Spiegel, Producer",On the Waterfront,True
+83,1954,1955,27,BEST MOTION PICTURE,"Jack Cummings, Producer",Seven Brides for Seven Brothers,False
+84,1954,1955,27,BEST MOTION PICTURE,"Sol C. Siegel, Producer",Three Coins in the Fountain,False
+85,1954,1955,27,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Crazy Mixed Up Pup,False
+86,1954,1955,27,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Pigs Is Pigs,False
+87,1954,1955,27,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Sandy Claws,False
+88,1954,1955,27,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer","Touché, Pussy Cat",False
+89,1954,1955,27,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",When Magoo Flew,True
+90,1954,1955,27,SHORT SUBJECT (One-reel),"Otto Lang, Producer",The First Piano Quartette,False
+91,1954,1955,27,SHORT SUBJECT (One-reel),"Johnny Green, Producer",The Strauss Fantasy,False
+92,1954,1955,27,SHORT SUBJECT (One-reel),"Robert Youngson, Producer",This Mechanical Age,True
+93,1954,1955,27,SHORT SUBJECT (Two-reel),"Cedric Francis, Producer",Beauty and the Bull,False
+94,1954,1955,27,SHORT SUBJECT (Two-reel),"Otto Lang, Producer",Jet Carrier,False
+95,1954,1955,27,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Siam,False
+96,1954,1955,27,SHORT SUBJECT (Two-reel),"Denis Sanders and Terry Sanders, Producers",A Time Out of War,True
+97,1954,1955,27,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Wesley C. Miller, Sound Director",Brigadoon,False
+98,1954,1955,27,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",The Caine Mutiny,False
+99,1954,1955,27,SOUND RECORDING,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",The Glenn Miller Story,True
+100,1954,1955,27,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",Rear Window,False
+101,1954,1955,27,SOUND RECORDING,"RKO Radio Studio Sound Department, John O. Aalberg, Sound Director",Susan Slept Here,False
+102,1954,1955,27,SPECIAL EFFECTS,20th Century-Fox Studio,Hell and High Water,False
+103,1954,1955,27,SPECIAL EFFECTS,Warner Bros. Studio,Them!,False
+104,1954,1955,27,SPECIAL EFFECTS,Walt Disney Studios,"20,000 Leagues under the Sea",True
+105,1954,1955,27,WRITING (Motion Picture Story),Ettore Margadonna,"Bread, Love and Dreams",False
+106,1954,1955,27,WRITING (Motion Picture Story),Philip Yordan,Broken Lance,True
+107,1954,1955,27,WRITING (Motion Picture Story),François Boyer,Forbidden Games,False
+108,1954,1955,27,WRITING (Motion Picture Story),"Jed Harris, Tom Reed",Night People,False
+109,1954,1955,27,WRITING (Motion Picture Story),Lamar Trotti,There's No Business Like Show Business,False
+110,1954,1955,27,WRITING (Screenplay),Stanley Roberts,The Caine Mutiny,False
+111,1954,1955,27,WRITING (Screenplay),George Seaton,The Country Girl,True
+112,1954,1955,27,WRITING (Screenplay),John Michael Hayes,Rear Window,False
+113,1954,1955,27,WRITING (Screenplay),"Billy Wilder, Samuel Taylor, Ernest Lehman",Sabrina,False
+114,1954,1955,27,WRITING (Screenplay),"Albert Hackett, Frances Goodrich, Dorothy Kingsley",Seven Brides for Seven Brothers,False
+115,1954,1955,27,WRITING (Story and Screenplay),Joseph L. Mankiewicz,The Barefoot Contessa,False
+116,1954,1955,27,WRITING (Story and Screenplay),William Rose,Genevieve,False
+117,1954,1955,27,WRITING (Story and Screenplay),"Valentine Davies, Oscar Brodney",The Glenn Miller Story,False
+118,1954,1955,27,WRITING (Story and Screenplay),"Norman Panama, Melvin Frank",Knock on Wood,False
+119,1954,1955,27,WRITING (Story and Screenplay),Budd Schulberg,On the Waterfront,True
+120,1954,1955,27,HONORARY FOREIGN LANGUAGE FILM AWARD, Gate of Hell - Best Foreign Language Film first released in the United States during 1954.,,True
+121,1954,1955,27,HONORARY AWARD, Bausch & Lomb Optical Company for their contributions to the advancement of the motion picture industry.,,True
+122,1954,1955,27,HONORARY AWARD, Kemp R. Niver for the development of the Renovare Process which has made possible the restoration of the Library of Congress Paper Film Collection.,,True
+123,1954,1955,27,HONORARY AWARD, Greta Garbo for her unforgettable screen performances.,,True
+124,1954,1955,27,HONORARY AWARD, Danny Kaye for his unique talents,,True
+125,1954,1955,27,HONORARY AWARD, Jon Whiteley for his outstanding juvenile performance in The Little Kidnappers.,,True
+126,1954,1955,27,HONORARY AWARD, Vincent Winter for his outstanding juvenile performance in The Little Kidnappers.,,True

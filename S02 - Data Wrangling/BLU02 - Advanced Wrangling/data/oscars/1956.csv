@@ -1,0 +1,123 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1955,1956,28,ACTOR,Ernest Borgnine,Marty,True
+1,1955,1956,28,ACTOR,James Cagney,Love Me or Leave Me,False
+2,1955,1956,28,ACTOR,James Dean,East of Eden,False
+3,1955,1956,28,ACTOR,Frank Sinatra,The Man with the Golden Arm,False
+4,1955,1956,28,ACTOR,Spencer Tracy,Bad Day at Black Rock,False
+5,1955,1956,28,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Trial,False
+6,1955,1956,28,ACTOR IN A SUPPORTING ROLE,Jack Lemmon,Mister Roberts,True
+7,1955,1956,28,ACTOR IN A SUPPORTING ROLE,Joe Mantell,Marty,False
+8,1955,1956,28,ACTOR IN A SUPPORTING ROLE,Sal Mineo,Rebel without a Cause,False
+9,1955,1956,28,ACTOR IN A SUPPORTING ROLE,Arthur O'Connell,Picnic,False
+10,1955,1956,28,ACTRESS,Susan Hayward,I'll Cry Tomorrow,False
+11,1955,1956,28,ACTRESS,Katharine Hepburn,Summertime,False
+12,1955,1956,28,ACTRESS,Jennifer Jones,Love Is a Many-Splendored Thing,False
+13,1955,1956,28,ACTRESS,Anna Magnani,The Rose Tattoo,True
+14,1955,1956,28,ACTRESS,Eleanor Parker,Interrupted Melody,False
+15,1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Betsy Blair,Marty,False
+16,1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Peggy Lee,Pete Kelly's Blues,False
+17,1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Marisa Pavan,The Rose Tattoo,False
+18,1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Jo Van Fleet,East of Eden,True
+19,1955,1956,28,ACTRESS IN A SUPPORTING ROLE,Natalie Wood,Rebel without a Cause,False
+20,1955,1956,28,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Randall Duell;  Set Decoration:  Edwin B. Willis, Henry Grace",Blackboard Jungle,False
+21,1955,1956,28,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Malcolm Brown;  Set Decoration:  Edwin B. Willis, Hugh B. Hunt",I'll Cry Tomorrow,False
+22,1955,1956,28,ART DIRECTION (Black-and-White),Art Direction:  Joseph C. Wright;  Set Decoration:  Darrell Silvera,The Man with the Golden Arm,False
+23,1955,1956,28,ART DIRECTION (Black-and-White),"Art Direction:  Edward S. Haworth, Walter Simonds;  Set Decoration:  Robert Priestley",Marty,False
+24,1955,1956,28,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Tambi Larsen;  Set Decoration:  Sam Comer, Arthur Krams",The Rose Tattoo,True
+25,1955,1956,28,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",Daddy Long Legs,False
+26,1955,1956,28,ART DIRECTION (Color),"Art Direction:  Oliver Smith, Joseph C. Wright;  Set Decoration:  Howard Bristol",Guys and Dolls,False
+27,1955,1956,28,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Jack Stubbs",Love Is a Many-Splendored Thing,False
+28,1955,1956,28,ART DIRECTION (Color),"Art Direction:  William Flannery, Jo Mielziner;  Set Decoration:  Robert Priestley",Picnic,True
+29,1955,1956,28,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Joseph McMillan Johnson;  Set Decoration:  Sam Comer, Arthur Krams",To Catch a Thief,False
+30,1955,1956,28,CINEMATOGRAPHY (Black-and-White),Russell Harlan,Blackboard Jungle,False
+31,1955,1956,28,CINEMATOGRAPHY (Black-and-White),Arthur E. Arling,I'll Cry Tomorrow,False
+32,1955,1956,28,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,Marty,False
+33,1955,1956,28,CINEMATOGRAPHY (Black-and-White),Charles Lang,Queen Bee,False
+34,1955,1956,28,CINEMATOGRAPHY (Black-and-White),James Wong Howe,The Rose Tattoo,True
+35,1955,1956,28,CINEMATOGRAPHY (Color),Harry Stradling,Guys and Dolls,False
+36,1955,1956,28,CINEMATOGRAPHY (Color),Leon Shamroy,Love Is a Many-Splendored Thing,False
+37,1955,1956,28,CINEMATOGRAPHY (Color),Harold Lipstein,A Man Called Peter,False
+38,1955,1956,28,CINEMATOGRAPHY (Color),Robert Surtees,Oklahoma!,False
+39,1955,1956,28,CINEMATOGRAPHY (Color),Robert Burks,To Catch a Thief,True
+40,1955,1956,28,COSTUME DESIGN (Black-and-White),Helen Rose,I'll Cry Tomorrow,True
+41,1955,1956,28,COSTUME DESIGN (Black-and-White),Beatrice Dawson,The Pickwick Papers,False
+42,1955,1956,28,COSTUME DESIGN (Black-and-White),Jean Louis,Queen Bee,False
+43,1955,1956,28,COSTUME DESIGN (Black-and-White),Edith Head,The Rose Tattoo,False
+44,1955,1956,28,COSTUME DESIGN (Black-and-White),Tadaoto Kainoscho,Ugetsu,False
+45,1955,1956,28,COSTUME DESIGN (Color),Irene Sharaff,Guys and Dolls,False
+46,1955,1956,28,COSTUME DESIGN (Color),Helen Rose,Interrupted Melody,False
+47,1955,1956,28,COSTUME DESIGN (Color),Charles LeMaire,Love Is a Many-Splendored Thing,True
+48,1955,1956,28,COSTUME DESIGN (Color),Edith Head,To Catch a Thief,False
+49,1955,1956,28,COSTUME DESIGN (Color),"Charles LeMaire, Mary Wills",The Virgin Queen,False
+50,1955,1956,28,DIRECTING,John Sturges,Bad Day at Black Rock,False
+51,1955,1956,28,DIRECTING,Elia Kazan,East of Eden,False
+52,1955,1956,28,DIRECTING,Delbert Mann,Marty,True
+53,1955,1956,28,DIRECTING,Joshua Logan,Picnic,False
+54,1955,1956,28,DIRECTING,David Lean,Summertime,False
+55,1955,1956,28,DOCUMENTARY (Feature),"Rene Risacher, Producer",Heartbreak Ridge,False
+56,1955,1956,28,DOCUMENTARY (Feature),"Nancy Hamilton, Producer",Helen Keller in Her Story,True
+57,1955,1956,28,DOCUMENTARY (Short Subject),"Dore Schary, Producer",The Battle of Gettysburg,False
+58,1955,1956,28,DOCUMENTARY (Short Subject),"Wilbur T. Blume, Producer",The Face of Lincoln,False
+59,1955,1956,28,DOCUMENTARY (Short Subject),"Walt Disney, Producer",Men against the Arctic,True
+60,1955,1956,28,FILM EDITING,Ferris Webster,Blackboard Jungle,False
+61,1955,1956,28,FILM EDITING,Alma Macrorie,The Bridges at Toko-Ri,False
+62,1955,1956,28,FILM EDITING,"Gene Ruggiero, George Boemler",Oklahoma!,False
+63,1955,1956,28,FILM EDITING,"Charles Nelson, William A. Lyon",Picnic,True
+64,1955,1956,28,FILM EDITING,Warren Low,The Rose Tattoo,False
+65,1955,1956,28,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Battle Cry,False
+66,1955,1956,28,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Love Is a Many-Splendored Thing,True
+67,1955,1956,28,MUSIC (Music Score of a Dramatic or Comedy Picture),Elmer Bernstein,The Man with the Golden Arm,False
+68,1955,1956,28,MUSIC (Music Score of a Dramatic or Comedy Picture),George Duning,Picnic,False
+69,1955,1956,28,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,The Rose Tattoo,False
+70,1955,1956,28,MUSIC (Scoring of a Musical Picture),Alfred Newman,Daddy Long Legs,False
+71,1955,1956,28,MUSIC (Scoring of a Musical Picture),"Jay Blackton, Cyril J. Mockridge",Guys and Dolls,False
+72,1955,1956,28,MUSIC (Scoring of a Musical Picture),Andre Previn,It's Always Fair Weather,False
+73,1955,1956,28,MUSIC (Scoring of a Musical Picture),"Percy Faith, George Stoll",Love Me or Leave Me,False
+74,1955,1956,28,MUSIC (Scoring of a Musical Picture),"Robert Russell Bennett, Jay Blackton, Adolph Deutsch",Oklahoma!,True
+75,1955,1956,28,MUSIC (Song),Music by Nicholas Brodszky; Lyrics by Sammy Cahn,Love Me or Leave Me,False
+76,1955,1956,28,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Love Is a Many-Splendored Thing,True
+77,1955,1956,28,MUSIC (Song),Music and Lyrics by Johnny Mercer,Daddy Long Legs,False
+78,1955,1956,28,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,The Tender Trap,False
+79,1955,1956,28,MUSIC (Song),Music by Alex North; Lyrics by Hy Zaret,Unchained,False
+80,1955,1956,28,BEST MOTION PICTURE,"Buddy Adler, Producer",Love Is a Many-Splendored Thing,False
+81,1955,1956,28,BEST MOTION PICTURE,"Harold Hecht, Producer",Marty,True
+82,1955,1956,28,BEST MOTION PICTURE,"Leland Hayward, Producer",Mister Roberts,False
+83,1955,1956,28,BEST MOTION PICTURE,"Fred Kohlmar, Producer",Picnic,False
+84,1955,1956,28,BEST MOTION PICTURE,"Hal B. Wallis, Producer",The Rose Tattoo,False
+85,1955,1956,28,SHORT SUBJECT (Cartoon),"Fred Quimby, William Hanna and Joseph Barbera, Producers",Good Will to Men,False
+86,1955,1956,28,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",The Legend of Rock-a-bye Point,False
+87,1955,1956,28,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",No Hunting,False
+88,1955,1956,28,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Speedy Gonzales,True
+89,1955,1956,28,SHORT SUBJECT (One-reel),"Robert Youngson, Producer",Gadgets Galore,False
+90,1955,1956,28,SHORT SUBJECT (One-reel),"Edmund Reek, Producer",Survival City,True
+91,1955,1956,28,SHORT SUBJECT (One-reel),"Carson Davidson, Producer",3rd Ave. El,False
+92,1955,1956,28,SHORT SUBJECT (One-reel),"Justin Herman, Producer",Three Kisses,False
+93,1955,1956,28,SHORT SUBJECT (Two-reel),"Dore Schary, Producer",The Battle of Gettysburg,False
+94,1955,1956,28,SHORT SUBJECT (Two-reel),"Wilbur T. Blume, Producer",The Face of Lincoln,True
+95,1955,1956,28,SHORT SUBJECT (Two-reel),"George K. Arthur, Producer",On the Twelfth Day...,False
+96,1955,1956,28,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Switzerland,False
+97,1955,1956,28,SHORT SUBJECT (Two-reel),"Cedric Francis, Producer",24-Hour Alert,False
+98,1955,1956,28,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Carl W. Faulkner, Sound Director",Love Is a Many-Splendored Thing,False
+99,1955,1956,28,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Wesley C. Miller, Sound Director",Love Me or Leave Me,False
+100,1955,1956,28,SOUND RECORDING,"Warner Bros. Studio Sound Department, William A. Mueller, Sound Director",Mister Roberts,False
+101,1955,1956,28,SOUND RECORDING,"Radio Corporation of America Sound Department, Watson Jones, Sound Director",Not as a Stranger,False
+102,1955,1956,28,SOUND RECORDING,"Todd-AO Sound Department, Fred Hynes, Sound Director",Oklahoma!,True
+103,1955,1956,28,SPECIAL EFFECTS,Paramount Studio,The Bridges at Toko-Ri,True
+104,1955,1956,28,SPECIAL EFFECTS,"Associated British Picture Corporation, Ltd.",The Dam Busters,False
+105,1955,1956,28,SPECIAL EFFECTS,20th Century-Fox Studio,The Rains of Ranchipur,False
+106,1955,1956,28,WRITING (Motion Picture Story),Daniel Fuchs,Love Me or Leave Me,True
+107,1955,1956,28,WRITING (Motion Picture Story),"Joe Connelly, Bob Mosher",The Private War of Major Benson,False
+108,1955,1956,28,WRITING (Motion Picture Story),Nicholas Ray,Rebel without a Cause,False
+109,1955,1956,28,WRITING (Motion Picture Story),"Jean Marsan, Henry Troyat, Jacques Perret, Henri Verneuil, Raoul Ploquin",The Sheep Has Five Legs,False
+110,1955,1956,28,WRITING (Motion Picture Story),"Beirne Lay, Jr.",Strategic Air Command,False
+111,1955,1956,28,WRITING (Screenplay),Millard Kaufman,Bad Day at Black Rock,False
+112,1955,1956,28,WRITING (Screenplay),Richard Brooks,Blackboard Jungle,False
+113,1955,1956,28,WRITING (Screenplay),Paul Osborn,East of Eden,False
+114,1955,1956,28,WRITING (Screenplay),"Daniel Fuchs, Isobel Lennart",Love Me or Leave Me,False
+115,1955,1956,28,WRITING (Screenplay),Paddy Chayefsky,Marty,True
+116,1955,1956,28,WRITING (Story and Screenplay),"Milton Sperling, Emmet Lavery",The Court-Martial of Billy Mitchell,False
+117,1955,1956,28,WRITING (Story and Screenplay),"William Ludwig, Sonya Levien",Interrupted Melody,True
+118,1955,1956,28,WRITING (Story and Screenplay),"Betty Comden, Adolph Green",It's Always Fair Weather,False
+119,1955,1956,28,WRITING (Story and Screenplay),"Jacques Tati, Henri Marquet",Mr. Hulot's Holiday,False
+120,1955,1956,28,WRITING (Story and Screenplay),"Melville Shavelson, Jack Rose",The Seven Little Foys,False
+121,1955,1956,28,HONORARY FOREIGN LANGUAGE FILM AWARD, Samurai,,True

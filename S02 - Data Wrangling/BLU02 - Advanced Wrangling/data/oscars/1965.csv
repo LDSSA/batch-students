@@ -1,0 +1,123 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1964,1965,37,ACTOR,Richard Burton,Becket,False
+1,1964,1965,37,ACTOR,Rex Harrison,My Fair Lady,True
+2,1964,1965,37,ACTOR,Peter O'Toole,Becket,False
+3,1964,1965,37,ACTOR,Anthony Quinn,Zorba the Greek,False
+4,1964,1965,37,ACTOR,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+5,1964,1965,37,ACTOR IN A SUPPORTING ROLE,John Gielgud,Becket,False
+6,1964,1965,37,ACTOR IN A SUPPORTING ROLE,Stanley Holloway,My Fair Lady,False
+7,1964,1965,37,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,Seven Days in May,False
+8,1964,1965,37,ACTOR IN A SUPPORTING ROLE,Lee Tracy,The Best Man,False
+9,1964,1965,37,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Topkapi,True
+10,1964,1965,37,ACTRESS,Julie Andrews,Mary Poppins,True
+11,1964,1965,37,ACTRESS,Anne Bancroft,The Pumpkin Eater,False
+12,1964,1965,37,ACTRESS,Sophia Loren,Marriage Italian Style,False
+13,1964,1965,37,ACTRESS,Debbie Reynolds,The Unsinkable Molly Brown,False
+14,1964,1965,37,ACTRESS,Kim Stanley,Seance on a Wet Afternoon,False
+15,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,My Fair Lady,False
+16,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Dame Edith Evans,The Chalk Garden,False
+17,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Grayson Hall,The Night of the Iguana,False
+18,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Lila Kedrova,Zorba the Greek,True
+19,1964,1965,37,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,"Hush...Hush, Sweet Charlotte",False
+20,1964,1965,37,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Hans Peters, Elliot Scott;  Set Decoration:  Henry Grace, Robert R. Benton",The Americanization of Emily,False
+21,1964,1965,37,ART DIRECTION (Black-and-White),Art Direction:  William Glasgow;  Set Decoration:  Raphael Bretton,"Hush...Hush, Sweet Charlotte",False
+22,1964,1965,37,ART DIRECTION (Black-and-White),Stephen Grimes,The Night of the Iguana,False
+23,1964,1965,37,ART DIRECTION (Black-and-White),Art Direction:  Cary Odell;  Set Decoration:  Edward G. Boyle,Seven Days in May,False
+24,1964,1965,37,ART DIRECTION (Black-and-White),Vassilis Fotopoulos,Zorba the Greek,True
+25,1964,1965,37,ART DIRECTION (Color),"Art Direction:  John Bryan, Maurice Carter;  Set Decoration:  Patrick McLoughlin, Robert Cartwright",Becket,False
+26,1964,1965,37,ART DIRECTION (Color),"Art Direction:  Carroll Clark, William H. Tuntke;  Set Decoration:  Emile Kuri, Hal Gausman",Mary Poppins,False
+27,1964,1965,37,ART DIRECTION (Color),"Art Direction:  Gene Allen, Cecil Beaton;  Set Decoration:  George James Hopkins",My Fair Lady,True
+28,1964,1965,37,ART DIRECTION (Color),"Art Direction:  George W. Davis, Preston Ames;  Set Decoration:  Henry Grace, Hugh Hunt",The Unsinkable Molly Brown,False
+29,1964,1965,37,ART DIRECTION (Color),"Art Direction:  Jack Martin Smith, Ted Haworth;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",What a Way to Go!,False
+30,1964,1965,37,CINEMATOGRAPHY (Black-and-White),Philip H. Lathrop,The Americanization of Emily,False
+31,1964,1965,37,CINEMATOGRAPHY (Black-and-White),Milton Krasner,Fate Is the Hunter,False
+32,1964,1965,37,CINEMATOGRAPHY (Black-and-White),Joseph Biroc,"Hush...Hush, Sweet Charlotte",False
+33,1964,1965,37,CINEMATOGRAPHY (Black-and-White),Gabriel Figueroa,The Night of the Iguana,False
+34,1964,1965,37,CINEMATOGRAPHY (Black-and-White),Walter Lassally,Zorba the Greek,True
+35,1964,1965,37,CINEMATOGRAPHY (Color),Geoffrey Unsworth,Becket,False
+36,1964,1965,37,CINEMATOGRAPHY (Color),William H. Clothier,Cheyenne Autumn,False
+37,1964,1965,37,CINEMATOGRAPHY (Color),Edward Colman,Mary Poppins,False
+38,1964,1965,37,CINEMATOGRAPHY (Color),Harry Stradling,My Fair Lady,True
+39,1964,1965,37,CINEMATOGRAPHY (Color),Daniel L. Fapp,The Unsinkable Molly Brown,False
+40,1964,1965,37,COSTUME DESIGN (Black-and-White),Edith Head,A House Is Not a Home,False
+41,1964,1965,37,COSTUME DESIGN (Black-and-White),Norma Koch,"Hush...Hush, Sweet Charlotte",False
+42,1964,1965,37,COSTUME DESIGN (Black-and-White),Howard Shoup,Kisses for My President,False
+43,1964,1965,37,COSTUME DESIGN (Black-and-White),Dorothy Jeakins,The Night of the Iguana,True
+44,1964,1965,37,COSTUME DESIGN (Black-and-White),René Hubert,The Visit,False
+45,1964,1965,37,COSTUME DESIGN (Color),Margaret Furse,Becket,False
+46,1964,1965,37,COSTUME DESIGN (Color),Tony Walton,Mary Poppins,False
+47,1964,1965,37,COSTUME DESIGN (Color),Cecil Beaton,My Fair Lady,True
+48,1964,1965,37,COSTUME DESIGN (Color),Morton Haack,The Unsinkable Molly Brown,False
+49,1964,1965,37,COSTUME DESIGN (Color),"Edith Head, Moss Mabry",What a Way to Go!,False
+50,1964,1965,37,DIRECTING,Peter Glenville,Becket,False
+51,1964,1965,37,DIRECTING,Stanley Kubrick,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+52,1964,1965,37,DIRECTING,Robert Stevenson,Mary Poppins,False
+53,1964,1965,37,DIRECTING,George Cukor,My Fair Lady,True
+54,1964,1965,37,DIRECTING,Michael Cacoyannis,Zorba the Greek,False
+55,1964,1965,37,DOCUMENTARY (Feature),"Jack Le Vien, Producer",The Finest Hours,False
+56,1964,1965,37,DOCUMENTARY (Feature),"Mel Stuart, Producer",Four Days in November,False
+57,1964,1965,37,DOCUMENTARY (Feature),"Bert Haanstra, Producer",The Human Dutch,False
+58,1964,1965,37,DOCUMENTARY (Feature),"Jacques-Yves Cousteau, Producer",Jacques-Yves Cousteau's World without Sun,True
+59,1964,1965,37,DOCUMENTARY (Feature),"Jean Aurel, Producer","Over There, 1914-18",False
+60,1964,1965,37,DOCUMENTARY (Short Subject),"Henry Jacobs and John Korty, Producers",Breaking the Habit,False
+61,1964,1965,37,DOCUMENTARY (Short Subject),"Charles Guggenheim, Producer",Children Without,False
+62,1964,1965,37,DOCUMENTARY (Short Subject),National Film Board of Canada,Kenojuak,False
+63,1964,1965,37,DOCUMENTARY (Short Subject),"Charles Guggenheim, Producer",Nine from Little Rock,True
+64,1964,1965,37,DOCUMENTARY (Short Subject),"Geoffrey Scott and Oxley Hughan, Producers",140 Days under the World,False
+65,1964,1965,37,FILM EDITING,Anne Coates,Becket,False
+66,1964,1965,37,FILM EDITING,Ted J. Kent,Father Goose,False
+67,1964,1965,37,FILM EDITING,Michael Luciano,"Hush...Hush, Sweet Charlotte",False
+68,1964,1965,37,FILM EDITING,Cotton Warburton,Mary Poppins,True
+69,1964,1965,37,FILM EDITING,William Ziegler,My Fair Lady,False
+70,1964,1965,37,FOREIGN LANGUAGE FILM,Sweden,Raven's End,False
+71,1964,1965,37,FOREIGN LANGUAGE FILM,Israel,Sallah,False
+72,1964,1965,37,FOREIGN LANGUAGE FILM,France,The Umbrellas of Cherbourg,False
+73,1964,1965,37,FOREIGN LANGUAGE FILM,Japan,Woman in the Dunes,False
+74,1964,1965,37,FOREIGN LANGUAGE FILM,Italy,"Yesterday, Today and Tomorrow",True
+75,1964,1965,37,MUSIC (Music Score--substantially original),Laurence Rosenthal,Becket,False
+76,1964,1965,37,MUSIC (Music Score--substantially original),Dimitri Tiomkin,The Fall of the Roman Empire,False
+77,1964,1965,37,MUSIC (Music Score--substantially original),Frank DeVol,"Hush...Hush, Sweet Charlotte",False
+78,1964,1965,37,MUSIC (Music Score--substantially original),"Richard M. Sherman, Robert B. Sherman",Mary Poppins,True
+79,1964,1965,37,MUSIC (Music Score--substantially original),Henry Mancini,The Pink Panther,False
+80,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),George Martin,A Hard Day's Night,False
+81,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Irwin Kostal,Mary Poppins,False
+82,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Andre Previn,My Fair Lady,True
+83,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),Nelson Riddle,Robin and the 7 Hoods,False
+84,1964,1965,37,MUSIC (Scoring of Music--adaptation or treatment),"Robert Armbruster, Leo Arnaud, Jack Elliott, Jack Hayes, Calvin Jackson, Leo Shuken",The Unsinkable Molly Brown,False
+85,1964,1965,37,MUSIC (Song),Music and Lyrics by Richard M. Sherman and Robert B. Sherman,Mary Poppins,True
+86,1964,1965,37,MUSIC (Song),Music by Henry Mancini; Lyrics by Jay Livingston and Ray Evans,Dear Heart,False
+87,1964,1965,37,MUSIC (Song),Music by Frank DeVol; Lyrics by Mack David,"Hush...Hush, Sweet Charlotte",False
+88,1964,1965,37,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Robin and the 7 Hoods,False
+89,1964,1965,37,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Where Love Has Gone,False
+90,1964,1965,37,BEST PICTURE,"Hal B. Wallis, Producer",Becket,False
+91,1964,1965,37,BEST PICTURE,"Stanley Kubrick, Producer",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+92,1964,1965,37,BEST PICTURE,"Walt Disney and Bill Walsh, Producers",Mary Poppins,False
+93,1964,1965,37,BEST PICTURE,"Jack L. Warner, Producer",My Fair Lady,True
+94,1964,1965,37,BEST PICTURE,"Michael Cacoyannis, Producer",Zorba the Greek,False
+95,1964,1965,37,SHORT SUBJECT (Cartoon),National Film Board of Canada,Christmas Cracker,False
+96,1964,1965,37,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",How to Avoid Friendship,False
+97,1964,1965,37,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Nudnik #2,False
+98,1964,1965,37,SHORT SUBJECT (Cartoon),"David H. DePatie and Friz Freleng, Producers",The Pink Phink,True
+99,1964,1965,37,SHORT SUBJECT (Live Action),"Edward Schreiber, Producer",Casals Conducts: 1964,True
+100,1964,1965,37,SHORT SUBJECT (Live Action),"Carson Davidson, Producer",Help! My Snowman's Burning Down,False
+101,1964,1965,37,SHORT SUBJECT (Live Action),"Robert Clouse, Producer",The Legend of Jimmy Blue Eyes,False
+102,1964,1965,37,SOUND,"Shepperton Studio Sound Department, John Cox, Sound Director",Becket,False
+103,1964,1965,37,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Father Goose,False
+104,1964,1965,37,SOUND,"Walt Disney Studio Sound Department, Robert O. Cook, Sound Director",Mary Poppins,False
+105,1964,1965,37,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",My Fair Lady,True
+106,1964,1965,37,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",The Unsinkable Molly Brown,False
+107,1964,1965,37,SOUND EFFECTS,Norman Wanstall,Goldfinger,True
+108,1964,1965,37,SOUND EFFECTS,Robert L. Bratton,The Lively Set,False
+109,1964,1965,37,SPECIAL VISUAL EFFECTS,"Peter Ellenshaw, Eustace Lycett, Hamilton Luske",Mary Poppins,True
+110,1964,1965,37,SPECIAL VISUAL EFFECTS,Jim Danforth,7 Faces of Dr. Lao,False
+111,1964,1965,37,WRITING (Screenplay--based on material from another medium),Edward Anhalt,Becket,True
+112,1964,1965,37,WRITING (Screenplay--based on material from another medium),"Stanley Kubrick, Peter George, Terry Southern",Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False
+113,1964,1965,37,WRITING (Screenplay--based on material from another medium),"Bill Walsh, Don DaGradi",Mary Poppins,False
+114,1964,1965,37,WRITING (Screenplay--based on material from another medium),Alan Jay Lerner,My Fair Lady,False
+115,1964,1965,37,WRITING (Screenplay--based on material from another medium),Michael Cacoyannis,Zorba the Greek,False
+116,1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Story by S. H. Barnett;  Screenplay by Peter Stone, Frank Tarloff",Father Goose,True
+117,1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),Alun Owen,A Hard Day's Night,False
+118,1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Story by Orville H. Hampton;  Screenplay by Raphael Hayes, Orville H. Hampton","One Potato, Two Potato",False
+119,1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Age, Scarpelli, Mario Monicelli",The Organizer,False
+120,1964,1965,37,WRITING (Story and Screenplay--written directly for the screen),"Jean-Paul Rappeneau, Ariane Mnouchkine, Daniel Boulanger, Philippe De Broca",That Man from Rio,False
+121,1964,1965,37,HONORARY AWARD, William Tuttle for his outstanding make-up achievement for 7 Faces of Dr. Lao.,,True

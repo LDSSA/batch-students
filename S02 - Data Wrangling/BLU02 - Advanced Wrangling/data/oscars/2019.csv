@@ -1,0 +1,126 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2018,2019,91,ACTOR IN A LEADING ROLE,Christian Bale,Vice,False
+1,2018,2019,91,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born,False
+2,2018,2019,91,ACTOR IN A LEADING ROLE,Willem Dafoe,At Eternity's Gate,False
+3,2018,2019,91,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,True
+4,2018,2019,91,ACTOR IN A LEADING ROLE,Viggo Mortensen,Green Book,False
+5,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,True
+6,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Adam Driver,BlacKkKlansman,False
+7,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born,False
+8,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Richard E. Grant,Can You Ever Forgive Me?,False
+9,2018,2019,91,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,Vice,False
+10,2018,2019,91,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,Roma,False
+11,2018,2019,91,ACTRESS IN A LEADING ROLE,Glenn Close,The Wife,False
+12,2018,2019,91,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,True
+13,2018,2019,91,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born,False
+14,2018,2019,91,ACTRESS IN A LEADING ROLE,Melissa McCarthy,Can You Ever Forgive Me?,False
+15,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Vice,False
+16,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,Roma,False
+17,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,True
+18,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Emma Stone,The Favourite,False
+19,2018,2019,91,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Favourite,False
+20,2018,2019,91,ANIMATED FEATURE FILM,"Brad Bird, John Walker and Nicole Paradis Grindle",Incredibles 2,False
+21,2018,2019,91,ANIMATED FEATURE FILM,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson",Isle of Dogs,False
+22,2018,2019,91,ANIMATED FEATURE FILM,Mamoru Hosoda and Yuichiro Saito,Mirai,False
+23,2018,2019,91,ANIMATED FEATURE FILM,"Rich Moore, Phil Johnston and Clark Spencer",Ralph Breaks the Internet,False
+24,2018,2019,91,ANIMATED FEATURE FILM,"Bob Persichetti, Peter Ramsey, Rodney Rothman, Phil Lord and Christopher Miller",Spider-Man: Into the Spider-Verse,True
+25,2018,2019,91,CINEMATOGRAPHY,Lukasz Zal,Cold War,False
+26,2018,2019,91,CINEMATOGRAPHY,Robbie Ryan,The Favourite,False
+27,2018,2019,91,CINEMATOGRAPHY,Caleb Deschanel,Never Look Away,False
+28,2018,2019,91,CINEMATOGRAPHY,Alfonso Cuarón,Roma,True
+29,2018,2019,91,CINEMATOGRAPHY,Matthew Libatique,A Star Is Born,False
+30,2018,2019,91,COSTUME DESIGN,Mary Zophres,The Ballad of Buster Scruggs,False
+31,2018,2019,91,COSTUME DESIGN,Ruth Carter,Black Panther,True
+32,2018,2019,91,COSTUME DESIGN,Sandy Powell,The Favourite,False
+33,2018,2019,91,COSTUME DESIGN,Sandy Powell,Mary Poppins Returns,False
+34,2018,2019,91,COSTUME DESIGN,Alexandra Byrne,Mary Queen of Scots,False
+35,2018,2019,91,DIRECTING,Spike Lee,BlacKkKlansman,False
+36,2018,2019,91,DIRECTING,Pawel Pawlikowski,Cold War,False
+37,2018,2019,91,DIRECTING,Yorgos Lanthimos,The Favourite,False
+38,2018,2019,91,DIRECTING,Alfonso Cuarón,Roma,True
+39,2018,2019,91,DIRECTING,Adam McKay,Vice,False
+40,2018,2019,91,DOCUMENTARY (Feature),"Elizabeth Chai Vasarhelyi, Jimmy Chin, Evan Hayes and Shannon Dill",Free Solo,True
+41,2018,2019,91,DOCUMENTARY (Feature),"RaMell Ross, Joslyn Barnes and Su Kim","Hale County This Morning, This Evening",False
+42,2018,2019,91,DOCUMENTARY (Feature),Bing Liu and Diane Quon,Minding the Gap,False
+43,2018,2019,91,DOCUMENTARY (Feature),"Talal Derki, Ansgar Frerich, Eva Kemme and Tobias N. Siebert",Of Fathers and Sons,False
+44,2018,2019,91,DOCUMENTARY (Feature),Betsy West and Julie Cohen,RBG,False
+45,2018,2019,91,DOCUMENTARY (Short Subject),Ed Perkins and Jonathan Chinn,Black Sheep,False
+46,2018,2019,91,DOCUMENTARY (Short Subject),Rob Epstein and Jeffrey Friedman,End Game,False
+47,2018,2019,91,DOCUMENTARY (Short Subject),Skye Fitzgerald and Bryn Mooser,Lifeboat,False
+48,2018,2019,91,DOCUMENTARY (Short Subject),Marshall Curry,A Night at The Garden,False
+49,2018,2019,91,DOCUMENTARY (Short Subject),Rayka Zehtabchi and Melissa Berton,Period. End of Sentence.,True
+50,2018,2019,91,FILM EDITING,Barry Alexander Brown,BlacKkKlansman,False
+51,2018,2019,91,FILM EDITING,John Ottman,Bohemian Rhapsody,True
+52,2018,2019,91,FILM EDITING,Yorgos Mavropsaridis,The Favourite,False
+53,2018,2019,91,FILM EDITING,Patrick J. Don Vito,Green Book,False
+54,2018,2019,91,FILM EDITING,Hank Corwin,Vice,False
+55,2018,2019,91,FOREIGN LANGUAGE FILM,Lebanon,Capernaum,False
+56,2018,2019,91,FOREIGN LANGUAGE FILM,Poland,Cold War,False
+57,2018,2019,91,FOREIGN LANGUAGE FILM,Germany,Never Look Away,False
+58,2018,2019,91,FOREIGN LANGUAGE FILM,Mexico,Roma,True
+59,2018,2019,91,FOREIGN LANGUAGE FILM,Japan,Shoplifters,False
+60,2018,2019,91,MAKEUP AND HAIRSTYLING,Göran Lundström and Pamela Goldammer,Border,False
+61,2018,2019,91,MAKEUP AND HAIRSTYLING,"Jenny Shircore, Marc Pilcher and Jessica Brooks",Mary Queen of Scots,False
+62,2018,2019,91,MAKEUP AND HAIRSTYLING,"Greg Cannom, Kate Biscoe and Patricia Dehaney",Vice,True
+63,2018,2019,91,MUSIC (Original Score),Ludwig Goransson,Black Panther,True
+64,2018,2019,91,MUSIC (Original Score),Terence Blanchard,BlacKkKlansman,False
+65,2018,2019,91,MUSIC (Original Score),Nicholas Britell,If Beale Street Could Talk,False
+66,2018,2019,91,MUSIC (Original Score),Alexandre Desplat,Isle of Dogs,False
+67,2018,2019,91,MUSIC (Original Score),Marc Shaiman,Mary Poppins Returns,False
+68,2018,2019,91,MUSIC (Original Song),"Music by Kendrick Lamar, Mark ""Sounwave"" Spears and Anthony ""Top Dawg"" Tiffith; Lyric by Kendrick Lamar, SZA and Anthony ""Top Dawg"" Tiffith",Black Panther,False
+69,2018,2019,91,MUSIC (Original Song),Music and Lyric by Diane Warren,RBG,False
+70,2018,2019,91,MUSIC (Original Song),Music by Marc Shaiman; Lyric by Scott Wittman and Marc Shaiman,Mary Poppins Returns,False
+71,2018,2019,91,MUSIC (Original Song),"Music and Lyric by Lady Gaga, Mark Ronson, Anthony Rossomando and Andrew Wyatt",A Star Is Born,True
+72,2018,2019,91,MUSIC (Original Song),Music and Lyric by Gillian Welch and David Rawlings,The Ballad of Buster Scruggs,False
+73,2018,2019,91,BEST PICTURE,"Kevin Feige, Producer",Black Panther,False
+74,2018,2019,91,BEST PICTURE,"Sean McKittrick, Jason Blum, Raymond Mansfield, Jordan Peele and Spike Lee, Producers",BlacKkKlansman,False
+75,2018,2019,91,BEST PICTURE,"Graham King, Producer",Bohemian Rhapsody,False
+76,2018,2019,91,BEST PICTURE,"Ceci Dempsey, Ed Guiney, Lee Magiday and Yorgos Lanthimos, Producers",The Favourite,False
+77,2018,2019,91,BEST PICTURE,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers",Green Book,True
+78,2018,2019,91,BEST PICTURE,"Gabriela Rodríguez and Alfonso Cuarón, Producers",Roma,False
+79,2018,2019,91,BEST PICTURE,"Bill Gerber, Bradley Cooper and Lynette Howell Taylor, Producers",A Star Is Born,False
+80,2018,2019,91,BEST PICTURE,"Dede Gardner, Jeremy Kleiner, Adam McKay and Kevin Messick, Producers",Vice,False
+81,2018,2019,91,PRODUCTION DESIGN,Production Design: Hannah Beachler; Set Decoration: Jay Hart,Black Panther,True
+82,2018,2019,91,PRODUCTION DESIGN,Production Design: Fiona Crombie; Set Decoration: Alice Felton,The Favourite,False
+83,2018,2019,91,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Kathy Lucas,First Man,False
+84,2018,2019,91,PRODUCTION DESIGN,Production Design: John Myhre; Set Decoration: Gordon Sim,Mary Poppins Returns,False
+85,2018,2019,91,PRODUCTION DESIGN,Production Design: Eugenio Caballero; Set Decoration: Bárbara Enríquez,Roma,False
+86,2018,2019,91,SHORT FILM (Animated),Alison Snowden and David Fine,Animal Behaviour,False
+87,2018,2019,91,SHORT FILM (Animated),Domee Shi and Becky Neiman-Cobb,Bao,True
+88,2018,2019,91,SHORT FILM (Animated),Louise Bagnall and Nuria González Blanco,Late Afternoon,False
+89,2018,2019,91,SHORT FILM (Animated),Andrew Chesworth and Bobby Pontillas,One Small Step,False
+90,2018,2019,91,SHORT FILM (Animated),Trevor Jimenez,Weekends,False
+91,2018,2019,91,SHORT FILM (Live Action),Vincent Lambe and Darren Mahon,Detainment,False
+92,2018,2019,91,SHORT FILM (Live Action),Jeremy Comte and Maria Gracia Turgeon,Fauve,False
+93,2018,2019,91,SHORT FILM (Live Action),Marianne Farley and Marie-Hélène Panisset,Marguerite,False
+94,2018,2019,91,SHORT FILM (Live Action),Rodrigo Sorogoyen and María del Puy Alvarado,Mother,False
+95,2018,2019,91,SHORT FILM (Live Action),Guy Nattiv and Jaime Ray Newman,Skin,True
+96,2018,2019,91,SOUND EDITING,Benjamin A. Burtt and Steve Boeddeker,Black Panther,False
+97,2018,2019,91,SOUND EDITING,John Warhurst and Nina Hartstone,Bohemian Rhapsody,True
+98,2018,2019,91,SOUND EDITING,Ai-Ling Lee and Mildred Iatrou Morgan,First Man,False
+99,2018,2019,91,SOUND EDITING,Ethan Van der Ryn and Erik Aadahl,A Quiet Place,False
+100,2018,2019,91,SOUND EDITING,Sergio Díaz and Skip Lievsay,Roma,False
+101,2018,2019,91,SOUND MIXING,"Steve Boeddeker, Brandon Proctor and Peter Devlin",Black Panther,False
+102,2018,2019,91,SOUND MIXING,"Paul Massey, Tim Cavagin and John Casali",Bohemian Rhapsody,True
+103,2018,2019,91,SOUND MIXING,"Jon Taylor, Frank A. Montaño, Ai-Ling Lee and Mary H. Ellis",First Man,False
+104,2018,2019,91,SOUND MIXING,"Skip Lievsay, Craig Henighan and José Antonio García",Roma,False
+105,2018,2019,91,SOUND MIXING,"Tom Ozanich, Dean Zupancic, Jason Ruder and Steve Morrow",A Star Is Born,False
+106,2018,2019,91,VISUAL EFFECTS,"Dan DeLeeuw, Kelly Port, Russell Earl and Dan Sudick",Avengers: Infinity War,False
+107,2018,2019,91,VISUAL EFFECTS,"Christopher Lawrence, Michael Eames, Theo Jones and Chris Corbould",Christopher Robin,False
+108,2018,2019,91,VISUAL EFFECTS,"Paul Lambert, Ian Hunter, Tristan Myles and J.D. Schwalm",First Man,True
+109,2018,2019,91,VISUAL EFFECTS,"Roger Guyett, Grady Cofer, Matthew E. Butler and David Shirk",Ready Player One,False
+110,2018,2019,91,VISUAL EFFECTS,"Rob Bredow, Patrick Tubach, Neal Scanlan and Dominic Tuohy",Solo: A Star Wars Story,False
+111,2018,2019,91,WRITING (Adapted Screenplay),Written by Joel Coen & Ethan Coen,The Ballad of Buster Scruggs,False
+112,2018,2019,91,WRITING (Adapted Screenplay),Written by Charlie Wachtel & David Rabinowitz and Kevin Willmott & Spike Lee,BlacKkKlansman,True
+113,2018,2019,91,WRITING (Adapted Screenplay),Screenplay by Nicole Holofcener and Jeff Whitty,Can You Ever Forgive Me?,False
+114,2018,2019,91,WRITING (Adapted Screenplay),Written for the screen by Barry Jenkins,If Beale Street Could Talk,False
+115,2018,2019,91,WRITING (Adapted Screenplay),Screenplay by Eric Roth and Bradley Cooper & Will Fetters,A Star Is Born,False
+116,2018,2019,91,WRITING (Original Screenplay),Written by Deborah Davis and Tony McNamara,The Favourite,False
+117,2018,2019,91,WRITING (Original Screenplay),Written by Paul Schrader,First Reformed,False
+118,2018,2019,91,WRITING (Original Screenplay),"Written by Nick Vallelonga, Brian Currie, Peter Farrelly",Green Book,True
+119,2018,2019,91,WRITING (Original Screenplay),Written by Alfonso Cuarón,Roma,False
+120,2018,2019,91,WRITING (Original Screenplay),Written by Adam McKay,Vice,False
+121,2018,2019,91,HONORARY AWARD, Marvin Levy,,True
+122,2018,2019,91,HONORARY AWARD, Lalo Schifrin,,True
+123,2018,2019,91,HONORARY AWARD, Cicely Tyson,,True
+124,2018,2019,91,IRVING G. THALBERG MEMORIAL AWARD,Kathleen Kennedy and Frank Marshall,,True

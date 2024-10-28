@@ -1,0 +1,99 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1980,1981,53,ACTOR IN A LEADING ROLE,Robert De Niro,Raging Bull,True
+1,1980,1981,53,ACTOR IN A LEADING ROLE,Robert Duvall,The Great Santini,False
+2,1980,1981,53,ACTOR IN A LEADING ROLE,John Hurt,The Elephant Man,False
+3,1980,1981,53,ACTOR IN A LEADING ROLE,Jack Lemmon,Tribute,False
+4,1980,1981,53,ACTOR IN A LEADING ROLE,Peter O'Toole,The Stunt Man,False
+5,1980,1981,53,ACTOR IN A SUPPORTING ROLE,Judd Hirsch,Ordinary People,False
+6,1980,1981,53,ACTOR IN A SUPPORTING ROLE,Timothy Hutton,Ordinary People,True
+7,1980,1981,53,ACTOR IN A SUPPORTING ROLE,Michael O'Keefe,The Great Santini,False
+8,1980,1981,53,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Raging Bull,False
+9,1980,1981,53,ACTOR IN A SUPPORTING ROLE,Jason Robards,Melvin and Howard,False
+10,1980,1981,53,ACTRESS IN A LEADING ROLE,Ellen Burstyn,Resurrection,False
+11,1980,1981,53,ACTRESS IN A LEADING ROLE,Goldie Hawn,Private Benjamin,False
+12,1980,1981,53,ACTRESS IN A LEADING ROLE,Mary Tyler Moore,Ordinary People,False
+13,1980,1981,53,ACTRESS IN A LEADING ROLE,Gena Rowlands,Gloria,False
+14,1980,1981,53,ACTRESS IN A LEADING ROLE,Sissy Spacek,Coal Miner's Daughter,True
+15,1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Eileen Brennan,Private Benjamin,False
+16,1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Eva Le Gallienne,Resurrection,False
+17,1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Cathy Moriarty,Raging Bull,False
+18,1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Diana Scarwid,Inside Moves,False
+19,1980,1981,53,ACTRESS IN A SUPPORTING ROLE,Mary Steenburgen,Melvin and Howard,True
+20,1980,1981,53,ART DIRECTION,Art Direction:  John W. Corso;  Set Decoration:  John M. Dwyer,Coal Miner's Daughter,False
+21,1980,1981,53,ART DIRECTION,"Art Direction:  Stuart Craig, Bob Cartwright;  Set Decoration:  Hugh Scaife",The Elephant Man,False
+22,1980,1981,53,ART DIRECTION,"Art Direction:  Norman Reynolds, Leslie Dilley, Harry Lange, Alan Tomkins;  Set Decoration:  Michael Ford",The Empire Strikes Back,False
+23,1980,1981,53,ART DIRECTION,Yoshiro Muraki,Kagemusha (The Shadow Warrior),False
+24,1980,1981,53,ART DIRECTION,"Art Direction:  Pierre Guffroy, Jack Stephens",Tess,True
+25,1980,1981,53,CINEMATOGRAPHY,Nestor Almendros,The Blue Lagoon,False
+26,1980,1981,53,CINEMATOGRAPHY,Ralf D. Bode,Coal Miner's Daughter,False
+27,1980,1981,53,CINEMATOGRAPHY,James Crabe,The Formula,False
+28,1980,1981,53,CINEMATOGRAPHY,Michael Chapman,Raging Bull,False
+29,1980,1981,53,CINEMATOGRAPHY,"Geoffrey Unsworth, Ghislain Cloquet",Tess,True
+30,1980,1981,53,COSTUME DESIGN,Patricia Norris,The Elephant Man,False
+31,1980,1981,53,COSTUME DESIGN,Anna Senior,My Brilliant Career,False
+32,1980,1981,53,COSTUME DESIGN,Jean-Pierre Dorleac,Somewhere in Time,False
+33,1980,1981,53,COSTUME DESIGN,Anthony Powell,Tess,True
+34,1980,1981,53,COSTUME DESIGN,Paul Zastupnevich,When Time Ran Out,False
+35,1980,1981,53,DIRECTING,David Lynch,The Elephant Man,False
+36,1980,1981,53,DIRECTING,Robert Redford,Ordinary People,True
+37,1980,1981,53,DIRECTING,Martin Scorsese,Raging Bull,False
+38,1980,1981,53,DIRECTING,Richard Rush,The Stunt Man,False
+39,1980,1981,53,DIRECTING,Roman Polanski,Tess,False
+40,1980,1981,53,DOCUMENTARY (Feature),"Ross Spears, Producer",Agee,False
+41,1980,1981,53,DOCUMENTARY (Feature),"Jon Else, Producer",The Day after Trinity,False
+42,1980,1981,53,DOCUMENTARY (Feature),"Murray Lerner, Producer",From Mao to Mozart: Isaac Stern in China,True
+43,1980,1981,53,DOCUMENTARY (Feature),"David Bradbury, Producer",Front Line,False
+44,1980,1981,53,DOCUMENTARY (Feature),"Bengt von zur Muehlen and Arthur Cohn, Producers",The Yellow Star - The Persecution of the Jews in Europe 1933-45,False
+45,1980,1981,53,DOCUMENTARY (Short Subject),"John Watson and Pen Densham, Producers",Don't Mess with Bill,False
+46,1980,1981,53,DOCUMENTARY (Short Subject),"George Casey, Producer",The Eruption of Mount St. Helens,False
+47,1980,1981,53,DOCUMENTARY (Short Subject),"Dick Young, Producer",It's the Same World,False
+48,1980,1981,53,DOCUMENTARY (Short Subject),"Roland Hallé and Peter W. Ladue, Producers",Karl Hess: Toward Liberty,True
+49,1980,1981,53,DOCUMENTARY (Short Subject),"Richard Hawkins and Jorge Preloran, Producers",Luther Metke at 94,False
+50,1980,1981,53,FILM EDITING,Arthur Schmidt,Coal Miner's Daughter,False
+51,1980,1981,53,FILM EDITING,David Blewitt,The Competition,False
+52,1980,1981,53,FILM EDITING,Anne V. Coates,The Elephant Man,False
+53,1980,1981,53,FILM EDITING,Gerry Hambling,Fame,False
+54,1980,1981,53,FILM EDITING,Thelma Schoonmaker,Raging Bull,True
+55,1980,1981,53,FOREIGN LANGUAGE FILM,Hungary,Confidence,False
+56,1980,1981,53,FOREIGN LANGUAGE FILM,Japan,Kagemusha (The Shadow Warrior),False
+57,1980,1981,53,FOREIGN LANGUAGE FILM,France,The Last Metro,False
+58,1980,1981,53,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,Moscow Does Not Believe in Tears,True
+59,1980,1981,53,FOREIGN LANGUAGE FILM,Spain,The Nest,False
+60,1980,1981,53,MUSIC (Original Score),John Corigliano,Altered States,False
+61,1980,1981,53,MUSIC (Original Score),John Morris,The Elephant Man,False
+62,1980,1981,53,MUSIC (Original Score),John Williams,The Empire Strikes Back,False
+63,1980,1981,53,MUSIC (Original Score),Michael Gore,Fame,True
+64,1980,1981,53,MUSIC (Original Score),Philippe Sarde,Tess,False
+65,1980,1981,53,MUSIC (Original Song),Music by Michael Gore; Lyric by Dean Pitchford,Fame,True
+66,1980,1981,53,MUSIC (Original Song),Music and Lyric by Dolly Parton,Nine to Five,False
+67,1980,1981,53,MUSIC (Original Song),Music and Lyric by Willie Nelson,Honeysuckle Rose,False
+68,1980,1981,53,MUSIC (Original Song),Music by Michael Gore; Lyric by Lesley Gore,Fame,False
+69,1980,1981,53,MUSIC (Original Song),Music by Lalo Schifrin; Lyric by Wilbur Jennings,The Competition,False
+70,1980,1981,53,BEST PICTURE,"Bernard Schwartz, Producer",Coal Miner's Daughter,False
+71,1980,1981,53,BEST PICTURE,"Jonathan Sanger, Producer",The Elephant Man,False
+72,1980,1981,53,BEST PICTURE,"Ronald L. Schwary, Producer",Ordinary People,True
+73,1980,1981,53,BEST PICTURE,"Irwin Winkler and Robert Chartoff, Producers",Raging Bull,False
+74,1980,1981,53,BEST PICTURE,"Claude Berri, Producer;  Timothy Burrill, Co-Producer",Tess,False
+75,1980,1981,53,SHORT FILM (Animated),"Frédéric Back, Producer",All Nothing,False
+76,1980,1981,53,SHORT FILM (Animated),"Ferenc Rofusz, Producer",The Fly,True
+77,1980,1981,53,SHORT FILM (Animated),"Michael Mills, Producer",History of the World in Three Minutes Flat,False
+78,1980,1981,53,SHORT FILM (Dramatic Live Action),"Lloyd Phillips, Producer",The Dollar Bottom,True
+79,1980,1981,53,SHORT FILM (Dramatic Live Action),"Bob Carmichael and Greg Lowe, Producers",Fall Line,False
+80,1980,1981,53,SHORT FILM (Dramatic Live Action),"Sally Heckel, Producer",A Jury of Her Peers,False
+81,1980,1981,53,SOUND,"Arthur Piantadosi, Les Fresholtz, Michael Minkler, Willie D. Burton",Altered States,False
+82,1980,1981,53,SOUND,"Richard Portman, Roger Heman, Jim Alexander",Coal Miner's Daughter,False
+83,1980,1981,53,SOUND,"Bill Varney, Steve Maslow, Gregg Landaker, Peter Sutton",The Empire Strikes Back,True
+84,1980,1981,53,SOUND,"Michael J. Kohut, Aaron Rochin, Jay M. Harding, Chris Newman",Fame,False
+85,1980,1981,53,SOUND,"Donald O. Mitchell, Bill Nicholson, David J. Kimball, Les Lazarowitz",Raging Bull,False
+86,1980,1981,53,WRITING (Screenplay Based on Material from Another Medium),"Jonathan Hardy, David Stevens, Bruce Beresford",Breaker Morant,False
+87,1980,1981,53,WRITING (Screenplay Based on Material from Another Medium),Tom Rickman,Coal Miner's Daughter,False
+88,1980,1981,53,WRITING (Screenplay Based on Material from Another Medium),"Christopher DeVore, Eric Bergren, David Lynch",The Elephant Man,False
+89,1980,1981,53,WRITING (Screenplay Based on Material from Another Medium),Alvin Sargent,Ordinary People,True
+90,1980,1981,53,WRITING (Screenplay Based on Material from Another Medium),Screenplay by Lawrence B. Marcus;  Adaptation by Richard Rush,The Stunt Man,False
+91,1980,1981,53,WRITING (Screenplay Written Directly for the Screen),"Screenplay by W. D. Richter;  Story by W. D. Richter, Arthur Ross",Brubaker,False
+92,1980,1981,53,WRITING (Screenplay Written Directly for the Screen),Christopher Gore,Fame,False
+93,1980,1981,53,WRITING (Screenplay Written Directly for the Screen),Bo Goldman,Melvin and Howard,True
+94,1980,1981,53,WRITING (Screenplay Written Directly for the Screen),Jean Gruault,Mon Oncle D'Amerique,False
+95,1980,1981,53,WRITING (Screenplay Written Directly for the Screen),"Nancy Meyers, Charles Shyer, Harvey Miller",Private Benjamin,False
+96,1980,1981,53,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Brian Johnson, Richard Edlund, Dennis Muren, Bruce Nicholson",The Empire Strikes Back,True
+97,1980,1981,53,HONORARY AWARD, Henry Fonda,,True

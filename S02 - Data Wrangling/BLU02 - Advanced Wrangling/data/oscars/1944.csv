@@ -1,0 +1,183 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1943,1944,16,ACTOR,Humphrey Bogart,Casablanca,False
+1,1943,1944,16,ACTOR,Gary Cooper,For Whom the Bell Tolls,False
+2,1943,1944,16,ACTOR,Paul Lukas,Watch on the Rhine,True
+3,1943,1944,16,ACTOR,Walter Pidgeon,Madame Curie,False
+4,1943,1944,16,ACTOR,Mickey Rooney,The Human Comedy,False
+5,1943,1944,16,ACTOR IN A SUPPORTING ROLE,Charles Bickford,The Song of Bernadette,False
+6,1943,1944,16,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The More the Merrier,True
+7,1943,1944,16,ACTOR IN A SUPPORTING ROLE,J. Carrol Naish,Sahara,False
+8,1943,1944,16,ACTOR IN A SUPPORTING ROLE,Claude Rains,Casablanca,False
+9,1943,1944,16,ACTOR IN A SUPPORTING ROLE,Akim Tamiroff,For Whom the Bell Tolls,False
+10,1943,1944,16,ACTRESS,Jean Arthur,The More the Merrier,False
+11,1943,1944,16,ACTRESS,Ingrid Bergman,For Whom the Bell Tolls,False
+12,1943,1944,16,ACTRESS,Joan Fontaine,The Constant Nymph,False
+13,1943,1944,16,ACTRESS,Greer Garson,Madame Curie,False
+14,1943,1944,16,ACTRESS,Jennifer Jones,The Song of Bernadette,True
+15,1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,The Song of Bernadette,False
+16,1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Paulette Goddard,So Proudly We Hail!,False
+17,1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Katina Paxinou,For Whom the Bell Tolls,True
+18,1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Anne Revere,The Song of Bernadette,False
+19,1943,1944,16,ACTRESS IN A SUPPORTING ROLE,Lucile Watson,Watch on the Rhine,False
+20,1943,1944,16,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Ernst Fegte;  Interior Decoration:  Bertram Granger",Five Graves to Cairo,False
+21,1943,1944,16,ART DIRECTION (Black-and-White),"Art Direction:  Albert S. D'Agostino, Carroll Clark;  Interior Decoration:  Darrell Silvera, Harley Miller",Flight for Freedom,False
+22,1943,1944,16,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Paul Groesse;  Interior Decoration:  Edwin B. Willis, Hugh Hunt",Madame Curie,False
+23,1943,1944,16,ART DIRECTION (Black-and-White),Art Direction:  Carl Weyl;  Interior Decoration:  George J. Hopkins,Mission to Moscow,False
+24,1943,1944,16,ART DIRECTION (Black-and-White),Art Direction:  Perry Ferguson;  Interior Decoration:  Howard Bristol,The North Star,False
+25,1943,1944,16,ART DIRECTION (Black-and-White),"Art Direction:  James Basevi, William Darling;  Interior Decoration:  Thomas Little",The Song of Bernadette,True
+26,1943,1944,16,ART DIRECTION (Color),"Art Direction:  Hans Dreier, Haldane Douglas;  Interior Decoration:  Bertram Granger",For Whom the Bell Tolls,False
+27,1943,1944,16,ART DIRECTION (Color),"Art Direction:  James Basevi, Joseph C. Wright;  Interior Decoration:  Thomas Little",The Gang's All Here,False
+28,1943,1944,16,ART DIRECTION (Color),"Art Direction:  John B. Goodman, Alexander Golitzen;  Interior Decoration:  Russell A. Gausman, Ira S. Webb",Phantom of the Opera,True
+29,1943,1944,16,ART DIRECTION (Color),"Art Direction:  John Hughes, Lt. John Koenig;  Interior Decoration:  George J. Hopkins",This Is the Army,False
+30,1943,1944,16,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Daniel Cathcart;  Interior Decoration:  Edwin B. Willis, Jacques Mersereau",Thousands Cheer,False
+31,1943,1944,16,CINEMATOGRAPHY (Black-and-White),"James Wong Howe, Elmer Dyer, Charles Marshall",Air Force,False
+32,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Arthur Edeson,Casablanca,False
+33,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Tony Gaudio,Corvette K-225,False
+34,1943,1944,16,CINEMATOGRAPHY (Black-and-White),John Seitz,Five Graves to Cairo,False
+35,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Harry Stradling,The Human Comedy,False
+36,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Madame Curie,False
+37,1943,1944,16,CINEMATOGRAPHY (Black-and-White),James Wong Howe,The North Star,False
+38,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Rudolph Maté,Sahara,False
+39,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Charles Lang,So Proudly We Hail!,False
+40,1943,1944,16,CINEMATOGRAPHY (Black-and-White),Arthur Miller,The Song of Bernadette,True
+41,1943,1944,16,CINEMATOGRAPHY (Color),Ray Rennahan,For Whom the Bell Tolls,False
+42,1943,1944,16,CINEMATOGRAPHY (Color),Edward Cronjager,Heaven Can Wait,False
+43,1943,1944,16,CINEMATOGRAPHY (Color),"Charles G. Clarke, Allen Davey","Hello, Frisco, Hello",False
+44,1943,1944,16,CINEMATOGRAPHY (Color),Leonard Smith,Lassie Come Home,False
+45,1943,1944,16,CINEMATOGRAPHY (Color),"Hal Mohr, W. Howard Greene",Phantom of the Opera,True
+46,1943,1944,16,CINEMATOGRAPHY (Color),George Folsey,Thousands Cheer,False
+47,1943,1944,16,DIRECTING,Michael Curtiz,Casablanca,True
+48,1943,1944,16,DIRECTING,Ernst Lubitsch,Heaven Can Wait,False
+49,1943,1944,16,DIRECTING,Clarence Brown,The Human Comedy,False
+50,1943,1944,16,DIRECTING,George Stevens,The More the Merrier,False
+51,1943,1944,16,DIRECTING,Henry King,The Song of Bernadette,False
+52,1943,1944,16,DOCUMENTARY (Feature),United States Army,Baptism of Fire,False
+53,1943,1944,16,DOCUMENTARY (Feature),United States Department of War Special Service Division,The Battle of Russia,False
+54,1943,1944,16,DOCUMENTARY (Feature),British Ministry of Information,Desert Victory,True
+55,1943,1944,16,DOCUMENTARY (Feature),United States Army Pictorial Service,For God and Country,False
+56,1943,1944,16,DOCUMENTARY (Feature),United States Army Pictorial Service,Report from the Aleutians,False
+57,1943,1944,16,DOCUMENTARY (Feature),British Ministry of Information,Silent Village,False
+58,1943,1944,16,DOCUMENTARY (Feature),United States Office of Strategic Services Field Photographic Bureau,War Department Report,False
+59,1943,1944,16,DOCUMENTARY (Feature),"Negro Marches On, Inc.","We've Come a Long, Long Way",False
+60,1943,1944,16,DOCUMENTARY (Short Subject),Australian Department of Information Film Unit,Bismarck Convoy Smashed,False
+61,1943,1944,16,DOCUMENTARY (Short Subject),RKO Radio,Children of Mars,False
+62,1943,1944,16,DOCUMENTARY (Short Subject),United States Office of War Information Domestic Motion Picture Bureau,Day of Battle,False
+63,1943,1944,16,DOCUMENTARY (Short Subject),United States Navy,December 7th,True
+64,1943,1944,16,DOCUMENTARY (Short Subject),National Film Board of Canada,The Dutch Tradition,False
+65,1943,1944,16,DOCUMENTARY (Short Subject),British Ministry of Information,Kill or Be Killed,False
+66,1943,1944,16,DOCUMENTARY (Short Subject),National Film Board of Canada,The Labor Front,False
+67,1943,1944,16,DOCUMENTARY (Short Subject),Polish Information Centre,Land of My Mother,False
+68,1943,1944,16,DOCUMENTARY (Short Subject),United States Army 4th Signal Photographic Unit,Letter from Livingston,False
+69,1943,1944,16,DOCUMENTARY (Short Subject),United States Army Pictorial Service,Life Line,False
+70,1943,1944,16,DOCUMENTARY (Short Subject),Metro-Goldwyn-Mayer,Plan for Destruction,False
+71,1943,1944,16,DOCUMENTARY (Short Subject),United States Department of War,The Rear Gunner,False
+72,1943,1944,16,DOCUMENTARY (Short Subject),Union of South Africa,Servant of a Nation,False
+73,1943,1944,16,DOCUMENTARY (Short Subject),United States Office of War Information Overseas Motion Picture Bureau,Swedes in America,False
+74,1943,1944,16,DOCUMENTARY (Short Subject),United States Coast Guard,Task Force,False
+75,1943,1944,16,DOCUMENTARY (Short Subject),"Walter Wanger, Producer",To the People of the United States,False
+76,1943,1944,16,DOCUMENTARY (Short Subject),United States Navy Bureau of Aeronautics,Tomorrow We Fly,False
+77,1943,1944,16,DOCUMENTARY (Short Subject),Warner Bros.,The Voice That Thrilled the World,False
+78,1943,1944,16,DOCUMENTARY (Short Subject),"Walt Disney, Producer",Water--Friend or Enemy,False
+79,1943,1944,16,DOCUMENTARY (Short Subject),United States Army Air Force 1st Motion Picture Unit,Wings Up,False
+80,1943,1944,16,DOCUMENTARY (Short Subject),The March of Time,Youth in Crisis,False
+81,1943,1944,16,FILM EDITING,George Amy,Air Force,True
+82,1943,1944,16,FILM EDITING,Owen Marks,Casablanca,False
+83,1943,1944,16,FILM EDITING,Doane Harrison,Five Graves to Cairo,False
+84,1943,1944,16,FILM EDITING,"Sherman Todd, John Link",For Whom the Bell Tolls,False
+85,1943,1944,16,FILM EDITING,Barbara McLean,The Song of Bernadette,False
+86,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),"Frank Skinner, Hans J. Salter",The Amazing Mrs. Holliday,False
+87,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Casablanca,False
+88,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morris Stoloff, Louis Gruenberg",Commandos Strike at Dawn,False
+89,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),"Roy Webb, C. Bakaleinikoff",The Fallen Sparrow,False
+90,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,For Whom the Bell Tolls,False
+91,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Hanns Eisler,Hangmen Also Die,False
+92,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Phil Boutelje,Hi Diddle Diddle,False
+93,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Walter Scharf,In Old Oklahoma,False
+94,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Leigh Harline,Johnny Come Lately,False
+95,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Gerard Carbonara,The Kansan,False
+96,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Arthur Lange,Lady of Burlesque,False
+97,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Herbert Stothart,Madame Curie,False
+98,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Moon and Sixpence,False
+99,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Aaron Copland,The North Star,False
+100,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Song of Bernadette,True
+101,1943,1944,16,MUSIC (Music Score of a Dramatic or Comedy Picture),"Edward H. Plumb, Paul J. Smith, Oliver G. Wallace",Victory through Air Power,False
+102,1943,1944,16,MUSIC (Scoring of a Musical Picture),Alfred Newman,Coney Island,False
+103,1943,1944,16,MUSIC (Scoring of a Musical Picture),Walter Scharf,Hit Parade of 1943,False
+104,1943,1944,16,MUSIC (Scoring of a Musical Picture),Edward Ward,Phantom of the Opera,False
+105,1943,1944,16,MUSIC (Scoring of a Musical Picture),"Charles Wolcott, Edward H. Plumb, Paul J. Smith",Saludos Amigos,False
+106,1943,1944,16,MUSIC (Scoring of a Musical Picture),Leigh Harline,The Sky's the Limit,False
+107,1943,1944,16,MUSIC (Scoring of a Musical Picture),Morris Stoloff,Something to Shout About,False
+108,1943,1944,16,MUSIC (Scoring of a Musical Picture),Frederic E. Rich,Stage Door Canteen,False
+109,1943,1944,16,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Star Spangled Rhythm,False
+110,1943,1944,16,MUSIC (Scoring of a Musical Picture),Ray Heindorf,This Is the Army,True
+111,1943,1944,16,MUSIC (Scoring of a Musical Picture),Herbert Stothart,Thousands Cheer,False
+112,1943,1944,16,MUSIC (Song),Music by Jule Styne; Lyrics by Harold Adamson,Hit Parade of 1943,False
+113,1943,1944,16,MUSIC (Song),Music by Harold Arlen; Lyrics by E. Y. Harburg,Cabin in the Sky,False
+114,1943,1944,16,MUSIC (Song),Music by Harold Arlen; Lyrics by Johnny Mercer,The Sky's the Limit,False
+115,1943,1944,16,MUSIC (Song),Music by Charles Wolcott; Lyrics by Ned Washington,Saludos Amigos,False
+116,1943,1944,16,MUSIC (Song),Music by Jimmy McHugh; Lyrics by Herb Magidson,Hers to Hold,False
+117,1943,1944,16,MUSIC (Song),Music by Harold Arlen; Lyrics by Johnny Mercer,Star Spangled Rhythm,False
+118,1943,1944,16,MUSIC (Song),Music by Arthur Schwartz; Lyrics by Frank Loesser,Thank Your Lucky Stars,False
+119,1943,1944,16,MUSIC (Song),Music by James Monaco; Lyrics by Al Dubin,Stage Door Canteen,False
+120,1943,1944,16,MUSIC (Song),Music and Lyrics by Cole Porter,Something to Shout About,False
+121,1943,1944,16,MUSIC (Song),Music by Harry Warren; Lyrics by Mack Gordon,"Hello, Frisco, Hello",True
+122,1943,1944,16,OUTSTANDING MOTION PICTURE,Warner Bros.,Casablanca,True
+123,1943,1944,16,OUTSTANDING MOTION PICTURE,Paramount,For Whom the Bell Tolls,False
+124,1943,1944,16,OUTSTANDING MOTION PICTURE,20th Century-Fox,Heaven Can Wait,False
+125,1943,1944,16,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,The Human Comedy,False
+126,1943,1944,16,OUTSTANDING MOTION PICTURE,Two Cities,In Which We Serve,False
+127,1943,1944,16,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,Madame Curie,False
+128,1943,1944,16,OUTSTANDING MOTION PICTURE,Columbia,The More the Merrier,False
+129,1943,1944,16,OUTSTANDING MOTION PICTURE,20th Century-Fox,The Ox-Bow Incident,False
+130,1943,1944,16,OUTSTANDING MOTION PICTURE,20th Century-Fox,The Song of Bernadette,False
+131,1943,1944,16,OUTSTANDING MOTION PICTURE,Warner Bros.,Watch on the Rhine,False
+132,1943,1944,16,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",The Dizzy Acrobat,False
+133,1943,1944,16,SHORT SUBJECT (Cartoon),"George Pal, Producer",The 500 Hats of Bartholomew Cubbins,False
+134,1943,1944,16,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",Greetings Bait!,False
+135,1943,1944,16,SHORT SUBJECT (Cartoon),"Dave Fleischer, Producer",Imagination,False
+136,1943,1944,16,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Reason and Emotion,False
+137,1943,1944,16,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",Yankee Doodle Mouse,True
+138,1943,1944,16,SHORT SUBJECT (One-reel),"Grantland Rice, Producer",Amphibious Fighters,True
+139,1943,1944,16,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Cavalcade of Dance with Veloz and Yolanda,False
+140,1943,1944,16,SHORT SUBJECT (One-reel),"Edmund Reek, Producer",Champions Carry On,False
+141,1943,1944,16,SHORT SUBJECT (One-reel),"Ralph Staub, Producer",Hollywood in Uniform,False
+142,1943,1944,16,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Seeing Hands,False
+143,1943,1944,16,SHORT SUBJECT (Two-reel),"Jerry Bresler and Sam Coslow, Producers",Heavenly Music,True
+144,1943,1944,16,SHORT SUBJECT (Two-reel),"Frederic Ullman, Jr., Producer",Letter to a Hero,False
+145,1943,1944,16,SHORT SUBJECT (Two-reel),"Walter MacEwen, Producer",Mardi Gras,False
+146,1943,1944,16,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Women at War,False
+147,1943,1944,16,SOUND RECORDING,"Sound Service, Inc., Jack Whitney, Sound Director",Hangmen Also Die,False
+148,1943,1944,16,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",In Old Oklahoma,False
+149,1943,1944,16,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Madame Curie,False
+150,1943,1944,16,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",The North Star,False
+151,1943,1944,16,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",Phantom of the Opera,False
+152,1943,1944,16,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",Riding High,False
+153,1943,1944,16,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Sahara,False
+154,1943,1944,16,SOUND RECORDING,"Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",Saludos Amigos,False
+155,1943,1944,16,SOUND RECORDING,"RCA Sound, J. L. Fields, Sound Director",So This Is Washington,False
+156,1943,1944,16,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",The Song of Bernadette,False
+157,1943,1944,16,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",This Is the Army,False
+158,1943,1944,16,SOUND RECORDING,"RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",This Land Is Mine,True
+159,1943,1944,16,SPECIAL EFFECTS,"Photographic Effects by Hans Koenekamp, Rex Wimpy; Sound Effects by Nathan Levinson",Air Force,False
+160,1943,1944,16,SPECIAL EFFECTS,"Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart, Roy Granville",Bombardier,False
+161,1943,1944,16,SPECIAL EFFECTS,Photographic Effects by Fred Sersen; Sound Effects by Roger Heman,Crash Dive,True
+162,1943,1944,16,SPECIAL EFFECTS,"Photographic Effects by Clarence Slifer, R. O. Binger; Sound Effects by Thomas T. Moulton",The North Star,False
+163,1943,1944,16,SPECIAL EFFECTS,"Photographic Effects by Gordon Jennings, Farciot Edouart; Sound Effects by George Dutton",So Proudly We Hail!,False
+164,1943,1944,16,SPECIAL EFFECTS,"Photographic Effects by A. Arnold Gillespie, Donald Jahraus; Sound Effects by Michael Steinore",Stand By for Action,False
+165,1943,1944,16,WRITING (Original Motion Picture Story),Guy Gilpatric,Action in the North Atlantic,False
+166,1943,1944,16,WRITING (Original Motion Picture Story),Steve Fisher,Destination Tokyo,False
+167,1943,1944,16,WRITING (Original Motion Picture Story),William Saroyan,The Human Comedy,True
+168,1943,1944,16,WRITING (Original Motion Picture Story),"Robert Russell, Frank Ross",The More the Merrier,False
+169,1943,1944,16,WRITING (Original Motion Picture Story),Gordon McDonell,Shadow of a Doubt,False
+170,1943,1944,16,WRITING (Original Screenplay),Dudley Nichols,Air Force,False
+171,1943,1944,16,WRITING (Original Screenplay),Noel Coward,In Which We Serve,False
+172,1943,1944,16,WRITING (Original Screenplay),Lillian Hellman,The North Star,False
+173,1943,1944,16,WRITING (Original Screenplay),Norman Krasna,Princess O'Rourke,True
+174,1943,1944,16,WRITING (Original Screenplay),Allan Scott,So Proudly We Hail!,False
+175,1943,1944,16,WRITING (Screenplay),"Julius J. Epstein, Philip G. Epstein, Howard Koch",Casablanca,True
+176,1943,1944,16,WRITING (Screenplay),Nunnally Johnson,Holy Matrimony,False
+177,1943,1944,16,WRITING (Screenplay),"Robert Russell, Frank Ross, Richard Flournoy, Lewis R. Foster",The More the Merrier,False
+178,1943,1944,16,WRITING (Screenplay),George Seaton,The Song of Bernadette,False
+179,1943,1944,16,WRITING (Screenplay),Dashiell Hammett,Watch on the Rhine,False
+180,1943,1944,16,SPECIAL AWARD, George Pal for the development of novel methods and techniques in the production of short subjects known as Puppetoons.,,True
+181,1943,1944,16,IRVING G. THALBERG MEMORIAL AWARD,Hal B. Wallis,,True

@@ -1,0 +1,108 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1991,1992,64,ACTOR IN A LEADING ROLE,Warren Beatty,Bugsy,False
+1,1991,1992,64,ACTOR IN A LEADING ROLE,Robert De Niro,Cape Fear,False
+2,1991,1992,64,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Silence of the Lambs,True
+3,1991,1992,64,ACTOR IN A LEADING ROLE,Nick Nolte,The Prince of Tides,False
+4,1991,1992,64,ACTOR IN A LEADING ROLE,Robin Williams,The Fisher King,False
+5,1991,1992,64,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,JFK,False
+6,1991,1992,64,ACTOR IN A SUPPORTING ROLE,Harvey Keitel,Bugsy,False
+7,1991,1992,64,ACTOR IN A SUPPORTING ROLE,Ben Kingsley,Bugsy,False
+8,1991,1992,64,ACTOR IN A SUPPORTING ROLE,Michael Lerner,Barton Fink,False
+9,1991,1992,64,ACTOR IN A SUPPORTING ROLE,Jack Palance,City Slickers,True
+10,1991,1992,64,ACTRESS IN A LEADING ROLE,Geena Davis,Thelma & Louise,False
+11,1991,1992,64,ACTRESS IN A LEADING ROLE,Laura Dern,Rambling Rose,False
+12,1991,1992,64,ACTRESS IN A LEADING ROLE,Jodie Foster,The Silence of the Lambs,True
+13,1991,1992,64,ACTRESS IN A LEADING ROLE,Bette Midler,For the Boys,False
+14,1991,1992,64,ACTRESS IN A LEADING ROLE,Susan Sarandon,Thelma & Louise,False
+15,1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Rambling Rose,False
+16,1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Juliette Lewis,Cape Fear,False
+17,1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Kate Nelligan,The Prince of Tides,False
+18,1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Mercedes Ruehl,The Fisher King,True
+19,1991,1992,64,ACTRESS IN A SUPPORTING ROLE,Jessica Tandy,Fried Green Tomatoes,False
+20,1991,1992,64,ART DIRECTION,Art Direction:  Dennis Gassner;  Set Decoration:  Nancy Haigh,Barton Fink,False
+21,1991,1992,64,ART DIRECTION,Art Direction:  Dennis Gassner;  Set Decoration:  Nancy Haigh,Bugsy,True
+22,1991,1992,64,ART DIRECTION,Art Direction:  Mel Bourne;  Set Decoration:  Cindy Carr,The Fisher King,False
+23,1991,1992,64,ART DIRECTION,Art Direction:  Norman Garwood;  Set Decoration:  Garrett Lewis,Hook,False
+24,1991,1992,64,ART DIRECTION,Art Direction:  Paul Sylbert;  Set Decoration:  Caryl Heller,The Prince of Tides,False
+25,1991,1992,64,CINEMATOGRAPHY,Allen Daviau,Bugsy,False
+26,1991,1992,64,CINEMATOGRAPHY,Robert Richardson,JFK,True
+27,1991,1992,64,CINEMATOGRAPHY,Stephen Goldblatt,The Prince of Tides,False
+28,1991,1992,64,CINEMATOGRAPHY,Adam Greenberg,Terminator 2: Judgment Day,False
+29,1991,1992,64,CINEMATOGRAPHY,Adrian Biddle,Thelma & Louise,False
+30,1991,1992,64,COSTUME DESIGN,Ruth Myers,The Addams Family,False
+31,1991,1992,64,COSTUME DESIGN,Richard Hornung,Barton Fink,False
+32,1991,1992,64,COSTUME DESIGN,Albert Wolsky,Bugsy,True
+33,1991,1992,64,COSTUME DESIGN,Anthony Powell,Hook,False
+34,1991,1992,64,COSTUME DESIGN,Corinne Jorry,Madame Bovary,False
+35,1991,1992,64,DIRECTING,John Singleton,Boyz N the Hood,False
+36,1991,1992,64,DIRECTING,Barry Levinson,Bugsy,False
+37,1991,1992,64,DIRECTING,Oliver Stone,JFK,False
+38,1991,1992,64,DIRECTING,Jonathan Demme,The Silence of the Lambs,True
+39,1991,1992,64,DIRECTING,Ridley Scott,Thelma & Louise,False
+40,1991,1992,64,DOCUMENTARY (Feature),"Vince DiPersio and William Guttentag, Producers",Death on the Job,False
+41,1991,1992,64,DOCUMENTARY (Feature),"Alan Raymond and Susan Raymond, Producers",Doing Time: Life inside the Big House,False
+42,1991,1992,64,DOCUMENTARY (Feature),"Allie Light and Irving Saraf, Producers",In the Shadow of the Stars,True
+43,1991,1992,64,DOCUMENTARY (Feature),"Hava Kohav Beller, Producer",The Restless Conscience,False
+44,1991,1992,64,DOCUMENTARY (Feature),"Lawrence Hott and Diane Garey, Producers",Wild by Law,False
+45,1991,1992,64,DOCUMENTARY (Short Subject),"Eric Valli and Alain Majani, Producers",Birdnesters of Thailand (aka 'Shadow Hunters'),False
+46,1991,1992,64,DOCUMENTARY (Short Subject),"Debra Chasnoff, Producer","Deadly Deception: General Electric, Nuclear Weapons and Our Environment",True
+47,1991,1992,64,DOCUMENTARY (Short Subject),"Immy Humes, Producer",A Little Vicious,False
+48,1991,1992,64,DOCUMENTARY (Short Subject),"David McGowan, Producer",The Mark of the Maker,False
+49,1991,1992,64,DOCUMENTARY (Short Subject),"Bill Couturié and Bernard Edelman, Producers",Memorial: Letters from American Soldiers,False
+50,1991,1992,64,FILM EDITING,Gerry Hambling,The Commitments,False
+51,1991,1992,64,FILM EDITING,"Joe Hutshing, Pietro Scalia",JFK,True
+52,1991,1992,64,FILM EDITING,Craig McKay,The Silence of the Lambs,False
+53,1991,1992,64,FILM EDITING,"Conrad Buff, Mark Goldblatt, Richard A. Harris",Terminator 2: Judgment Day,False
+54,1991,1992,64,FILM EDITING,Thom Noble,Thelma & Louise,False
+55,1991,1992,64,FOREIGN LANGUAGE FILM,Iceland,Children of Nature,False
+56,1991,1992,64,FOREIGN LANGUAGE FILM,Czechoslovakia,The Elementary School,False
+57,1991,1992,64,FOREIGN LANGUAGE FILM,Italy,Mediterraneo,True
+58,1991,1992,64,FOREIGN LANGUAGE FILM,Sweden,The Ox,False
+59,1991,1992,64,FOREIGN LANGUAGE FILM,Hong Kong,Raise the Red Lantern,False
+60,1991,1992,64,MAKEUP,"Christina Smith, Monty Westmore, Greg Cannom",Hook,False
+61,1991,1992,64,MAKEUP,"Michael Mills, Edward French, Richard Snell",Star Trek VI The Undiscovered Country,False
+62,1991,1992,64,MAKEUP,"Stan Winston, Jeff Dawn",Terminator 2: Judgment Day,True
+63,1991,1992,64,MUSIC (Original Score),Alan Menken,Beauty and the Beast,True
+64,1991,1992,64,MUSIC (Original Score),Ennio Morricone,Bugsy,False
+65,1991,1992,64,MUSIC (Original Score),George Fenton,The Fisher King,False
+66,1991,1992,64,MUSIC (Original Score),John Williams,JFK,False
+67,1991,1992,64,MUSIC (Original Score),James Newton Howard,The Prince of Tides,False
+68,1991,1992,64,MUSIC (Original Song),Music by John Williams; Lyric by Leslie Bricusse,Hook,False
+69,1991,1992,64,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,Beauty and the Beast,False
+70,1991,1992,64,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,Beauty and the Beast,True
+71,1991,1992,64,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,Beauty and the Beast,False
+72,1991,1992,64,MUSIC (Original Song),Music by Michael Kamen; Lyric by Bryan Adams and Robert John Lange,Robin Hood: Prince of Thieves,False
+73,1991,1992,64,BEST PICTURE,"Don Hahn, Producer",Beauty and the Beast,False
+74,1991,1992,64,BEST PICTURE,"Mark Johnson, Barry Levinson and Warren Beatty, Producers",Bugsy,False
+75,1991,1992,64,BEST PICTURE,"A. Kitman Ho and Oliver Stone, Producers",JFK,False
+76,1991,1992,64,BEST PICTURE,"Barbra Streisand and Andrew Karsch, Producers",The Prince of Tides,False
+77,1991,1992,64,BEST PICTURE,"Edward Saxon, Kenneth Utt and Ron Bozman, Producers",The Silence of the Lambs,True
+78,1991,1992,64,SHORT FILM (Animated),Christopher Hinton,Blackfly,False
+79,1991,1992,64,SHORT FILM (Animated),Daniel Greaves,Manipulation,True
+80,1991,1992,64,SHORT FILM (Animated),Wendy Tilby,Strings,False
+81,1991,1992,64,SHORT FILM (Live Action),"Stephen Kessler, Thomas R. Conroy",Birch Street Gym,False
+82,1991,1992,64,SHORT FILM (Live Action),David M. Massey,Last Breeze of Summer,False
+83,1991,1992,64,SHORT FILM (Live Action),"Seth Winston, Rob Fried",Session Man,True
+84,1991,1992,64,SOUND,"Gary Summers, Randy Thom, Gary Rydstrom, Glenn Williams",Backdraft,False
+85,1991,1992,64,SOUND,"Terry Porter, Mel Metcalfe, David J. Hudson, Doc Kane",Beauty and the Beast,False
+86,1991,1992,64,SOUND,"Michael Minkler, Gregg Landaker, Tod A. Maitland",JFK,False
+87,1991,1992,64,SOUND,"Tom Fleischman, Christopher Newman",The Silence of the Lambs,False
+88,1991,1992,64,SOUND,"Tom Johnson, Gary Rydstrom, Gary Summers, Lee Orloff",Terminator 2: Judgment Day,True
+89,1991,1992,64,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",Backdraft,False
+90,1991,1992,64,SOUND EFFECTS EDITING,"George Watters II, F. Hudson Miller",Star Trek VI The Undiscovered Country,False
+91,1991,1992,64,SOUND EFFECTS EDITING,"Gary Rydstrom, Gloria S. Borders",Terminator 2: Judgment Day,True
+92,1991,1992,64,VISUAL EFFECTS,"Mikael Salomon, Allen Hall, Clay Pinney, Scott Farrar",Backdraft,False
+93,1991,1992,64,VISUAL EFFECTS,"Eric Brevig, Harley Jessup, Mark Sullivan, Michael Lantieri",Hook,False
+94,1991,1992,64,VISUAL EFFECTS,"Dennis Muren, Stan Winston, Gene Warren, Jr., Robert Skotak",Terminator 2: Judgment Day,True
+95,1991,1992,64,WRITING (Screenplay Based on Material Previously Produced or Published),Agnieszka Holland,Europa Europa,False
+96,1991,1992,64,WRITING (Screenplay Based on Material Previously Produced or Published),"Fannie Flagg, Carol Sobieski",Fried Green Tomatoes,False
+97,1991,1992,64,WRITING (Screenplay Based on Material Previously Produced or Published),"Oliver Stone, Zachary Sklar",JFK,False
+98,1991,1992,64,WRITING (Screenplay Based on Material Previously Produced or Published),"Pat Conroy, Becky Johnston",The Prince of Tides,False
+99,1991,1992,64,WRITING (Screenplay Based on Material Previously Produced or Published),Ted Tally,The Silence of the Lambs,True
+100,1991,1992,64,WRITING (Screenplay Written Directly for the Screen),John Singleton,Boyz N the Hood,False
+101,1991,1992,64,WRITING (Screenplay Written Directly for the Screen),James Toback,Bugsy,False
+102,1991,1992,64,WRITING (Screenplay Written Directly for the Screen),Richard LaGravenese,The Fisher King,False
+103,1991,1992,64,WRITING (Screenplay Written Directly for the Screen),"Lawrence Kasdan, Meg Kasdan",Grand Canyon,False
+104,1991,1992,64,WRITING (Screenplay Written Directly for the Screen),Callie Khouri,Thelma & Louise,True
+105,1991,1992,64,HONORARY AWARD, Satyajit Ray,,True
+106,1991,1992,64,IRVING G. THALBERG MEMORIAL AWARD,George Lucas,,True

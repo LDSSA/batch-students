@@ -5,6 +5,9 @@ scikit-learn==1.5.0        # base
 seaborn==0.13.2            # base
 category-encoders==2.6.3   # base
 
+# downgrade numpy for scikit-surprise
+pip install "numpy<2.0"
+
 mlxtend                   # S05 0.23.3
 git+https://github.com/daviddavo/lightfm
 scikit-surprise           # S05 1.1.4

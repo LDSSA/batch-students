@@ -23,3 +23,4 @@ In this BLU, you'll learn how to make a scikit model available to the world, in 
 ## "I need help understanding something"
 
 You can and should ask for help, be it about Learning Notebooks, Exercises, or anything else. Please checkout the [How to Ask for Help](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/How-to-ask-for-and-give-help/), and remember not to share code when asking for help about the exercises!
+

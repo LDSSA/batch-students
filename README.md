@@ -33,14 +33,16 @@ Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=
 - Graduation: 29 Jun 2026
 
 ### 0.2 Release dates of the learning materials
-S01 - learning notebooks SLU04 - SLU10: 21 Sep 2025   
-S01 - exercise notebooks SLU04-10, learning and exercise notebooks SLU11-19: 28 Sep 2025   
-S02 - BLU01, BLU02, BLU03: 27 Oct, 3 Nov, 10 Nov 2025   
-S03 - BLU04, BLU05, BLU06: 24 Nov, 1 Dec, 8 Dec 2025   
-S04 - BLU07, BLU08, BLU09: 5 Jan, 12 Jan, 19 Jan 2026   
-S05 - BLU10, BLU11, BLU012: 3 Feb, 10 Feb, 17 Feb 2026   
-S06 - BLU13, BLU14, BLU15: 3 Mar, 10 Mar, 17 Mar 2026    
-Capstone: 6 Apr 2026
+| Specialization | Learning unit | Date |
+| --- | --- | --- |
+| S01 | learning notebooks SLU04 - SLU10 | 21 Sep 2025|
+| S01 | exercise notebooks SLU04-10, <br> learning and exercise notebooks SLU11-19 | 28 Sep 2025 |
+| S02 | BLU01, BLU02, BLU03 | 27 Oct, 3 Nov, 10 Nov 2025 |
+|S03 | BLU04, BLU05, BLU06 | 24 Nov, 1 Dec, 8 Dec 2025 |
+| S04 | BLU07, BLU08, BLU09 | 5 Jan, 12 Jan, 19 Jan 2026 |
+| S05 | BLU10, BLU11, BLU012 | 3 Feb, 10 Feb, 17 Feb 2026 |
+| S06 | BLU13, BLU14, BLU15 | 3 Mar, 10 Mar, 17 Mar 2026 |
+| Capstone | 6 Apr 2026 |
 
 ### 0.3 Bootcamp
 There will be two bootcamp days with online classes (two Sunday mornings, about 4 hours each). 

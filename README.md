@@ -23,18 +23,18 @@ Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=
 | Admissions closed | 3 Aug 2025 |
 | Student info session | 20 Sep 2025, 10 am |
 | Setup week | 21 Sep  - 27 Sep 2025 |
-| S01 + Bootcamp classes | 28 Sep - 25 Oct 2025 |
-| HCKT 01 | 26 Oct 2025 |
-| S02 | 27 Oct - 22 Nov 2025 |
-| HCKT 02 | 23 Nov 2025 |
-| S03 | 24 Nov - 20 Dec 2025 |
-| HCKT 03 | 21 Dec 2025 |
+| Specialization 01 + Bootcamp classes | 28 Sep - 25 Oct 2025 |
+| Hackathon 01 | 26 Oct 2025 |
+| Specialization 02 | 27 Oct - 22 Nov 2025 |
+| Hackathon 02 | 23 Nov 2025 |
+| Specialization 03 | 24 Nov - 20 Dec 2025 |
+| Hackathon 03 | 21 Dec 2025 |
 | Christmas break |  |
-| S04 | 5 -31 Jan 2026 |
-| HCKT 04 | 1 Feb 2026 |
-| S05 | 2 - 28 Feb 2026 |
-| HCKT 06 | 1 Mar 2026 |
-| S06 | 2 - 28 Mar 2026 |
+| Specialization 04 | 5 -31 Jan 2026 |
+| Hackathon 04 | 1 Feb 2026 |
+| Specialization 05 | 2 - 28 Feb 2026 |
+| Hackathon 06 | 1 Mar 2026 |
+| Specialization 06 | 2 - 28 Mar 2026 |
 | HCKT 06 | 29 Mar 2026 |
 | Easter break | 30 Mar - 5 Apr 2026 "
 | Capstone | 6 Apr - 28 Jun 2026 |

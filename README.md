@@ -13,24 +13,34 @@ Everything else you need to know should be [on our wiki](https://ldssa.github.io
 ## 0. Important dates and info
 
 ### 0.1 LDSSA schedule
-Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=Y183NDk2MWIwZjYzMTRiODVlMzY1NjNlYjI0MzQ5MDkxZWQ3ODM3Nzk5ZDEzOTQxNGE5YjZjODBjYTNjOTQ2NzEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=Y183NDk2MWIwZjYzMTRiODVlMzY1NjNlYjI0MzQ5MDkxZWQ3ODM3Nzk5ZDEzOTQxNGE5YjZjODBjYTNjOTQ2NzEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). All times are Lisbon times.
 
-- Registration for admissions: 23 Jun - 6 Jul 2025
-- Admission exams: 7 - 27 Jul 2025
-- Scholarship interviews: 29 Jul - 2 Aug 2025
-- Admissions closed: 3 Aug 2025
-- Student info session: 20 Sep 2025, 10 am
-- Setup week: 21 Sep  - 27 Sep 2025
-- S01 + Bootcamp classes: 28 Sep - 25 Oct 2025; HCKT 01: 26 Oct 2025   
-- S02: 27 Oct - 22 Nov 2025; HCKT 02: 23 Nov 2025   
-- S03: 24 Nov - 20 Dec 2025; HCKT 03: 21 Dec 2025      
-- Christmas break
-- S04: 5 -31 Jan 2026; HCKT 04: 1 Feb 2026
-- S05: 2 - 28 Feb 2026; HCKT 06: 1 Mar 2026      
-- S05: 2 - 28 Mar 2026; HCKT 06: 29 Mar 2026      
-- Easter break: 30 Mar - 5 Apr 2026   
-- Capstone: 6 Apr - 28 Jun 2026
-- Graduation: 29 Jun 2026
+| What | When |
+| --- | --- |
+| Registration for admissions | 23 Jun - 6 Jul 2025 |
+| Admission exams | 7 - 27 Jul 2025 |
+| Scholarship interviews | 29 Jul - 2 Aug 2025 |
+| Admissions closed | 3 Aug 2025 |
+| Student info session | 20 Sep 2025, 10 am |
+| Setup week | 21 Sep  - 27 Sep 2025 |
+| S01 + Bootcamp classes | 28 Sep - 25 Oct 2025 |
+| HCKT 01 | 26 Oct 2025 |
+| S02 | 27 Oct - 22 Nov 2025 |
+| HCKT 02 | 23 Nov 2025 |
+| S03 | 24 Nov - 20 Dec 2025 |
+| HCKT 03 | 21 Dec 2025 |
+| Christmas break |  |
+| S04 | 5 -31 Jan 2026 |
+| HCKT 04 | 1 Feb 2026 |
+| S05 | 2 - 28 Feb 2026 |
+| HCKT 06 | 1 Mar 2026 |
+| S06 | 2 - 28 Mar 2026 |
+| HCKT 06 | 29 Mar 2026 |
+| Easter break | 30 Mar - 5 Apr 2026 "
+| Capstone | 6 Apr - 28 Jun 2026 |
+| Graduation | 29 Jun 2026 |
+
+Hackathons start at 8.45 am and end around 6.30 pm.
 
 ### 0.2 Release dates of the learning materials
 | Specialization | Learning unit | Date |
@@ -49,38 +59,37 @@ There will be two bootcamp days with online classes (two Sunday mornings, about 
 - Day 1, 28 Sep 2025 with SLU04 - SLU10
 - Day 2, 5 Oct 2025 with SLU11 - SLU17
 
-#### Bootcamp classes schedule
-Classes durations are orientative.
+Each class is about 60 min, including questions.
 
 **Day 1, 28 Sep 2025, 9.30 am**
-- Intro + icebreaker: 30 min
-- Instructor 1:
-   - 30 min: Intro to data science, SLU04 - Basic Stats with Pandas, SLU05 - Covariance and Correlation
-   - 30 min: SLU06 - Dealing with Data Problems
-- Instructor 2:
-   - 30 - 60 min: SLU07 - Regression with Linear Regression, SLU08 - Metrics for Regression
-- Instructor 3:
-   - 30 - 60 min, SLU09 - Classification with Logistic Regression, SLU10 - Metrics for Classification
+| Time | Instructor | Topic |
+| --- | --- | --- |
+| 9.30 am | ? | Intro + icebreaker |
+| 10 am | ? | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
+| 11 am | ? | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
+| 12 am | ? | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
 
 **Day 2, 5 Oct 2025, 9.30 am**
-- Instructor 4:
-   - 45-60 min: SLU11 - Tree-Based Models, SLU12 - Feature Engineering
-- Instructor 5:
-   - 60 min: SLU13 - Bias-Variance tradeoff & Model Selection, SLU14 - Model complexity and Overfitting, SLU15 - Hyperparameter Tuning
-- Instructor 6:
-   - 30-60 min: SLU16 - Workflow, SLU17 - Ethics and Fairness
+| Time | Instructor | Topic |
+| --- | --- | --- |
+| 9.30 am | ? | SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |
+| 10.30 am | ? | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
+| 11.30 am | ? | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
 
-### 0.4 Capstone schedule  
-Week 1, students receive client email and data and send an email with questions to the client: 6 - 12 Apr 2026   
-Week 2, instructors prepare client clarifications: 13 - 17 Apr 2026   
-Week 2 - 4, students prepare report 1: 13 Apr - 3 May 2026   
-Week 5, instructors correct report 1: 4 - 10 May 2026
-Week 5 - 8, students prepare report 2: 4 - 31 May 2026   
-Week 8, final API requests: 25 - 31 May 2026   
-Week 9, instructors correct report 2: 1 - 7 Jun 2026   
-Week 9 - 10, students improving reports 1 and 2: 1 - 14 Jun 2026   
-Week 11, final instructor corrections of reports 1 and 2: 15 - 21 Jun 2026   
-Week 12, student presentations: 22 - 28 Jun 2026
+### 0.3 Capstone schedule  
+| Week nr. | What happens | Dates |
+| --- | ---- | --- |
+| 1 | students receive client email and data <br> and send an email with questions to the client | 6 - 12 Apr 2026 |
+| 2 | instructors prepare client clarifications | 13 - 17 Apr 2026 |
+| 2 - 4 | students prepare report 1 | 13 Apr - 3 May 2026 |
+| 5 | instructors correct report 1 | 4 - 10 May 2026 |
+| 5 - 8 | students prepare report 2 | 4 - 31 May 2026 |
+| 7 | API test requests | 18 - 24 May 2026 |
+| 8 | final API requests | 25 - 31 May 2026 |
+| 9 | instructors correct report 2 | 1 - 7 Jun 2026 |
+| 9 - 10 | students improving reports 1 and 2 | 1 - 14 Jun 2026 |
+| 11 | final instructor corrections of reports 1 and 2 | 15 - 21 Jun 2026 |
+| 12 | student presentations | 22 - 28 Jun 2026 |
 
 ## 1. How to use Slack and how to ask for help
 

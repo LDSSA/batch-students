@@ -21,14 +21,14 @@ Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=
 | Admission exams | 7 - 27 Jul 2025 |
 | Scholarship interviews | 29 Jul - 2 Aug 2025 |
 | Admissions closed | 3 Aug 2025 |
-| Student info session | 20 Sep 2025, 10 am |
-| Setup week | 21 Sep  - 27 Sep 2025 |
-| Specialization 01 + Bootcamp classes | 28 Sep - 25 Oct 2025 |
-| Hackathon 01 | 26 Oct 2025 |
-| Specialization 02 | 27 Oct - 22 Nov 2025 |
-| Hackathon 02 | 23 Nov 2025 |
-| Specialization 03 | 24 Nov - 20 Dec 2025 |
-| Hackathon 03 | 21 Dec 2025 |
+| Student info session | 14 Sep 2025, 10 am |
+| Setup week | 14 Sep  - 20 Sep 2025 |
+| Specialization 01 + Bootcamp classes | 21 Sep - 18 Oct 2025 |
+| Hackathon 01 | 19 Oct 2025 |
+| Specialization 02 | 20 Oct - 15 Nov 2025 |
+| Hackathon 02 | 16 Nov 2025 |
+| Specialization 03 | 17 Nov - 13 Dec 2025 |
+| Hackathon 03 | 14 Dec 2025 |
 | Christmas break |  |
 | Specialization 04 | 5 -31 Jan 2026 |
 | Hackathon 04 | 1 Feb 2026 |
@@ -45,10 +45,10 @@ Hackathons start at 8.45 am and end around 6.30 pm.
 ### 0.2 Release dates of the learning materials
 | Specialization | Learning unit | Date |
 | --- | --- | --- |
-| S01 | learning notebooks SLU04 - SLU10 | 21 Sep 2025|
-| S01 | exercise notebooks SLU04-10, <br> learning and exercise notebooks SLU11-19 | 28 Sep 2025 |
-| S02 | BLU01, BLU02, BLU03 | 27 Oct, 3 Nov, 10 Nov 2025 |
-|S03 | BLU04, BLU05, BLU06 | 24 Nov, 1 Dec, 8 Dec 2025 |
+| S01 | learning notebooks SLU04 - SLU10 | 14 Sep 2025|
+| S01 | exercise notebooks SLU04-10, <br> learning and exercise notebooks SLU11-19 | 21 Sep 2025 |
+| S02 | BLU01, BLU02, BLU03 | 20 Oct, 27 Oct, 3 Nov 2025 |
+|S03 | BLU04, BLU05, BLU06 | 17 Nov, 24  Nov, 1 Dec 2025 |
 | S04 | BLU07, BLU08, BLU09 | 5 Jan, 12 Jan, 19 Jan 2026 |
 | S05 | BLU10, BLU11, BLU012 | 3 Feb, 10 Feb, 17 Feb 2026 |
 | S06 | BLU13, BLU14, BLU15 | 3 Mar, 10 Mar, 17 Mar 2026 |
@@ -56,12 +56,12 @@ Hackathons start at 8.45 am and end around 6.30 pm.
 
 ### 0.3 Bootcamp
 There will be two bootcamp days with online classes (two Sunday mornings, about 4 hours each). 
-- Day 1, 28 Sep 2025 with SLU04 - SLU10
-- Day 2, 5 Oct 2025 with SLU11 - SLU17
+- Day 1, 21 Sep 2025 with SLU04 - SLU10
+- Day 2,28 Sep 2025 with SLU11 - SLU17
 
 Each class is about 60 min, including questions.
 
-**Day 1, 28 Sep 2025, 9.30 am**
+**Day 1, 21 Sep 2025, 9.30 am**
 | Time | Instructor | Topic |
 | --- | --- | --- |
 | 9.30 am | ? | Intro + icebreaker |
@@ -69,7 +69,7 @@ Each class is about 60 min, including questions.
 | 11 am | ? | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
 | 12 am | ? | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
 
-**Day 2, 5 Oct 2025, 9.30 am**
+**Day 2, 28 Sep 2025, 9.30 am**
 | Time | Instructor | Topic |
 | --- | --- | --- |
 | 9.30 am | ? | SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |

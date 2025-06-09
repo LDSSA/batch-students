@@ -1,14 +1,84 @@
-# Batch 8 Students Repository
+# Batch 9 Students Repository
 
-Welcome to **Lisbon Data Science Starters Academy Batch 8** Students Repository!
+Welcome to **Lisbon Data Science Starters Academy Batch 9** Students Repository!
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **15.9. - 21.9. 2024**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
+Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **21.9. - 27.9. 2025**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
 
 - Slack usage and etiquette;
-- How to setup your software environment to be able to run Jupyter notebooks with Python 3.12;
+- How to setup your software environment to be able to run Jupyter notebooks with Python 3.13;
 - The learning unit workflow to follow during the LDSSA.
 
 Everything else you need to know should be [on our wiki](https://ldssa.github.io/wiki/).
+
+## 0. Important dates and info
+
+### 0.1 LDSSA schedule
+Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=Y183NDk2MWIwZjYzMTRiODVlMzY1NjNlYjI0MzQ5MDkxZWQ3ODM3Nzk5ZDEzOTQxNGE5YjZjODBjYTNjOTQ2NzEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+
+- Registration for admissions: 23 Jun - 6 Jul 2025
+- Admission exams: 7 - 27 Jul 2025
+- Scholarship interviews: 29 Jul - 2 Aug 2025
+- Admissions closed: 3 Aug 2025
+- Student info session: 20 Sep 2025, 10 am
+- Setup week: 21 Sep  - 27 Sep 2025
+- S01 + Bootcamp classes: 28 Sep - 25 Oct 2025; HCKT 01: 26 Oct 2025   
+- S02: 27 Oct - 22 Nov 2025; HCKT 02: 23 Nov 2025   
+- S03: 24 Nov - 20 Dec 2025; HCKT 03: 21 Dec 2025      
+- Christmas break
+- S04: 5 -31 Jan 2026; HCKT 04: 1 Feb 2026
+- S05: 2 - 28 Feb 2026; HCKT 06: 1 Mar 2026      
+- S05: 2 - 28 Mar 2026; HCKT 06: 29 Mar 2026      
+- Easter break: 30 Mar - 5 Apr 2026   
+- Capstone: 6 Apr - 28 Jun 2026
+- Graduation: 29 Jun 2026
+
+### 0.2 Release dates of the learning materials
+S01 - learning notebooks SLU04 - SLU10: 21 Sep 2025   
+S01 - exercise notebooks SLU04-10, learning and exercise notebooks SLU11-19: 28 Sep 2025   
+S02 - BLU01, BLU02, BLU03: 27 Oct, 3 Nov, 10 Nov 2025   
+S03 - BLU04, BLU05, BLU06: 24 Nov, 1 Dec, 8 Dec 2025   
+S04 - BLU07, BLU08, BLU09: 5 Jan, 12 Jan, 19 Jan 2026   
+S05 - BLU10, BLU11, BLU012: 3 Feb, 10 Feb, 17 Feb 2026   
+S06 - BLU13, BLU14, BLU15: 3 Mar, 10 Mar, 17 Mar 2026    
+Capstone: 6 Apr 2026
+
+### 0.3 Bootcamp
+There will be two bootcamp days with online classes (two Sunday mornings, about 4 hours each). 
+- Day 1, 28 Sep 2025 with SLU04 - SLU10
+- Day 2, 5 Oct 2025 with SLU11 - SLU17
+
+#### Bootcamp classes schedule
+Classes durations are orientative.
+
+**Day 1, 28 Sep 2025, 9.30 am**
+- Intro + icebreaker: 30 min
+- Instructor 1:
+   - 30 min: Intro to data science, SLU04 - Basic Stats with Pandas, SLU05 - Covariance and Correlation
+   - 30 min: SLU06 - Dealing with Data Problems
+- Instructor 2:
+   - 30 - 60 min: SLU07 - Regression with Linear Regression, SLU08 - Metrics for Regression
+- Instructor 3:
+   - 30 - 60 min, SLU09 - Classification with Logistic Regression, SLU10 - Metrics for Classification
+
+**Day 2, 5 Oct 2025, 9.30 am**
+- Instructor 4:
+   - 45-60 min: SLU11 - Tree-Based Models, SLU12 - Feature Engineering
+- Instructor 5:
+   - 60 min: SLU13 - Bias-Variance tradeoff & Model Selection, SLU14 - Model complexity and Overfitting, SLU15 - Hyperparameter Tuning
+- Instructor 6:
+   - 30-60 min: SLU16 - Workflow, SLU17 - Ethics and Fairness
+
+### 0.4 Capstone schedule  
+Week 1, students receive client email and data and send an email with questions to the client: 6 - 12 Apr 2026   
+Week 2, instructors prepare client clarifications: 13 - 17 Apr 2026   
+Week 2 - 4, students prepare report 1: 13 Apr - 3 May 2026   
+Week 5, instructors correct report 1: 4 - 10 May 2026
+Week 5 - 8, students prepare report 2: 4 - 31 May 2026   
+Week 8, final API requests: 25 - 31 May 2026   
+Week 9, instructors correct report 2: 1 - 7 Jun 2026   
+Week 9 - 10, students improving reports 1 and 2: 1 - 14 Jun 2026   
+Week 11, final instructor corrections of reports 1 and 2: 15 - 21 Jun 2026   
+Week 12, student presentations: 22 - 28 Jun 2026
 
 ## 1. How to use Slack and how to ask for help
 

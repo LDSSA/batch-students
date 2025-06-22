@@ -1,8 +1,0 @@
-requests
-pandas
-numpy
-dask[complete]
-selenium
-psycopg2-binary
-scikit-learn
-dask-ml

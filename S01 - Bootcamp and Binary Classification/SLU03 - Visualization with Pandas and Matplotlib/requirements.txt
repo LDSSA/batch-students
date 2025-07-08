@@ -1,0 +1,7 @@
+# requirements for admissions
+
+nbgrader==0.9.5            # base
+pandas==2.3.0              # base
+matplotlib==3.10.0         # base
+seaborn==0.13.2            # base
+plotchecker==0.2.0         # SLU03

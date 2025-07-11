@@ -22,3 +22,4 @@ In this unit you will learn how to use data visualization to find patterns in da
 - [pandas plot formatting](https://pandas.pydata.org/pandas-docs/stable/visualization.html#plot-formatting)
 - Basic plot customization with [matplotlib](https://matplotlib.org/)
 - Different plotting libraries in Python
+

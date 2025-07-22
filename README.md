@@ -18,9 +18,9 @@ Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=
 | What | When |
 | --- | --- |
 | Registration for admissions | 23 Jun - 6 Jul 2025 |
-| Admission exams | 7 - 27 Jul 2025 |
-| Scholarship interviews | 29 Jul - 2 Aug 2025 |
-| Admissions closed | 3 Aug 2025 |
+| Admission exams | 7 Jul - 3 Aug 2025 |
+| Scholarship interviews | Aug 2025 |
+| Admissions closed | 1 Sep 2025 |
 | Student info session | 14 Sep 2025, 10 am |
 | Setup week | 14 Sep  - 20 Sep 2025 |
 | Specialization 01 + Bootcamp classes | 21 Sep - 18 Oct 2025 |

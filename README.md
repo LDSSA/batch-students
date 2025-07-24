@@ -57,7 +57,7 @@ Hackathons start at 8.45 am and end around 6.30 pm.
 ### 0.3 Bootcamp
 There will be two bootcamp days with online classes (two Sunday mornings, about 4 hours each). 
 - Day 1, 21 Sep 2025 with SLU04 - SLU10
-- Day 2,28 Sep 2025 with SLU11 - SLU17
+- Day 2, 28 Sep 2025 with SLU11 - SLU17
 
 Each class is about 60 min, including questions.
 

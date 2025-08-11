@@ -66,15 +66,15 @@ Each class is about 60 min, including questions.
 | --- | --- | --- |
 | 9.30 am | ? | Intro + icebreaker |
 | 10 am | ? | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
-| 11 am | Fábio Cruz (DareData) | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
-| 12 am | Fábio Cruz (DareData) | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
+| 11 am | Fábio Cruz (DareData, LDSA alumnus) | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
+| 12 am | Fábio Cruz (DareData, LDSA alumnus) | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
 
 **Day 2, 28 Sep 2025, 9.30 am**
 | Time | Instructor | Topic |
 | --- | --- | --- |
-| 9.30 am | ? | SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |
+| 9.30 am | João Tiago Ascensão (OutSystems, LDSA Cofounder)| SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |
 | 10.30 am | ? | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
-| 11.30 am | Sam Hopkins (LDSA founder) | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
+| 11.30 am | Sam Hopkins (LDSA cofounder) | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
 
 ### 0.3 Capstone schedule  
 | Week nr. | What happens | Dates |

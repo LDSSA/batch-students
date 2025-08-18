@@ -73,7 +73,7 @@ Each class is about 60 min, including questions.
 | Time | Instructor | Topic |
 | --- | --- | --- |
 | 9.30 am | João Tiago Ascensão (OutSystems, LDSA Cofounder)| SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |
-| 10.30 am | ? | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
+| 10.30 am | Rita Carvalho (DareData, LDSA alumnus) | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
 | 11.30 am | Sam Hopkins (LDSA cofounder) | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
 
 ### 0.3 Capstone schedule  

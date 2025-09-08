@@ -10,6 +10,8 @@ Your first step in this journey is to **carefully read** the steps in this tutor
 
 Everything else you need to know should be [on our wiki](https://ldssa.github.io/wiki/).
 
+If you never studied basic statistics or need a refresher, take a look at [this repo](https://github.com/RoberVega/EDIT-DSBA-QSAM)  prepared by our instructor Roberto Álvarez.
+
 ## 0. Important dates and info
 
 ### 0.1 LDSSA schedule

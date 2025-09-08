@@ -2,7 +2,7 @@
 
 Welcome to **Lisbon Data Science Starters Academy Batch 9** Students Repository!
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **21.9. - 27.9. 2025**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
+Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **14.9. - 20.9. 2025**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
 
 - Slack usage and etiquette;
 - How to setup your software environment to be able to run Jupyter notebooks with Python 3.12;
@@ -64,8 +64,8 @@ Each class is about 60 min, including questions.
 **Day 1, 21 Sep 2025, 9.30 am**
 | Time | Instructor | Topic |
 | --- | --- | --- |
-| 9.30 am | ? | Intro + icebreaker |
-| 10 am | ? | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
+| 9.30 am |  | Intro + icebreaker |
+| 10 am |  | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
 | 11 am | Fábio Cruz (DareData, LDSA alumnus) | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
 | 12 am | Fábio Cruz (DareData, LDSA alumnus) | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
 
@@ -76,7 +76,13 @@ Each class is about 60 min, including questions.
 | 10.30 am | Rita Carvalho (DareData, LDSA alumnus) | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
 | 11.30 am | Sam Hopkins (LDSA cofounder) | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
 
-### 0.3 Capstone schedule  
+### 0.3 AMA sessions
+Ask Me Anything sessions with senior hackathon instructors - your chance to meet an expert in the field and ask anything you want to know.
+| Time | Specialization | Instructor |
+| --- | --- | --- |
+|24.1.2026| NLP | Jéssica Rodrigues da Silva |
+
+### 0.4 Capstone schedule  
 | Week nr. | What happens | Dates |
 | --- | ---- | --- |
 | 1 | students receive client email and data <br> and send an email with questions to the client | 6 - 12 Apr 2026 |

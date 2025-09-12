@@ -66,7 +66,7 @@ Each class is about 60 min, including questions.
 **Day 1, 21 Sep 2025, 9.30 am**
 | Time | Instructor | Topic |
 | --- | --- | --- |
-| 9.30 am |  | Intro + icebreaker |
+| 9.30 am | Pratiksha Jain | Intro + icebreaker |
 | 10 am |  | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
 | 11 am | Fábio Cruz (DareData, LDSA alumnus) | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
 | 12 am | Fábio Cruz (DareData, LDSA alumnus) | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |

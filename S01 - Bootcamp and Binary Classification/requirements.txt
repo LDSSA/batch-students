@@ -1,0 +1,12 @@
+nbgrader==0.9.5            # base
+pandas==2.3.2              # base
+matplotlib==3.10.5         # base
+scikit-learn==1.7.1        # base
+seaborn==0.13.2            # base
+category-encoders==2.8.1   # base
+
+plotchecker==0.2.0         # SLU03
+pycountry-convert==0.7.2   # SLU06
+pydotplus==2.0.2           # SLU11
+mlxtend==0.23.4            # SLU13
+imbalanced-learn==0.14.0   # SLU14

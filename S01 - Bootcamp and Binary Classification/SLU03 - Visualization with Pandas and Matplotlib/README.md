@@ -23,3 +23,4 @@ In this unit you will learn how to use data visualization to find patterns in da
 - Basic plot customization with [matplotlib](https://matplotlib.org/)
 - Different plotting libraries in Python
 
+

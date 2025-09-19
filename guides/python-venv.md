@@ -7,7 +7,7 @@ You can also follow [this guide](How_to_set_up_python_virtual_environments.md) f
 
 You will need a virtual environment for each specialization (S01 - S06). We will use the _venv_ package to create the virtual environment and _pip_ (the reference Python package manager) to install and update packages.
 
-**Step 1** Start by ensuring pip, setuptools, and wheel are up to date:
+**Step 1 for Ubuntu up to version 22.04** Start by ensuring pip, setuptools, and wheel are up to date:
 
 ```bash
 python3.12 -m pip install --user --upgrade pip setuptools wheel
@@ -16,6 +16,17 @@ If you get an error at this point, run the following command, then repeat the li
 ```bash
 python3.12 -m ensurepip --upgrade
 ```
+**Step 1 for Ubuntu version 24.04** This Ubuntu version allows you to use pip for installation only in virtual environments. Otherwise you need to use apt. For installing pip, use apt:
+
+```bash
+sudo apt install python3-pip -y 
+```
+Next, install venv for creating virtual environments. It should also install wheel and setuptools.
+
+```bash
+sudo apt install python3.12-venv -y 
+```
+Note: the workflow in this step comes from [here](https://www.cherryservers.com/blog/install-pip-ubuntu) and was not tested. Please let us know in the devops channel on slack if you run into trouble.
 
 **Step 2** Create a virtual environment with the name `s01` for the specialization S01:
 

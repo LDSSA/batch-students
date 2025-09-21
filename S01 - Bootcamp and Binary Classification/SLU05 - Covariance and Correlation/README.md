@@ -18,3 +18,4 @@
 - [corr](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.corr.html)
 - [rank](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rank.html)
 - [seaborn heatmap](https://seaborn.pydata.org/generated/seaborn.heatmap.html) (visualization) 
+

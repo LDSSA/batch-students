@@ -1,6 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
+import math
 np.random.seed(1000)
 
 def get_distance_speed():

@@ -1,4 +1,4 @@
-# LDSSA Hackathon #1 - Binary Classification 2024
+# LDSSA Hackathon #1 - Binary Classification 2025
 
 Find all details in the following google doc:
 

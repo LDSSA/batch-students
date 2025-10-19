@@ -1,0 +1,16 @@
+nbgrader==0.9.5            # base
+pandas==2.3.2              # base
+matplotlib==3.10.5         # base
+scikit-learn==1.7.1        # base
+seaborn==0.13.2            # base
+category-encoders==2.8.1   # base
+
+Pillow==11.3.0            # S02
+SQLAlchemy==2.0.43        # S02
+beautifulsoup4==4.13.4    # S02
+chardet==5.2.0             # S02
+lxml==6.0.1                # S02
+openpyxl==3.1.5            # S02
+xlrd==2.0.2                # S02
+psycopg2-binary==2.9.10     # S02 (required for database connection with sqlalchemy)
+

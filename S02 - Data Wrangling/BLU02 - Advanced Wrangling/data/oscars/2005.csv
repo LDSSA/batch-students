@@ -1,0 +1,115 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2004,2005,77,ACTOR IN A LEADING ROLE,Don Cheadle,Hotel Rwanda,False
+1,2004,2005,77,ACTOR IN A LEADING ROLE,Johnny Depp,Finding Neverland,False
+2,2004,2005,77,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Aviator,False
+3,2004,2005,77,ACTOR IN A LEADING ROLE,Clint Eastwood,Million Dollar Baby,False
+4,2004,2005,77,ACTOR IN A LEADING ROLE,Jamie Foxx,Ray,True
+5,2004,2005,77,ACTOR IN A SUPPORTING ROLE,Alan Alda,The Aviator,False
+6,2004,2005,77,ACTOR IN A SUPPORTING ROLE,Thomas Haden Church,Sideways,False
+7,2004,2005,77,ACTOR IN A SUPPORTING ROLE,Jamie Foxx,Collateral,False
+8,2004,2005,77,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Million Dollar Baby,True
+9,2004,2005,77,ACTOR IN A SUPPORTING ROLE,Clive Owen,Closer,False
+10,2004,2005,77,ACTRESS IN A LEADING ROLE,Annette Bening,Being Julia,False
+11,2004,2005,77,ACTRESS IN A LEADING ROLE,Catalina Sandino Moreno,Maria Full of Grace,False
+12,2004,2005,77,ACTRESS IN A LEADING ROLE,Imelda Staunton,Vera Drake,False
+13,2004,2005,77,ACTRESS IN A LEADING ROLE,Hilary Swank,Million Dollar Baby,True
+14,2004,2005,77,ACTRESS IN A LEADING ROLE,Kate Winslet,Eternal Sunshine of the Spotless Mind,False
+15,2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,The Aviator,True
+16,2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Laura Linney,Kinsey,False
+17,2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Virginia Madsen,Sideways,False
+18,2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Sophie Okonedo,Hotel Rwanda,False
+19,2004,2005,77,ACTRESS IN A SUPPORTING ROLE,Natalie Portman,Closer,False
+20,2004,2005,77,ANIMATED FEATURE FILM,Brad Bird,The Incredibles,True
+21,2004,2005,77,ANIMATED FEATURE FILM,Bill Damaschke,Shark Tale,False
+22,2004,2005,77,ANIMATED FEATURE FILM,Andrew Adamson,Shrek 2,False
+23,2004,2005,77,ART DIRECTION,Art Direction: Dante Ferretti; Set Decoration: Francesca Lo Schiavo,The Aviator,True
+24,2004,2005,77,ART DIRECTION,Art Direction: Gemma Jackson; Set Decoration: Trisha Edwards,Finding Neverland,False
+25,2004,2005,77,ART DIRECTION,Art Direction: Rick Heinrichs; Set Decoration: Cheryl Carasik,Lemony Snicket's A Series of Unfortunate Events,False
+26,2004,2005,77,ART DIRECTION,Art Direction: Anthony Pratt; Set Decoration: Celia Bobak,The Phantom of the Opera,False
+27,2004,2005,77,ART DIRECTION,Art Direction: Aline Bonetto,A Very Long Engagement,False
+28,2004,2005,77,CINEMATOGRAPHY,Robert Richardson,The Aviator,True
+29,2004,2005,77,CINEMATOGRAPHY,Zhao Xiaoding,House of Flying Daggers,False
+30,2004,2005,77,CINEMATOGRAPHY,Caleb Deschanel,The Passion of the Christ,False
+31,2004,2005,77,CINEMATOGRAPHY,John Mathieson,The Phantom of the Opera,False
+32,2004,2005,77,CINEMATOGRAPHY,Bruno Delbonnel,A Very Long Engagement,False
+33,2004,2005,77,COSTUME DESIGN,Sandy Powell,The Aviator,True
+34,2004,2005,77,COSTUME DESIGN,Alexandra Byrne,Finding Neverland,False
+35,2004,2005,77,COSTUME DESIGN,Colleen Atwood,Lemony Snicket's A Series of Unfortunate Events,False
+36,2004,2005,77,COSTUME DESIGN,Sharen Davis,Ray,False
+37,2004,2005,77,COSTUME DESIGN,Bob Ringwood,Troy,False
+38,2004,2005,77,DIRECTING,Martin Scorsese,The Aviator,False
+39,2004,2005,77,DIRECTING,Clint Eastwood,Million Dollar Baby,True
+40,2004,2005,77,DIRECTING,Taylor Hackford,Ray,False
+41,2004,2005,77,DIRECTING,Alexander Payne,Sideways,False
+42,2004,2005,77,DIRECTING,Mike Leigh,Vera Drake,False
+43,2004,2005,77,DOCUMENTARY (Feature),Ross Kauffman and Zana Briski,Born into Brothels,True
+44,2004,2005,77,DOCUMENTARY (Feature),Luigi Falorni and Byambasuren Davaa,The Story of the Weeping Camel,False
+45,2004,2005,77,DOCUMENTARY (Feature),Morgan Spurlock,Super Size Me,False
+46,2004,2005,77,DOCUMENTARY (Feature),Lauren Lazin and Karolyn Ali,Tupac: Resurrection,False
+47,2004,2005,77,DOCUMENTARY (Feature),Kirby Dick and Eddie Schmidt,Twist of Faith,False
+48,2004,2005,77,DOCUMENTARY (Short Subject),Gerardine Wurzburg,Autism Is a World,False
+49,2004,2005,77,DOCUMENTARY (Short Subject),Hanna Polak and Andrzej Celinski,The Children of Leningradsky,False
+50,2004,2005,77,DOCUMENTARY (Short Subject),Hubert Davis and Erin Faith Young,Hardwood,False
+51,2004,2005,77,DOCUMENTARY (Short Subject),Robert Hudson and Bobby Houston,Mighty Times: The Children's March,True
+52,2004,2005,77,DOCUMENTARY (Short Subject),Oren Jacoby and Steve Kalafer,Sister Rose's Passion,False
+53,2004,2005,77,FILM EDITING,Thelma Schoonmaker,The Aviator,True
+54,2004,2005,77,FILM EDITING,Jim Miller and Paul Rubell,Collateral,False
+55,2004,2005,77,FILM EDITING,Matt Chesse,Finding Neverland,False
+56,2004,2005,77,FILM EDITING,Joel Cox,Million Dollar Baby,False
+57,2004,2005,77,FILM EDITING,Paul Hirsch,Ray,False
+58,2004,2005,77,FOREIGN LANGUAGE FILM,Sweden,As It Is in Heaven,False
+59,2004,2005,77,FOREIGN LANGUAGE FILM,France,The Chorus (Les Choristes),False
+60,2004,2005,77,FOREIGN LANGUAGE FILM,Germany,Downfall,False
+61,2004,2005,77,FOREIGN LANGUAGE FILM,Spain,The Sea Inside,True
+62,2004,2005,77,FOREIGN LANGUAGE FILM,South Africa,Yesterday,False
+63,2004,2005,77,MAKEUP,Valli O'Reilly and Bill Corso,Lemony Snicket's A Series of Unfortunate Events,True
+64,2004,2005,77,MAKEUP,Keith Vanderlaan and Christien Tinsley,The Passion of the Christ,False
+65,2004,2005,77,MAKEUP,Jo Allen and Manuel García,The Sea Inside,False
+66,2004,2005,77,MUSIC (Original Score),Jan A.P. Kaczmarek,Finding Neverland,True
+67,2004,2005,77,MUSIC (Original Score),John Williams,Harry Potter and the Prisoner of Azkaban,False
+68,2004,2005,77,MUSIC (Original Score),Thomas Newman,Lemony Snicket's A Series of Unfortunate Events,False
+69,2004,2005,77,MUSIC (Original Score),John Debney,The Passion of the Christ,False
+70,2004,2005,77,MUSIC (Original Score),James Newton Howard,The Village,False
+71,2004,2005,77,MUSIC (Original Song),"Music by Adam Duritz, Charles Gillingham, Jim Bogios, David Immergluck, Matthew Malley and David Bryson; Lyric by Adam Duritz and Daniel Vickrey",Shrek 2,False
+72,2004,2005,77,MUSIC (Original Song),Music and Lyric by Jorge Drexler,The Motorcycle Diaries,True
+73,2004,2005,77,MUSIC (Original Song),Music and Lyric by Glen Ballard and Alan Silvestri,The Polar Express,False
+74,2004,2005,77,MUSIC (Original Song),Music by Andrew Lloyd Webber; Lyric by Charles Hart,The Phantom of the Opera,False
+75,2004,2005,77,MUSIC (Original Song),Music by Bruno Coulais; Lyric by Christophe Barratier,The Chorus (Les Choristes),False
+76,2004,2005,77,BEST PICTURE,"Michael Mann and Graham King, Producers",The Aviator,False
+77,2004,2005,77,BEST PICTURE,"Richard N. Gladstein and Nellie Bellflower, Producers",Finding Neverland,False
+78,2004,2005,77,BEST PICTURE,"Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers",Million Dollar Baby,True
+79,2004,2005,77,BEST PICTURE,"Taylor Hackford, Stuart Benjamin and Howard Baldwin, Producers",Ray,False
+80,2004,2005,77,BEST PICTURE,"Michael London, Producer",Sideways,False
+81,2004,2005,77,SHORT FILM (Animated),Sejong Park and Andrew Gregory,Birthday Boy,False
+82,2004,2005,77,SHORT FILM (Animated),Jeff Fowler and Tim Miller,Gopher Broke,False
+83,2004,2005,77,SHORT FILM (Animated),Bill Plympton,Guard Dog,False
+84,2004,2005,77,SHORT FILM (Animated),Mike Gabriel and Baker Bloodworth,Lorenzo,False
+85,2004,2005,77,SHORT FILM (Animated),Chris Landreth,Ryan,True
+86,2004,2005,77,SHORT FILM (Live Action),Gary McKendry,Everything in This Country Must,False
+87,2004,2005,77,SHORT FILM (Live Action),Ashvin Kumar,Little Terrorist,False
+88,2004,2005,77,SHORT FILM (Live Action),Nacho Vigalondo,7:35 in the Morning (7:35 de la Mañana),False
+89,2004,2005,77,SHORT FILM (Live Action),Taika Waititi and Ainsley Gardiner,"Two Cars, One Night",False
+90,2004,2005,77,SHORT FILM (Live Action),Andrea Arnold,Wasp,True
+91,2004,2005,77,SOUND EDITING,Michael Silvers and Randy Thom,The Incredibles,True
+92,2004,2005,77,SOUND EDITING,Randy Thom and Dennis Leonard,The Polar Express,False
+93,2004,2005,77,SOUND EDITING,Paul N.J. Ottosson,Spider-Man 2,False
+94,2004,2005,77,SOUND MIXING,Tom Fleischman and Petur Hliddal,The Aviator,False
+95,2004,2005,77,SOUND MIXING,"Randy Thom, Gary A. Rizzo and Doc Kane",The Incredibles,False
+96,2004,2005,77,SOUND MIXING,"Randy Thom, Tom Johnson, Dennis Sands and William B. Kaplan",The Polar Express,False
+97,2004,2005,77,SOUND MIXING,"Scott Millan, Greg Orloff, Bob Beemer and Steve Cantamessa",Ray,True
+98,2004,2005,77,SOUND MIXING,"Kevin O'Connell, Greg P. Russell, Jeffrey J. Haboush and Joseph Geisinger",Spider-Man 2,False
+99,2004,2005,77,VISUAL EFFECTS,"Roger Guyett, Tim Burke, John Richardson and Bill George",Harry Potter and the Prisoner of Azkaban,False
+100,2004,2005,77,VISUAL EFFECTS,"John Nelson, Andrew R. Jones, Erik Nash and Joe Letteri","I, Robot",False
+101,2004,2005,77,VISUAL EFFECTS,"John Dykstra, Scott Stokdyk, Anthony LaMolinara and John Frazier",Spider-Man 2,True
+102,2004,2005,77,WRITING (Adapted Screenplay),Screenplay by Richard Linklater & Julie Delpy & Ethan Hawke; Story by Richard Linklater & Kim Krizan,Before Sunset,False
+103,2004,2005,77,WRITING (Adapted Screenplay),Screenplay by David Magee,Finding Neverland,False
+104,2004,2005,77,WRITING (Adapted Screenplay),Screenplay by Paul Haggis,Million Dollar Baby,False
+105,2004,2005,77,WRITING (Adapted Screenplay),Screenplay by José Rivera,The Motorcycle Diaries,False
+106,2004,2005,77,WRITING (Adapted Screenplay),Screenplay by Alexander Payne & Jim Taylor,Sideways,True
+107,2004,2005,77,WRITING (Original Screenplay),Written by John Logan,The Aviator,False
+108,2004,2005,77,WRITING (Original Screenplay),Screenplay by Charlie Kaufman; Story by Charlie Kaufman & Michel Gondry & Pierre Bismuth,Eternal Sunshine of the Spotless Mind,True
+109,2004,2005,77,WRITING (Original Screenplay),Written by Keir Pearson & Terry George,Hotel Rwanda,False
+110,2004,2005,77,WRITING (Original Screenplay),Written by Brad Bird,The Incredibles,False
+111,2004,2005,77,WRITING (Original Screenplay),Written by Mike Leigh,Vera Drake,False
+112,2004,2005,77,JEAN HERSHOLT HUMANITARIAN AWARD,Roger Mayer,,True
+113,2004,2005,77,HONORARY AWARD, Sidney Lumet in recognition of his brilliant services to screenwriters,,True

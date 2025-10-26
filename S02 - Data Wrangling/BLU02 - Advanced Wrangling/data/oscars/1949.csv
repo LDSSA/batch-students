@@ -1,0 +1,110 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1948,1949,21,ACTOR,Lew Ayres,Johnny Belinda,False
+1,1948,1949,21,ACTOR,Montgomery Clift,The Search,False
+2,1948,1949,21,ACTOR,Dan Dailey,When My Baby Smiles at Me,False
+3,1948,1949,21,ACTOR,Laurence Olivier,Hamlet,True
+4,1948,1949,21,ACTOR,Clifton Webb,Sitting Pretty,False
+5,1948,1949,21,ACTOR IN A SUPPORTING ROLE,Charles Bickford,Johnny Belinda,False
+6,1948,1949,21,ACTOR IN A SUPPORTING ROLE,José Ferrer,Joan of Arc,False
+7,1948,1949,21,ACTOR IN A SUPPORTING ROLE,Oscar Homolka,I Remember Mama,False
+8,1948,1949,21,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,True
+9,1948,1949,21,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,The Luck of the Irish,False
+10,1948,1949,21,ACTRESS,Ingrid Bergman,Joan of Arc,False
+11,1948,1949,21,ACTRESS,Olivia de Havilland,The Snake Pit,False
+12,1948,1949,21,ACTRESS,Irene Dunne,I Remember Mama,False
+13,1948,1949,21,ACTRESS,Barbara Stanwyck,"Sorry, Wrong Number",False
+14,1948,1949,21,ACTRESS,Jane Wyman,Johnny Belinda,True
+15,1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Barbara Bel Geddes,I Remember Mama,False
+16,1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Ellen Corby,I Remember Mama,False
+17,1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Johnny Belinda,False
+18,1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet,False
+19,1948,1949,21,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,True
+20,1948,1949,21,ART DIRECTION (Black-and-White),Art Direction:  Roger K. Furse;  Set Decoration:  Carmen Dillon,Hamlet,True
+21,1948,1949,21,ART DIRECTION (Black-and-White),Art Direction:  Robert Haas;  Set Decoration:  William Wallace,Johnny Belinda,False
+22,1948,1949,21,ART DIRECTION (Color),"Art Direction:  Richard Day;  Set Decoration:  Edwin Casey Roberts, Joseph Kish",Joan of Arc,False
+23,1948,1949,21,ART DIRECTION (Color),Art Direction:  Hein Heckroth;  Set Decoration:  Arthur Lawson,The Red Shoes,True
+24,1948,1949,21,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.",A Foreign Affair,False
+25,1948,1949,21,CINEMATOGRAPHY (Black-and-White),Nicholas Musuraca,I Remember Mama,False
+26,1948,1949,21,CINEMATOGRAPHY (Black-and-White),Ted McCord,Johnny Belinda,False
+27,1948,1949,21,CINEMATOGRAPHY (Black-and-White),William Daniels,The Naked City,True
+28,1948,1949,21,CINEMATOGRAPHY (Black-and-White),Joseph August,Portrait of Jennie,False
+29,1948,1949,21,CINEMATOGRAPHY (Color),Charles G. Clarke,Green Grass of Wyoming,False
+30,1948,1949,21,CINEMATOGRAPHY (Color),"Joseph Valentine, William V. Skall, Winton Hoch",Joan of Arc,True
+31,1948,1949,21,CINEMATOGRAPHY (Color),William Snyder,The Loves of Carmen,False
+32,1948,1949,21,CINEMATOGRAPHY (Color),Robert Planck,The Three Musketeers,False
+33,1948,1949,21,COSTUME DESIGN (Black-and-White),Irene,B. F.'s Daughter,False
+34,1948,1949,21,COSTUME DESIGN (Black-and-White),Roger K. Furse,Hamlet,True
+35,1948,1949,21,COSTUME DESIGN (Color),"Edith Head, Gile Steele",The Emperor Waltz,False
+36,1948,1949,21,COSTUME DESIGN (Color),"Dorothy Jeakins, Karinska",Joan of Arc,True
+37,1948,1949,21,DIRECTING,Laurence Olivier,Hamlet,False
+38,1948,1949,21,DIRECTING,Jean Negulesco,Johnny Belinda,False
+39,1948,1949,21,DIRECTING,Fred Zinnemann,The Search,False
+40,1948,1949,21,DIRECTING,Anatole Litvak,The Snake Pit,False
+41,1948,1949,21,DIRECTING,John Huston,The Treasure of the Sierra Madre,True
+42,1948,1949,21,DOCUMENTARY (Feature),"Janice Loeb, Producer",The Quiet One,False
+43,1948,1949,21,DOCUMENTARY (Feature),"Orville O. Dull, Producer",The Secret Land,True
+44,1948,1949,21,DOCUMENTARY (Short Subject),"Herbert Morgan, Producer",Heart to Heart,False
+45,1948,1949,21,DOCUMENTARY (Short Subject),United States Army Air Force,Operation Vittles,False
+46,1948,1949,21,DOCUMENTARY (Short Subject),United States Army,Toward Independence,True
+47,1948,1949,21,FILM EDITING,Frank Sullivan,Joan of Arc,False
+48,1948,1949,21,FILM EDITING,David Weisbart,Johnny Belinda,False
+49,1948,1949,21,FILM EDITING,Paul Weatherwax,The Naked City,True
+50,1948,1949,21,FILM EDITING,Christian Nyby,Red River,False
+51,1948,1949,21,FILM EDITING,Reginald Mills,The Red Shoes,False
+52,1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),William Walton,Hamlet,False
+53,1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Joan of Arc,False
+54,1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Johnny Belinda,False
+55,1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Brian Easdale,The Red Shoes,True
+56,1948,1949,21,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Snake Pit,False
+57,1948,1949,21,MUSIC (Scoring of a Musical Picture),"Johnny Green, Roger Edens",Easter Parade,True
+58,1948,1949,21,MUSIC (Scoring of a Musical Picture),Victor Young,The Emperor Waltz,False
+59,1948,1949,21,MUSIC (Scoring of a Musical Picture),Lennie Hayton,The Pirate,False
+60,1948,1949,21,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Romance on the High Seas,False
+61,1948,1949,21,MUSIC (Scoring of a Musical Picture),Alfred Newman,When My Baby Smiles at Me,False
+62,1948,1949,21,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,The Paleface,True
+63,1948,1949,21,MUSIC (Song),Music by Harold Arlen; Lyrics by Leo Robin,Casbah,False
+64,1948,1949,21,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Romance on the High Seas,False
+65,1948,1949,21,MUSIC (Song),Music by Frederick Hollander; Lyrics by Leo Robin,That Lady in Ermine,False
+66,1948,1949,21,MUSIC (Song),Music and Lyrics by Ramey Idriss and George Tibbles,Wet Blanket Policy,False
+67,1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Hamlet,True
+68,1948,1949,21,BEST MOTION PICTURE,Warner Bros.,Johnny Belinda,False
+69,1948,1949,21,BEST MOTION PICTURE,J. Arthur Rank-Archers,The Red Shoes,False
+70,1948,1949,21,BEST MOTION PICTURE,20th Century-Fox,The Snake Pit,False
+71,1948,1949,21,BEST MOTION PICTURE,Warner Bros.,The Treasure of the Sierra Madre,False
+72,1948,1949,21,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",The Little Orphan,True
+73,1948,1949,21,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mickey and the Seal,False
+74,1948,1949,21,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Mouse Wreckers,False
+75,1948,1949,21,SHORT SUBJECT (Cartoon),United Productions of America,Robin Hoodlum,False
+76,1948,1949,21,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Tea for Two Hundred,False
+77,1948,1949,21,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Annie Was a Wonder,False
+78,1948,1949,21,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Cinderella Horse,False
+79,1948,1949,21,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be on the Radio,False
+80,1948,1949,21,SHORT SUBJECT (One-reel),"Edmund H. Reek, Producer",Symphony of a City,True
+81,1948,1949,21,SHORT SUBJECT (One-reel),"Pete Smith, Producer",You Can't Win,False
+82,1948,1949,21,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Calgary Stampede,False
+83,1948,1949,21,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Going to Blazes,False
+84,1948,1949,21,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Samba-Mania,False
+85,1948,1949,21,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Seal Island,True
+86,1948,1949,21,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Snow Capers,False
+87,1948,1949,21,SOUND RECORDING,"Warner Bros. Studio Sound Department, Col. Nathan O. Levinson, Sound Director",Johnny Belinda,False
+88,1948,1949,21,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Moonrise,False
+89,1948,1949,21,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",The Snake Pit,True
+90,1948,1949,21,SPECIAL EFFECTS,"Special Visual Effects by Ralph Hammeras, Fred Sersen, Edward Snyder; Special Audible Effects by Roger Heman",Deep Waters,False
+91,1948,1949,21,SPECIAL EFFECTS,"Special Visual Effects by Paul Eagler, J. McMillan Johnson, Russell Shearman, Clarence Slifer; Special Audible Effects by Charles Freeman, James G. Stewart",Portrait of Jennie,True
+92,1948,1949,21,WRITING (Motion Picture Story),"Frances Flaherty, Robert Flaherty",Louisiana Story,False
+93,1948,1949,21,WRITING (Motion Picture Story),Malvin Wald,The Naked City,False
+94,1948,1949,21,WRITING (Motion Picture Story),Borden Chase,Red River,False
+95,1948,1949,21,WRITING (Motion Picture Story),Emeric Pressburger,The Red Shoes,False
+96,1948,1949,21,WRITING (Motion Picture Story),"Richard Schweizer, David Wechsler",The Search,True
+97,1948,1949,21,WRITING (Screenplay),"Charles Brackett, Billy Wilder, Richard L. Breen",A Foreign Affair,False
+98,1948,1949,21,WRITING (Screenplay),"Irmgard Von Cube, Allen Vincent",Johnny Belinda,False
+99,1948,1949,21,WRITING (Screenplay),"Richard Schweizer, David Wechsler",The Search,False
+100,1948,1949,21,WRITING (Screenplay),"Frank Partos, Millen Brand",The Snake Pit,False
+101,1948,1949,21,WRITING (Screenplay),John Huston,The Treasure of the Sierra Madre,True
+102,1948,1949,21,SPECIAL FOREIGN LANGUAGE FILM AWARD, Monsieur Vincent - voted by the Academy Board of Governors as the most outstanding foreign language film released in the United States during 1948.,,True
+103,1948,1949,21,SPECIAL AWARD, Ivan Jandl,,True
+104,1948,1949,21,SPECIAL AWARD, Sid Grauman,,True
+105,1948,1949,21,SPECIAL AWARD, Adolph Zukor,,True
+106,1948,1949,21,SPECIAL AWARD, Walter Wanger for distinguished service to the industry in adding to its moral stature in the world community by his production of the picture Joan of Arc.,,True
+107,1948,1949,21,SPECIAL AWARD, Jean Hersholt - in recognition of his service to the Academy during four terms as president.,,True
+108,1948,1949,21,IRVING G. THALBERG MEMORIAL AWARD,Jerry Wald,,True

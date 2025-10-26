@@ -1,0 +1,113 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1994,1995,67,ACTOR IN A LEADING ROLE,Morgan Freeman,The Shawshank Redemption,False
+1,1994,1995,67,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump,True
+2,1994,1995,67,ACTOR IN A LEADING ROLE,Nigel Hawthorne,The Madness of King George,False
+3,1994,1995,67,ACTOR IN A LEADING ROLE,Paul Newman,Nobody's Fool,False
+4,1994,1995,67,ACTOR IN A LEADING ROLE,John Travolta,Pulp Fiction,False
+5,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Samuel L. Jackson,Pulp Fiction,False
+6,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Martin Landau,Ed Wood,True
+7,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Chazz Palminteri,Bullets over Broadway,False
+8,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Paul Scofield,Quiz Show,False
+9,1994,1995,67,ACTOR IN A SUPPORTING ROLE,Gary Sinise,Forrest Gump,False
+10,1994,1995,67,ACTRESS IN A LEADING ROLE,Jodie Foster,Nell,False
+11,1994,1995,67,ACTRESS IN A LEADING ROLE,Jessica Lange,Blue Sky,True
+12,1994,1995,67,ACTRESS IN A LEADING ROLE,Miranda Richardson,Tom & Viv,False
+13,1994,1995,67,ACTRESS IN A LEADING ROLE,Winona Ryder,Little Women,False
+14,1994,1995,67,ACTRESS IN A LEADING ROLE,Susan Sarandon,The Client,False
+15,1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Rosemary Harris,Tom & Viv,False
+16,1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Helen Mirren,The Madness of King George,False
+17,1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Uma Thurman,Pulp Fiction,False
+18,1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Jennifer Tilly,Bullets over Broadway,False
+19,1994,1995,67,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Bullets over Broadway,True
+20,1994,1995,67,ART DIRECTION,Art Direction:  Santo Loquasto;  Set Decoration:  Susan Bode,Bullets over Broadway,False
+21,1994,1995,67,ART DIRECTION,Art Direction:  Rick Carter;  Set Decoration:  Nancy Haigh,Forrest Gump,False
+22,1994,1995,67,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,Interview with the Vampire,False
+23,1994,1995,67,ART DIRECTION,Art Direction:  Lilly Kilvert;  Set Decoration:  Dorree Cooper,Legends of the Fall,False
+24,1994,1995,67,ART DIRECTION,Art Direction:  Ken Adam;  Set Decoration:  Carolyn Scott,The Madness of King George,True
+25,1994,1995,67,CINEMATOGRAPHY,Don Burgess,Forrest Gump,False
+26,1994,1995,67,CINEMATOGRAPHY,John Toll,Legends of the Fall,True
+27,1994,1995,67,CINEMATOGRAPHY,Piotr Sobocinski,Red,False
+28,1994,1995,67,CINEMATOGRAPHY,Roger Deakins,The Shawshank Redemption,False
+29,1994,1995,67,CINEMATOGRAPHY,Owen Roizman,Wyatt Earp,False
+30,1994,1995,67,COSTUME DESIGN,"Lizzy Gardiner, Tim Chappel","The Adventures of Priscilla, Queen of the Desert",True
+31,1994,1995,67,COSTUME DESIGN,Jeffrey Kurland,Bullets over Broadway,False
+32,1994,1995,67,COSTUME DESIGN,Colleen Atwood,Little Women,False
+33,1994,1995,67,COSTUME DESIGN,April Ferry,Maverick,False
+34,1994,1995,67,COSTUME DESIGN,Moidele Bickel,Queen Margot,False
+35,1994,1995,67,DIRECTING,Woody Allen,Bullets over Broadway,False
+36,1994,1995,67,DIRECTING,Robert Zemeckis,Forrest Gump,True
+37,1994,1995,67,DIRECTING,Quentin Tarantino,Pulp Fiction,False
+38,1994,1995,67,DIRECTING,Robert Redford,Quiz Show,False
+39,1994,1995,67,DIRECTING,Krzysztof Kieslowski,Red,False
+40,1994,1995,67,DOCUMENTARY (Feature),Deborah Hoffmann,Complaints of a Dutiful Daughter,False
+41,1994,1995,67,DOCUMENTARY (Feature),Charles Guggenheim,D-Day Remembered,False
+42,1994,1995,67,DOCUMENTARY (Feature),"Connie Field, Marilyn Mulford",Freedom on My Mind,False
+43,1994,1995,67,DOCUMENTARY (Feature),Jean Bach,A Great Day in Harlem,False
+44,1994,1995,67,DOCUMENTARY (Feature),"Freida Lee Mock, Terry Sanders",Maya Lin: A Strong Clear Vision,True
+45,1994,1995,67,DOCUMENTARY (Short Subject),"Vince DiPersio, Bill Guttentag",Blues Highway,False
+46,1994,1995,67,DOCUMENTARY (Short Subject),Marcel Lozinski,89mm od Europy (89mm from Europe),False
+47,1994,1995,67,DOCUMENTARY (Short Subject),Robert Richter,School of Assassins,False
+48,1994,1995,67,DOCUMENTARY (Short Subject),"Dee Mosbacher, Frances Reid",Straight from the Heart,False
+49,1994,1995,67,DOCUMENTARY (Short Subject),Charles Guggenheim,A Time for Justice,True
+50,1994,1995,67,FILM EDITING,Arthur Schmidt,Forrest Gump,True
+51,1994,1995,67,FILM EDITING,"Frederick Marx, Steve James, Bill Haugse",Hoop Dreams,False
+52,1994,1995,67,FILM EDITING,Sally Menke,Pulp Fiction,False
+53,1994,1995,67,FILM EDITING,Richard Francis-Bruce,The Shawshank Redemption,False
+54,1994,1995,67,FILM EDITING,John Wright,Speed,False
+55,1994,1995,67,FOREIGN LANGUAGE FILM,The Former Yugoslav Republic of Macedonia,Before the Rain,False
+56,1994,1995,67,FOREIGN LANGUAGE FILM,Russia,Burnt by the Sun,True
+57,1994,1995,67,FOREIGN LANGUAGE FILM,Taiwan,Eat Drink Man Woman,False
+58,1994,1995,67,FOREIGN LANGUAGE FILM,Belgium,Farinelli: Il Castrato,False
+59,1994,1995,67,FOREIGN LANGUAGE FILM,Cuba,Strawberry and Chocolate,False
+60,1994,1995,67,MAKEUP,"Rick Baker, Ve Neill, Yolanda Toussieng",Ed Wood,True
+61,1994,1995,67,MAKEUP,"Daniel C. Striepeke, Hallie D'Amore, Judith A. Cory",Forrest Gump,False
+62,1994,1995,67,MAKEUP,"Daniel Parker, Paul Engelen, Carol Hemming",Mary Shelley's Frankenstein,False
+63,1994,1995,67,MUSIC (Original Score),Alan Silvestri,Forrest Gump,False
+64,1994,1995,67,MUSIC (Original Score),Elliot Goldenthal,Interview with the Vampire,False
+65,1994,1995,67,MUSIC (Original Score),Hans Zimmer,The Lion King,True
+66,1994,1995,67,MUSIC (Original Score),Thomas Newman,Little Women,False
+67,1994,1995,67,MUSIC (Original Score),Thomas Newman,The Shawshank Redemption,False
+68,1994,1995,67,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,The Lion King,True
+69,1994,1995,67,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,The Lion King,False
+70,1994,1995,67,MUSIC (Original Song),Music by Elton John; Lyric by Tim Rice,The Lion King,False
+71,1994,1995,67,MUSIC (Original Song),"Music and Lyric by Carole Bayer Sager, James Newton Howard, James Ingram and Patty Smyth",Junior,False
+72,1994,1995,67,MUSIC (Original Song),Music and Lyric by Randy Newman,The Paper,False
+73,1994,1995,67,BEST PICTURE,"Wendy Finerman, Steve Tisch and Steve Starkey, Producers",Forrest Gump,True
+74,1994,1995,67,BEST PICTURE,"Duncan Kenworthy, Producer",Four Weddings and a Funeral,False
+75,1994,1995,67,BEST PICTURE,"Lawrence Bender, Producer",Pulp Fiction,False
+76,1994,1995,67,BEST PICTURE,"Robert Redford, Michael Jacobs, Julian Krainin and Michael Nozik, Producers",Quiz Show,False
+77,1994,1995,67,BEST PICTURE,"Niki Marvin, Producer",The Shawshank Redemption,False
+78,1994,1995,67,SHORT FILM (Animated),"Tim Watts, David Stoten",The Big Story,False
+79,1994,1995,67,SHORT FILM (Animated),"Alison Snowden, David Fine",Bob's Birthday,True
+80,1994,1995,67,SHORT FILM (Animated),Vanessa Schwartz,The Janitor,False
+81,1994,1995,67,SHORT FILM (Animated),Michael Dudok de Wit,The Monk and the Fish,False
+82,1994,1995,67,SHORT FILM (Animated),Erica Russell,Triangle,False
+83,1994,1995,67,SHORT FILM (Live Action),"Peter Capaldi, Ruth Kenley-Letts",Franz Kafka's It's a Wonderful Life,True
+84,1994,1995,67,SHORT FILM (Live Action),"Sean Astin, Christine Astin",Kangaroo Court,False
+85,1994,1995,67,SHORT FILM (Live Action),"JoBeth Williams, Michele McGuire",On Hope,False
+86,1994,1995,67,SHORT FILM (Live Action),"Paul Unwin, Nick Vivian",Syrup,False
+87,1994,1995,67,SHORT FILM (Live Action),"Peggy Rajski, Randy Stone",Trevor,True
+88,1994,1995,67,SOUND,"Donald O. Mitchell, Michael Herbick, Frank A. Montaño, Arthur Rochester",Clear and Present Danger,False
+89,1994,1995,67,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",Forrest Gump,False
+90,1994,1995,67,SOUND,"Paul Massey, David Campbell, Christopher David, Douglas Ganton",Legends of the Fall,False
+91,1994,1995,67,SOUND,"Robert J. Litt, Elliot Tyson, Michael Herbick, Willie Burton",The Shawshank Redemption,False
+92,1994,1995,67,SOUND,"Gregg Landaker, Steve Maslow, Bob Beemer, David R. B. MacMillan",Speed,True
+93,1994,1995,67,SOUND EFFECTS EDITING,"Bruce Stambler, John Leveque",Clear and Present Danger,False
+94,1994,1995,67,SOUND EFFECTS EDITING,"Gloria S. Borders, Randy Thom",Forrest Gump,False
+95,1994,1995,67,SOUND EFFECTS EDITING,Stephen Hunter Flick,Speed,True
+96,1994,1995,67,VISUAL EFFECTS,"Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall",Forrest Gump,True
+97,1994,1995,67,VISUAL EFFECTS,"Scott Squires, Steve Williams, Tom Bertino, Jon Farhat",The Mask,False
+98,1994,1995,67,VISUAL EFFECTS,"John Bruno, Thomas L. Fisher, Jacques Stroweis, Patrick McClung",True Lies,False
+99,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Eric Roth,Forrest Gump,True
+100,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Alan Bennett,The Madness of King George,False
+101,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Robert Benton,Nobody's Fool,False
+102,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Paul Attanasio,Quiz Show,False
+103,1994,1995,67,WRITING (Screenplay Based on Material Previously Produced or Published),Frank Darabont,The Shawshank Redemption,False
+104,1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Woody Allen, Douglas McGrath",Bullets over Broadway,False
+105,1994,1995,67,WRITING (Screenplay Written Directly for the Screen),Richard Curtis,Four Weddings and a Funeral,False
+106,1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Frances Walsh, Peter Jackson",Heavenly Creatures,False
+107,1994,1995,67,WRITING (Screenplay Written Directly for the Screen),Screenplay by Quentin Tarantino;  Stories by Quentin Tarantino & Roger Avary,Pulp Fiction,True
+108,1994,1995,67,WRITING (Screenplay Written Directly for the Screen),"Krzysztof Piesiewicz, Krzysztof Kieslowski",Red,False
+109,1994,1995,67,JEAN HERSHOLT HUMANITARIAN AWARD,Quincy Jones,,True
+110,1994,1995,67,HONORARY AWARD, Michelangelo Antonioni in recognition of his place as one of the cinema's master visual stylists.,,True
+111,1994,1995,67,IRVING G. THALBERG MEMORIAL AWARD,Clint Eastwood,,True

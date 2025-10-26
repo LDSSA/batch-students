@@ -1,0 +1,109 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1985,1986,58,ACTOR IN A LEADING ROLE,Harrison Ford,Witness,False
+1,1985,1986,58,ACTOR IN A LEADING ROLE,James Garner,Murphy's Romance,False
+2,1985,1986,58,ACTOR IN A LEADING ROLE,William Hurt,Kiss of the Spider Woman,True
+3,1985,1986,58,ACTOR IN A LEADING ROLE,Jack Nicholson,Prizzi's Honor,False
+4,1985,1986,58,ACTOR IN A LEADING ROLE,Jon Voight,Runaway Train,False
+5,1985,1986,58,ACTOR IN A SUPPORTING ROLE,Don Ameche,Cocoon,True
+6,1985,1986,58,ACTOR IN A SUPPORTING ROLE,Klaus Maria Brandauer,Out of Africa,False
+7,1985,1986,58,ACTOR IN A SUPPORTING ROLE,William Hickey,Prizzi's Honor,False
+8,1985,1986,58,ACTOR IN A SUPPORTING ROLE,Robert Loggia,Jagged Edge,False
+9,1985,1986,58,ACTOR IN A SUPPORTING ROLE,Eric Roberts,Runaway Train,False
+10,1985,1986,58,ACTRESS IN A LEADING ROLE,Anne Bancroft,Agnes of God,False
+11,1985,1986,58,ACTRESS IN A LEADING ROLE,Whoopi Goldberg,The Color Purple,False
+12,1985,1986,58,ACTRESS IN A LEADING ROLE,Jessica Lange,Sweet Dreams,False
+13,1985,1986,58,ACTRESS IN A LEADING ROLE,Geraldine Page,The Trip to Bountiful,True
+14,1985,1986,58,ACTRESS IN A LEADING ROLE,Meryl Streep,Out of Africa,False
+15,1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Margaret Avery,The Color Purple,False
+16,1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,Prizzi's Honor,True
+17,1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Amy Madigan,Twice in a Lifetime,False
+18,1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Meg Tilly,Agnes of God,False
+19,1985,1986,58,ACTRESS IN A SUPPORTING ROLE,Oprah Winfrey,The Color Purple,False
+20,1985,1986,58,ART DIRECTION,Art Direction:  Norman Garwood;  Set Decoration:  Maggie Gray,Brazil,False
+21,1985,1986,58,ART DIRECTION,"Art Direction:  J. Michael Riva, Robert W. Welch;  Set Decoration:  Linda DeScenna",The Color Purple,False
+22,1985,1986,58,ART DIRECTION,Art Direction:  Stephen Grimes;  Set Decoration:  Josie MacAvin,Out of Africa,True
+23,1985,1986,58,ART DIRECTION,"Art Direction:  Yoshiro Muraki, Shinobu Muraki",Ran,False
+24,1985,1986,58,ART DIRECTION,Art Direction:  Stan Jolley;  Set Decoration:  John Anderson,Witness,False
+25,1985,1986,58,CINEMATOGRAPHY,Allen Daviau,The Color Purple,False
+26,1985,1986,58,CINEMATOGRAPHY,William A. Fraker,Murphy's Romance,False
+27,1985,1986,58,CINEMATOGRAPHY,David Watkin,Out of Africa,True
+28,1985,1986,58,CINEMATOGRAPHY,"Takao Saito, Masaharu Ueda, Asakazu Nakai",Ran,False
+29,1985,1986,58,CINEMATOGRAPHY,John Seale,Witness,False
+30,1985,1986,58,COSTUME DESIGN,Aggie Guerard Rodgers,The Color Purple,False
+31,1985,1986,58,COSTUME DESIGN,Albert Wolsky,The Journey of Natty Gann,False
+32,1985,1986,58,COSTUME DESIGN,Milena Canonero,Out of Africa,False
+33,1985,1986,58,COSTUME DESIGN,Donfeld,Prizzi's Honor,False
+34,1985,1986,58,COSTUME DESIGN,Emi Wada,Ran,True
+35,1985,1986,58,DIRECTING,Hector Babenco,Kiss of the Spider Woman,False
+36,1985,1986,58,DIRECTING,Sydney Pollack,Out of Africa,True
+37,1985,1986,58,DIRECTING,John Huston,Prizzi's Honor,False
+38,1985,1986,58,DIRECTING,Akira Kurosawa,Ran,False
+39,1985,1986,58,DIRECTING,Peter Weir,Witness,False
+40,1985,1986,58,DOCUMENTARY (Feature),"Maria Florio and Victoria Mudd, Producers",Broken Rainbow,True
+41,1985,1986,58,DOCUMENTARY (Feature),"Susana Muñoz and Lourdes Portillo, Producers",Las Madres--The Mothers of Plaza de Mayo,False
+42,1985,1986,58,DOCUMENTARY (Feature),"Japhet Asher, Producer",Soldiers in Hiding,False
+43,1985,1986,58,DOCUMENTARY (Feature),"Ken Burns and Buddy Squires, Producers",The Statue of Liberty,False
+44,1985,1986,58,DOCUMENTARY (Feature),"Steven Okazaki, Producer",Unfinished Business,False
+45,1985,1986,58,DOCUMENTARY (Short Subject),"Robert Gardner, Producer",The Courage to Care,False
+46,1985,1986,58,DOCUMENTARY (Short Subject),"Michael Crowley and James Wolpaw, Producers",Keats and His Nightingale: A Blind Date,False
+47,1985,1986,58,DOCUMENTARY (Short Subject),"Barbara Willis Sweete, Producer",Making Overtures--The Story of a Community Orchestra,False
+48,1985,1986,58,DOCUMENTARY (Short Subject),"David Goodman, Producer",Witness to War: Dr. Charlie Clements,True
+49,1985,1986,58,DOCUMENTARY (Short Subject),"Alan Edelstein, Producer",The Wizard of the Strings,False
+50,1985,1986,58,FILM EDITING,John Bloom,A Chorus Line,False
+51,1985,1986,58,FILM EDITING,"Fredric Steinkamp, William Steinkamp, Pembroke Herring, Sheldon Kahn",Out of Africa,False
+52,1985,1986,58,FILM EDITING,"Rudi Fehr, Kaja Fehr",Prizzi's Honor,False
+53,1985,1986,58,FILM EDITING,Henry Richardson,Runaway Train,False
+54,1985,1986,58,FILM EDITING,Thom Noble,Witness,True
+55,1985,1986,58,FOREIGN LANGUAGE FILM,Federal Republic of Germany,Angry Harvest,False
+56,1985,1986,58,FOREIGN LANGUAGE FILM,Hungary,Colonel Redl,False
+57,1985,1986,58,FOREIGN LANGUAGE FILM,Argentina,The Official Story,True
+58,1985,1986,58,FOREIGN LANGUAGE FILM,France,Three Men and a Cradle,False
+59,1985,1986,58,FOREIGN LANGUAGE FILM,Yugoslavia,When Father Was Away on Business,False
+60,1985,1986,58,MAKEUP,Ken Chase,The Color Purple,False
+61,1985,1986,58,MAKEUP,"Michael Westmore, Zoltan Elek",Mask,True
+62,1985,1986,58,MAKEUP,Carl Fullerton,Remo Williams: The Adventure Begins,False
+63,1985,1986,58,MUSIC (Original Score),Georges Delerue,Agnes of God,False
+64,1985,1986,58,MUSIC (Original Score),"Quincy Jones, Jeremy Lubbock, Rod Temperton, Caiphus Semenya, Andrae Crouch, Chris Boardman, Jorge Calandrelli, Joel Rosenbaum, Fred Steiner, Jack Hayes, Jerry Hey, Randy Kerber",The Color Purple,False
+65,1985,1986,58,MUSIC (Original Score),John Barry,Out of Africa,True
+66,1985,1986,58,MUSIC (Original Score),Bruce Broughton,Silverado,False
+67,1985,1986,58,MUSIC (Original Score),Maurice Jarre,Witness,False
+68,1985,1986,58,MUSIC (Original Song),"Music by Quincy Jones and Rod Temperton; Lyric by Quincy Jones, Rod Temperton and Lionel Richie",The Color Purple,False
+69,1985,1986,58,MUSIC (Original Song),Music by Chris Hayes and Johnny Colla; Lyric by Huey Lewis,Back to the Future,False
+70,1985,1986,58,MUSIC (Original Song),Music and Lyric by Lionel Richie,White Nights,True
+71,1985,1986,58,MUSIC (Original Song),Music and Lyric by Stephen Bishop,White Nights,False
+72,1985,1986,58,MUSIC (Original Song),Music by Marvin Hamlisch; Lyric by Edward Kleban,A Chorus Line,False
+73,1985,1986,58,BEST PICTURE,"Steven Spielberg, Kathleen Kennedy, Frank Marshall and Quincy Jones, Producers",The Color Purple,False
+74,1985,1986,58,BEST PICTURE,"David Weisman, Producer",Kiss of the Spider Woman,False
+75,1985,1986,58,BEST PICTURE,"Sydney Pollack, Producer",Out of Africa,True
+76,1985,1986,58,BEST PICTURE,"John Foreman, Producer",Prizzi's Honor,False
+77,1985,1986,58,BEST PICTURE,"Edward S. Feldman, Producer",Witness,False
+78,1985,1986,58,SHORT FILM (Animated),"Cilia Van Dijk, Producer",Anna & Bella,True
+79,1985,1986,58,SHORT FILM (Animated),"Richard Condie and Michael Scott, Producers",The Big Snit,False
+80,1985,1986,58,SHORT FILM (Animated),"Alison Snowden, Producer",Second Class Mail,False
+81,1985,1986,58,SHORT FILM (Live Action),"Dianna Costello, Producer",Graffiti,False
+82,1985,1986,58,SHORT FILM (Live Action),"Jeff Brown and Chris Pelzer, Producers",Molly's Pilgrim,True
+83,1985,1986,58,SHORT FILM (Live Action),"Bob Rogers, Producer",Rainbow War,False
+84,1985,1986,58,SOUND,"Bill Varney, B. Tennyson Sebastian II, Robert Thirlwell, William B. Kaplan",Back to the Future,False
+85,1985,1986,58,SOUND,"Donald O. Mitchell, Michael Minkler, Gerry Humphreys, Chris Newman",A Chorus Line,False
+86,1985,1986,58,SOUND,"Les Fresholtz, Dick Alexander, Vern Poore, Bud Alper",Ladyhawke,False
+87,1985,1986,58,SOUND,"Chris Jenkins, Gary Alexander, Larry Stensvold, Peter Handford",Out of Africa,True
+88,1985,1986,58,SOUND,"Donald O. Mitchell, Rick Kline, Kevin O'Connell, David Ronne",Silverado,False
+89,1985,1986,58,SOUND EFFECTS EDITING,"Charles L. Campbell, Robert Rutledge",Back to the Future,True
+90,1985,1986,58,SOUND EFFECTS EDITING,"Bob Henderson, Alan Murray",Ladyhawke,False
+91,1985,1986,58,SOUND EFFECTS EDITING,Frederick J. Brown,Rambo: First Blood Part II,False
+92,1985,1986,58,VISUAL EFFECTS,"Ken Ralston, Ralph McQuarrie, Scott Farrar, David Berry",Cocoon,True
+93,1985,1986,58,VISUAL EFFECTS,"Will Vinton, Ian Wingrove, Zoran Perisic, Michael Lloyd",Return to Oz,False
+94,1985,1986,58,VISUAL EFFECTS,"Dennis Muren, Kit West, John Ellis, David Allen",Young Sherlock Holmes,False
+95,1985,1986,58,WRITING (Screenplay Based on Material from Another Medium),Menno Meyjes,The Color Purple,False
+96,1985,1986,58,WRITING (Screenplay Based on Material from Another Medium),Leonard Schrader,Kiss of the Spider Woman,False
+97,1985,1986,58,WRITING (Screenplay Based on Material from Another Medium),Kurt Luedtke,Out of Africa,True
+98,1985,1986,58,WRITING (Screenplay Based on Material from Another Medium),"Richard Condon, Janet Roach",Prizzi's Honor,False
+99,1985,1986,58,WRITING (Screenplay Based on Material from Another Medium),Horton Foote,The Trip to Bountiful,False
+100,1985,1986,58,WRITING (Screenplay Written Directly for the Screen),"Robert Zemeckis, Bob Gale",Back to the Future,False
+101,1985,1986,58,WRITING (Screenplay Written Directly for the Screen),"Terry Gilliam, Tom Stoppard, Charles McKeown",Brazil,False
+102,1985,1986,58,WRITING (Screenplay Written Directly for the Screen),"Luis Puenzo, Aida Bortnik",The Official Story,False
+103,1985,1986,58,WRITING (Screenplay Written Directly for the Screen),Woody Allen,The Purple Rose of Cairo,False
+104,1985,1986,58,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Earl W. Wallace, William Kelley;  Story by William Kelley, Pamela Wallace, Earl W. Wallace",Witness,True
+105,1985,1986,58,JEAN HERSHOLT HUMANITARIAN AWARD,Charles 'Buddy' Rogers,,True
+106,1985,1986,58,HONORARY AWARD, Paul Newman,,True
+107,1985,1986,58,HONORARY AWARD, Alex North,,True

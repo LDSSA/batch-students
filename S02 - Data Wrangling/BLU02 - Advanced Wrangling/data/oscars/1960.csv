@@ -1,0 +1,120 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1959,1960,32,ACTOR,Laurence Harvey,Room at the Top,False
+1,1959,1960,32,ACTOR,Charlton Heston,Ben-Hur,True
+2,1959,1960,32,ACTOR,Jack Lemmon,Some Like It Hot,False
+3,1959,1960,32,ACTOR,Paul Muni,The Last Angry Man,False
+4,1959,1960,32,ACTOR,James Stewart,Anatomy of a Murder,False
+5,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,True
+6,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Arthur O'Connell,Anatomy of a Murder,False
+7,1959,1960,32,ACTOR IN A SUPPORTING ROLE,George C. Scott,Anatomy of a Murder,False
+8,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Robert Vaughn,The Young Philadelphians,False
+9,1959,1960,32,ACTOR IN A SUPPORTING ROLE,Ed Wynn,The Diary of Anne Frank,False
+10,1959,1960,32,ACTRESS,Doris Day,Pillow Talk,False
+11,1959,1960,32,ACTRESS,Audrey Hepburn,The Nun's Story,False
+12,1959,1960,32,ACTRESS,Katharine Hepburn,"Suddenly, Last Summer",False
+13,1959,1960,32,ACTRESS,Simone Signoret,Room at the Top,True
+14,1959,1960,32,ACTRESS,Elizabeth Taylor,"Suddenly, Last Summer",False
+15,1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Hermione Baddeley,Room at the Top,False
+16,1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Susan Kohner,Imitation of Life,False
+17,1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Juanita Moore,Imitation of Life,False
+18,1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Pillow Talk,False
+19,1959,1960,32,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Diary of Anne Frank,True
+20,1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Career,False
+21,1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Lyle R. Wheeler, George W. Davis;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",The Diary of Anne Frank,True
+22,1959,1960,32,ART DIRECTION (Black-and-White),Art Direction:  Carl Anderson;  Set Decoration:  William Kiernan,The Last Angry Man,False
+23,1959,1960,32,ART DIRECTION (Black-and-White),Art Direction:  Ted Haworth;  Set Decoration:  Edward G. Boyle,Some Like It Hot,False
+24,1959,1960,32,ART DIRECTION (Black-and-White),"Art Direction:  Oliver Messel, William Kellner;  Set Decoration:  Scot Slimon","Suddenly, Last Summer",False
+25,1959,1960,32,ART DIRECTION (Color),"Art Direction:  William A. Horning, Edward Carfagno;  Set Decoration:  Hugh Hunt",Ben-Hur,True
+26,1959,1960,32,ART DIRECTION (Color),Art Direction:  John DeCuir;  Set Decoration:  Julia Heron,The Big Fisherman,False
+27,1959,1960,32,ART DIRECTION (Color),"Art Direction:  Lyle R. Wheeler, Franz Bachelin, Herman A. Blumenthal;  Set Decoration:  Walter M. Scott, Joseph Kish",Journey to the Center of the Earth,False
+28,1959,1960,32,ART DIRECTION (Color),"Art Direction:  William A. Horning, Robert Boyle, Merrill Pye;  Set Decoration:  Henry Grace, Frank McKelvy",North by Northwest,False
+29,1959,1960,32,ART DIRECTION (Color),"Art Direction:  Richard H. Riedel;  Set Decoration:  Russell A. Gausman, Ruby R. Levitt",Pillow Talk,False
+30,1959,1960,32,CINEMATOGRAPHY (Black-and-White),Sam Leavitt,Anatomy of a Murder,False
+31,1959,1960,32,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,Career,False
+32,1959,1960,32,CINEMATOGRAPHY (Black-and-White),William C. Mellor,The Diary of Anne Frank,True
+33,1959,1960,32,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",Some Like It Hot,False
+34,1959,1960,32,CINEMATOGRAPHY (Black-and-White),"Harry Stradling, Sr.",The Young Philadelphians,False
+35,1959,1960,32,CINEMATOGRAPHY (Color),Robert L. Surtees,Ben-Hur,True
+36,1959,1960,32,CINEMATOGRAPHY (Color),Lee Garmes,The Big Fisherman,False
+37,1959,1960,32,CINEMATOGRAPHY (Color),Daniel L. Fapp,The Five Pennies,False
+38,1959,1960,32,CINEMATOGRAPHY (Color),Franz Planer,The Nun's Story,False
+39,1959,1960,32,CINEMATOGRAPHY (Color),Leon Shamroy,Porgy and Bess,False
+40,1959,1960,32,COSTUME DESIGN (Black-and-White),Edith Head,Career,False
+41,1959,1960,32,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Mary Wills",The Diary of Anne Frank,False
+42,1959,1960,32,COSTUME DESIGN (Black-and-White),Helen Rose,The Gazebo,False
+43,1959,1960,32,COSTUME DESIGN (Black-and-White),Orry-Kelly,Some Like It Hot,True
+44,1959,1960,32,COSTUME DESIGN (Black-and-White),Howard Shoup,The Young Philadelphians,False
+45,1959,1960,32,COSTUME DESIGN (Color),Elizabeth Haffenden,Ben-Hur,True
+46,1959,1960,32,COSTUME DESIGN (Color),Adele Palmer,The Best of Everything,False
+47,1959,1960,32,COSTUME DESIGN (Color),Renie,The Big Fisherman,False
+48,1959,1960,32,COSTUME DESIGN (Color),Edith Head,The Five Pennies,False
+49,1959,1960,32,COSTUME DESIGN (Color),Irene Sharaff,Porgy and Bess,False
+50,1959,1960,32,DIRECTING,William Wyler,Ben-Hur,True
+51,1959,1960,32,DIRECTING,George Stevens,The Diary of Anne Frank,False
+52,1959,1960,32,DIRECTING,Fred Zinnemann,The Nun's Story,False
+53,1959,1960,32,DIRECTING,Jack Clayton,Room at the Top,False
+54,1959,1960,32,DIRECTING,Billy Wilder,Some Like It Hot,False
+55,1959,1960,32,DOCUMENTARY (Feature),"David L. Wolper, Producer",The Race for Space,False
+56,1959,1960,32,DOCUMENTARY (Feature),"Bernhard Grzimek, Producer",Serengeti Shall Not Die,True
+57,1959,1960,32,DOCUMENTARY (Short Subject),"Walt Disney, Producer",Donald in Mathmagic Land,False
+58,1959,1960,32,DOCUMENTARY (Short Subject),"Edward F. Cullen, Producer",From Generation to Generation,False
+59,1959,1960,32,DOCUMENTARY (Short Subject),"Bert Haanstra, Producer",Glass,True
+60,1959,1960,32,FILM EDITING,Louis R. Loeffler,Anatomy of a Murder,False
+61,1959,1960,32,FILM EDITING,"Ralph E. Winters, John D. Dunning",Ben-Hur,True
+62,1959,1960,32,FILM EDITING,George Tomasini,North by Northwest,False
+63,1959,1960,32,FILM EDITING,Walter Thompson,The Nun's Story,False
+64,1959,1960,32,FILM EDITING,Frederic Knudtson,On the Beach,False
+65,1959,1960,32,FOREIGN LANGUAGE FILM,France,Black Orpheus,True
+66,1959,1960,32,FOREIGN LANGUAGE FILM,West Germany,The Bridge,False
+67,1959,1960,32,FOREIGN LANGUAGE FILM,Italy,The Great War,False
+68,1959,1960,32,FOREIGN LANGUAGE FILM,Denmark,Paw,False
+69,1959,1960,32,FOREIGN LANGUAGE FILM,The Netherlands,The Village on the River,False
+70,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Ben-Hur,True
+71,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Diary of Anne Frank,False
+72,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,The Nun's Story,False
+73,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Ernest Gold,On the Beach,False
+74,1959,1960,32,MUSIC (Music Score of a Dramatic or Comedy Picture),Frank DeVol,Pillow Talk,False
+75,1959,1960,32,MUSIC (Scoring of a Musical Picture),Leith Stevens,The Five Pennies,False
+76,1959,1960,32,MUSIC (Scoring of a Musical Picture),"Nelson Riddle, Joseph J. Lilley",Li'l Abner,False
+77,1959,1960,32,MUSIC (Scoring of a Musical Picture),"Andre Previn, Ken Darby",Porgy and Bess,True
+78,1959,1960,32,MUSIC (Scoring of a Musical Picture),Lionel Newman,Say One for Me,False
+79,1959,1960,32,MUSIC (Scoring of a Musical Picture),George Bruns,Sleeping Beauty,False
+80,1959,1960,32,MUSIC (Song),Music by Alfred Newman; Lyrics by Sammy Cahn,The Best of Everything,False
+81,1959,1960,32,MUSIC (Song),Music and Lyrics by Sylvia Fine,The Five Pennies,False
+82,1959,1960,32,MUSIC (Song),Music by Jerry Livingston; Lyrics by Mack David,The Hanging Tree,False
+83,1959,1960,32,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,A Hole in the Head,True
+84,1959,1960,32,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,The Young Land,False
+85,1959,1960,32,BEST MOTION PICTURE,"Otto Preminger, Producer",Anatomy of a Murder,False
+86,1959,1960,32,BEST MOTION PICTURE,"Sam Zimbalist, Producer",Ben-Hur,True
+87,1959,1960,32,BEST MOTION PICTURE,"George Stevens, Producer",The Diary of Anne Frank,False
+88,1959,1960,32,BEST MOTION PICTURE,"Henry Blanke, Producer",The Nun's Story,False
+89,1959,1960,32,BEST MOTION PICTURE,"John Woolf and James Woolf, Producers",Room at the Top,False
+90,1959,1960,32,SHORT SUBJECT (Cartoon),"John W. Burton, Producer",Mexicali Shmoes,False
+91,1959,1960,32,SHORT SUBJECT (Cartoon),"John Hubley, Producer",Moonbird,True
+92,1959,1960,32,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Noah's Ark,False
+93,1959,1960,32,SHORT SUBJECT (Cartoon),"Ernest Pintoff, Producer",The Violinist,False
+94,1959,1960,32,SHORT SUBJECT (Live Action),"Ian Ferguson, Producer",Between the Tides,False
+95,1959,1960,32,SHORT SUBJECT (Live Action),"Jacques-Yves Cousteau, Producer",The Golden Fish,True
+96,1959,1960,32,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Mysteries of the Deep,False
+97,1959,1960,32,SHORT SUBJECT (Live Action),"Peter Sellers, Producer","The Running, Jumping and Standing-Still Film",False
+98,1959,1960,32,SHORT SUBJECT (Live Action),"Shirley Clarke, Willard Van Dyke and Irving Jacoby, Producers",Skyscraper,False
+99,1959,1960,32,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Ben-Hur,True
+100,1959,1960,32,SOUND,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",Journey to the Center of the Earth,False
+101,1959,1960,32,SOUND,"Metro-Goldwyn-Mayer London Studio Sound Department, A. W. Watkins, Sound Director",Libel!,False
+102,1959,1960,32,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Nun's Story,False
+103,1959,1960,32,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Porgy and Bess,False
+104,1959,1960,32,SPECIAL EFFECTS,"Visual Effects by A. Arnold Gillespie, Robert MacDonald; Audible Effects by Milo Lory",Ben-Hur,True
+105,1959,1960,32,SPECIAL EFFECTS,"Visual Effects by L. B. Abbott, James B. Gordon; Audible Effects by Carl Faulkner",Journey to the Center of the Earth,False
+106,1959,1960,32,WRITING (Screenplay--based on material from another medium),Wendell Mayes,Anatomy of a Murder,False
+107,1959,1960,32,WRITING (Screenplay--based on material from another medium),Karl Tunberg,Ben-Hur,False
+108,1959,1960,32,WRITING (Screenplay--based on material from another medium),Robert Anderson,The Nun's Story,False
+109,1959,1960,32,WRITING (Screenplay--based on material from another medium),Neil Paterson,Room at the Top,True
+110,1959,1960,32,WRITING (Screenplay--based on material from another medium),"Billy Wilder, I. A. L. Diamond",Some Like It Hot,False
+111,1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Francois Truffaut, Marcel Moussy",The 400 Blows,False
+112,1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),Ernest Lehman,North by Northwest,False
+113,1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Story by Paul King, Joseph Stone;  Screenplay by Stanley Shapiro, Maurice Richlin",Operation Petticoat,False
+114,1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),"Story by Russell Rouse, Clarence Greene;  Screenplay by Stanley Shapiro, Maurice Richlin",Pillow Talk,True
+115,1959,1960,32,WRITING (Story and Screenplay--written directly for the screen),Ingmar Bergman,Wild Strawberries,False
+116,1959,1960,32,JEAN HERSHOLT HUMANITARIAN AWARD,Bob Hope,,True
+117,1959,1960,32,HONORARY AWARD, Lee De Forest for his pioneering inventions which brought sound to the motion picture.,,True
+118,1959,1960,32,HONORARY AWARD, Buster Keaton for his unique talents which brought immortal comedies to the screen.,,True

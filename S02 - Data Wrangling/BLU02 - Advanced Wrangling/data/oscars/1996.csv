@@ -1,0 +1,117 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1995,1996,68,ACTOR IN A LEADING ROLE,Nicolas Cage,Leaving Las Vegas,True
+1,1995,1996,68,ACTOR IN A LEADING ROLE,Richard Dreyfuss,Mr. Holland's Opus,False
+2,1995,1996,68,ACTOR IN A LEADING ROLE,Anthony Hopkins,Nixon,False
+3,1995,1996,68,ACTOR IN A LEADING ROLE,Sean Penn,Dead Man Walking,False
+4,1995,1996,68,ACTOR IN A LEADING ROLE,Massimo Troisi,The Postman (Il Postino),False
+5,1995,1996,68,ACTOR IN A SUPPORTING ROLE,James Cromwell,Babe,False
+6,1995,1996,68,ACTOR IN A SUPPORTING ROLE,Ed Harris,Apollo 13,False
+7,1995,1996,68,ACTOR IN A SUPPORTING ROLE,Brad Pitt,12 Monkeys,False
+8,1995,1996,68,ACTOR IN A SUPPORTING ROLE,Tim Roth,Rob Roy,False
+9,1995,1996,68,ACTOR IN A SUPPORTING ROLE,Kevin Spacey,The Usual Suspects,True
+10,1995,1996,68,ACTRESS IN A LEADING ROLE,Susan Sarandon,Dead Man Walking,True
+11,1995,1996,68,ACTRESS IN A LEADING ROLE,Elisabeth Shue,Leaving Las Vegas,False
+12,1995,1996,68,ACTRESS IN A LEADING ROLE,Sharon Stone,Casino,False
+13,1995,1996,68,ACTRESS IN A LEADING ROLE,Meryl Streep,The Bridges of Madison County,False
+14,1995,1996,68,ACTRESS IN A LEADING ROLE,Emma Thompson,Sense and Sensibility,False
+15,1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Joan Allen,Nixon,False
+16,1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Kathleen Quinlan,Apollo 13,False
+17,1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Mira Sorvino,Mighty Aphrodite,True
+18,1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Mare Winningham,Georgia,False
+19,1995,1996,68,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Sense and Sensibility,False
+20,1995,1996,68,ART DIRECTION,Art Direction:  Michael Corenblith;  Set Decoration:  Merideth Boswell,Apollo 13,False
+21,1995,1996,68,ART DIRECTION,Art Direction:  Roger Ford;  Set Decoration:  Kerrie Brown,Babe,False
+22,1995,1996,68,ART DIRECTION,Art Direction:  Bo Welch;  Set Decoration:  Cheryl Carasik,A Little Princess,False
+23,1995,1996,68,ART DIRECTION,Eugenio Zanetti,Restoration,True
+24,1995,1996,68,ART DIRECTION,Tony Burrough,Richard III,False
+25,1995,1996,68,CINEMATOGRAPHY,Stephen Goldblatt,Batman Forever,False
+26,1995,1996,68,CINEMATOGRAPHY,John Toll,Braveheart,True
+27,1995,1996,68,CINEMATOGRAPHY,Emmanuel Lubezki,A Little Princess,False
+28,1995,1996,68,CINEMATOGRAPHY,Michael Coulter,Sense and Sensibility,False
+29,1995,1996,68,CINEMATOGRAPHY,Lu Yue,Shanghai Triad,False
+30,1995,1996,68,COSTUME DESIGN,Charles Knode,Braveheart,False
+31,1995,1996,68,COSTUME DESIGN,James Acheson,Restoration,True
+32,1995,1996,68,COSTUME DESIGN,Shuna Harwood,Richard III,False
+33,1995,1996,68,COSTUME DESIGN,"Jenny Beavan, John Bright",Sense and Sensibility,False
+34,1995,1996,68,COSTUME DESIGN,Julie Weiss,12 Monkeys,False
+35,1995,1996,68,DIRECTING,Chris Noonan,Babe,False
+36,1995,1996,68,DIRECTING,Mel Gibson,Braveheart,True
+37,1995,1996,68,DIRECTING,Tim Robbins,Dead Man Walking,False
+38,1995,1996,68,DIRECTING,Mike Figgis,Leaving Las Vegas,False
+39,1995,1996,68,DIRECTING,Michael Radford,The Postman (Il Postino),False
+40,1995,1996,68,DOCUMENTARY (Feature),Jon Blair,Anne Frank Remembered,True
+41,1995,1996,68,DOCUMENTARY (Feature),"Thomas Lennon, Michael Epstein",The Battle over Citizen Kane,False
+42,1995,1996,68,DOCUMENTARY (Feature),"Allan Miller, Walter Scheuer",Fiddlefest--Roberta Tzavaras and Her East Harlem Violin Program,False
+43,1995,1996,68,DOCUMENTARY (Feature),"Mike Tollin, Fredric Golding",Hank Aaron: Chasing the Dream,False
+44,1995,1996,68,DOCUMENTARY (Feature),"Jeanne Jordan, Steven Ascher",Troublesome Creek: A Midwestern,False
+45,1995,1996,68,DOCUMENTARY (Short Subject),"Nancy Dine, Richard Stilwell",Jim Dine: A Self-Portrait on the Walls,False
+46,1995,1996,68,DOCUMENTARY (Short Subject),"Greg MacGillivray, Alec Lorimore",The Living Sea,False
+47,1995,1996,68,DOCUMENTARY (Short Subject),"Terry Sanders, Freida Lee Mock",Never Give Up: The 20th Century Odyssey of Herbert Zipper,False
+48,1995,1996,68,DOCUMENTARY (Short Subject),Kary Antholis,One Survivor Remembers,True
+49,1995,1996,68,DOCUMENTARY (Short Subject),Charles Guggenheim,The Shadow of Hate,False
+50,1995,1996,68,FILM EDITING,"Mike Hill, Dan Hanley",Apollo 13,True
+51,1995,1996,68,FILM EDITING,"Marcus D'Arcy, Jay Friedkin",Babe,False
+52,1995,1996,68,FILM EDITING,Steven Rosenblum,Braveheart,False
+53,1995,1996,68,FILM EDITING,Chris Lebenzon,Crimson Tide,False
+54,1995,1996,68,FILM EDITING,Richard Francis-Bruce,Seven,False
+55,1995,1996,68,FOREIGN LANGUAGE FILM,Sweden,All Things Fair,False
+56,1995,1996,68,FOREIGN LANGUAGE FILM,The Netherlands,Antonia's Line,True
+57,1995,1996,68,FOREIGN LANGUAGE FILM,Algeria,Dust of Life,False
+58,1995,1996,68,FOREIGN LANGUAGE FILM,Brazil,O Quatrilho,False
+59,1995,1996,68,FOREIGN LANGUAGE FILM,Italy,The Star Maker,False
+60,1995,1996,68,MAKEUP,"Peter Frampton, Paul Pattison, Lois Burwell",Braveheart,True
+61,1995,1996,68,MAKEUP,"Ken Diaz, Mark Sanchez","My Family, Mi Familia",False
+62,1995,1996,68,MAKEUP,"Greg Cannom, Bob Laden, Colleen Callaghan",Roommates,False
+63,1995,1996,68,MUSIC (Original Dramatic Score),James Horner,Apollo 13,False
+64,1995,1996,68,MUSIC (Original Dramatic Score),James Horner,Braveheart,False
+65,1995,1996,68,MUSIC (Original Dramatic Score),John Williams,Nixon,False
+66,1995,1996,68,MUSIC (Original Dramatic Score),Luis Enrique Bacalov,The Postman (Il Postino),True
+67,1995,1996,68,MUSIC (Original Dramatic Score),Patrick Doyle,Sense and Sensibility,False
+68,1995,1996,68,MUSIC (Original Musical or Comedy Score),Marc Shaiman,The American President,False
+69,1995,1996,68,MUSIC (Original Musical or Comedy Score),Music by Alan Menken; Lyrics by Stephen Schwartz; Orchestral Score by Alan Menken,Pocahontas,True
+70,1995,1996,68,MUSIC (Original Musical or Comedy Score),John Williams,Sabrina,False
+71,1995,1996,68,MUSIC (Original Musical or Comedy Score),Randy Newman,Toy Story,False
+72,1995,1996,68,MUSIC (Original Musical or Comedy Score),Thomas Newman,Unstrung Heroes,False
+73,1995,1996,68,MUSIC (Original Song),Music by Alan Menken; Lyric by Stephen Schwartz,Pocahontas,True
+74,1995,1996,68,MUSIC (Original Song),Music and Lyric by Bruce Springsteen,Dead Man Walking,False
+75,1995,1996,68,MUSIC (Original Song),"Music and Lyric by Michael Kamen, Bryan Adams and Robert John Lange",Don Juan DeMarco,False
+76,1995,1996,68,MUSIC (Original Song),Music by John Williams; Lyric by Alan Bergman and Marilyn Bergman,Sabrina,False
+77,1995,1996,68,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story,False
+78,1995,1996,68,BEST PICTURE,"Brian Grazer, Producer",Apollo 13,False
+79,1995,1996,68,BEST PICTURE,"George Miller, Doug Mitchell and Bill Miller, Producers",Babe,False
+80,1995,1996,68,BEST PICTURE,"Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers",Braveheart,True
+81,1995,1996,68,BEST PICTURE,"Mario Cecchi Gori, Vittorio Cecchi Gori and Gaetano Daniele, Producers",The Postman (Il Postino),False
+82,1995,1996,68,BEST PICTURE,"Lindsay Doran, Producer",Sense and Sensibility,False
+83,1995,1996,68,SHORT FILM (Animated),John R. Dilworth,The Chicken from Outer Space,False
+84,1995,1996,68,SHORT FILM (Animated),Nick Park,A Close Shave,True
+85,1995,1996,68,SHORT FILM (Animated),"Chris Landreth, Robin Bargar",the end,False
+86,1995,1996,68,SHORT FILM (Animated),Alexij Kharitidi,Gagarin,False
+87,1995,1996,68,SHORT FILM (Animated),Chris Bailey,Runaway Brain,False
+88,1995,1996,68,SHORT FILM (Live Action),"Luke Cresswell, Steve McNicholas",Brooms,False
+89,1995,1996,68,SHORT FILM (Live Action),"Griffin Dunne, Thom Colwell",Duke of Groove,False
+90,1995,1996,68,SHORT FILM (Live Action),"Christine Lahti, Jana Sue Memel",Lieberman in Love,True
+91,1995,1996,68,SHORT FILM (Live Action),"Jeff Goldblum, Tikki Goldberg",Little Surprises,False
+92,1995,1996,68,SHORT FILM (Live Action),"Dianne Houston, Joy Ryan",Tuesday Morning Ride,False
+93,1995,1996,68,SOUND,"Rick Dior, Steve Pederson, Scott Millan, David MacMillan",Apollo 13,True
+94,1995,1996,68,SOUND,"Donald O. Mitchell, Frank A. Montaño, Michael Herbick, Petur Hliddal",Batman Forever,False
+95,1995,1996,68,SOUND,"Andy Nelson, Scott Millan, Anna Behlmer, Brian Simmons",Braveheart,False
+96,1995,1996,68,SOUND,"Kevin O'Connell, Rick Kline, Gregory H. Watkins, William B. Kaplan",Crimson Tide,False
+97,1995,1996,68,SOUND,"Steve Maslow, Gregg Landaker, Keith A. Wester",Waterworld,False
+98,1995,1996,68,SOUND EFFECTS EDITING,"John Leveque, Bruce Stambler",Batman Forever,False
+99,1995,1996,68,SOUND EFFECTS EDITING,"Lon Bender, Per Hallberg",Braveheart,True
+100,1995,1996,68,SOUND EFFECTS EDITING,George Watters II,Crimson Tide,False
+101,1995,1996,68,VISUAL EFFECTS,"Robert Legato, Michael Kanfer, Leslie Ekker, Matt Sweeney",Apollo 13,False
+102,1995,1996,68,VISUAL EFFECTS,"Scott E. Anderson, Charles Gibson, Neal Scanlan, John Cox",Babe,True
+103,1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"William Broyles, Jr., Al Reinert",Apollo 13,False
+104,1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"George Miller, Chris Noonan",Babe,False
+105,1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),Mike Figgis,Leaving Las Vegas,False
+106,1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),"Anna Pavignano, Michael Radford, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi",The Postman (Il Postino),False
+107,1995,1996,68,WRITING (Screenplay Based on Material Previously Produced or Published),Emma Thompson,Sense and Sensibility,True
+108,1995,1996,68,WRITING (Screenplay Written Directly for the Screen),Randall Wallace,Braveheart,False
+109,1995,1996,68,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Mighty Aphrodite,False
+110,1995,1996,68,WRITING (Screenplay Written Directly for the Screen),"Stephen J. Rivele, Christopher Wilkinson, Oliver Stone",Nixon,False
+111,1995,1996,68,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Joss Whedon, Andrew Stanton, Joel Cohen, Alec Sokolow;  Story by John Lasseter, Peter Docter, Andrew Stanton, Joe Ranft",Toy Story,False
+112,1995,1996,68,WRITING (Screenplay Written Directly for the Screen),Christopher McQuarrie,The Usual Suspects,True
+113,1995,1996,68,SPECIAL ACHIEVEMENT AWARD, John Lasseter,,True
+114,1995,1996,68,HONORARY AWARD, Kirk Douglas,,True
+115,1995,1996,68,HONORARY AWARD, Chuck Jones,,True

@@ -1,0 +1,125 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1963,1964,36,ACTOR,Albert Finney,Tom Jones,False
+1,1963,1964,36,ACTOR,Richard Harris,This Sporting Life,False
+2,1963,1964,36,ACTOR,Rex Harrison,Cleopatra,False
+3,1963,1964,36,ACTOR,Paul Newman,Hud,False
+4,1963,1964,36,ACTOR,Sidney Poitier,Lilies of the Field,True
+5,1963,1964,36,ACTOR IN A SUPPORTING ROLE,Nick Adams,Twilight of Honor,False
+6,1963,1964,36,ACTOR IN A SUPPORTING ROLE,Bobby Darin,"Captain Newman, M.D.",False
+7,1963,1964,36,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Hud,True
+8,1963,1964,36,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Tom Jones,False
+9,1963,1964,36,ACTOR IN A SUPPORTING ROLE,John Huston,The Cardinal,False
+10,1963,1964,36,ACTRESS,Leslie Caron,The L-Shaped Room,False
+11,1963,1964,36,ACTRESS,Shirley MacLaine,Irma La Douce,False
+12,1963,1964,36,ACTRESS,Patricia Neal,Hud,True
+13,1963,1964,36,ACTRESS,Rachel Roberts,This Sporting Life,False
+14,1963,1964,36,ACTRESS,Natalie Wood,Love with the Proper Stranger,False
+15,1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Diane Cilento,Tom Jones,False
+16,1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Dame Edith Evans,Tom Jones,False
+17,1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Tom Jones,False
+18,1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Margaret Rutherford,The V.I.P.s,True
+19,1963,1964,36,ACTRESS IN A SUPPORTING ROLE,Lilia Skala,Lilies of the Field,False
+20,1963,1964,36,ART DIRECTION (Black-and-White),Gene Callahan,America America,True
+21,1963,1964,36,ART DIRECTION (Black-and-White),Piero Gherardi,Federico Fellini's 8-1/2,False
+22,1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Tambi Larsen;  Set Decoration:  Sam Comer, Robert Benton",Hud,False
+23,1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Grace Gregory",Love with the Proper Stranger,False
+24,1963,1964,36,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Paul Groesse;  Set Decoration:  Henry Grace, Hugh Hunt",Twilight of Honor,False
+25,1963,1964,36,ART DIRECTION (Color),Art Direction:  Lyle Wheeler;  Set Decoration:  Gene Callahan,The Cardinal,False
+26,1963,1964,36,ART DIRECTION (Color),"Art Direction:  John DeCuir, Jack Martin Smith, Hilyard Brown, Herman Blumenthal, Elven Webb, Maurice Pelling, Boris Juraga;  Set Decoration:  Walter M. Scott, Paul S. Fox, Ray Moyer",Cleopatra,True
+27,1963,1964,36,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, James Payne",Come Blow Your Horn,False
+28,1963,1964,36,ART DIRECTION (Color),"Art Direction:  George W. Davis, William Ferrari, Addison Hehr;  Set Decoration:  Henry Grace, Don Greenwood, Jr., Jack Mills",How the West Was Won,False
+29,1963,1964,36,ART DIRECTION (Color),"Art Direction:  Ralph Brinton, Ted Marshall, Jocelyn Herbert;  Set Decoration:  Josie MacAvin",Tom Jones,False
+30,1963,1964,36,CINEMATOGRAPHY (Black-and-White),George Folsey,The Balcony,False
+31,1963,1964,36,CINEMATOGRAPHY (Black-and-White),Lucien Ballard,The Caretakers,False
+32,1963,1964,36,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Hud,True
+33,1963,1964,36,CINEMATOGRAPHY (Black-and-White),Ernest Haller,Lilies of the Field,False
+34,1963,1964,36,CINEMATOGRAPHY (Black-and-White),Milton Krasner,Love with the Proper Stranger,False
+35,1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,The Cardinal,False
+36,1963,1964,36,CINEMATOGRAPHY (Color),Leon Shamroy,Cleopatra,True
+37,1963,1964,36,CINEMATOGRAPHY (Color),"William H. Daniels, Milton Krasner, Charles Lang, Jr., Joseph LaShelle",How the West Was Won,False
+38,1963,1964,36,CINEMATOGRAPHY (Color),Joseph LaShelle,Irma La Douce,False
+39,1963,1964,36,CINEMATOGRAPHY (Color),Ernest Laszlo,"It's a Mad, Mad, Mad, Mad World",False
+40,1963,1964,36,COSTUME DESIGN (Black-and-White),Piero Gherardi,Federico Fellini's 8-1/2,True
+41,1963,1964,36,COSTUME DESIGN (Black-and-White),Edith Head,Love with the Proper Stranger,False
+42,1963,1964,36,COSTUME DESIGN (Black-and-White),Travilla,The Stripper,False
+43,1963,1964,36,COSTUME DESIGN (Black-and-White),Bill Thomas,Toys in the Attic,False
+44,1963,1964,36,COSTUME DESIGN (Black-and-White),Edith Head,Wives and Lovers,False
+45,1963,1964,36,COSTUME DESIGN (Color),Donald Brooks,The Cardinal,False
+46,1963,1964,36,COSTUME DESIGN (Color),"Irene Sharaff, Vittorio Nino Novarese, Renie",Cleopatra,True
+47,1963,1964,36,COSTUME DESIGN (Color),Walter Plunkett,How the West Was Won,False
+48,1963,1964,36,COSTUME DESIGN (Color),Piero Tosi,The Leopard,False
+49,1963,1964,36,COSTUME DESIGN (Color),Edith Head,A New Kind of Love,False
+50,1963,1964,36,DIRECTING,Elia Kazan,America America,False
+51,1963,1964,36,DIRECTING,Otto Preminger,The Cardinal,False
+52,1963,1964,36,DIRECTING,Federico Fellini,Federico Fellini's 8-1/2,False
+53,1963,1964,36,DIRECTING,Martin Ritt,Hud,False
+54,1963,1964,36,DIRECTING,Tony Richardson,Tom Jones,True
+55,1963,1964,36,DOCUMENTARY (Feature),"Paul de Roubaix, Producer",Le Maillon et la Chaine (The Link and the Chain),False
+56,1963,1964,36,DOCUMENTARY (Feature),"Robert Hughes, Producer",Robert Frost: A Lover's Quarrel with the World,True
+57,1963,1964,36,DOCUMENTARY (Feature),"Edgar Anstey, Producer",Terminus,False
+58,1963,1964,36,DOCUMENTARY (Feature),"Marshall Flaum, Producer",The Yanks Are Coming,False
+59,1963,1964,36,DOCUMENTARY (Short Subject),"Simon Schiffrin, Producer",Chagall,True
+60,1963,1964,36,DOCUMENTARY (Short Subject),"George Stevens, Jr., Producer",The Five Cities of June,False
+61,1963,1964,36,DOCUMENTARY (Short Subject),"Algernon G. Walker, Producer",The Spirit of America,False
+62,1963,1964,36,DOCUMENTARY (Short Subject),"Edgar Anstey, Producer",Thirty Million Letters,False
+63,1963,1964,36,DOCUMENTARY (Short Subject),"Mel London, Producer",To Live Again,False
+64,1963,1964,36,FILM EDITING,Louis R. Loeffler,The Cardinal,False
+65,1963,1964,36,FILM EDITING,Dorothy Spencer,Cleopatra,False
+66,1963,1964,36,FILM EDITING,Ferris Webster,The Great Escape,False
+67,1963,1964,36,FILM EDITING,Harold F. Kress,How the West Was Won,True
+68,1963,1964,36,FILM EDITING,"Frederic Knudtson, Robert C. Jones, Gene Fowler, Jr.","It's a Mad, Mad, Mad, Mad World",False
+69,1963,1964,36,FOREIGN LANGUAGE FILM,Italy,Federico Fellini's 8-1/2,True
+70,1963,1964,36,FOREIGN LANGUAGE FILM,Poland,Knife in the Water,False
+71,1963,1964,36,FOREIGN LANGUAGE FILM,Spain,Los Tarantos,False
+72,1963,1964,36,FOREIGN LANGUAGE FILM,Greece,The Red Lanterns,False
+73,1963,1964,36,FOREIGN LANGUAGE FILM,Japan,Twin Sisters of Kyoto,False
+74,1963,1964,36,MUSIC (Music Score--substantially original),Alex North,Cleopatra,False
+75,1963,1964,36,MUSIC (Music Score--substantially original),Dimitri Tiomkin,55 Days at Peking,False
+76,1963,1964,36,MUSIC (Music Score--substantially original),"Alfred Newman, Ken Darby",How the West Was Won,False
+77,1963,1964,36,MUSIC (Music Score--substantially original),Ernest Gold,"It's a Mad, Mad, Mad, Mad World",False
+78,1963,1964,36,MUSIC (Music Score--substantially original),John Addison,Tom Jones,True
+79,1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),John Green,Bye Bye Birdie,False
+80,1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Andre Previn,Irma La Douce,True
+81,1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Leith Stevens,A New Kind of Love,False
+82,1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),Maurice Jarre,Sundays and Cybele,False
+83,1963,1964,36,MUSIC (Scoring of Music--adaptation or treatment),George Bruns,The Sword in the Stone,False
+84,1963,1964,36,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Papa's Delicate Condition,True
+85,1963,1964,36,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,Charade,False
+86,1963,1964,36,MUSIC (Song),Music by Ernest Gold; Lyrics by Mack David,"It's a Mad, Mad, Mad, Mad World",False
+87,1963,1964,36,MUSIC (Song),Music by Riz Ortolani and Nino Oliviero; Lyrics by Norman Newell,Mondo Cane,False
+88,1963,1964,36,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,55 Days at Peking,False
+89,1963,1964,36,BEST PICTURE,"Elia Kazan, Producer",America America,False
+90,1963,1964,36,BEST PICTURE,"Walter Wanger, Producer",Cleopatra,False
+91,1963,1964,36,BEST PICTURE,"Bernard Smith, Producer",How the West Was Won,False
+92,1963,1964,36,BEST PICTURE,"Ralph Nelson, Producer",Lilies of the Field,False
+93,1963,1964,36,BEST PICTURE,"Tony Richardson, Producer",Tom Jones,True
+94,1963,1964,36,SHORT SUBJECT (Cartoon),"John Halas, Producer",Automania 2000,False
+95,1963,1964,36,SHORT SUBJECT (Cartoon),"Ernest Pintoff, Producer",The Critic,True
+96,1963,1964,36,SHORT SUBJECT (Cartoon),"Dusan Vukotic, Producer",The Game (Igra),False
+97,1963,1964,36,SHORT SUBJECT (Cartoon),"Colin Low and Tom Daly, Producers",My Financial Career,False
+98,1963,1964,36,SHORT SUBJECT (Cartoon),"Carmen D'Avino, Producer",Pianissimo,False
+99,1963,1964,36,SHORT SUBJECT (Live Action),"Ezra Baker, Producer",The Concert,False
+100,1963,1964,36,SHORT SUBJECT (Live Action),"James Hill, Producer",Home-Made Car,False
+101,1963,1964,36,SHORT SUBJECT (Live Action),"Paul de Roubaix and Marcel Ichac, Producers",An Occurrence at Owl Creek Bridge,True
+102,1963,1964,36,SHORT SUBJECT (Live Action),"Christopher Miles, Producer",Six-Sided Triangle,False
+103,1963,1964,36,SHORT SUBJECT (Live Action),"Walker Stuart, Producer",That's Me,False
+104,1963,1964,36,SOUND,"Columbia Studio Sound Department, Charles Rice, Sound Director",Bye Bye Birdie,False
+105,1963,1964,36,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director","Captain Newman, M.D.",False
+106,1963,1964,36,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",Cleopatra,False
+107,1963,1964,36,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",How the West Was Won,True
+108,1963,1964,36,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director","It's a Mad, Mad, Mad, Mad World",False
+109,1963,1964,36,SOUND EFFECTS,Robert L. Bratton,A Gathering of Eagles,False
+110,1963,1964,36,SOUND EFFECTS,Walter G. Elliott,"It's a Mad, Mad, Mad, Mad World",True
+111,1963,1964,36,SPECIAL EFFECTS,Ub Iwerks,The Birds,False
+112,1963,1964,36,SPECIAL EFFECTS,"Emil Kosa, Jr.",Cleopatra,True
+113,1963,1964,36,WRITING (Screenplay--based on material from another medium),"Richard L. Breen, Phoebe Ephron, Henry Ephron","Captain Newman, M.D.",False
+114,1963,1964,36,WRITING (Screenplay--based on material from another medium),"Irving Ravetch, Harriet Frank, Jr.",Hud,False
+115,1963,1964,36,WRITING (Screenplay--based on material from another medium),James Poe,Lilies of the Field,False
+116,1963,1964,36,WRITING (Screenplay--based on material from another medium),"Serge Bourguignon, Antoine Tudal",Sundays and Cybele,False
+117,1963,1964,36,WRITING (Screenplay--based on material from another medium),John Osborne,Tom Jones,True
+118,1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),Elia Kazan,America America,False
+119,1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),"Federico Fellini, Ennio Flaiano, Tullio Pinelli, Brunello Rondi",Federico Fellini's 8-1/2,False
+120,1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),"Story by Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy, Vasco Pratolini;  Screenplay by Carlo Bernari, Pasquale Festa Campanile, Massimo Franciosa, Nanni Loy",The Four Days of Naples,False
+121,1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),James R. Webb,How the West Was Won,True
+122,1963,1964,36,WRITING (Story and Screenplay--written directly for the screen),Arnold Schulman,Love with the Proper Stranger,False
+123,1963,1964,36,IRVING G. THALBERG MEMORIAL AWARD,Sam Spiegel,,True

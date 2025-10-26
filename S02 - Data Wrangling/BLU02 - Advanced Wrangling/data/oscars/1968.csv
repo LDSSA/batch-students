@@ -1,0 +1,110 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1967,1968,40,ACTOR,Warren Beatty,Bonnie and Clyde,False
+1,1967,1968,40,ACTOR,Dustin Hoffman,The Graduate,False
+2,1967,1968,40,ACTOR,Paul Newman,Cool Hand Luke,False
+3,1967,1968,40,ACTOR,Rod Steiger,In the Heat of the Night,True
+4,1967,1968,40,ACTOR,Spencer Tracy,Guess Who's Coming to Dinner,False
+5,1967,1968,40,ACTOR IN A SUPPORTING ROLE,John Cassavetes,The Dirty Dozen,False
+6,1967,1968,40,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Bonnie and Clyde,False
+7,1967,1968,40,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,Guess Who's Coming to Dinner,False
+8,1967,1968,40,ACTOR IN A SUPPORTING ROLE,George Kennedy,Cool Hand Luke,True
+9,1967,1968,40,ACTOR IN A SUPPORTING ROLE,Michael J. Pollard,Bonnie and Clyde,False
+10,1967,1968,40,ACTRESS,Anne Bancroft,The Graduate,False
+11,1967,1968,40,ACTRESS,Faye Dunaway,Bonnie and Clyde,False
+12,1967,1968,40,ACTRESS,Dame Edith Evans,The Whisperers,False
+13,1967,1968,40,ACTRESS,Audrey Hepburn,Wait until Dark,False
+14,1967,1968,40,ACTRESS,Katharine Hepburn,Guess Who's Coming to Dinner,True
+15,1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Carol Channing,Thoroughly Modern Millie,False
+16,1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Mildred Natwick,Barefoot in the Park,False
+17,1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,Bonnie and Clyde,True
+18,1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Beah Richards,Guess Who's Coming to Dinner,False
+19,1967,1968,40,ACTRESS IN A SUPPORTING ROLE,Katharine Ross,The Graduate,False
+20,1967,1968,40,ART DIRECTION,"Art Direction:  John Truscott, Edward Carrere;  Set Decoration:  John W. Brown",Camelot,True
+21,1967,1968,40,ART DIRECTION,"Art Direction:  Mario Chiari, Jack Martin Smith, Ed Graves;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Doctor Dolittle,False
+22,1967,1968,40,ART DIRECTION,Art Direction:  Robert Clatworthy;  Set Decoration:  Frank Tuttle,Guess Who's Coming to Dinner,False
+23,1967,1968,40,ART DIRECTION,"Art Direction:  Renzo Mongiardino, John DeCuir, Elven Webb, Giuseppe Mariani;  Set Decoration:  Dario Simoni, Luigi Gervasi",The Taming of the Shrew,False
+24,1967,1968,40,ART DIRECTION,"Art Direction:  Alexander Golitzen, George C. Webb;  Set Decoration:  Howard Bristol",Thoroughly Modern Millie,False
+25,1967,1968,40,CINEMATOGRAPHY,Burnett Guffey,Bonnie and Clyde,True
+26,1967,1968,40,CINEMATOGRAPHY,Richard H. Kline,Camelot,False
+27,1967,1968,40,CINEMATOGRAPHY,Robert Surtees,Doctor Dolittle,False
+28,1967,1968,40,CINEMATOGRAPHY,Robert Surtees,The Graduate,False
+29,1967,1968,40,CINEMATOGRAPHY,Conrad Hall,In Cold Blood,False
+30,1967,1968,40,COSTUME DESIGN,Theadora Van Runkle,Bonnie and Clyde,False
+31,1967,1968,40,COSTUME DESIGN,John Truscott,Camelot,True
+32,1967,1968,40,COSTUME DESIGN,Bill Thomas,The Happiest Millionaire,False
+33,1967,1968,40,COSTUME DESIGN,"Irene Sharaff, Danilo Donati",The Taming of the Shrew,False
+34,1967,1968,40,COSTUME DESIGN,Jean Louis,Thoroughly Modern Millie,False
+35,1967,1968,40,DIRECTING,Arthur Penn,Bonnie and Clyde,False
+36,1967,1968,40,DIRECTING,Mike Nichols,The Graduate,True
+37,1967,1968,40,DIRECTING,Stanley Kramer,Guess Who's Coming to Dinner,False
+38,1967,1968,40,DIRECTING,Richard Brooks,In Cold Blood,False
+39,1967,1968,40,DIRECTING,Norman Jewison,In the Heat of the Night,False
+40,1967,1968,40,DOCUMENTARY (Feature),"Pierre Schoendoerffer, Producer",The Anderson Platoon,True
+41,1967,1968,40,DOCUMENTARY (Feature),"Murray Lerner, Producer",Festival,False
+42,1967,1968,40,DOCUMENTARY (Feature),"Carroll Ballard, Producer",Harvest,False
+43,1967,1968,40,DOCUMENTARY (Feature),"Jack Le Vien, Producer",A King's Story,False
+44,1967,1968,40,DOCUMENTARY (Feature),"William C. Jersey, Producer",A Time for Burning,False
+45,1967,1968,40,DOCUMENTARY (Short Subject),"Charles E. Guggenheim, Producer",Monument to the Dream,False
+46,1967,1968,40,DOCUMENTARY (Short Subject),"Christopher Chapman, Producer",A Place to Stand,False
+47,1967,1968,40,DOCUMENTARY (Short Subject),"Mark Harris and Trevor Greenwood, Producers",The Redwoods,True
+48,1967,1968,40,DOCUMENTARY (Short Subject),"Robert Fitchett, Producer",See You at the Pillar,False
+49,1967,1968,40,DOCUMENTARY (Short Subject),"Carl V. Ragsdale, Producer",While I Run This Race,False
+50,1967,1968,40,FILM EDITING,Frank P. Keller,Beach Red,False
+51,1967,1968,40,FILM EDITING,Michael Luciano,The Dirty Dozen,False
+52,1967,1968,40,FILM EDITING,"Samuel E. Beetley, Marjorie Fowler",Doctor Dolittle,False
+53,1967,1968,40,FILM EDITING,Robert C. Jones,Guess Who's Coming to Dinner,False
+54,1967,1968,40,FILM EDITING,Hal Ashby,In the Heat of the Night,True
+55,1967,1968,40,FOREIGN LANGUAGE FILM,Czechoslovakia,Closely Watched Trains,True
+56,1967,1968,40,FOREIGN LANGUAGE FILM,Spain,El Amor Brujo,False
+57,1967,1968,40,FOREIGN LANGUAGE FILM,Yugoslavia,I Even Met Happy Gypsies,False
+58,1967,1968,40,FOREIGN LANGUAGE FILM,France,Live for Life,False
+59,1967,1968,40,FOREIGN LANGUAGE FILM,Japan,Portrait of Chieko,False
+60,1967,1968,40,MUSIC (Original Music Score),Lalo Schifrin,Cool Hand Luke,False
+61,1967,1968,40,MUSIC (Original Music Score),Leslie Bricusse,Doctor Dolittle,False
+62,1967,1968,40,MUSIC (Original Music Score),Richard Rodney Bennett,Far from the Madding Crowd,False
+63,1967,1968,40,MUSIC (Original Music Score),Quincy Jones,In Cold Blood,False
+64,1967,1968,40,MUSIC (Original Music Score),Elmer Bernstein,Thoroughly Modern Millie,True
+65,1967,1968,40,MUSIC (Scoring of Music--adaptation or treatment),"Alfred Newman, Ken Darby",Camelot,True
+66,1967,1968,40,MUSIC (Scoring of Music--adaptation or treatment),"Lionel Newman, Alexander Courage",Doctor Dolittle,False
+67,1967,1968,40,MUSIC (Scoring of Music--adaptation or treatment),DeVol,Guess Who's Coming to Dinner,False
+68,1967,1968,40,MUSIC (Scoring of Music--adaptation or treatment),"Andre Previn, Joseph Gershenson",Thoroughly Modern Millie,False
+69,1967,1968,40,MUSIC (Scoring of Music--adaptation or treatment),John Williams,Valley of the Dolls,False
+70,1967,1968,40,MUSIC (Song),Music and Lyrics by Terry Gilkyson,The Jungle Book,False
+71,1967,1968,40,MUSIC (Song),Music by Quincy Jones; Lyrics by Bob Russell,Banning,False
+72,1967,1968,40,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,Casino Royale,False
+73,1967,1968,40,MUSIC (Song),Music and Lyrics by Leslie Bricusse,Doctor Dolittle,True
+74,1967,1968,40,MUSIC (Song),Music and Lyrics by James Van Heusen and Sammy Cahn,Thoroughly Modern Millie,False
+75,1967,1968,40,BEST PICTURE,"Warren Beatty, Producer",Bonnie and Clyde,False
+76,1967,1968,40,BEST PICTURE,"Arthur P. Jacobs, Producer",Doctor Dolittle,False
+77,1967,1968,40,BEST PICTURE,"Lawrence Turman, Producer",The Graduate,False
+78,1967,1968,40,BEST PICTURE,"Stanley Kramer, Producer",Guess Who's Coming to Dinner,False
+79,1967,1968,40,BEST PICTURE,"Walter Mirisch, Producer",In the Heat of the Night,True
+80,1967,1968,40,SHORT SUBJECT (Cartoon),"Fred Wolf, Producer",The Box,True
+81,1967,1968,40,SHORT SUBJECT (Cartoon),"Jean-Charles Meunier, Producer",Hypothese Beta,False
+82,1967,1968,40,SHORT SUBJECT (Cartoon),"Robert Verrall and Wolf Koenig, Producers",What on Earth!,False
+83,1967,1968,40,SHORT SUBJECT (Live Action),"Julian Biggs, Producer",Paddle to the Sea,False
+84,1967,1968,40,SHORT SUBJECT (Live Action),"Christopher Chapman, Producer",A Place to Stand,True
+85,1967,1968,40,SHORT SUBJECT (Live Action),"John Ferno, Producer",Sky over Holland,False
+86,1967,1968,40,SHORT SUBJECT (Live Action),"Len Janson and Chuck Menville, Producers","Stop, Look and Listen",False
+87,1967,1968,40,SOUND,Warner Bros.-Seven Arts Studio Sound Department,Camelot,False
+88,1967,1968,40,SOUND,Metro-Goldwyn-Mayer Studio Sound Department,The Dirty Dozen,False
+89,1967,1968,40,SOUND,20th Century-Fox Studio Sound Department,Doctor Dolittle,False
+90,1967,1968,40,SOUND,Samuel Goldwyn Studio Sound Department,In the Heat of the Night,True
+91,1967,1968,40,SOUND,Universal City Studio Sound Department,Thoroughly Modern Millie,False
+92,1967,1968,40,SOUND EFFECTS,John Poyner,The Dirty Dozen,True
+93,1967,1968,40,SOUND EFFECTS,James A. Richard,In the Heat of the Night,False
+94,1967,1968,40,SPECIAL VISUAL EFFECTS,L. B. Abbott,Doctor Dolittle,True
+95,1967,1968,40,SPECIAL VISUAL EFFECTS,"Howard A. Anderson, Jr., Albert Whitlock",Tobruk,False
+96,1967,1968,40,WRITING (Screenplay--based on material from another medium),"Donn Pearce, Frank R. Pierson",Cool Hand Luke,False
+97,1967,1968,40,WRITING (Screenplay--based on material from another medium),"Calder Willingham, Buck Henry",The Graduate,False
+98,1967,1968,40,WRITING (Screenplay--based on material from another medium),Richard Brooks,In Cold Blood,False
+99,1967,1968,40,WRITING (Screenplay--based on material from another medium),Stirling Silliphant,In the Heat of the Night,True
+100,1967,1968,40,WRITING (Screenplay--based on material from another medium),"Joseph Strick, Fred Haines",Ulysses,False
+101,1967,1968,40,WRITING (Story and Screenplay--written directly for the screen),"David Newman, Robert Benton",Bonnie and Clyde,False
+102,1967,1968,40,WRITING (Story and Screenplay--written directly for the screen),Story by Robert Kaufman;  Screenplay by Norman Lear,Divorce American Style,False
+103,1967,1968,40,WRITING (Story and Screenplay--written directly for the screen),William Rose,Guess Who's Coming to Dinner,True
+104,1967,1968,40,WRITING (Story and Screenplay--written directly for the screen),Jorge Semprun,La Guerre Est Finie,False
+105,1967,1968,40,WRITING (Story and Screenplay--written directly for the screen),Frederic Raphael,Two for the Road,False
+106,1967,1968,40,JEAN HERSHOLT HUMANITARIAN AWARD,Gregory Peck,,True
+107,1967,1968,40,HONORARY AWARD, Arthur Freed for distinguished service to the Academy and the production of six top-rated Awards telecasts.,,True
+108,1967,1968,40,IRVING G. THALBERG MEMORIAL AWARD,Alfred Hitchcock,,True

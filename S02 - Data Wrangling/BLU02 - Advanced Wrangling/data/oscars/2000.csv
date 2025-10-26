@@ -1,0 +1,111 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1999,2000,72,ACTOR IN A LEADING ROLE,Russell Crowe,The Insider,False
+1,1999,2000,72,ACTOR IN A LEADING ROLE,Richard Farnsworth,The Straight Story,False
+2,1999,2000,72,ACTOR IN A LEADING ROLE,Sean Penn,Sweet and Lowdown,False
+3,1999,2000,72,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,True
+4,1999,2000,72,ACTOR IN A LEADING ROLE,Denzel Washington,The Hurricane,False
+5,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Michael Caine,The Cider House Rules,True
+6,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Tom Cruise,Magnolia,False
+7,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Michael Clarke Duncan,The Green Mile,False
+8,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Jude Law,The Talented Mr. Ripley,False
+9,1999,2000,72,ACTOR IN A SUPPORTING ROLE,Haley Joel Osment,The Sixth Sense,False
+10,1999,2000,72,ACTRESS IN A LEADING ROLE,Annette Bening,American Beauty,False
+11,1999,2000,72,ACTRESS IN A LEADING ROLE,Janet McTeer,Tumbleweeds,False
+12,1999,2000,72,ACTRESS IN A LEADING ROLE,Julianne Moore,The End of the Affair,False
+13,1999,2000,72,ACTRESS IN A LEADING ROLE,Meryl Streep,Music of the Heart,False
+14,1999,2000,72,ACTRESS IN A LEADING ROLE,Hilary Swank,Boys Don't Cry,True
+15,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Toni Collette,The Sixth Sense,False
+16,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Angelina Jolie,"Girl, Interrupted",True
+17,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Being John Malkovich,False
+18,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Samantha Morton,Sweet and Lowdown,False
+19,1999,2000,72,ACTRESS IN A SUPPORTING ROLE,Chloë Sevigny,Boys Don't Cry,False
+20,1999,2000,72,ART DIRECTION,Art Direction:  Luciana Arrighi;  Set Decoration:  Ian Whittaker,Anna and the King,False
+21,1999,2000,72,ART DIRECTION,Art Direction:  David Gropman;  Set Decoration:  Beth Rubino,The Cider House Rules,False
+22,1999,2000,72,ART DIRECTION,Art Direction:  Rick Heinrichs;  Set Decoration:  Peter Young,Sleepy Hollow,True
+23,1999,2000,72,ART DIRECTION,Art Direction:  Roy Walker;  Set Decoration:  Bruno Cesari,The Talented Mr. Ripley,False
+24,1999,2000,72,ART DIRECTION,"Art Direction:  Eve Stewart;  Set Decoration:  Eve Stewart, John Bush",Topsy-Turvy,False
+25,1999,2000,72,CINEMATOGRAPHY,Conrad L. Hall,American Beauty,True
+26,1999,2000,72,CINEMATOGRAPHY,Roger Pratt,The End of the Affair,False
+27,1999,2000,72,CINEMATOGRAPHY,Dante Spinotti,The Insider,False
+28,1999,2000,72,CINEMATOGRAPHY,Emmanuel Lubezki,Sleepy Hollow,False
+29,1999,2000,72,CINEMATOGRAPHY,Robert Richardson,Snow Falling on Cedars,False
+30,1999,2000,72,COSTUME DESIGN,Jenny Beavan,Anna and the King,False
+31,1999,2000,72,COSTUME DESIGN,Colleen Atwood,Sleepy Hollow,False
+32,1999,2000,72,COSTUME DESIGN,"Ann Roth, Gary Jones",The Talented Mr. Ripley,False
+33,1999,2000,72,COSTUME DESIGN,Milena Canonero,Titus,False
+34,1999,2000,72,COSTUME DESIGN,Lindy Hemming,Topsy-Turvy,True
+35,1999,2000,72,DIRECTING,Sam Mendes,American Beauty,True
+36,1999,2000,72,DIRECTING,Spike Jonze,Being John Malkovich,False
+37,1999,2000,72,DIRECTING,Lasse Hallström,The Cider House Rules,False
+38,1999,2000,72,DIRECTING,Michael Mann,The Insider,False
+39,1999,2000,72,DIRECTING,M. Night Shyamalan,The Sixth Sense,False
+40,1999,2000,72,DOCUMENTARY (Feature),"Wim Wenders, Ulrich Felsberg",Buena Vista Social Club,False
+41,1999,2000,72,DOCUMENTARY (Feature),"Roko Belic, Adrian Belic",Genghis Blues,False
+42,1999,2000,72,DOCUMENTARY (Feature),"Nanette Burstein, Brett Morgen",On the Ropes,False
+43,1999,2000,72,DOCUMENTARY (Feature),"Arthur Cohn, Kevin Macdonald",One Day in September,True
+44,1999,2000,72,DOCUMENTARY (Feature),"Paola di Florio, Lilibet Foster",Speaking in Strings,False
+45,1999,2000,72,DOCUMENTARY (Short Subject),Bert Van Bork,Eyewitness,False
+46,1999,2000,72,DOCUMENTARY (Short Subject),"Susan Hannah Hadary, William A. Whiteford",King Gimp,True
+47,1999,2000,72,DOCUMENTARY (Short Subject),"Simeon Soffer, Jonathan Stack",The Wildest Show in the South: The Angola Prison Rodeo,False
+48,1999,2000,72,FILM EDITING,"Tariq Anwar, Christopher Greenbury",American Beauty,False
+49,1999,2000,72,FILM EDITING,Lisa Zeno Churgin,The Cider House Rules,False
+50,1999,2000,72,FILM EDITING,"William Goldenberg, Paul Rubell, David Rosenbloom",The Insider,False
+51,1999,2000,72,FILM EDITING,Zach Staenberg,The Matrix,True
+52,1999,2000,72,FILM EDITING,Andrew Mondshein,The Sixth Sense,False
+53,1999,2000,72,FOREIGN LANGUAGE FILM,Spain,All about My Mother,True
+54,1999,2000,72,FOREIGN LANGUAGE FILM,Nepal,Caravan,False
+55,1999,2000,72,FOREIGN LANGUAGE FILM,France,East-West,False
+56,1999,2000,72,FOREIGN LANGUAGE FILM,United Kingdom,Solomon and Gaenor,False
+57,1999,2000,72,FOREIGN LANGUAGE FILM,Sweden,Under the Sun,False
+58,1999,2000,72,MAKEUP,"Michèle Burke, Mike Smithson",Austin Powers: The Spy Who Shagged Me,False
+59,1999,2000,72,MAKEUP,Greg Cannom,Bicentennial Man,False
+60,1999,2000,72,MAKEUP,Rick Baker,Life,False
+61,1999,2000,72,MAKEUP,"Christine Blundell, Trefor Proud",Topsy-Turvy,True
+62,1999,2000,72,MUSIC (Original Score),Thomas Newman,American Beauty,False
+63,1999,2000,72,MUSIC (Original Score),John Williams,Angela's Ashes,False
+64,1999,2000,72,MUSIC (Original Score),Rachel Portman,The Cider House Rules,False
+65,1999,2000,72,MUSIC (Original Score),John Corigliano,The Red Violin,True
+66,1999,2000,72,MUSIC (Original Score),Gabriel Yared,The Talented Mr. Ripley,False
+67,1999,2000,72,MUSIC (Original Song),Music and Lyric by Trey Parker and Marc Shaiman,"South Park: Bigger, Longer & Uncut",False
+68,1999,2000,72,MUSIC (Original Song),Music and Lyric by Diane Warren,Music of the Heart,False
+69,1999,2000,72,MUSIC (Original Song),Music and Lyric by Aimee Mann,Magnolia,False
+70,1999,2000,72,MUSIC (Original Song),Music and Lyric by Randy Newman,Toy Story 2,False
+71,1999,2000,72,MUSIC (Original Song),Music and Lyric by Phil Collins,Tarzan,True
+72,1999,2000,72,BEST PICTURE,"Bruce Cohen and Dan Jinks, Producers",American Beauty,True
+73,1999,2000,72,BEST PICTURE,"Richard N. Gladstein, Producer",The Cider House Rules,False
+74,1999,2000,72,BEST PICTURE,"David Valdes and Frank Darabont, Producers",The Green Mile,False
+75,1999,2000,72,BEST PICTURE,"Michael Mann and Pieter Jan Brugge, Producers",The Insider,False
+76,1999,2000,72,BEST PICTURE,"Frank Marshall, Kathleen Kennedy and Barry Mendel, Producers",The Sixth Sense,False
+77,1999,2000,72,SHORT FILM (Animated),Peter Peake,Humdrum,False
+78,1999,2000,72,SHORT FILM (Animated),Torill Kove,My Grandmother Ironed the King's Shirts,False
+79,1999,2000,72,SHORT FILM (Animated),Alexander Petrov,The Old Man and the Sea,True
+80,1999,2000,72,SHORT FILM (Animated),Paul Driessen,3 Misses,False
+81,1999,2000,72,SHORT FILM (Animated),"Wendy Tilby, Amanda Forbis",When the Day Breaks,False
+82,1999,2000,72,SHORT FILM (Live Action),"Henrik Ruben Genz, Michael W. Horsten","Bror, Min Bror (Teis and Nico)",False
+83,1999,2000,72,SHORT FILM (Live Action),"Mehdi Norowzian, Steve Wax",Killing Joe,False
+84,1999,2000,72,SHORT FILM (Live Action),"Marc-Andreas Bochert, Gabriele Lins",Kleingeld (Small Change),False
+85,1999,2000,72,SHORT FILM (Live Action),Marcus Olsson,Major and Minor Miracles,False
+86,1999,2000,72,SHORT FILM (Live Action),"Barbara Schock, Tammy Tiehel",My Mother Dreams the Satan's Disciples in New York,True
+87,1999,2000,72,SOUND,"Robert J. Litt, Elliot Tyson, Michael Herbick, Willie D. Burton",The Green Mile,False
+88,1999,2000,72,SOUND,"Andy Nelson, Doug Hemphill, Lee Orloff",The Insider,False
+89,1999,2000,72,SOUND,"John Reitz, Gregg Rudloff, David Campbell, David Lee",The Matrix,True
+90,1999,2000,72,SOUND,"Leslie Shatz, Chris Carpenter, Rick Kline, Chris Munro",The Mummy,False
+91,1999,2000,72,SOUND,"Gary Rydstrom, Tom Johnson, Shawn Murphy, John Midgley",Star Wars Episode I: The Phantom Menace,False
+92,1999,2000,72,SOUND EFFECTS EDITING,"Ren Klyce, Richard Hymns",Fight Club,False
+93,1999,2000,72,SOUND EFFECTS EDITING,Dane A. Davis,The Matrix,True
+94,1999,2000,72,SOUND EFFECTS EDITING,"Ben Burtt, Tom Bellfort",Star Wars Episode I: The Phantom Menace,False
+95,1999,2000,72,VISUAL EFFECTS,"John Gaeta, Janek Sirrs, Steve Courtley, Jon Thum",The Matrix,True
+96,1999,2000,72,VISUAL EFFECTS,"John Knoll, Dennis Muren, Scott Squires, Rob Coleman",Star Wars Episode I: The Phantom Menace,False
+97,1999,2000,72,VISUAL EFFECTS,"John Dykstra, Jerome Chen, Henry F. Anderson III, Eric Allard",Stuart Little,False
+98,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),John Irving,The Cider House Rules,True
+99,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),"Alexander Payne, Jim Taylor",Election,False
+100,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),Frank Darabont,The Green Mile,False
+101,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),"Eric Roth, Michael Mann",The Insider,False
+102,1999,2000,72,WRITING (Screenplay Based on Material Previously Produced or Published),Anthony Minghella,The Talented Mr. Ripley,False
+103,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),Alan Ball,American Beauty,True
+104,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),Charlie Kaufman,Being John Malkovich,False
+105,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),Paul Thomas Anderson,Magnolia,False
+106,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),M. Night Shyamalan,The Sixth Sense,False
+107,1999,2000,72,WRITING (Screenplay Written Directly for the Screen),Mike Leigh,Topsy-Turvy,False
+108,1999,2000,72,HONORARY AWARD, Andrzej Wajda in recognition of five decades of extraordinary film direction.,,True
+109,1999,2000,72,IRVING G. THALBERG MEMORIAL AWARD,Warren Beatty,,True

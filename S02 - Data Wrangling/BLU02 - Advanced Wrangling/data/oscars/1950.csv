@@ -1,0 +1,113 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1949,1950,22,ACTOR,Broderick Crawford,All the King's Men,True
+1,1949,1950,22,ACTOR,Kirk Douglas,Champion,False
+2,1949,1950,22,ACTOR,Gregory Peck,Twelve O'Clock High,False
+3,1949,1950,22,ACTOR,Richard Todd,The Hasty Heart,False
+4,1949,1950,22,ACTOR,John Wayne,Sands of Iwo Jima,False
+5,1949,1950,22,ACTOR IN A SUPPORTING ROLE,John Ireland,All the King's Men,False
+6,1949,1950,22,ACTOR IN A SUPPORTING ROLE,Dean Jagger,Twelve O'Clock High,True
+7,1949,1950,22,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Champion,False
+8,1949,1950,22,ACTOR IN A SUPPORTING ROLE,Ralph Richardson,The Heiress,False
+9,1949,1950,22,ACTOR IN A SUPPORTING ROLE,James Whitmore,Battleground,False
+10,1949,1950,22,ACTRESS,Jeanne Crain,Pinky,False
+11,1949,1950,22,ACTRESS,Olivia de Havilland,The Heiress,True
+12,1949,1950,22,ACTRESS,Susan Hayward,My Foolish Heart,False
+13,1949,1950,22,ACTRESS,Deborah Kerr,"Edward, My Son",False
+14,1949,1950,22,ACTRESS,Loretta Young,Come to the Stable,False
+15,1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,Pinky,False
+16,1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Come to the Stable,False
+17,1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Elsa Lanchester,Come to the Stable,False
+18,1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,All the King's Men,True
+19,1949,1950,22,ACTRESS IN A SUPPORTING ROLE,Ethel Waters,Pinky,False
+20,1949,1950,22,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Joseph C. Wright;  Set Decoration:  Thomas Little, Paul S. Fox",Come to the Stable,False
+21,1949,1950,22,ART DIRECTION (Black-and-White),"Art Direction:  Harry Horner, John Meehan;  Set Decoration:  Emile Kuri",The Heiress,True
+22,1949,1950,22,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Jack Martin Smith;  Set Decoration:  Edwin B. Willis, Richard A. Pefferle",Madame Bovary,False
+23,1949,1950,22,ART DIRECTION (Color),Art Direction:  Edward Carrere;  Set Decoration:  Lyle Reifsnider,The Adventures of Don Juan,False
+24,1949,1950,22,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Jack D. Moore",Little Women,True
+25,1949,1950,22,ART DIRECTION (Color),"Art Direction:  Jim Morahan, William Kellner, Michael Relph",Saraband,False
+26,1949,1950,22,CINEMATOGRAPHY (Black-and-White),Paul C. Vogel,Battleground,True
+27,1949,1950,22,CINEMATOGRAPHY (Black-and-White),Frank Planer,Champion,False
+28,1949,1950,22,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,Come to the Stable,False
+29,1949,1950,22,CINEMATOGRAPHY (Black-and-White),Leo Tover,The Heiress,False
+30,1949,1950,22,CINEMATOGRAPHY (Black-and-White),Leon Shamroy,Prince of Foxes,False
+31,1949,1950,22,CINEMATOGRAPHY (Color),Harry Stradling,The Barkleys of Broadway,False
+32,1949,1950,22,CINEMATOGRAPHY (Color),William Snyder,Jolson Sings Again,False
+33,1949,1950,22,CINEMATOGRAPHY (Color),"Robert Planck, Charles Schoenbaum",Little Women,False
+34,1949,1950,22,CINEMATOGRAPHY (Color),Charles G. Clarke,Sand,False
+35,1949,1950,22,CINEMATOGRAPHY (Color),Winton Hoch,She Wore a Yellow Ribbon,True
+36,1949,1950,22,COSTUME DESIGN (Black-and-White),"Edith Head, Gile Steele",The Heiress,True
+37,1949,1950,22,COSTUME DESIGN (Black-and-White),Vittorio Nino Novarese,Prince of Foxes,False
+38,1949,1950,22,COSTUME DESIGN (Color),"Leah Rhodes, Travilla, Marjorie Best",The Adventures of Don Juan,True
+39,1949,1950,22,COSTUME DESIGN (Color),Kay Nelson,Mother Is a Freshman,False
+40,1949,1950,22,DIRECTING,Robert Rossen,All the King's Men,False
+41,1949,1950,22,DIRECTING,William A. Wellman,Battleground,False
+42,1949,1950,22,DIRECTING,Carol Reed,The Fallen Idol,False
+43,1949,1950,22,DIRECTING,William Wyler,The Heiress,False
+44,1949,1950,22,DIRECTING,Joseph L. Mankiewicz,A Letter to Three Wives,True
+45,1949,1950,22,DOCUMENTARY (Feature),Crown Film Unit,Daybreak in Udi,True
+46,1949,1950,22,DOCUMENTARY (Feature),"Paul F. Heard, Producer",Kenji Comes Home,False
+47,1949,1950,22,DOCUMENTARY (Short Subject),"Richard de Rochemont, Producer",A Chance to Live,True
+48,1949,1950,22,DOCUMENTARY (Short Subject),French Cinema General Cooperative,1848,False
+49,1949,1950,22,DOCUMENTARY (Short Subject),"St. Francis-Xavier University, Antigonish, Nova Scotia",The Rising Tide,False
+50,1949,1950,22,DOCUMENTARY (Short Subject),"Edward Selzer, Producer",So Much for So Little,True
+51,1949,1950,22,FILM EDITING,"Robert Parrish, Al Clark",All the King's Men,False
+52,1949,1950,22,FILM EDITING,John Dunning,Battleground,False
+53,1949,1950,22,FILM EDITING,Harry Gerstad,Champion,True
+54,1949,1950,22,FILM EDITING,Richard L. Van Enger,Sands of Iwo Jima,False
+55,1949,1950,22,FILM EDITING,Frederic Knudtson,The Window,False
+56,1949,1950,22,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Beyond the Forest,False
+57,1949,1950,22,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,Champion,False
+58,1949,1950,22,MUSIC (Music Score of a Dramatic or Comedy Picture),Aaron Copland,The Heiress,True
+59,1949,1950,22,MUSIC (Scoring of a Musical Picture),"Morris Stoloff, George Duning",Jolson Sings Again,False
+60,1949,1950,22,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Look for the Silver Lining,False
+61,1949,1950,22,MUSIC (Scoring of a Musical Picture),"Roger Edens, Lennie Hayton",On the Town,True
+62,1949,1950,22,MUSIC (Song),Music and Lyrics by Frank Loesser,Neptune's Daughter,True
+63,1949,1950,22,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,It's a Great Feeling,False
+64,1949,1950,22,MUSIC (Song),Music by Eliot Daniel; Lyrics by Larry Morey,So Dear to My Heart,False
+65,1949,1950,22,MUSIC (Song),Music by Victor Young; Lyrics by Ned Washington,My Foolish Heart,False
+66,1949,1950,22,MUSIC (Song),Music by Alfred Newman; Lyrics by Mack Gordon,Come to the Stable,False
+67,1949,1950,22,BEST MOTION PICTURE,Robert Rossen Productions,All the King's Men,True
+68,1949,1950,22,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,Battleground,False
+69,1949,1950,22,BEST MOTION PICTURE,Paramount,The Heiress,False
+70,1949,1950,22,BEST MOTION PICTURE,20th Century-Fox,A Letter to Three Wives,False
+71,1949,1950,22,BEST MOTION PICTURE,20th Century-Fox,Twelve O'Clock High,False
+72,1949,1950,22,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Canary Row,False
+73,1949,1950,22,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",For Scent-Imental Reasons,True
+74,1949,1950,22,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",Hatch Up Your Troubles,False
+75,1949,1950,22,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",The Magic Fluke,False
+76,1949,1950,22,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Toy Tinkers,False
+77,1949,1950,22,SHORT SUBJECT (One-reel),"Jack Eaton, Producer",Aquatic House-Party,True
+78,1949,1950,22,SHORT SUBJECT (One-reel),"Justin Herman, Producer",Roller Derby Girl,False
+79,1949,1950,22,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Think You're Not Guilty,False
+80,1949,1950,22,SHORT SUBJECT (One-reel),"Walton C. Ament, Producer",Spills and Chills,False
+81,1949,1950,22,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Water Trix,False
+82,1949,1950,22,SHORT SUBJECT (Two-reel),"William Lasky, Producer",The Boy and the Eagle,False
+83,1949,1950,22,SHORT SUBJECT (Two-reel),"Irving Allen, Producer",Chase of Death,False
+84,1949,1950,22,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",The Grass Is Always Greener,False
+85,1949,1950,22,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Snow Carnival,False
+86,1949,1950,22,SHORT SUBJECT (Two-reel),"Gaston Diehl and Robert Haessens, Producers",Van Gogh,True
+87,1949,1950,22,SOUND RECORDING,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director","Once More, My Darling",False
+88,1949,1950,22,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Sands of Iwo Jima,False
+89,1949,1950,22,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",Twelve O'Clock High,True
+90,1949,1950,22,SPECIAL EFFECTS,ARKO Productions,Mighty Joe Young,True
+91,1949,1950,22,SPECIAL EFFECTS,Walter Wanger Pictures,Tulsa,False
+92,1949,1950,22,WRITING (Motion Picture Story),Clare Boothe Luce,Come to the Stable,False
+93,1949,1950,22,WRITING (Motion Picture Story),"Shirley W. Smith, Valentine Davies",It Happens Every Spring,False
+94,1949,1950,22,WRITING (Motion Picture Story),Harry Brown,Sands of Iwo Jima,False
+95,1949,1950,22,WRITING (Motion Picture Story),Douglas Morrow,The Stratton Story,True
+96,1949,1950,22,WRITING (Motion Picture Story),Virginia Kellogg,White Heat,False
+97,1949,1950,22,WRITING (Screenplay),Robert Rossen,All the King's Men,False
+98,1949,1950,22,WRITING (Screenplay),Cesare Zavattini,The Bicycle Thief,False
+99,1949,1950,22,WRITING (Screenplay),Carl Foreman,Champion,False
+100,1949,1950,22,WRITING (Screenplay),Graham Greene,The Fallen Idol,False
+101,1949,1950,22,WRITING (Screenplay),Joseph L. Mankiewicz,A Letter to Three Wives,True
+102,1949,1950,22,WRITING (Story and Screenplay),Robert Pirosh,Battleground,True
+103,1949,1950,22,WRITING (Story and Screenplay),Sidney Buchman,Jolson Sings Again,False
+104,1949,1950,22,WRITING (Story and Screenplay),"Alfred Hayes, Federico Fellini, Sergio Amidei, Marcello Pagliero, Roberto Rossellini",Paisan,False
+105,1949,1950,22,WRITING (Story and Screenplay),T. E. B. Clarke,Passport to Pimlico,False
+106,1949,1950,22,WRITING (Story and Screenplay),"Helen Levitt, Janice Loeb, Sidney Meyers",The Quiet One,False
+107,1949,1950,22,SPECIAL FOREIGN LANGUAGE FILM AWARD, The Bicycle Thief - voted by the Academy Board of Governors as the most outstanding foreign language film released in the United States during 1949.,,True
+108,1949,1950,22,SPECIAL AWARD, Bobby Driscoll,,True
+109,1949,1950,22,SPECIAL AWARD, Fred Astaire for his unique artistry and his contributions to the technique of musical pictures.,,True
+110,1949,1950,22,SPECIAL AWARD, Cecil B. DeMille,,True
+111,1949,1950,22,SPECIAL AWARD, Jean Hersholt,,True

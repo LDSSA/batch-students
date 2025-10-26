@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1983,1984,56,ACTOR IN A LEADING ROLE,Michael Caine,Educating Rita,False
+1,1983,1984,56,ACTOR IN A LEADING ROLE,Tom Conti,"Reuben, Reuben",False
+2,1983,1984,56,ACTOR IN A LEADING ROLE,Tom Courtenay,The Dresser,False
+3,1983,1984,56,ACTOR IN A LEADING ROLE,Robert Duvall,Tender Mercies,True
+4,1983,1984,56,ACTOR IN A LEADING ROLE,Albert Finney,The Dresser,False
+5,1983,1984,56,ACTOR IN A SUPPORTING ROLE,Charles Durning,To Be or Not to Be,False
+6,1983,1984,56,ACTOR IN A SUPPORTING ROLE,John Lithgow,Terms of Endearment,False
+7,1983,1984,56,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Terms of Endearment,True
+8,1983,1984,56,ACTOR IN A SUPPORTING ROLE,Sam Shepard,The Right Stuff,False
+9,1983,1984,56,ACTOR IN A SUPPORTING ROLE,Rip Torn,Cross Creek,False
+10,1983,1984,56,ACTRESS IN A LEADING ROLE,Jane Alexander,Testament,False
+11,1983,1984,56,ACTRESS IN A LEADING ROLE,Shirley MacLaine,Terms of Endearment,True
+12,1983,1984,56,ACTRESS IN A LEADING ROLE,Meryl Streep,Silkwood,False
+13,1983,1984,56,ACTRESS IN A LEADING ROLE,Julie Walters,Educating Rita,False
+14,1983,1984,56,ACTRESS IN A LEADING ROLE,Debra Winger,Terms of Endearment,False
+15,1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Cher,Silkwood,False
+16,1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Glenn Close,The Big Chill,False
+17,1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Linda Hunt,The Year of Living Dangerously,True
+18,1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Amy Irving,Yentl,False
+19,1983,1984,56,ACTRESS IN A SUPPORTING ROLE,Alfre Woodard,Cross Creek,False
+20,1983,1984,56,ART DIRECTION,Anna Asp,Fanny & Alexander,True
+21,1983,1984,56,ART DIRECTION,"Art Direction:  Norman Reynolds, Fred Hole, James Schoppe;  Set Decoration:  Michael Ford",Return of the Jedi,False
+22,1983,1984,56,ART DIRECTION,"Art Direction:  Geoffrey Kirkland, Richard J. Lawrence, W. Stewart Campbell, Peter Romero;  Set Decoration:  Pat Pending, George R. Nelson",The Right Stuff,False
+23,1983,1984,56,ART DIRECTION,"Art Direction:  Polly Platt, Harold Michelson;  Set Decoration:  Tom Pedigo, Anthony Mondello",Terms of Endearment,False
+24,1983,1984,56,ART DIRECTION,"Art Direction:  Roy Walker, Leslie Tomkins;  Set Decoration:  Tessa Davies",Yentl,False
+25,1983,1984,56,CINEMATOGRAPHY,Sven Nykvist,Fanny & Alexander,True
+26,1983,1984,56,CINEMATOGRAPHY,Don Peterman,Flashdance,False
+27,1983,1984,56,CINEMATOGRAPHY,Caleb Deschanel,The Right Stuff,False
+28,1983,1984,56,CINEMATOGRAPHY,William A. Fraker,WarGames,False
+29,1983,1984,56,CINEMATOGRAPHY,Gordon Willis,Zelig,False
+30,1983,1984,56,COSTUME DESIGN,Joe I. Tompkins,Cross Creek,False
+31,1983,1984,56,COSTUME DESIGN,Marik Vos,Fanny & Alexander,True
+32,1983,1984,56,COSTUME DESIGN,William Ware Theiss,Heart Like a Wheel,False
+33,1983,1984,56,COSTUME DESIGN,Anne-Marie Marchand,The Return of Martin Guerre,False
+34,1983,1984,56,COSTUME DESIGN,Santo Loquasto,Zelig,False
+35,1983,1984,56,DIRECTING,Peter Yates,The Dresser,False
+36,1983,1984,56,DIRECTING,Ingmar Bergman,Fanny & Alexander,False
+37,1983,1984,56,DIRECTING,Mike Nichols,Silkwood,False
+38,1983,1984,56,DIRECTING,Bruce Beresford,Tender Mercies,False
+39,1983,1984,56,DIRECTING,James L. Brooks,Terms of Endearment,True
+40,1983,1984,56,DOCUMENTARY (Feature),"Richard Kotuk and Ara Chekmayan, Producers",Children of Darkness,False
+41,1983,1984,56,DOCUMENTARY (Feature),"Bob Connolly and Robin Anderson, Producers",First Contact,False
+42,1983,1984,56,DOCUMENTARY (Feature),"Emile Ardolino, Producer",He Makes Me Feel Like Dancin',True
+43,1983,1984,56,DOCUMENTARY (Feature),"Michael Bryans and Tina Viljoen, Producers",The Profession of Arms,False
+44,1983,1984,56,DOCUMENTARY (Feature),"James Klein and Julia Reichert, Producers",Seeing Red,False
+45,1983,1984,56,DOCUMENTARY (Short Subject),"Cynthia Scott and Adam Symansky, Producers",Flamenco at 5:15,True
+46,1983,1984,56,DOCUMENTARY (Short Subject),"Vivienne Verdon-Roe and Eric Thiermann, Producers",In the Nuclear Shadow: What Can the Children Tell Us?,False
+47,1983,1984,56,DOCUMENTARY (Short Subject),"Arthur Dong, Producer",Sewing Woman,False
+48,1983,1984,56,DOCUMENTARY (Short Subject),"Robert Eisenhardt, Producer",Spaces: The Architecture of Paul Rudolph,False
+49,1983,1984,56,DOCUMENTARY (Short Subject),"Dea Brokman and Ilene Landis, Producers",You Are Free  (Ihr Zent Frei),False
+50,1983,1984,56,FILM EDITING,"Frank Morriss, Edward Abroms",Blue Thunder,False
+51,1983,1984,56,FILM EDITING,"Bud Smith, Walt Mulconery",Flashdance,False
+52,1983,1984,56,FILM EDITING,"Glenn Farr, Lisa Fruchtman, Stephen A. Rotter, Douglas Stewart, Tom Rolf",The Right Stuff,True
+53,1983,1984,56,FILM EDITING,Sam O'Steen,Silkwood,False
+54,1983,1984,56,FILM EDITING,Richard Marks,Terms of Endearment,False
+55,1983,1984,56,FOREIGN LANGUAGE FILM,Spain,Carmen,False
+56,1983,1984,56,FOREIGN LANGUAGE FILM,France,Entre Nous,False
+57,1983,1984,56,FOREIGN LANGUAGE FILM,Sweden,Fanny & Alexander,True
+58,1983,1984,56,FOREIGN LANGUAGE FILM,Hungary,Job's Revolt,False
+59,1983,1984,56,FOREIGN LANGUAGE FILM,Algeria,Le Bal,False
+60,1983,1984,56,MUSIC (Original Score),Leonard Rosenman,Cross Creek,False
+61,1983,1984,56,MUSIC (Original Score),John Williams,Return of the Jedi,False
+62,1983,1984,56,MUSIC (Original Score),Bill Conti,The Right Stuff,True
+63,1983,1984,56,MUSIC (Original Score),Michael Gore,Terms of Endearment,False
+64,1983,1984,56,MUSIC (Original Score),Jerry Goldsmith,Under Fire,False
+65,1983,1984,56,MUSIC (Original Song Score or Adaptation Score),Adaptation Score by Lalo Schifrin,The Sting II,False
+66,1983,1984,56,MUSIC (Original Song Score or Adaptation Score),Adaptation Score by Elmer Bernstein,Trading Places,False
+67,1983,1984,56,MUSIC (Original Song Score or Adaptation Score),"Song Score by Michel Legrand, Alan Bergman and Marilyn Bergman",Yentl,True
+68,1983,1984,56,MUSIC (Original Song),Music by Giorgio Moroder; Lyric by Keith Forsey and Irene Cara,Flashdance,True
+69,1983,1984,56,MUSIC (Original Song),Music and Lyric by Michael Sembello and Dennis Matkosky,Flashdance,False
+70,1983,1984,56,MUSIC (Original Song),Music and Lyric by Austin Roberts and Bobby Hart,Tender Mercies,False
+71,1983,1984,56,MUSIC (Original Song),Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman,Yentl,False
+72,1983,1984,56,MUSIC (Original Song),Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman,Yentl,False
+73,1983,1984,56,BEST PICTURE,"Michael Shamberg, Producer",The Big Chill,False
+74,1983,1984,56,BEST PICTURE,"Peter Yates, Producer",The Dresser,False
+75,1983,1984,56,BEST PICTURE,"Irwin Winkler and Robert Chartoff, Producers",The Right Stuff,False
+76,1983,1984,56,BEST PICTURE,"Philip S. Hobel, Producer",Tender Mercies,False
+77,1983,1984,56,BEST PICTURE,"James L. Brooks, Producer",Terms of Endearment,True
+78,1983,1984,56,SHORT FILM (Animated),"Burny Mattinson, Producer",Mickey's Christmas Carol,False
+79,1983,1984,56,SHORT FILM (Animated),"Eda Godel Hallinan, Producer",Sound of Sunshine - Sound of Rain,False
+80,1983,1984,56,SHORT FILM (Animated),"Jimmy Picker, Producer",Sundae in New York,True
+81,1983,1984,56,SHORT FILM (Live Action),"Janice L. Platt, Producer",Boys and Girls,True
+82,1983,1984,56,SHORT FILM (Live Action),"Ian Emes, Producer",Goodie-Two-Shoes,False
+83,1983,1984,56,SHORT FILM (Live Action),"Jon N. Bloom, Producer",Overnight Sensation,False
+84,1983,1984,56,SOUND,"Alan R. Splet, Todd Boekelheide, Randy Thom, David Parker",Never Cry Wolf,False
+85,1983,1984,56,SOUND,"Ben Burtt, Gary Summers, Randy Thom, Tony Dawe",Return of the Jedi,False
+86,1983,1984,56,SOUND,"Mark Berger, Tom Scott, Randy Thom, David MacMillan",The Right Stuff,True
+87,1983,1984,56,SOUND,"Donald O. Mitchell, Rick Kline, Kevin O'Connell, Jim Alexander",Terms of Endearment,False
+88,1983,1984,56,SOUND,"Michael J. Kohut, Carlos de Larios, Aaron Rochin, Willie D. Burton",WarGames,False
+89,1983,1984,56,SOUND EFFECTS EDITING,Ben Burtt,Return of the Jedi,False
+90,1983,1984,56,SOUND EFFECTS EDITING,Jay Boekelheide,The Right Stuff,True
+91,1983,1984,56,WRITING (Screenplay Based on Material from Another Medium),Harold Pinter,Betrayal,False
+92,1983,1984,56,WRITING (Screenplay Based on Material from Another Medium),Ronald Harwood,The Dresser,False
+93,1983,1984,56,WRITING (Screenplay Based on Material from Another Medium),Willy Russell,Educating Rita,False
+94,1983,1984,56,WRITING (Screenplay Based on Material from Another Medium),Julius J. Epstein,"Reuben, Reuben",False
+95,1983,1984,56,WRITING (Screenplay Based on Material from Another Medium),James L. Brooks,Terms of Endearment,True
+96,1983,1984,56,WRITING (Screenplay Written Directly for the Screen),"Lawrence Kasdan, Barbara Benedek",The Big Chill,False
+97,1983,1984,56,WRITING (Screenplay Written Directly for the Screen),Ingmar Bergman,Fanny & Alexander,False
+98,1983,1984,56,WRITING (Screenplay Written Directly for the Screen),"Nora Ephron, Alice Arlen",Silkwood,False
+99,1983,1984,56,WRITING (Screenplay Written Directly for the Screen),Horton Foote,Tender Mercies,True
+100,1983,1984,56,WRITING (Screenplay Written Directly for the Screen),"Lawrence Lasker, Walter F. Parkes",WarGames,False
+101,1983,1984,56,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Richard Edlund, Dennis Muren, Ken Ralston, Phil Tippett",Return of the Jedi,True
+102,1983,1984,56,JEAN HERSHOLT HUMANITARIAN AWARD,M. J. Frankovich,,True
+103,1983,1984,56,HONORARY AWARD, Hal Roach,,True

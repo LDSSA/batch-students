@@ -1,0 +1,86 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1935,1936,8,ACTOR,Clark Gable,Mutiny on the Bounty,False
+1,1935,1936,8,ACTOR,Charles Laughton,Mutiny on the Bounty,False
+2,1935,1936,8,ACTOR,Victor McLaglen,The Informer,True
+3,1935,1936,8,ACTOR,Paul Muni,Black Fury,False
+4,1935,1936,8,ACTOR,Franchot Tone,Mutiny on the Bounty,False
+5,1935,1936,8,ACTRESS,Elisabeth Bergner,Escape Me Never,False
+6,1935,1936,8,ACTRESS,Claudette Colbert,Private Worlds,False
+7,1935,1936,8,ACTRESS,Bette Davis,Dangerous,True
+8,1935,1936,8,ACTRESS,Katharine Hepburn,Alice Adams,False
+9,1935,1936,8,ACTRESS,Miriam Hopkins,Becky Sharp,False
+10,1935,1936,8,ACTRESS,Merle Oberon,The Dark Angel,False
+11,1935,1936,8,ART DIRECTION,Richard Day,The Dark Angel,True
+12,1935,1936,8,ART DIRECTION,"Hans Dreier, Roland Anderson",The Lives of a Bengal Lancer,False
+13,1935,1936,8,ART DIRECTION,"Van Nest Polglase, Carroll Clark",Top Hat,False
+14,1935,1936,8,ASSISTANT DIRECTOR,Joseph Newman,David Copperfield,False
+15,1935,1936,8,ASSISTANT DIRECTOR,Eric Stacey,Les Miserables,False
+16,1935,1936,8,ASSISTANT DIRECTOR,"Clem Beauchamp, Paul Wing",The Lives of a Bengal Lancer,True
+17,1935,1936,8,ASSISTANT DIRECTOR,Sherry Shourds,A Midsummer Night's Dream,False
+18,1935,1936,8,CINEMATOGRAPHY,Ray June,Barbary Coast,False
+19,1935,1936,8,CINEMATOGRAPHY,Victor Milner,The Crusades,False
+20,1935,1936,8,CINEMATOGRAPHY,Gregg Toland,Les Miserables,False
+21,1935,1936,8,CINEMATOGRAPHY,Hal Mohr,A Midsummer Night's Dream,True
+22,1935,1936,8,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1935,False
+23,1935,1936,8,DANCE DIRECTION,Bobby Connolly,Go into Your Dance;,False
+24,1935,1936,8,DANCE DIRECTION,Dave Gould,Broadway Melody of 1936;,True
+25,1935,1936,8,DANCE DIRECTION,Sammy Lee,King of Burlesque,False
+26,1935,1936,8,DANCE DIRECTION,Hermes Pan,Top Hat,False
+27,1935,1936,8,DANCE DIRECTION,LeRoy Prinz,Big Broadcast of 1936;,False
+28,1935,1936,8,DANCE DIRECTION,Benjamin Zemach,She,False
+29,1935,1936,8,DIRECTING,Michael Curtiz,Captain Blood,False
+30,1935,1936,8,DIRECTING,John Ford,The Informer,True
+31,1935,1936,8,DIRECTING,Henry Hathaway,The Lives of a Bengal Lancer,False
+32,1935,1936,8,DIRECTING,Frank Lloyd,Mutiny on the Bounty,False
+33,1935,1936,8,FILM EDITING,Robert J. Kern,David Copperfield,False
+34,1935,1936,8,FILM EDITING,George Hively,The Informer,False
+35,1935,1936,8,FILM EDITING,Barbara McLean,Les Miserables,False
+36,1935,1936,8,FILM EDITING,Ellsworth Hoagland,The Lives of a Bengal Lancer,False
+37,1935,1936,8,FILM EDITING,Ralph Dawson,A Midsummer Night's Dream,True
+38,1935,1936,8,FILM EDITING,Margaret Booth,Mutiny on the Bounty,False
+39,1935,1936,8,MUSIC (Scoring),"Warner Bros.-First National Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Captain Blood,False
+40,1935,1936,8,MUSIC (Scoring),"RKO Radio Studio Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Informer,True
+41,1935,1936,8,MUSIC (Scoring),"Metro-Goldwyn-Mayer Studio Music Department, Nat W. Finston, head of department  (Score by Herbert Stothart)",Mutiny on the Bounty,False
+42,1935,1936,8,MUSIC (Scoring),"Paramount Studio Music Department, Irvin Talbot, head of department  (Score by Ernst Toch)",Peter Ibbetson,False
+43,1935,1936,8,MUSIC (Song),Music and Lyrics by Irving Berlin,Top Hat,False
+44,1935,1936,8,MUSIC (Song),Music by Jerome Kern; Lyrics by Dorothy Fields and Jimmy McHugh,Roberta,False
+45,1935,1936,8,MUSIC (Song),Music by Harry Warren; Lyrics by Al Dubin,Gold Diggers of 1935,True
+46,1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,Alice Adams,False
+47,1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Broadway Melody of 1936,False
+48,1935,1936,8,OUTSTANDING PRODUCTION,Cosmopolitan,Captain Blood,False
+49,1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,David Copperfield,False
+50,1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,The Informer,False
+51,1935,1936,8,OUTSTANDING PRODUCTION,20th Century,Les Miserables,False
+52,1935,1936,8,OUTSTANDING PRODUCTION,Paramount,The Lives of a Bengal Lancer,False
+53,1935,1936,8,OUTSTANDING PRODUCTION,Warner Bros.,A Midsummer Night's Dream,False
+54,1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Mutiny on the Bounty,True
+55,1935,1936,8,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Naughty Marietta,False
+56,1935,1936,8,OUTSTANDING PRODUCTION,Paramount,Ruggles of Red Gap,False
+57,1935,1936,8,OUTSTANDING PRODUCTION,RKO Radio,Top Hat,False
+58,1935,1936,8,SHORT SUBJECT (Cartoon),Harman-Ising,The Calico Dragon,False
+59,1935,1936,8,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Three Orphan Kittens,True
+60,1935,1936,8,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Who Killed Cock Robin?,False
+61,1935,1936,8,SHORT SUBJECT (Comedy),"Jack Chertok, Producer",How to Sleep,True
+62,1935,1936,8,SHORT SUBJECT (Comedy),"Jules White, Producer","Oh, My Nerves",False
+63,1935,1936,8,SHORT SUBJECT (Comedy),"Hal Roach, Producer",Tit for Tat,False
+64,1935,1936,8,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Audioscopiks,False
+65,1935,1936,8,SHORT SUBJECT (Novelty),Universal,Camera Thrills,False
+66,1935,1936,8,SHORT SUBJECT (Novelty),Gaumont British and Skibo Productions,Wings over Mt. Everest,True
+67,1935,1936,8,SOUND RECORDING,"Universal Studio Sound Department, Gilbert Kurland, Sound Director",Bride of Frankenstein,False
+68,1935,1936,8,SOUND RECORDING,"Warner Bros.-First National Studio Sound Department, Nathan Levinson, Sound Director",Captain Blood,False
+69,1935,1936,8,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Dark Angel,False
+70,1935,1936,8,SOUND RECORDING,"RKO Radio Studio Sound Department, Carl Dreher, Sound Director",I Dream Too Much,False
+71,1935,1936,8,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",The Lives of a Bengal Lancer,False
+72,1935,1936,8,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Love Me Forever,False
+73,1935,1936,8,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Naughty Marietta,True
+74,1935,1936,8,SOUND RECORDING,Republic Studio Sound Department,"$1,000 a Minute",False
+75,1935,1936,8,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Thanks a Million,False
+76,1935,1936,8,WRITING (Original Story),Moss Hart,Broadway Melody of 1936,False
+77,1935,1936,8,WRITING (Original Story),Gregory Rogers,G-Men,False
+78,1935,1936,8,WRITING (Original Story),"Don Hartman, Stephen Avery",The Gay Deception,False
+79,1935,1936,8,WRITING (Original Story),"Ben Hecht, Charles MacArthur",The Scoundrel,True
+80,1935,1936,8,WRITING (Screenplay),Casey Robinson,Captain Blood,False
+81,1935,1936,8,WRITING (Screenplay),Dudley Nichols,The Informer,True
+82,1935,1936,8,WRITING (Screenplay),"Screenplay by Waldemar Young, John L. Balderston, Achmed Abdullah;  Adaptation by Grover Jones, William Slavens McNutt",The Lives of a Bengal Lancer,False
+83,1935,1936,8,WRITING (Screenplay),"Talbot Jennings, Jules Furthman, Carey Wilson",Mutiny on the Bounty,False
+84,1935,1936,8,SPECIAL AWARD, David Wark Griffith,,True

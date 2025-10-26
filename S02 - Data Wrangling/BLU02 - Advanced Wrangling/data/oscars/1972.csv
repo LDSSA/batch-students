@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1971,1972,44,ACTOR,Peter Finch,Sunday Bloody Sunday,False
+1,1971,1972,44,ACTOR,Gene Hackman,The French Connection,True
+2,1971,1972,44,ACTOR,Walter Matthau,Kotch,False
+3,1971,1972,44,ACTOR,George C. Scott,The Hospital,False
+4,1971,1972,44,ACTOR,Topol,Fiddler on the Roof,False
+5,1971,1972,44,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,The Last Picture Show,False
+6,1971,1972,44,ACTOR IN A SUPPORTING ROLE,Leonard Frey,Fiddler on the Roof,False
+7,1971,1972,44,ACTOR IN A SUPPORTING ROLE,Richard Jaeckel,Sometimes a Great Notion,False
+8,1971,1972,44,ACTOR IN A SUPPORTING ROLE,Ben Johnson,The Last Picture Show,True
+9,1971,1972,44,ACTOR IN A SUPPORTING ROLE,Roy Scheider,The French Connection,False
+10,1971,1972,44,ACTRESS,Julie Christie,McCabe & Mrs. Miller,False
+11,1971,1972,44,ACTRESS,Jane Fonda,Klute,True
+12,1971,1972,44,ACTRESS,Glenda Jackson,Sunday Bloody Sunday,False
+13,1971,1972,44,ACTRESS,Vanessa Redgrave,"Mary, Queen of Scots",False
+14,1971,1972,44,ACTRESS,Janet Suzman,Nicholas and Alexandra,False
+15,1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Ann-Margret,Carnal Knowledge,False
+16,1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Ellen Burstyn,The Last Picture Show,False
+17,1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Barbara Harris,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,False
+18,1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Cloris Leachman,The Last Picture Show,True
+19,1971,1972,44,ACTRESS IN A SUPPORTING ROLE,Margaret Leighton,The Go-Between,False
+20,1971,1972,44,ART DIRECTION,"Art Direction:  Boris Leven, William Tuntke;  Set Decoration:  Ruby Levitt",The Andromeda Strain,False
+21,1971,1972,44,ART DIRECTION,"Art Direction:  John B. Mansbridge, Peter Ellenshaw;  Set Decoration:  Emile Kuri, Hal Gausman",Bedknobs and Broomsticks,False
+22,1971,1972,44,ART DIRECTION,"Art Direction:  Robert Boyle, Michael Stringer;  Set Decoration:  Peter Lamont",Fiddler on the Roof,False
+23,1971,1972,44,ART DIRECTION,"Art Direction:  Terence Marsh, Robert Cartwright;  Set Decoration:  Peter Howitt","Mary, Queen of Scots",False
+24,1971,1972,44,ART DIRECTION,"Art Direction:  John Box, Ernest Archer, Jack Maxsted, Gil Parrondo;  Set Decoration:  Vernon Dixon",Nicholas and Alexandra,True
+25,1971,1972,44,CINEMATOGRAPHY,Oswald Morris,Fiddler on the Roof,True
+26,1971,1972,44,CINEMATOGRAPHY,Owen Roizman,The French Connection,False
+27,1971,1972,44,CINEMATOGRAPHY,Robert Surtees,The Last Picture Show,False
+28,1971,1972,44,CINEMATOGRAPHY,Freddie Young,Nicholas and Alexandra,False
+29,1971,1972,44,CINEMATOGRAPHY,Robert Surtees,Summer of '42,False
+30,1971,1972,44,COSTUME DESIGN,Bill Thomas,Bedknobs and Broomsticks,False
+31,1971,1972,44,COSTUME DESIGN,Piero Tosi,Death in Venice,False
+32,1971,1972,44,COSTUME DESIGN,Margaret Furse,"Mary, Queen of Scots",False
+33,1971,1972,44,COSTUME DESIGN,"Yvonne Blake, Antonio Castillo",Nicholas and Alexandra,True
+34,1971,1972,44,COSTUME DESIGN,Morton Haack,What's the Matter with Helen?,False
+35,1971,1972,44,DIRECTING,Stanley Kubrick,A Clockwork Orange,False
+36,1971,1972,44,DIRECTING,Norman Jewison,Fiddler on the Roof,False
+37,1971,1972,44,DIRECTING,William Friedkin,The French Connection,True
+38,1971,1972,44,DIRECTING,Peter Bogdanovich,The Last Picture Show,False
+39,1971,1972,44,DIRECTING,John Schlesinger,Sunday Bloody Sunday,False
+40,1971,1972,44,DOCUMENTARY (Feature),"Alan Landsburg, Producer",Alaska Wilderness Lake,False
+41,1971,1972,44,DOCUMENTARY (Feature),"Walon Green, Producer",The Hellstrom Chronicle,True
+42,1971,1972,44,DOCUMENTARY (Feature),"Bruce Brown, Producer",On Any Sunday,False
+43,1971,1972,44,DOCUMENTARY (Feature),"Lennart Ehrenborg and Thor Heyerdahl, Producers",The RA Expeditions,False
+44,1971,1972,44,DOCUMENTARY (Feature),"Marcel Ophuls, Producer",The Sorrow and the Pity,False
+45,1971,1972,44,DOCUMENTARY (Short Subject),"Han van Gelder, Producer",Adventures in Perception,False
+46,1971,1972,44,DOCUMENTARY (Short Subject),"Julian Krainin and DeWitt L. Sage, Jr., Producers",Art Is...,False
+47,1971,1972,44,DOCUMENTARY (Short Subject),"Donald Wrye, Producer",The Numbers Start with the River,False
+48,1971,1972,44,DOCUMENTARY (Short Subject),"Manuel Arango and Robert Amram, Producers",Sentinels of Silence,True
+49,1971,1972,44,DOCUMENTARY (Short Subject),"Hal Riney, Dick Snider and Sherwood Omens, Producers",Somebody Waiting,False
+50,1971,1972,44,FILM EDITING,"Stuart Gilmore, John W. Holmes",The Andromeda Strain,False
+51,1971,1972,44,FILM EDITING,Bill Butler,A Clockwork Orange,False
+52,1971,1972,44,FILM EDITING,Jerry Greenberg,The French Connection,True
+53,1971,1972,44,FILM EDITING,Ralph E. Winters,Kotch,False
+54,1971,1972,44,FILM EDITING,Folmar Blangsted,Summer of '42,False
+55,1971,1972,44,FOREIGN LANGUAGE FILM,Japan,Dodes'ka-Den,False
+56,1971,1972,44,FOREIGN LANGUAGE FILM,Sweden,The Emigrants,False
+57,1971,1972,44,FOREIGN LANGUAGE FILM,Italy,The Garden of the Finzi Continis,True
+58,1971,1972,44,FOREIGN LANGUAGE FILM,Israel,The Policeman,False
+59,1971,1972,44,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,Tchaikovsky,False
+60,1971,1972,44,MUSIC (Original Dramatic Score),John Barry,"Mary, Queen of Scots",False
+61,1971,1972,44,MUSIC (Original Dramatic Score),Richard Rodney Bennett,Nicholas and Alexandra,False
+62,1971,1972,44,MUSIC (Original Dramatic Score),Isaac Hayes,Shaft,False
+63,1971,1972,44,MUSIC (Original Dramatic Score),Jerry Fielding,Straw Dogs,False
+64,1971,1972,44,MUSIC (Original Dramatic Score),Michel Legrand,Summer of '42,True
+65,1971,1972,44,MUSIC (Scoring: Adaptation and Original Song Score),Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by Irwin Kostal,Bedknobs and Broomsticks,False
+66,1971,1972,44,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by Peter Maxwell Davies and Peter Greenwell,The Boy Friend,False
+67,1971,1972,44,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by John Williams,Fiddler on the Roof,True
+68,1971,1972,44,MUSIC (Scoring: Adaptation and Original Song Score),Adaptation Score by Dimitri Tiomkin,Tchaikovsky,False
+69,1971,1972,44,MUSIC (Scoring: Adaptation and Original Song Score),Song Score by Leslie Bricusse and Anthony Newley; Adaptation Score by Walter Scharf,Willy Wonka and the Chocolate Factory,False
+70,1971,1972,44,MUSIC (Song--Original for the Picture),Music and Lyrics by Richard M. Sherman and Robert B. Sherman,Bedknobs and Broomsticks,False
+71,1971,1972,44,MUSIC (Song--Original for the Picture),Music by Henry Mancini; Lyrics by Alan Bergman and Marilyn Bergman,Sometimes a Great Notion,False
+72,1971,1972,44,MUSIC (Song--Original for the Picture),"Music and Lyrics by Barry DeVorzon and Perry Botkin, Jr.",Bless the Beasts & Children,False
+73,1971,1972,44,MUSIC (Song--Original for the Picture),Music by Marvin Hamlisch; Lyrics by Johnny Mercer,Kotch,False
+74,1971,1972,44,MUSIC (Song--Original for the Picture),Music and Lyrics by Isaac Hayes,Shaft,True
+75,1971,1972,44,BEST PICTURE,"Stanley Kubrick, Producer",A Clockwork Orange,False
+76,1971,1972,44,BEST PICTURE,"Norman Jewison, Producer",Fiddler on the Roof,False
+77,1971,1972,44,BEST PICTURE,"Philip D'Antoni, Producer",The French Connection,True
+78,1971,1972,44,BEST PICTURE,"Stephen J. Friedman, Producer",The Last Picture Show,False
+79,1971,1972,44,BEST PICTURE,"Sam Spiegel, Producer",Nicholas and Alexandra,False
+80,1971,1972,44,SHORT SUBJECT (Animated),"Ted Petok, Producer",The Crunch Bird,True
+81,1971,1972,44,SHORT SUBJECT (Animated),"Michael Mills, Producer",Evolution,False
+82,1971,1972,44,SHORT SUBJECT (Animated),"Peter Sander and Murray Shostak, Producers",The Selfish Giant,False
+83,1971,1972,44,SHORT SUBJECT (Live Action),"Denny Evans and Ken Greenwald, Producers",Good Morning,False
+84,1971,1972,44,SHORT SUBJECT (Live Action),"Stephen F. Verona, Producer",The Rehearsal,False
+85,1971,1972,44,SHORT SUBJECT (Live Action),"Manuel Arango and Robert Amram, Producers",Sentinels of Silence,True
+86,1971,1972,44,SOUND,"Gordon K. McCallum, John Mitchell, Alfred J. Overton",Diamonds Are Forever,False
+87,1971,1972,44,SOUND,"Gordon K. McCallum, David Hildyard",Fiddler on the Roof,True
+88,1971,1972,44,SOUND,"Theodore Soderberg, Christopher Newman",The French Connection,False
+89,1971,1972,44,SOUND,"Richard Portman, Jack Solomon",Kotch,False
+90,1971,1972,44,SOUND,"Bob Jones, John Aldred","Mary, Queen of Scots",False
+91,1971,1972,44,SPECIAL VISUAL EFFECTS,"Alan Maley, Eustace Lycett, Danny Lee",Bedknobs and Broomsticks,True
+92,1971,1972,44,SPECIAL VISUAL EFFECTS,"Jim Danforth, Roger Dicken",When Dinosaurs Ruled the Earth,False
+93,1971,1972,44,WRITING (Screenplay--based on material from another medium),Stanley Kubrick,A Clockwork Orange,False
+94,1971,1972,44,WRITING (Screenplay--based on material from another medium),Bernardo Bertolucci,The Conformist,False
+95,1971,1972,44,WRITING (Screenplay--based on material from another medium),Ernest Tidyman,The French Connection,True
+96,1971,1972,44,WRITING (Screenplay--based on material from another medium),"Ugo Pirro, Vittorio Bonicelli",The Garden of the Finzi Continis,False
+97,1971,1972,44,WRITING (Screenplay--based on material from another medium),"Larry McMurtry, Peter Bogdanovich",The Last Picture Show,False
+98,1971,1972,44,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Paddy Chayefsky,The Hospital,True
+99,1971,1972,44,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),"Elio Petri, Ugo Pirro",Investigation of a Citizen above Suspicion,False
+100,1971,1972,44,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),"Andy Lewis, Dave Lewis",Klute,False
+101,1971,1972,44,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Herman Raucher,Summer of '42,False
+102,1971,1972,44,WRITING (Story and Screenplay--based on factual material or material not previously published or produced),Penelope Gilliatt,Sunday Bloody Sunday,False
+103,1971,1972,44,HONORARY AWARD, Charles Chaplin for the incalculable effect he has had in making motion pictures the art form of this century.,,True

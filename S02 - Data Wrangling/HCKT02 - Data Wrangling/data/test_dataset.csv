@@ -1,0 +1,19 @@
+ID,cityName,displayName,latitude,longitude,class,type,RD_east,RD_north
+0,5283,"152, Groen van Prinstererstraat, Hoogstad, Vlaardingen, Zuid-Holland, Nederland, 3131 GJ, Nederland",51.9124759,4.3416114,place,house,83037.716303692,436409.155065953
+1,5307,"533, Andries van Bronckhorstlaan, Centrum, Spijkenisse, Nissewaard, Zuid-Holland, Nederland, 3201 XK, Nederland",51.8449805,4.3290208,place,house,82062.2324771778,428913.8789852266
+2,5314,"van Lennepstraat, 's- Gravenzande, 's-Gravenzande, Westland, Zuid-Holland, Nederland, 2691 ZV, Nederland",52.0015552,4.1653615,amenity,parking,71079.9169705394,446506.9374837388
+3,5317,"Van Smaleveltstraat, Schiedam, Zuid-Holland, Nederland, 3117 CE, Nederland",51.9181604,4.3878313,man_made,tunnel,86226.007826668,436996.7189460743
+4,5318,"304, Ganzerikplein, Schiebroek, Hillegersberg-Schiebroek, Rotterdam, Zuid-Holland, Nederland, 3053 EA, Nederland",51.9587961,4.4719907,place,house,92071.841460335,441440.6359682039
+5,5321,"Johan van Oldenbarnevelt, Stadhuisstraat, Stadsdriehoek, Centrum, Rotterdam, Zuid-Holland, Nederland, 3011 AD, Nederland",51.922379,4.4792639,tourism,artwork,92521.0298836231,437383.4108870217
+6,5327,"5, Händelstraat, Rhoon, Albrandswaard, Zuid-Holland, Nederland, 3161 RH, Nederland",51.8574987,4.4222329,place,house,88502.6727407968,430216.9552888245
+7,5337,"Marshallweg, Willekenscamp, Ommoord, Prins Alexander, Rotterdam, Zuid-Holland, Nederland, 3068 JN, Nederland",51.9593968,4.5451167,amenity,parking,97098.0562132668,441446.6464067522
+8,5348,"Stokdijkkade, Naaldwijk, Westland, Zuid-Holland, Nederland, 2671 GW, Nederland",51.9941253,4.2096973,emergency,defibrillator,74110.3653885168,445630.177566312
+9,5356,"57E, Noorddijk, Vertobuurt, Maassluis, Zuid-Holland, Nederland, 3142 EB, Nederland",51.923868,4.2503541,place,house,76779.7730608587,437770.6486750243
+10,5370,"19, Meidoornstraat, Krimpen aan den IJssel, Zuid-Holland, Nederland, 2923 BE, Nederland",51.9165986,4.602806,place,house,101011.1909216276,436641.4103221942
+11,5391,"113, P C Hooftstraat, Marinebuurt, Hellevoet, Hellevoetsluis, Voorne aan Zee, Zuid-Holland, Nederland, 3221 TS, Nederland",51.8336069,4.1326359,place,house,68510.5235155494,427864.070440817
+12,5404,"51, Reyerdijk, Reyeroord, Groot-IJsselmonde, IJsselmonde, Rotterdam, Zuid-Holland, Nederland, 3079 NC, Nederland",51.8828201,4.549268,place,house,97285.0674109845,432925.0924156956
+13,5440,"City Cafe Delft, 54, Coenderstraat, Westerkwartier, Hof van Delft, Delft, Zuid-Holland, Nederland, 2613 SP, Nederland",52.0066629,4.3554083,amenity,restaurant,84135.7076678483,446872.5794898546
+14,5445,"Brandweer Capelle aan den IJssel, 121, Slotlaan, Middelwatering, Capelle aan den IJssel, Zuid-Holland, Nederland, 2902 AL, Nederland",51.9291915,4.5774455,amenity,fire_station,99282.3049049615,438061.3713224246
+15,5458,"18, Beukenhorst, Bergsche Ackers, Bergschenhoek, Lansingerland, Zuid-Holland, Nederland, 2661 BC, Nederland",51.9898276,4.4987737,place,house,93954.684292104,444869.6696849814
+16,5464,"5, Schaatsbaan, Paddewei, Barendrecht, Zuid-Holland, Nederland, 2992 CN, Nederland",51.8565809,4.5346094,place,house,96241.7242281142,430018.0562943495
+17,5481,"Dorpskerk, 1, Kerksingel, Parkwijk, Berkel, Berkel en Rodenrijs, Lansingerland, Zuid-Holland, Nederland, 2651 CC, Nederland",51.9932064,4.4786895,amenity,place_of_worship,92580.0985187477,445262.5920400353

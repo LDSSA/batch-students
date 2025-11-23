@@ -7,6 +7,6 @@ category-encoders==2.8.1   # base
 
 tqdm==4.67.1              # S03
 # downgrade numpy for pmdarima
-numpy<2.0.0
-pmdarima==2.0.4           # S03
+#numpy<2.0.0
+pmdarima==2.1.1           # S03
 

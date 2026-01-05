@@ -1,0 +1,12 @@
+nbgrader==0.9.5            # base
+pandas==2.3.2              # base
+matplotlib==3.10.5         # base
+scikit-learn==1.7.1        # base
+seaborn==0.13.2            # base
+category-encoders==2.8.1   # base
+
+nltk==3.9.2                # S04
+spacy==3.8.11              # S04
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl  # spacy core
+
+

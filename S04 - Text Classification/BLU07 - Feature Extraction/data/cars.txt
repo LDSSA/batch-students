@@ -1,0 +1,1000 @@
+FORD -- Focus -- 19757
+LEXUS -- CT 200h -- 392
+JEEP -- Compass -- 22269
+CHEVROLET -- Captiva -- 7527
+SSANGYONG -- REXTON -- 34419
+TOYOTA -- Prius -- 251
+BMW -- 535 -- 23521
+BMW -- 328 -- 13485
+HYUNDAI -- Sonata -- 2901
+CHEVROLET -- Volt -- 3293
+MERCEDES-BENZ -- E 270 4 -- 11604
+CHEVROLET -- Volt -- 27284
+MITSUBISHI -- Pajero IO -- 6272
+MERCEDES-BENZ -- E 220 -- 20698
+FORD -- C-MAX -- 8938
+TOYOTA -- Prius -- 11000
+HYUNDAI -- Santa FE -- 123330
+BMW -- X6 -- 1254
+MITSUBISHI -- Mirage -- 5802
+BMW -- 320 Gran Turismo -- 6272
+MAZDA -- Mazda 6 -- 29793
+TOYOTA -- RAV 4 -- 51589
+MERCEDES-BENZ -- GLA 250 -- 2509
+HYUNDAI -- Veloster -- 21326
+OPEL -- Astra -- 3000
+TOYOTA -- Aqua -- 18362
+CHEVROLET -- Captiva -- 6241
+CHEVROLET -- Traverse -- 627
+MERCEDES-BENZ -- GL 350 -- 48610
+HYUNDAI -- Accent -- 862
+AUDI -- S3 -- 14113
+LEXUS -- RX 450 -- 14269
+TOYOTA -- VOXY -- 10349
+LEXUS -- RX 350 -- 48296
+FORD -- Escape -- 20385
+FORD -- Fusion -- 3920
+SUBARU -- Forester -- 2038
+FORD -- Fusion 2015 -- 17562
+CHEVROLET -- Spark -- 11917
+BMW -- 328 -- 1725
+TOYOTA -- Tacoma -- 26971
+BMW -- 535 -- 16621
+HYUNDAI -- Veloster TURBO -- 21856
+LEXUS -- GX 470 -- 61154
+DAEWOO -- Lacetti -- 9252
+TOYOTA -- Prius -- 21169
+CHEVROLET -- Cruze -- 6868
+FORD -- Focus -- 15053
+HONDA -- Civic -- 42880
+SSANGYONG -- REXTON -- 9252
+HYUNDAI -- Sonata -- 11290
+LEXUS -- GX 460 -- 73071
+DODGE -- Neon -- 2822
+HYUNDAI -- Elantra -- 17158
+CHEVROLET -- Equinox -- 32929
+VAZ -- 2109 -- 1568
+JEEP -- Compass -- 37291
+MERCEDES-BENZ -- GLE 350 -- 41397
+CHEVROLET -- Malibu -- 25456
+CHEVROLET -- Cruze -- 6743
+LEXUS -- RX 350 -- 40769
+CHEVROLET -- Malibu -- 22260
+BMW -- 550 -- 33500
+CHEVROLET -- Impala -- 50651
+CHEVROLET -- Cruze -- 17923
+BMW -- M6 Gran cupe -- 163077
+TOYOTA -- CHR -- 10349
+MERCEDES-BENZ -- ML 350 -- 12000
+TOYOTA -- Prius -- 17562
+HYUNDAI -- Elantra -- 19946
+OPEL -- Astra G -- 4547
+BMW -- 525 -- 8154
+MERCEDES-BENZ -- ML 350 -- 13328
+FORD -- Transit -- 16935
+BMW -- 428 i -- 40456
+MERCEDES-BENZ -- E 500 -- 17876
+AUDI -- Q5 -- 470
+MERCEDES-BENZ -- ML 320 -- 14740
+SCION -- iA isti -- 11917
+BMW -- 325 -- 9722
+CHEVROLET -- Malibu -- 21987
+MERCEDES-BENZ -- CLS 550 -- 56450
+SUBARU -- XV -- 188
+HYUNDAI -- Tucson -- 19456
+OPEL -- Zafira -- 8467
+JEEP -- Compass -- 29254
+FORD -- Escape -- 19444
+MERCEDES-BENZ -- S 500 -- 157
+MITSUBISHI -- Colt -- 6115
+NISSAN -- Skyline -- 10000
+SUBARU -- Legacy -- 26030
+TOYOTA -- Ipsum -- 9408
+OPEL -- Astra A.H -- 10192
+KIA -- Optima -- 18503
+JEEP -- Cherokee -- 28852
+HYUNDAI -- Tucson -- 51523
+VOLKSWAGEN -- CC -- 14426
+TOYOTA -- VOXY -- 100
+BMW -- 328 -- 19757
+MERCEDES-BENZ -- ML 350 -- 12074
+MERCEDES-BENZ -- E 350 -- 3450
+MAZDA -- 1000 -- 1176
+LEXUS -- GX 460 -- 314
+NISSAN -- Tiida -- 11917
+MAZDA -- Mazda 6 -- 6586
+FORD -- KA -- 3600
+INFINITI -- FX35 -- 15681
+TOYOTA -- Camry -- 68994
+CHEVROLET -- Spark -- 7370
+MERCEDES-BENZ -- B 220 -- 5000
+HONDA -- FIT -- 41259
+HYUNDAI -- Tucson -- 14834
+BMW -- 335 ტურბო -- 20385
+DAEWOO -- Lacetti -- 5968
+BMW -- 520 -- 7840
+TOYOTA -- Highlander -- 23521
+KIA -- Cerato -- 16151
+JAGUAR -- X-type -- 11000
+MERCEDES-BENZ -- E 200 -- 18817
+FORD -- Mustang -- 23521
+FORD -- Fusion -- 24775
+LEXUS -- CT 200h -- 6586
+MAZDA -- Mazda 2 -- 10506
+JAGUAR -- F-type -- 78
+KIA -- Optima -- 20698
+TOYOTA -- Camry -- 19130
+SUBARU -- Forester -- 4704
+HONDA -- Civic -- 63152
+BMW -- 740 i -- 31361
+SUBARU -- Forester -- 16308
+FORD -- Ranger Wildtrak -- 90947
+HONDA -- FIT -- 14831
+BMW -- 530 G30 -- 106627
+FORD -- Fusion -- 14740
+TOYOTA -- Aqua -- 36997
+BMW -- 520 -- 6272
+AUDI -- A8 -- 34845
+TOYOTA -- Prius -- 14700
+NISSAN -- X-Trail -- 10349
+TOYOTA -- FJ Cruiser -- 45473
+HONDA -- Insight -- 13172
+HYUNDAI -- I30 -- 10381
+CHEVROLET -- Impala -- 392
+VOLKSWAGEN -- Caddy -- 14113
+FORD -- Escape -- 3607
+HYUNDAI -- Accent -- 11143
+CHEVROLET -- Volt premier -- 24462
+MOSKVICH -- 2140 -- 1500
+HYUNDAI -- Elantra GT -- 21639
+HONDA -- FIT -- 6115
+FORD -- Focus -- 9879
+FORD -- Transit -- 31361
+KIA -- Optima -- 392
+BMW -- 525 -- 5645
+BMW -- 528 -- 45473
+NISSAN -- Rogue -- 20698
+TOYOTA -- Prius -- 13667
+MITSUBISHI -- Delica 5 -- 14740
+BMW -- X5 -- 13485
+TOYOTA -- Prius -- 8938
+BMW -- 428 -- 56450
+LEXUS -- NX 200 -- 6586
+TOYOTA -- Camry SE -- 24148
+FORD -- Edge -- 25089
+FORD -- C-MAX -- 12544
+CHEVROLET -- Orlando -- 27093
+ACURA -- TLX -- 3450
+TOYOTA -- Aqua -- 23110
+TOYOTA -- CHR -- 57391
+HONDA -- Civic -- 14740
+HYUNDAI -- H1 -- 30063
+HYUNDAI -- Santa FE -- 35438
+KIA -- Optima -- 19444
+NISSAN -- Rogue -- 1333
+VOLKSWAGEN -- Tiguan -- 549
+HYUNDAI -- Elantra -- 21395
+SSANGYONG -- REXTON -- 45342
+MERCEDES-BENZ -- C 180 -- 3763
+TOYOTA -- Prius C -- 19130
+NISSAN -- Gloria -- 7200
+KIA -- Sorento -- 5018
+HYUNDAI -- Santa FE -- 15496
+HYUNDAI -- Sonata -- 67903
+HYUNDAI -- H1 -- 20488
+FORD -- Escape -- 80
+FORD -- Fusion -- 25089
+HYUNDAI -- Santa FE -- 48108
+MERCEDES-BENZ -- ML 350 -- 39829
+HYUNDAI -- Santa FE -- 51965
+NISSAN -- Skyline -- 5175
+MERCEDES-BENZ -- E 350 -- 188
+CHEVROLET -- Camaro -- 12231
+MERCEDES-BENZ -- ML 350 -- 26657
+VOLKSWAGEN -- Passat -- 7527
+HYUNDAI -- Sonata -- 5018
+CHEVROLET -- Volt -- 706
+HYUNDAI -- Elantra -- 4234
+FORD -- Focus -- 12858
+HYUNDAI -- Elantra -- 18817
+CHEVROLET -- Cruze -- 24462
+SUZUKI -- Swift -- 2300
+MERCEDES-BENZ -- G 550 -- 42965
+FORD -- Fusion -- 40456
+BMW -- 3.20E+38 -- 9408
+SUBARU -- Forester -- 10663
+HYUNDAI -- H1 -- 24860
+MERCEDES-BENZ -- 230 W153 -- 119172
+CHEVROLET -- Orlando -- 15125
+CHEVROLET -- Captiva -- 8781
+SSANGYONG -- Korando -- 20005
+SKODA -- Octavia -- 10820
+TOYOTA -- RAV 4 -- 13485
+OPEL -- Corsa Corsa -- 6800
+MERCEDES-BENZ -- E 350 -- 5018
+FORD -- Escape -- 14900
+HYUNDAI -- Sonata -- 20297
+CHEVROLET -- Cruze LT -- 16151
+KIA -- Optima -- 16300
+HYUNDAI -- Sonata -- 47
+TOYOTA -- Camry -- 17562
+BMW -- 318 -- 9408
+TOYOTA -- Prius -- 12074
+HYUNDAI -- Elantra -- 18826
+SSANGYONG -- Actyon -- 25139
+TOYOTA -- Aqua -- 42601
+HONDA -- Civic -- 54847
+NISSAN -- Juke -- 1411
+HYUNDAI -- H1 -- 14301
+HYUNDAI -- Sonata -- 20883
+BMW -- 530 -- 12544
+CHRYSLER -- 300 -- 7840
+VOLKSWAGEN -- Vento -- 3000
+NISSAN -- Note -- 6272
+BMW -- 750 -- 87811
+SUBARU -- Forester cross sport -- 11604
+TOYOTA -- Aqua -- 38822
+AUDI -- A5 -- 9408
+MERCEDES-BENZ -- C 220 -- 23521
+HYUNDAI -- Elantra -- 7997
+HYUNDAI -- Veloster -- 18817
+TOYOTA -- Vitz -- 5488
+HYUNDAI -- Elantra -- 26017
+HYUNDAI -- Veloster -- 10976
+MERCEDES-BENZ -- ML 550 4.7 -- 75266
+SUBARU -- Legacy -- 6899
+TOYOTA -- Camry -- 5802
+HYUNDAI -- Sonata -- 6743
+LAND ROVER -- Range Rover Evoque 2.0 -- 42337
+FORD -- Fusion Hybrid -- 19287
+AUDI -- Q3 -- 20385
+VOLKSWAGEN -- Passat -- 7840
+BMW -- X1 -- 25716
+HONDA -- Cr-v -- 8200
+BMW -- 318 -- 8781
+TOYOTA -- Vitz -- 4704
+MERCEDES-BENZ -- ML 350 -- 23207
+MERCEDES-BENZ -- CLA 250 -- 41397
+KIA -- RIO -- 13799
+HYUNDAI -- Sonata -- 22894
+HYUNDAI -- Santa FE -- 29580
+HYUNDAI -- H1 -- 39593
+MAZDA -- Demio -- 6500
+SSANGYONG -- REXTON -- 23239
+JEEP -- Grand Cherokee -- 7840
+VOLKSWAGEN -- Touareg -- 17249
+KIA -- Sorento EX -- 25873
+LAND ROVER -- Discovery -- 36065
+HYUNDAI -- Elantra -- 5018
+AUDI -- A4 -- 1646
+MAZDA -- 626 -- 2600
+JAGUAR -- XE -- 72130
+HYUNDAI -- Sonata -- 14454
+HONDA -- Insight -- 9408
+HONDA -- Hr-v EX -- 21169
+TOYOTA -- Prius -- 4077
+SSANGYONG -- REXTON -- 40340
+HYUNDAI -- Sonata -- 26262
+SSANGYONG -- Actyon -- 42544
+SUBARU -- Forester -- 15681
+MERCEDES-BENZ -- S 550 -- 88595
+HYUNDAI -- Santa FE -- 4704
+SUBARU -- Forester -- 18189
+MERCEDES-BENZ -- S 320 -- 3763
+HYUNDAI -- H1 -- 35005
+MERCEDES-BENZ -- G 300 -- 15681
+BMW -- 328 -- 49237
+SUBARU -- XV -- 13015
+HYUNDAI -- Sonata -- 14069
+TOYOTA -- Aqua -- 54048
+BMW -- 335 -- 20385
+MERCEDES-BENZ -- Vito 113 -- 24462
+BMW -- 318 318 -- 6272
+CHEVROLET -- Lacetti -- 11848
+BMW -- 740 -- 26657
+FORD -- Mustang -- 64290
+TOYOTA -- Aqua S -- 9879
+VAZ -- 2107 -- 2195
+OPEL -- Astra -- 6586
+HYUNDAI -- Elantra -- 26180
+LEXUS -- GX 460 -- 39829
+TOYOTA -- 4Runner -- 27598
+SSANGYONG -- REXTON -- 31659
+HONDA -- Insight -- 11604
+HYUNDAI -- Elantra -- 251
+VOLKSWAGEN -- Golf -- 6586
+TOYOTA -- Camry se -- 22580
+LEXUS -- RX 350 -- 11917
+FIAT -- 500 -- 392
+MERCEDES-BENZ -- E 240 -- 8000
+HONDA -- Civic -- 41193
+HYUNDAI -- Tucson -- 20237
+FORD -- Escape -- 314
+HONDA -- FIT -- 19030
+HYUNDAI -- Elantra i30 -- 19444
+SSANGYONG -- REXTON -- 30856
+NISSAN -- Micra -- 7840
+HYUNDAI -- Elantra -- 2352
+MERCEDES-BENZ -- CLS 550 -- 58018
+MERCEDES-BENZ -- C 250 -- 25089
+MERCEDES-BENZ -- ML 350 -- 2038
+VOLKSWAGEN -- Golf 4 -- 2200
+FORD -- Explorer -- 56340
+LEXUS -- NX 300 -- 25089
+MERCEDES-BENZ -- S 350 Longia -- 4391
+SKODA -- Octavia -- 6272
+BMW -- 550 -- 26657
+SUBARU -- Forester -- 9408
+TOYOTA -- Avalon -- 27284
+CHEVROLET -- Orlando -- 13996
+CHEVROLET -- Matiz -- 7840
+MERCEDES-BENZ -- C 250 -- 4234
+MERCEDES-BENZ -- E 240 -- 12231
+VOLKSWAGEN -- Touran -- 7997
+SSANGYONG -- Actyon -- 17158
+BMW -- 528 -- 1646
+DAEWOO -- Lacetti -- 4704
+TOYOTA -- Hilux Surf -- 3763
+NISSAN -- Quest -- 120
+CHEVROLET -- Captiva -- 23129
+FORD -- Fusion -- 17562
+HYUNDAI -- Sonata -- 19757
+CHEVROLET -- Captiva -- 25299
+BMW -- 325 -- 10663
+HYUNDAI -- H1 -- 20237
+VOLKSWAGEN -- Jetta -- 627
+FORD -- Escape Hybrid -- 17249
+SKODA -- Fabia -- 13799
+LEXUS -- GS 350 -- 100355
+MITSUBISHI -- L 200 -- 48610
+VOLKSWAGEN -- T5 -- 11917
+TOYOTA -- Yaris -- 1960
+MERCEDES-BENZ -- CLS 55 AMG -- 470
+FORD -- Explorer -- 2000
+JAGUAR -- S-type -- 7840
+FORD -- Mustang -- 21326
+VOLKSWAGEN -- Touareg -- 13485
+NISSAN -- X-Terra -- 3
+PORSCHE -- Cayenne -- 41083
+KIA -- Optima -- 9408
+TOYOTA -- Prius -- 17719
+VOLKSWAGEN -- Passat pasat -- 4077
+NISSAN -- Tiida -- 8000
+LEXUS -- NX 200 -- 67426
+VOLKSWAGEN -- Tiguan -- 18817
+MERCEDES-BENZ -- E 350 -- 28225
+LEXUS -- RX 450 -- 282
+HONDA -- Insight -- 11760
+HYUNDAI -- H1 -- 23129
+HYUNDAI -- H1 -- 44517
+SUBARU -- XV -- 15681
+LEXUS -- GX 470 -- 24775
+SUBARU -- Forester -- 7840
+HYUNDAI -- Tucson -- 35344
+BMW -- 750 -- 12231
+MERCEDES-BENZ -- A 140 140 -- 13500
+MERCEDES-BENZ -- Sprinter -- 42000
+PORSCHE -- Panamera -- 72130
+MERCEDES-BENZ -- GL 320 -- 39829
+TOYOTA -- Highlander -- 28852
+HONDA -- Insight -- 30
+TOYOTA -- RAV 4 -- 43592
+MERCEDES-BENZ -- B 170 -- 13485
+MERCEDES-BENZ -- Vito -- 37633
+TOYOTA -- RAV 4 -- 862
+OPEL -- Astra -- 1
+BMW -- M5 -- 45000
+BMW -- 520 -- 2822
+KIA -- Optima -- 17000
+DODGE -- Neon -- 4704
+MERCEDES-BENZ -- E 500 -- 14113
+BMW -- 318 -- 7840
+MINI -- Paceman -- 31361
+HONDA -- Civic -- 5331
+TOYOTA -- Land Cruiser Prado -- 84675
+LEXUS -- GX 460 -- 71817
+SUBARU -- Forester -- 7200
+SSANGYONG -- REXTON -- 24920
+CHEVROLET -- Equinox LT -- 26657
+NISSAN -- Versa SE -- 15681
+INFINITI -- QX56 -- 11290
+TOYOTA -- Highlander XLE -- 47042
+HYUNDAI -- Tucson -- 67934
+MERCEDES-BENZ -- C 300 -- 392
+HYUNDAI -- Santa FE -- 34497
+SSANGYONG -- Actyon -- 14686
+MITSUBISHI -- Carisma -- 5645
+VOLKSWAGEN -- Jetta -- 3607
+HONDA -- FIT -- 1568
+CHEVROLET -- Malibu -- 1333
+JEEP -- Liberty -- 20385
+HONDA -- FIT PREMIUM PAKETI -- 8147
+MERCEDES-BENZ -- E 350 -- 4547
+TOYOTA -- Aqua -- 28438
+KIA -- Carnival -- 6272
+FORD -- C-MAX -- 4234
+MERCEDES-BENZ -- CLS 55 AMG -- 61154
+BMW -- 318 -- 7213
+HYUNDAI -- Elantra -- 17405
+MERCEDES-BENZ -- CLS 550 -- 549
+HONDA -- FIT -- 16935
+TOYOTA -- Aqua -- 10349
+VOLKSWAGEN -- Caddy cadi -- 9095
+FORD -- Fusion -- 4077
+CHEVROLET -- Cruze -- 14113
+TOYOTA -- Aqua -- 13350
+KIA -- RIO -- 1646
+SSANGYONG -- Korando -- 22843
+MERCEDES-BENZ -- 200 -- 10976
+MERCEDES-BENZ -- GL 350 Bluetec -- 48610
+MERCEDES-BENZ -- C 220 -- 21326
+VOLKSWAGEN -- Passat -- 13485
+CHEVROLET -- Captiva -- 5802
+VOLKSWAGEN -- Jetta -- 784
+BMW -- X5 -- 10663
+HYUNDAI -- H1 -- 42218
+HONDA -- Civic -- 74796
+SSANGYONG -- Actyon -- 13341
+MERCEDES-BENZ -- Vito Extra Long -- 72130
+MERCEDES-BENZ -- C 180 -- 4704
+HYUNDAI -- Sonata SPORT -- 23207
+HYUNDAI -- I30 -- 12858
+LAND ROVER -- Land Rover Sport -- 30734
+TOYOTA -- Camry -- 17876
+TOYOTA -- RAV 4 LIMITED -- 58018
+MERCEDES-BENZ -- CLS 350 -- 23521
+LEXUS -- IS 250 -- 27598
+LEXUS -- GX 460 -- 46728
+HYUNDAI -- Sonata -- 53580
+NISSAN -- X-Trail -- 11500
+FORD -- Mustang -- 29075
+MERCEDES-BENZ -- E 270 -- 9408
+HYUNDAI -- Accent -- 14740
+BMW -- 745 -- 14113
+MERCEDES-BENZ -- ML 500 -- 24462
+HONDA -- Cr-v -- 16621
+LEXUS -- ES 300 -- 46101
+MERCEDES-BENZ -- C 180 -- 5959
+TOYOTA -- Avalon -- 3293
+HYUNDAI -- Sonata -- 8467
+OPEL -- Zafira -- 5645
+CHEVROLET -- Malibu -- 21699
+CHEVROLET -- Spark -- 7840
+TOYOTA -- Highlander -- 5018
+JAGUAR -- F-pace -- 549
+BMW -- X5 -- 38574
+CHEVROLET -- Malibu LT -- 19287
+BMW -- X5 -- 10820
+HONDA -- Cr-v -- 8000
+HYUNDAI -- Tucson -- 18647
+HYUNDAI -- Elantra -- 27946
+MERCEDES-BENZ -- Vito -- 24148
+CHEVROLET -- Captiva -- 6272
+HYUNDAI -- H1 -- 26528
+NISSAN -- Tiida -- 8781
+HONDA -- FIT -- 10036
+HYUNDAI -- Genesis -- 16549
+SSANGYONG -- Korando -- 24029
+MERCEDES-BENZ -- C 300 -- 157
+AUDI -- Q7 -- 862
+TOYOTA -- RAV 4 -- 470
+VOLKSWAGEN -- Passat -- 15994
+MITSUBISHI -- Pajero -- 10036
+TOYOTA -- Ist -- 12800
+BMW -- 550 -- 20385
+BMW -- 116 -- 8500
+FORD -- Focus -- 11447
+HYUNDAI -- Santa FE -- 61286
+CHEVROLET -- Captiva -- 23389
+MITSUBISHI -- Outlander Sport -- 23521
+CADILLAC -- Escalade -- 47042
+TOYOTA -- Camry -- 2509
+BMW -- X5 -- 33556
+HONDA -- Elysion -- 8700
+MERCEDES-BENZ -- E 240 E 240 -- 7840
+MERCEDES-BENZ -- Sprinter VIP CLASS -- 150
+HONDA -- Civic -- 52520
+BMW -- X5 XDRIVE 35D -- 43435
+VOLKSWAGEN -- Jetta -- 3293
+BMW -- 318 -- 6899
+HYUNDAI -- Elantra -- 2901
+KIA -- Forte -- 17876
+MERCEDES-BENZ -- GL 320 -- 36692
+MAZDA -- MPV -- 8467
+SSANGYONG -- Actyon -- 46518
+PORSCHE -- 911 meqanika -- 37354
+CHEVROLET -- Orlando -- 35328
+SSANGYONG -- Actyon -- 16010
+MAZDA -- MPV -- 6272
+HYUNDAI -- Santa FE -- 48048
+FORD -- KA -- 1000
+HONDA -- Element -- 1000
+HYUNDAI -- Elantra -- 1333
+MITSUBISHI -- Pajero IO -- 7840
+TOYOTA -- Camry -- 71503
+CHEVROLET -- Volt -- 862
+TOYOTA -- Highlander -- 24618
+FIAT -- 500 Sport -- 10349
+CHEVROLET -- Captiva -- 4077
+TOYOTA -- 4Runner -- 24148
+KIA -- Optima -- 15681
+LEXUS -- LS 460 -- 26591
+LEXUS -- CT 200h -- 627
+MITSUBISHI -- Pajero -- 7370
+HYUNDAI -- H1 -- 15063
+MERCEDES-BENZ -- CLA 250 -- 49864
+HYUNDAI -- Santa FE -- 37633
+LEXUS -- RX 450 -- 44846
+HYUNDAI -- Genesis -- 47408
+TOYOTA -- CHR -- 6272
+LAND ROVER -- Defender 90 Cabrio -- 78403
+MERCEDES-BENZ -- S 550 -- 35438
+MERCEDES-BENZ -- C 180 -- 17500
+JEEP -- Liberty -- 15367
+MERCEDES-BENZ -- GL 450 -- 21000
+TOYOTA -- Land Cruiser Prado -- 49864
+HYUNDAI -- Genesis -- 20610
+MITSUBISHI -- Outlander -- 1333
+MAZDA -- Demio 12 -- 6586
+AUDI -- A4 Sline -- 11760
+KIA -- Sportage -- 40142
+TOYOTA -- Aqua -- 35
+BMW -- X5 -- 4391
+MINI -- Countryman S -- 26657
+BMW -- 318 -- 8154
+HYUNDAI -- Santa FE -- 41055
+KIA -- Optima -- 18817
+OPEL -- Vectra -- 3763
+FORD -- Transit -- 9722
+MERCEDES-BENZ -- Vito -- 40456
+BMW -- 550 -- 43905
+LAND ROVER -- Range Rover -- 9722
+BMW -- M6 -- 32302
+BMW -- 528 -- 5959
+VAZ -- 2106 -- 6272
+FORD -- Mustang -- 96263
+SSANGYONG -- Korando -- 21940
+MERCEDES-BENZ -- C 220 -- 27598
+HONDA -- Civic -- 54157
+TOYOTA -- Aqua -- 7310
+AUDI -- Q5 -- 47042
+OPEL -- Vectra B -- 6586
+HYUNDAI -- Sonata SE LIMITED -- 13799
+CHEVROLET -- Captiva -- 6899
+TOYOTA -- Highlander -- 9565
+SUBARU -- Legacy -- 8154
+SSANGYONG -- REXTON -- 35338
+MITSUBISHI -- Outlander -- 25559
+MERCEDES-BENZ -- GL 550 -- 42651
+LEXUS -- LS 460 -- 58971
+VOLKSWAGEN -- Golf TDI -- 21796
+GAZ -- 322173 -- 7840
+MAZDA -- CX-9 -- 392
+HYUNDAI -- H1 -- 40688
+HYUNDAI -- Santa FE -- 12701
+UAZ -- 31514 -- 3000
+TOYOTA -- Prius 9 -- 13172
+SUBARU -- BRZ -- 17562
+SSANGYONG -- Korando -- 22545
+MERCEDES-BENZ -- Sprinter -- 2500
+NISSAN -- X-Terra -- 10976
+HYUNDAI -- Elantra -- 25591
+HYUNDAI -- Sonata -- 19444
+MERCEDES-BENZ -- Vito long115 -- 34497
+HYUNDAI -- H1 -- 35344
+CHEVROLET -- Orlando -- 13564
+TOYOTA -- Prius -- 70
+SSANGYONG -- Korando -- 24123
+BMW -- 535 -- 9879
+HONDA -- FIT -- 12758
+MITSUBISHI -- Pajero IO -- 80
+HYUNDAI -- Santa FE -- 25512
+NISSAN -- March -- 23935
+BMW -- 740 -- 39201
+VOLKSWAGEN -- Routan SEL -- 20385
+BMW -- X5 -- 21639
+GAZ -- 31105 -- 7840
+MERCEDES-BENZ -- E 220 -- 10349
+HYUNDAI -- H1 -- 39559
+TOYOTA -- Highlander -- 24462
+KIA -- Optima -- 25089
+HYUNDAI -- Santa FE -- 43062
+SUZUKI -- Kizashi -- 23521
+HYUNDAI -- Tucson -- 23687
+BMW -- 335 -- 5300
+SUBARU -- Forester -- 18503
+BMW -- 525 -- 14113
+DAEWOO -- Lacetti -- 6523
+CADILLAC -- CTS -- 392
+TOYOTA -- Aqua -- 26491
+SSANGYONG -- REXTON -- 35043
+NISSAN -- Sentra -- 5645
+HYUNDAI -- Tucson -- 3763
+LEXUS -- ES 350 -- 549
+OPEL -- Astra G -- 8154
+AUDI -- A6 -- 17249
+SSANGYONG -- REXTON -- 36219
+UAZ -- 31514 -- 6899
+OPEL -- Crossland X -- 400
+SSANGYONG -- Actyon -- 40983
+BMW -- X5 -- 2979
+OPEL -- Combo -- 8781
+HYUNDAI -- Sonata -- 13495
+FORD -- Transit -- 16621
+BMW -- 330 -- 10349
+PEUGEOT -- 508 -- 21326
+HYUNDAI -- Tucson -- 38894
+RENAULT -- Laguna -- 7213
+MERCEDES-BENZ -- GLE 400 -- 250574
+VOLKSWAGEN -- UP -- 9000
+OPEL -- Omega -- 2195
+VOLKSWAGEN -- Tiguan -- 28225
+HYUNDAI -- H1 -- 31414
+TOYOTA -- Camry LE -- 37633
+FORD -- C-MAX -- 22580
+SUBARU -- Legacy -- 7840
+VOLKSWAGEN -- Passat -- 20385
+MAZDA -- CX-7 -- 549
+CHEVROLET -- Malibu -- 17923
+BMW -- X5 -- 6272
+HYUNDAI -- Sonata -- 50341
+HYUNDAI -- Sonata -- 49459
+MERCEDES-BENZ -- R 350 -- 25716
+HYUNDAI -- Santa FE -- 44790
+HYUNDAI -- Tucson -- 16778
+CHEVROLET -- Nubira -- 4861
+MINI -- Countryman -- 18817
+HYUNDAI -- H1 GRAND STAREX -- 21950
+MERCEDES-BENZ -- C 280 -- 15053
+KIA -- Optima -- 19400
+OPEL -- Astra H -- 10976
+BMW -- X5 -- 25716
+AUDI -- Q3 -- 16308
+VOLKSWAGEN -- Tiguan -- 17249
+OPEL -- Astra H -- 12544
+HYUNDAI -- H1 -- 35902
+HYUNDAI -- Elantra -- 20491
+MERCEDES-BENZ -- 320 -- 44000
+JEEP -- Cherokee -- 13172
+MERCEDES-BENZ -- E 350 -- 3607
+MERCEDES-BENZ -- Smart Fortwo -- 13485
+CHEVROLET -- Cruze -- 15994
+VOLKSWAGEN -- Touareg -- 188
+HYUNDAI -- Grandeur -- 18500
+BMW -- X5 35d -- 50178
+KIA -- Picanto -- 12858
+DODGE -- Caliber -- 10036
+HYUNDAI -- Santa FE -- 35902
+AUDI -- A6 -- 13172
+JAGUAR -- F-pace -- 117604
+MERCEDES-BENZ -- ML 350 -- 13485
+HYUNDAI -- Sonata -- 13423
+MAZDA -- CX-5 -- 26657
+CHEVROLET -- Cruze -- 6272
+AUDI -- A4 -- 17249
+HYUNDAI -- Elantra -- 14166
+BMW -- 330 -- 17249
+TOYOTA -- Land Cruiser -- 94083
+FIAT -- 500 -- 470
+HYUNDAI -- H1 -- 28000
+TOYOTA -- Avalon -- 706
+MERCEDES-BENZ -- E 350 -- 14426
+TOYOTA -- Aqua -- 50
+BMW -- X5 -- 4077
+TOYOTA -- Prius -- 21012
+OPEL -- Vectra -- 4547
+HYUNDAI -- Sonata -- 23436
+MERCEDES-BENZ -- Sprinter 308 CDI -- 13000
+TOYOTA -- Camry -- 22580
+TOYOTA -- Land Cruiser -- 56450
+TOYOTA -- Hilux -- 40769
+CHEVROLET -- Cruze -- 17405
+MERCEDES-BENZ -- Vaneo -- 6896
+HONDA -- Insight -- 3920
+BMW -- 428 -- 26343
+FORD -- Fusion Titanium -- 25716
+MERCEDES-BENZ -- C 230 -- 7527
+HYUNDAI -- Elantra -- 19384
+DAIHATSU -- YRV -- 4077
+FORD -- Fiesta -- 13172
+BMW -- 330 -- 5645
+HYUNDAI -- H1 -- 30517
+AUDI -- A4 -- 11000
+NISSAN -- Tiida -- 8154
+VOLKSWAGEN -- Golf -- 9408
+HYUNDAI -- H1 -- 39578
+FORD -- Explorer -- 63839
+DAIHATSU -- Feroza -- 2500
+NISSAN -- Note -- 8154
+MAZDA -- Eunos 500 -- 314
+HYUNDAI -- H1 -- 30784
+FIAT -- 500 -- 13172
+BMW -- 530 -- 14113
+HONDA -- Civic Ferio -- 7840
+TOYOTA -- Camry -- 9095
+HYUNDAI -- Sonata -- 19416
+TOYOTA -- Prius s -- 19130
+HYUNDAI -- I30 -- 17634
+AUDI -- A8 -- 706
+LEXUS -- GS 350 -- 73071
+NISSAN -- Note -- 9722
+VOLKSWAGEN -- Golf -- 2300
+BMW -- X1 -- 22894
+HYUNDAI -- Tucson SE -- 29009
+LAND ROVER -- Range Rover -- 55509
+BMW -- X5 -- 22894
+CHEVROLET -- Orlando -- 23207
+FORD -- Explorer -- 111002
+HYUNDAI -- Tucson -- 16151
+LEXUS -- IS 250 -- 37633
+CHEVROLET -- Impala -- 54405
+SUBARU -- XV -- 470
+TOYOTA -- RAV 4 -- 5331
+FORD -- Tourneo Connect -- 8154
+TOYOTA -- Highlander -- 29793
+HYUNDAI -- I30 -- 11290
+NISSAN -- March -- 6398
+SUZUKI -- Grand Vitara -- 14426
+KIA -- Picanto -- 12074
+MERCEDES-BENZ -- ML 350 -- 59586
+AUDI -- A4 -- 18817
+VOLKSWAGEN -- Jetta -- 282
+PORSCHE -- Panamera S -- 76835
+MERCEDES-BENZ -- E 350 -- 14583
+TOYOTA -- Prius -- 10192
+BMW -- X6 -- 627
+HYUNDAI -- Tucson -- 30750
+BMW -- 520 -- 7527
+TOYOTA -- Prius -- 7213
+FIAT -- 500 Abarth ტურბო -- 17562
+CHEVROLET -- Aveo -- 10697
+VOLKSWAGEN -- Golf -- 400
+VOLKSWAGEN -- Jetta -- 3450
+MERCEDES-BENZ -- ML 55 AMG -- 15681
+HONDA -- Civic -- 39559
+NISSAN -- March -- 4783
+HONDA -- FIT -- 20432
+HYUNDAI -- H1 -- 52696
+FORD -- Escape -- 29166
+MERCEDES-BENZ -- E 350 -- 862
+HYUNDAI -- Santa FE -- 3293
+MERCEDES-BENZ -- ML 320 -- 8154
+CHEVROLET -- Volt -- 19287
+MAZDA -- CX-5 -- 31361
+LEXUS -- HS 250h -- 470
+BMW -- 320 -- 6586
+FORD -- Fusion -- 16935
+BMW -- 118 M-sport LCI -- 21639
+FORD -- Focus -- 6586
+LEXUS -- RX 400 RESTAILING -- 24775
+JEEP -- Wrangler ARB -- 68994
+LEXUS -- GX 470 -- 6272
+TOYOTA -- Aqua -- 49174
+AUDI -- A3 -- 1568
+LEXUS -- RX 350 -- 49550
+HONDA -- Insight -- 706
+CADILLAC -- SRX -- 392
+SSANGYONG -- REXTON -- 26108
+SUBARU -- XV -- 10506
+VOLKSWAGEN -- Jetta სპორტ -- 18189
+JEEP -- Grand Cherokee -- 47757
+MERCEDES-BENZ -- A 190 -- 25
+HYUNDAI -- Elantra -- 1646
+NISSAN -- Primera -- 4704
+HYUNDAI -- Sonata -- 69502
+HONDA -- FIT -- 549
+MERCEDES-BENZ -- E 320 -- 8154
+DAEWOO -- Lacetti -- 9832
+JEEP -- Liberty -- 8154
+OPEL -- Corsa -- 5645
+HYUNDAI -- Elantra -- 19676
+NISSAN -- Pathfinder -- 21326
+HYUNDAI -- Santa FE -- 50767
+TOYOTA -- Prius -- 16151
+BMW -- X5 -- 61154
+MERCEDES-BENZ -- E 270 -- 14426
+HYUNDAI -- Elantra -- 8154
+MERCEDES-BENZ -- E 220 -- 10976
+HYUNDAI -- Tucson -- 28852
+NISSAN -- Almera dci -- 8781
+KIA -- Picanto -- 9722
+VOLKSWAGEN -- Jetta -- 80
+VOLKSWAGEN -- Jetta TDI -- 18189
+MERCEDES-BENZ -- E 350 -- 392
+MITSUBISHI -- Pajero IO -- 7683
+HYUNDAI -- Santa FE -- 93079
+NISSAN -- Altima -- 27284
+TOYOTA -- Vitz -- 10349
+FORD -- Escape -- 28225
+BMW -- X5 -- 16935
+MITSUBISHI -- Mirage -- 1411
+BMW -- 316 -- 6899
+MERCEDES-BENZ -- CLK 200 kompresor -- 6115
+JEEP -- Patriot -- 2195
+DODGE -- Dart GT 2.4 -- 18189
+CHEVROLET -- Malibu Hybrid -- 23364
+BUICK -- Enclave -- 10192
+FORD -- Focus -- 11290
+FORD -- Transit -- 9500
+MERCEDES-BENZ -- ML 350 -- 40769
+CHEVROLET -- Captiva -- 15800
+AUDI -- A4 -- 2666
+BMW -- 528 -- 4000
+HONDA -- FIT -- 55845
+OPEL -- Astra -- 3136
+FORD -- Fusion 1.6 -- 20698
+MITSUBISHI -- Outlander Sport -- 32929
+KIA -- Cadenza -- 18440
+HYUNDAI -- H1 -- 42102
+LEXUS -- ES 350 -- 1960
+CHEVROLET -- Volt -- 18189
+HONDA -- Edix -- 4704
+BMW -- 535 -- 28225
+MERCEDES-BENZ -- Vito -- 26030
+CHEVROLET -- Volt -- 21639
+OPEL -- Zafira -- 10300
+NISSAN -- Altima -- 706
+AUDI -- Q7 -- 62722
+TOYOTA -- Prius -- 22737
+MAZDA -- 323 F -- 4500
+SSANGYONG -- Actyon -- 45928
+TOYOTA -- Estima -- 8467
+TOYOTA -- Prius -- 12544
+ACURA -- MDX -- 11760
+HONDA -- Cr-v -- 627
+SUZUKI -- Swift -- 9000
+HYUNDAI -- H1 -- 19369
+NISSAN -- Versa -- 8467
+TOYOTA -- Yaris -- 3450
+SSANGYONG -- Actyon -- 31421
+SUZUKI -- XL7 -- 5959
+TOYOTA -- Aqua -- 9500
+BMW -- 320 -- 8154
+MITSUBISHI -- Outlander -- 14426
+HYUNDAI -- Santa FE -- 27858
+HONDA -- Odyssey -- 10976
+TOYOTA -- Corolla -- 10976
+TOYOTA -- 4Runner -- 10349
+HYUNDAI -- Santa FE -- 89482
+AUDI -- Allroad -- 92515
+TOYOTA -- Camry SE -- 38260
+HYUNDAI -- Sonata -- 41553
+HYUNDAI -- Tucson -- 29633
+OPEL -- Astra -- 6429
+DAIHATSU -- Move -- 5959
+VOLKSWAGEN -- Jetta -- 7997
+TOYOTA -- RAV 4 -- 12544
+TOYOTA -- RAV 4 -- 54882
+TOYOTA -- Tacoma -- 220
+CHEVROLET -- Cruze -- 6909
+NISSAN -- Juke -- 12858
+BMW -- X3 -- 1019
+MERCEDES-BENZ -- ML 350 -- 19601
+HYUNDAI -- Sonata Limited -- 16935
+MERCEDES-BENZ -- Sprinter 411 -- 19726
+TOYOTA -- RAV 4 -- 46101
+TOYOTA -- Camry -- 1490
+TOYOTA -- Yaris -- 7527
+SSANGYONG -- Actyon -- 41221
+HYUNDAI -- Veloster -- 16621
+SUBARU -- Crosstrek -- 549
+SSANGYONG -- Actyon -- 32311
+FORD -- Transit 2.4 -- 17876
+VOLKSWAGEN -- Golf -- 11917
+MERCEDES-BENZ -- E 240 -- 7840
+VOLKSWAGEN -- Passat -- 19757
+CHRYSLER -- 200 -- 3607
+HUMMER -- H3 -- 24618
+MITSUBISHI -- Grandis -- 12544
+FIAT -- 500 -- 8781
+TOYOTA -- RAV 4 -- 34811
+SSANGYONG -- Actyon -- 42667
+MERCEDES-BENZ -- Sprinter 316 CDI -- 47042
+BMW -- X1 -- 28225
+SSANGYONG -- Actyon -- 28241
+FORD -- Fusion -- 13328
+FORD -- Tourneo Connect -- 15681
+HYUNDAI -- Tucson -- 30151
+SUBARU -- Forester -- 4861
+FORD -- Transit -- 25716
+HONDA -- Accord -- 2587
+HYUNDAI -- Elantra SE -- 12544
+NISSAN -- Vanette -- 7840
+PORSCHE -- Cayenne -- 20385
+LEXUS -- GX 470 -- 1646
+MERCEDES-BENZ -- Vito -- 27284
+BENTLEY -- Continental GT -- 219527
+MERCEDES-BENZ -- C 230 -- 18817
+NISSAN -- Moco -- 6586
+MERCEDES-BENZ -- Sprinter -- 13482
+VOLKSWAGEN -- Jetta -- 2509
+VOLVO -- XC90 -- 24148
+HYUNDAI -- Tucson -- 29006
+HONDA -- Civic -- 9408
+BMW -- 535 -- 549
+HYUNDAI -- Tucson -- 39559
+MERCEDES-BENZ -- E 320 -- 9500
+CHEVROLET -- Cruze -- 7213
+CHEVROLET -- Corvette -- 14740
+TOYOTA -- Prius -- 1646
+HYUNDAI -- H1 -- 26306
+CHEVROLET -- Lacetti -- 12256
+HYUNDAI -- Santa FE -- 55390
+HYUNDAI -- Santa FE -- 53580
+TOYOTA -- Avalon -- 37633
+SSANGYONG -- Actyon -- 14636
+HONDA -- Insight -- 7213
+MITSUBISHI -- Outlander -- 15681
+LEXUS -- CT 200h -- 22894
+KIA -- Optima -- 10349
+OPEL -- Vectra c -- 9722
+MERCEDES-BENZ -- C 300 -- 110
+KIA -- SOUL -- 10506
+FORD -- Transit Custom -- 30420
+TOYOTA -- Highlander -- 12544
+BMW -- 535 -- 4861
+MERCEDES-BENZ -- E 200 -- 10976
+MERCEDES-BENZ -- 190 -- 4200
+HYUNDAI -- Tucson -- 27924
+HONDA -- Civic -- 47531
+BMW -- 535 M PAKET -- 40769
+HYUNDAI -- H1 -- 42171
+NISSAN -- Sentra -- 1960
+MERCEDES-BENZ -- E 350 -- 32302
+TOYOTA -- Aqua -- 18726
+HYUNDAI -- Santa FE -- 41064
+FORD -- Fusion -- 3058
+TOYOTA -- Camry -- 100
+NISSAN -- Tiida -- 9722
+HONDA -- FIT -- 8624
+MERCEDES-BENZ -- C 220 -- 10349
+NISSAN -- Rogue -- 29793
+LEXUS -- CT 200h -- 5331
+TOYOTA -- Prius -- 26657
+BUICK -- Century -- 314
+LEXUS -- LX 570 -- 172486
+MERCEDES-BENZ -- E 300 -- 5331
+NISSAN -- March -- 7840
+HYUNDAI -- Santa FE -- 33908
+BMW -- 750 -- 13799
+NISSAN -- Sentra -- 549
+MAZDA -- 1000 -- 627
+MERCEDES-BENZ -- GLE 350 -- 6272
+JEEP -- Compass -- 30185
+HYUNDAI -- H1 -- 37984
+BMW -- 525 ///M -- 10663
+MERCEDES-BENZ -- ML 350 -- 5175
+MERCEDES-BENZ -- E 240 -- 8467
+LEXUS -- RX 450 -- 1176
+MERCEDES-BENZ -- S 550 ჰიბრიდი -- 54255
+NISSAN -- Altima -- 392
+TOYOTA -- Land Cruiser Prado -- 78403
+HONDA -- Elysion -- 15994
+FORD -- Escape -- 17249
+TOYOTA -- Prius C -- 16308
+MERCEDES-BENZ -- ML 350 -- 33500
+HYUNDAI -- Genesis -- 15241
+TOYOTA -- Corolla -- 1098
+MAZDA -- Mazda 2 -- 13485
+HONDA -- FIT -- 12544
+CHEVROLET -- Captiva -- 8311
+MERCEDES-BENZ -- E 230 124 -- 3136
+CHEVROLET -- Orlando -- 23994
+FORD -- Escape -- 11917
+CHEVROLET -- Captiva -- 14740
+NISSAN -- Tiida -- 8467
+FIAT -- 500L -- 18503
+TOYOTA -- Corolla -- 3136
+HONDA -- FIT -- 10663
+FIAT -- 500 Sport -- 11133
+HONDA -- Elysion -- 60
+HYUNDAI -- Elantra -- 26149
+LEXUS -- RX 350 -- 11290
+HYUNDAI -- Tucson -- 51689
+TOYOTA -- RAV 4 -- 7213
+MERCEDES-BENZ -- GLE 450 -- 549
+HONDA -- FIT -- 16960
+LEXUS -- LS 460 -- 32954
+TOYOTA -- Prius C -- 11290
+HYUNDAI -- Elantra -- 19601
+FORD -- Fiesta -- 4077

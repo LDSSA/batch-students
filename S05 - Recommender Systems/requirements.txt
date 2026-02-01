@@ -1,0 +1,12 @@
+nbgrader==0.9.5            # base
+pandas==2.3.3              # base
+matplotlib==3.10.8         # base
+scikit-learn==1.8.0        # base
+seaborn==0.13.2            # base
+category-encoders==2.8.1   # base
+
+mlxtend==0.24.0            # S05
+lightfm-next==1.19.0       # S05 - lightfm fork compatible with python 3.12
+#numpy<2.0.0 # version <2 needed for surprise
+#scikit-surprise==1.1.4     # S05 1.1.4
+

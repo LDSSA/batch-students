@@ -47,21 +47,21 @@ For the purposes of the hackathon, the original dataset has been simplified to r
 
 
 ## Recommendations
-❗Begin with a straightforward baseline model to benchmark and guide the development of more advanced iterations.
-❗Improve your models by extracting relevant features from the data and/or tuning hyperparameters.
-❗Remember to understand your data before feature engineering.
-❗Distribute tasks wisely: one member can handle data exploration and cleaning, another can focus on model development and testing, and a third crafts visualizations to highlight insights from the dataset.
-❗Explore different language models.
+❗Begin with a straightforward baseline model to benchmark and guide the development of more advanced iterations.   
+❗Improve your models by extracting relevant features from the data and/or tuning hyperparameters.   
+❗Remember to understand your data before feature engineering.   
+❗Distribute tasks wisely: one member can handle data exploration and cleaning, another can focus on model development and testing, and a third crafts    visualizations to highlight insights from the dataset.   
+❗Explore different language models.   
 ❗If processing time is a limit, try out online platforms like Kaggle or Google Colab.
 
 ## Hints for Success
 
-❗Own the data: Understand your dataset thoroughly to uncover valuable insights.
-❗Preprocess correctly: Remove the unnecessary characters, …
-❗Feature engineering: Try out different ways of feature extraction.
-❗Reduce the dimensionality: Select the most important features.
-❗Iterate Quickly: Start simple and iteratively refine your models for consistent improvement.
-❗ Enjoy the hackathon and learn as much as you can! 🎉
+❗Own the data: Understand your dataset thoroughly to uncover valuable insights.   
+❗Preprocess correctly: Remove the unnecessary characters, …   
+❗Feature engineering: Try out different ways of feature extraction.   
+❗Reduce the dimensionality: Select the most important features.   
+❗Iterate Quickly: Start simple and iteratively refine your models for consistent improvement.   
+❗ Enjoy the hackathon and learn as much as you can! 🎉   
 
 ## Evaluation Criteria
 

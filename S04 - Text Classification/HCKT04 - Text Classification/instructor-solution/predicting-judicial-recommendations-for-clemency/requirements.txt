@@ -1,0 +1,11 @@
+-e .
+
+# external requirements
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+sentence-transformers
+torch
+transformers

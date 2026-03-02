@@ -1,0 +1,4 @@
+# ignore the files produced in the exercises notebook
+columns.json
+dtypes.pickle
+pipeline.pickle

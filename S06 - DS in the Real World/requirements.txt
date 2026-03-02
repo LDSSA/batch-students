@@ -1,0 +1,12 @@
+nbgrader==0.9.5            # base
+pandas==2.3.2              # base
+matplotlib==3.10.5         # base
+scikit-learn==1.7.1        # base
+seaborn==0.13.2            # base
+category-encoders==2.8.1   # base
+
+Flask==3.1.2              # S06
+peewee==3.18.2            # S06
+lightgbm==4.6.0           # S06
+plotchecker==0.2.0        # S06
+

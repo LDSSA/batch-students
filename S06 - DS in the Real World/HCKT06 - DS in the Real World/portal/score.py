@@ -66,7 +66,7 @@ def score(student_api):
     if len(student_api.url) > 0:
         
         simulator_ids = []
-        for simulator in student_api.capstone.simulators.filter(name="cap-moment1").all():
+        for simulator in student_api.capstone.simulators.filter(name="cap-moment4").all():
             if simulator.datapoints.exclude(outcome="").count() > 0:
                 simulator_ids.append(simulator.id)
 
@@ -118,14 +118,20 @@ def score(student_api):
         
         # mean mape over everything
         score = mean_absolute_percentage_error(outcome_all,prediction_all)
-           
+        
+        n_missed = 0
+        
         fairness_penalty = 0.0
+        # penalize items where min and max mape is 1
         # difference between traffic for each port
         for p in dict_ports.keys():
             max_mape = np.max([dict_ports[p]['people'], dict_ports[p]['vehicles'], dict_ports[p]['containers']])
             min_mape = np.min([dict_ports[p]['people'], dict_ports[p]['vehicles'], dict_ports[p]['containers']])
             port_diff = max_mape-min_mape
-            if port_diff>0.15:
+            if (min_mape==1) and (max_mape==1):
+                fairness_penalty += 1
+                n_missed +=1
+            elif port_diff>0.15:
                 fairness_penalty += port_diff
 
         # difference for people traffic at borders
@@ -138,9 +144,15 @@ def score(student_api):
                 mape_canada.append(dict_ports[p]['people'])    
         diff_mexico = np.max(mape_mexico) - np.min(mape_mexico)
         diff_canada = np.max(mape_canada) - np.min(mape_canada)
-        if diff_mexico > 0.15:
+        if (np.max(mape_mexico)==1) and (np.min(mape_mexico)==1):
+            fairness_penalty += 1
+            n_missed +=1
+        elif diff_mexico > 0.15:
             fairness_penalty += diff_mexico
-        if diff_canada > 0.15:
+        if (np.max(mape_canada)==1) and (np.min(mape_canada)==1):
+            fairness_penalty += 1
+            n_missed +=1
+        elif diff_canada > 0.15:
             fairness_penalty += diff_canada
 
         
@@ -148,6 +160,7 @@ def score(student_api):
 
         print("mean MAPE: {}".format(score))
         print("Fairness penalty: {}".format(fairness_penalty))
+        print("Missed: {}".format(n_missed))
         print("Final score: {}".format(final_score))
     
         return max(0, score)

@@ -1,35 +1,37 @@
-# Set-up instructions for Linux
+# Setup instructions for Linux
 
-Welcome to **Linux/Ubuntu set up** guide!
+Batch 10 uses **Ubuntu 26.04 LTS** and **Python 3.14**.
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your environment.
+## 1. Install Python 3.14
 
-So you're using Ubuntu, huh? Well, kudos to you. You just need to install a couple of packages. 
-
-
-**Step 1:** Open a terminal and check what version of Python you have by using the command below. If your version is `Python 3.12.x` (`x` = any number), you can skip to step 2, otherwise continue with steps 1.1 and 1.2.
+Ubuntu 26.04 provides Python 3.14 directly from its package repositories:
 
 ```bash
-python3.12 --version
+sudo apt update
+sudo apt install python3.14 python3-pip python3.14-venv -y
 ```
 
-**Step 1.1:** Run the following commands to setup `Python 3.12` (if you get an error with this command, check [this](troubleshooting.md#6-when-setting-up-python-310-i-get-an-error)
-). Add the `deadsnakes repository`:
+Confirm the version:
 
 ```bash
-sudo add-apt-repository ppa:deadsnakes/ppa
+python3.14 --version
 ```
 
-**Step 1.2:** Run the following commands to install `Python 3.12`:
+The output must start with `Python 3.14`.
+
+If `apt update` reports an error from an unrelated third-party repository, see [the troubleshooting guide](troubleshooting.md#6-when-installing-python-314-apt-update-reports-a-repository-error).
+
+## 2. Install Git
 
 ```bash
-sudo apt update && sudo apt install python3.12 -y
+sudo apt install git -y
 ```
 
-**Step 2** Run the followingg command to get `pip` and `venv`. `pip` is a Python package manager - it will help you easily install Python packages. `venv` is a software for creating virtual environments (we will come back to what this means in the next set up step):
+Verify the required tools:
 
 ```bash
-sudo apt update && sudo apt upgrade && sudo apt install libpython3-dev python3-pip python3.12-venv -y
+git --version
+python3.14 --version
 ```
 
-And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.
+You are ready to return to the main README and continue with Git and GitHub setup.

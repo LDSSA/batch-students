@@ -1,43 +1,27 @@
-# Set-up instructions for Windows 10/11
+# Setup instructions for Windows 10/11
 
-Welcome to **Windows 10/11 set up** guide!
+Batch 10 uses **Ubuntu 26.04 LTS** through Windows Subsystem for Linux (WSL) and **Python 3.14**. Run all Linux, Git, Python and Jupyter commands for the Academy inside the Ubuntu terminal.
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your computer. This section deals with setting up `Windows Subsystem for Linux` (WSL) on Windows 10/11. `Windows Subsystem for Linux (WSL)` enables you to run Linux command line inside Windows.
+## 1. Install WSL and Ubuntu 26.04
 
-**Step 1:** Follow **[this guide](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md)** to setup `WSL` on Windows 10/11.
+Follow the [WSL installation guide](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md). Use the Ubuntu 26.04 distribution.
 
-**Step 2:** Open a terminal (remember **[this](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md#5-opening-the-wsl-terminal)**!!) and run the following command. It will install `git`. `Git` is a version control software that facilitates collaboration of people working together on the same code and keeps track of the versions as the code changes. You will learn more about `git` in Week 02 of this course.
+## 2. Install Git and Python 3.14
 
-```bash
-sudo apt update && sudo apt upgrade && sudo apt install git
-```
-
-**Step 3:** Open a terminal (remember **[this](Windows_Subsystem_for_Linux_Installation_Guide_for_Windows_10.md#Opening-the-WSL-terminal)**!!) and run the following commands to setup `Python 3.12. 
-
-**Step 3.1:** Add the `deadsnakes repository`:
+Open the Ubuntu terminal and run:
 
 ```bash
-sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install git python3.14 python3-pip python3.14-venv -y
 ```
 
-**Step 3.2:** Run the following commands to install `Python 3.12`:
+Confirm the installations:
 
 ```bash
-sudo apt update && sudo apt install python3.12 -y
+git --version
+python3.14 --version
 ```
 
-**Step 3.3:**  Run the following command to check that `Python 3.12` is installed.
+The Python output must start with `Python 3.14`.
 
-```bash
-python3.12 --version
-```
-
-If your version is `Python 3.12.x` (`x` = any number), everything worked out fine.
-
-**Step 4** Run the following command to get `pip` and `venv`. `pip` is a package manager - it will help you easily install software. `venv` is a software for creating virtual environments (we will come back to what this means in the next set up step):
-
-```bash
-sudo apt update && sudo apt upgrade && sudo apt install libpython3-dev python3-pip python3.12-venv -y
-```
-
-And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.
+You are ready to return to the main README and continue with Git and GitHub setup.

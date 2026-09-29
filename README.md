@@ -1,103 +1,111 @@
-# Batch 9 Students Repository
+# Batch 10 Students Repository
 
-Welcome to **Lisbon Data Science Starters Academy Batch 9** Students Repository!
+Welcome to **Lisbon Data Science Starters Academy Batch 10** Students Repository!
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **14.9. - 20.9. 2025**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
+Your first step in this journey is to **carefully read** the steps in this tutorial. ⚠️ **Important**: Make sure to complete all the steps during the setup week, **18–24 October 2026**. If you are struggling with any of the steps, contact us in the #setup channel on Slack! In this tutorial, you'll learn:
 
 - Slack usage and etiquette;
-- How to setup your software environment to be able to run Jupyter notebooks with Python 3.12;
+- How to set up the Batch 10 software environment with Ubuntu 26.04 LTS (on Linux or WSL) and Python 3.14;
 - The learning unit workflow to follow during the LDSSA.
 
 Everything else you need to know should be [on our wiki](https://ldssa.github.io/wiki/).
 
 If you never studied basic statistics or need a refresher, take a look at [this repo](https://github.com/RoberVega/EDIT-DSBA-QSAM)  prepared by our instructor Roberto Álvarez.
 
-## 0. Important dates and info
+## 0. Important dates and information — 2026/27
 
-### 0.1 LDSSA schedule
-Official batch 9 [google calendar](https://calendar.google.com/calendar/u/0?cid=Y183NDk2MWIwZjYzMTRiODVlMzY1NjNlYjI0MzQ5MDkxZWQ3ODM3Nzk5ZDEzOTQxNGE5YjZjODBjYTNjOTQ2NzEyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20). All times are Lisbon times.
+All dates use **Europe/Lisbon**, including daylight saving time. The official public schedule is maintained on the [LDSSA Wiki](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/01-Starters-Academy-(Course)/#3-schedule). Always check the deadline displayed in the Portal for each Learning Unit.
 
-| What | When |
+| Activity | Date / deadline |
 | --- | --- |
-| Registration for admissions | 23 Jun - 6 Jul 2025 |
-| Admission exams | 7 Jul - 3 Aug 2025 |
-| Scholarship interviews | Aug 2025 |
-| Admissions closed | 1 Sep 2025 |
-| Student info session | 14 Sep 2025, 10 am |
-| Setup week | 14 Sep  - 20 Sep 2025 |
-| Specialization 01 + Bootcamp classes | 21 Sep - 18 Oct 2025 |
-| Hackathon 01 | 19 Oct 2025 |
-| Specialization 02 | 20 Oct - 15 Nov 2025 |
-| Hackathon 02 | 16 Nov 2025 |
-| Specialization 03 | 17 Nov - 13 Dec 2025 |
-| Hackathon 03 | 14 Dec 2025 |
-| Christmas break |  |
-| Specialization 04 | 5 -31 Jan 2026 |
-| Hackathon 04 | 1 Feb 2026 |
-| Specialization 05 | 2 - 28 Feb 2026 |
-| Hackathon 06 | 1 Mar 2026 |
-| Specialization 06 | 2 - 28 Mar 2026 |
-| HCKT 06 | 29 Mar 2026 |
-| Easter break | 30 Mar - 5 Apr 2026 "
-| Capstone | 6 Apr - 28 Jun 2026 |
-| Graduation | 29 Jun 2026 |
+| Signup and registration completion | 24 September – 15 October 2026 |
+| Scholarship interviews | 12–16 October 2026 |
+| Payment | 12–17 October 2026 |
+| Introductory session | 18 October 2026 |
+| Setup | 18–24 October 2026 |
+| Bootcamp classes | 25 October and 1 November 2026 |
+| S01 | 25 October – 21 November 2026 |
+| Hackathon 1 | 22 November 2026 |
+| S02 | 23 November – 19 December 2026 |
+| Hackathon 2 | 20 December 2026 |
+| Christmas/New Year break | 21 December 2026 – 4 January 2027 |
+| S03 | 5–31 January 2027 |
+| Hackathon 3 | 1 February 2027 |
+| S04 | 2–28 February 2027 |
+| Hackathon 4 | 1 March 2027 |
+| S05 | 2–27 March 2027 |
+| Hackathon 5 | 28 March 2027 |
+| S06 | 29 March – 24 April 2027 |
+| Hackathon 6 | 25 April 2027 |
+| Spring break | 26 April – 2 May 2027 |
+| Capstone | 3 May – 28 June 2027 |
+| Graduates announced | 29 June 2027 |
 
-Hackathons start at 8.45 am and end around 6.30 pm.
+Batch 10 is fully remote and uses **no-exam admissions**. There is no admission exam, random selection or attendance-preference survey. Applicants verify their email, accept the policies and choose whether to request a scholarship. Enrollment requires payment and staff verification. Scholarship refusal ends the application; it does not convert to a full-fee application.
 
-### 0.2 Release dates of the learning materials
-| Specialization | Learning unit | Date |
+**SLU01–17 are mandatory S01 course units.** SLU18, SLU19, SLU32 and SLU64 are optional. Certificate eligibility requires a score of at least 16/20 in every mandatory exercise notebook by its deadline, attendance on both Bootcamp class days, attendance at Hackathons 1 and 6, no more than one missed Hackathon among Hackathons 2–5, and successful completion of the remaining course requirements. Failing to complete S01 by its deadline or missing Hackathon 1 prevents progression to later course activities. Missing a later specialization deadline or Hackathon 6 removes certificate eligibility, but does not by itself stop continued study. Contact staff if a Portal outage affected your submission.
+
+### 0.1 Release dates of the learning materials
+
+Release announcements are posted in `#announcements` on Slack. Pull this repository after each announcement.
+
+| Specialization | Learning material | Student release date |
 | --- | --- | --- |
-| S01 | learning notebooks SLU04 - SLU10 | 14 Sep 2025|
-| S01 | exercise notebooks SLU04-10, <br> learning and exercise notebooks SLU11-19 | 21 Sep 2025 |
-| S02 | BLU01, BLU02, BLU03 | 20 Oct, 27 Oct, 3 Nov 2025 |
-|S03 | BLU04, BLU05, BLU06 | 17 Nov, 24  Nov, 1 Dec 2025 |
-| S04 | BLU07, BLU08, BLU09 | 5 Jan, 12 Jan, 19 Jan 2026 |
-| S05 | BLU10, BLU11, BLU012 | 3 Feb, 10 Feb, 17 Feb 2026 |
-| S06 | BLU13, BLU14, BLU15 | 3 Mar, 10 Mar, 17 Mar 2026 |
-| Capstone | 6 Apr 2026 |
+| S01 | SLU01–10 learning notebooks | 18 October 2026 |
+| S01 | SLU01–10 exercise notebooks; SLU11–19, SLU32 and SLU64 learning and exercise materials | 25 October 2026 |
+| S02 | BLU01, BLU02 and BLU03 | 23 November, 30 November and 7 December 2026 |
+| S03 | BLU04, BLU05 and BLU06 | 5 January, 12 January and 19 January 2027 |
+| S04 | BLU07, BLU08 and BLU09 | 2 February, 9 February and 16 February 2027 |
+| S05 | BLU10, BLU11 and BLU12 | 2 March, 9 March and 16 March 2027 |
+| S06 | BLU13, BLU14 and BLU15 | 29 March, 5 April and 12 April 2027 |
+| Capstone | Capstone materials | 3 May 2027 |
 
-### 0.3 Bootcamp
-There will be two bootcamp days with online classes (two Sunday mornings, about 4 hours each). 
-- Day 1, 21 Sep 2025 with SLU04 - SLU10
-- Day 2, 28 Sep 2025 with SLU11 - SLU17
+### 0.2 Bootcamp
 
-Each class is about 60 min, including questions.
+The remote Bootcamp has two class days of approximately four hours each. Attendance on both days is required for certificate eligibility. SLU01–03 are mandatory self-study units. SLU18, SLU19, SLU32 and SLU64 are optional and are not presented during the Bootcamp.
 
-**Day 1, 21 Sep 2025, 9.30 am**
+Each class is approximately 60 minutes, including questions. All times use Europe/Lisbon.
+
+**Day 1 — Sunday, 25 October 2026**
+
 | Time | Instructor | Topic |
 | --- | --- | --- |
-| 9.30 am | Pratiksha Jain | Intro + icebreaker |
-| 10 am |  | Intro to data science <br> SLU04 - Basic Stats with Pandas <br> SLU05 - Covariance and Correlation <br> SLU06 - Dealing with Data Problems |
-| 11 am | Fábio Cruz (DareData, LDSA alumnus) | SLU07 - Regression with Linear Regression <br> SLU08 - Metrics for Regression |
-| 12 am | Fábio Cruz (DareData, LDSA alumnus) | SLU09 - Classification with Logistic Regression <br> SLU10 - Metrics for Classification |
+| 09:30 | To be announced | Introduction and icebreaker |
+| 10:00 | To be announced | Introduction to data science; SLU04 — Basic Statistics with Pandas; SLU05 — Covariance and Correlation; SLU06 — Dealing with Data Problems |
+| 11:00 | To be announced | SLU07 — Linear Regression; SLU08 — Metrics for Regression |
+| 12:00 | To be announced | SLU09 — Logistic Regression; SLU10 — Metrics for Classification |
 
-**Day 2, 28 Sep 2025, 9.30 am**
+**Day 2 — Sunday, 1 November 2026**
+
 | Time | Instructor | Topic |
 | --- | --- | --- |
-| 9.30 am | João Tiago Ascensão (OutSystems, LDSA Cofounder)| SLU11 - Tree-Based Models <br> SLU12 - Feature Engineering |
-| 10.30 am | Rita Carvalho (DareData, LDSA alumnus) | SLU13 - Bias-Variance tradeoff & Model Selection <br> SLU14 - Model complexity and Overfitting <br> SLU15 - Hyperparameter Tuning |
-| 11.30 am | Sam Hopkins (LDSA cofounder) | SLU16 - Workflow <br> SLU17 - Ethics and Fairness |
+| 09:30 | To be announced | SLU11 — Tree-Based Models; SLU12 — Feature Engineering |
+| 10:30 | To be announced | SLU13 — Bias–Variance Trade-off and Model Selection; SLU14 — Model Complexity and Overfitting; SLU15 — Hyperparameter Tuning |
+| 11:30 | To be announced | SLU16 — Workflow; SLU17 — Ethics and Fairness |
 
-### 0.3 AMA sessions
-Ask Me Anything sessions with senior hackathon instructors - your chance to meet an expert in the field and ask anything you want to know.
-| Time | Specialization | Instructor |
+Hackathons are full-day remote Sunday events. Their exact arrival, submission, presentation and closing times are published in each Hackathon brief.
+
+### 0.3 Ask Me Anything sessions
+
+Ask Me Anything sessions give you an opportunity to meet senior instructors and ask questions about each specialization. Session dates, topics and instructors will be announced on Slack.
+
+### 0.4 Capstone schedule
+
+The Batch 10 Capstone runs from **3 May to 28 June 2027**. It retains the same phases as the previous edition, but the detailed dates and time assigned to each phase will be announced in due time.
+
+| Phase | Activity | Date / period |
 | --- | --- | --- |
-|24.1.2026| NLP | Jéssica Rodrigues da Silva |
-
-### 0.4 Capstone schedule  
-| Week nr. | What happens | Dates |
-| --- | ---- | --- |
-| 1 | students receive client email and data <br> and send an email with questions to the client | 6 - 12 Apr 2026 |
-| 2 | instructors prepare client clarifications | 13 - 17 Apr 2026 |
-| 2 - 4 | students prepare report 1 | 13 Apr - 3 May 2026 |
-| 5 | instructors correct report 1 | 4 - 10 May 2026 |
-| 5 - 8 | students prepare report 2 | 4 - 31 May 2026 |
-| 7 | API test requests | 18 - 24 May 2026 |
-| 8 | final API requests | 25 - 31 May 2026 |
-| 9 | instructors correct report 2 | 1 - 7 Jun 2026 |
-| 9 - 10 | students improving reports 1 and 2 | 1 - 14 Jun 2026 |
-| 11 | final instructor corrections of reports 1 and 2 | 15 - 21 Jun 2026 |
-| 12 | student presentations | 22 - 28 Jun 2026 |
+| Client briefing | Students receive the client brief and data and send their questions to the client | To be announced |
+| Client clarification | Instructors prepare and provide client clarifications | To be announced |
+| Stage 1 | Students prepare Report 1 and the first version of the application | To be announced |
+| Report 1 review | Instructors review Report 1 and provide comments | To be announced |
+| Stage 2 | Students prepare Report 2 and improve their project | To be announced |
+| App trial | Test requests are sent so students can verify their applications | To be announced |
+| App evaluation | Final API requests and ground-truth updates are sent | To be announced |
+| Report 2 review | Instructors review Report 2 and provide comments | To be announced |
+| Improvements | Students improve Reports 1 and 2 in response to feedback | To be announced |
+| Final review | Instructors complete the final review of both reports | To be announced |
+| Presentations | Students present their Capstone projects | To be announced |
 
 ## 1. How to use Slack and how to ask for help
 
@@ -116,7 +124,7 @@ First and foremost, we'll talk about how to use our communication tool, Slack. Y
 
 ## 2. Initial Setup
 
-At the end of this part, you should have Python 3.12 installed in your machine. Please choose your operating system:
+At the end of this part, you should have Python 3.14 installed in your machine. Please choose your operating system:
 
 <table>
   <tr>
@@ -184,7 +192,7 @@ The workflow that you will follow every time that learning new material is relea
 </table>
 
 
-## 6. Troubleshooting 
+## 6. Troubleshooting
 
 A few common problems and solutions. If you don't find what you're looking for, check out the #setup channel on Slack. Click on the image to follow the link.
 
@@ -197,4 +205,3 @@ A few common problems and solutions. If you don't find what you're looking for, 
     </td>
   </tr>
 </table>
-

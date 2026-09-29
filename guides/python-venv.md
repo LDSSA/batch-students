@@ -1,63 +1,54 @@
-# Creating a Python Virtual Environment
+# Creating a Python virtual environment
 
-Bellow are the instructions that are enough get you up and running :)
-You can also follow [this guide](How_to_set_up_python_virtual_environments.md) for a more in depth set of instructions that accomplish exactly the same thing.
+Batch 10 uses **Ubuntu 26.04 LTS** and **Python 3.14**. For a more detailed explanation, see [How to set up Python virtual environments](How_to_set_up_python_virtual_environments.md).
 
-:warning: **You should always be using a virtual environment to install python packages.** :warning: Otherwise you can overwrite packages in your system Python installation and break things.
+:warning: **Always use a virtual environment to install course packages.** Installing them into the operating system's Python can create dependency conflicts.
 
-You will need a virtual environment for each specialization (S01 - S06). We will use the _venv_ package to create the virtual environment and _pip_ (the reference Python package manager) to install and update packages.
+You need one virtual environment for each specialization, S01 through S06.
 
-**Step 1 for Ubuntu up to version 22.04** Start by ensuring pip, setuptools, and wheel are up to date:
+## 1. Install the required Ubuntu packages
 
-```bash
-python3.12 -m pip install --user --upgrade pip setuptools wheel
-```
-If you get an error at this point, run the following command, then repeat the line above.
-```bash
-python3.12 -m ensurepip --upgrade
-```
-**Step 1 for Ubuntu version 24.04** This Ubuntu version allows you to use pip for installation only in virtual environments. Otherwise you need to use apt. For installing pip, use apt:
+On Ubuntu 26.04, run:
 
 ```bash
-sudo apt install python3-pip -y 
+sudo apt update
+sudo apt install python3.14 python3-pip python3.14-venv -y
 ```
-Next, install venv for creating virtual environments. It should also install wheel and setuptools.
+
+If you use macOS, first install Python 3.14 by following the [macOS guide](macOS.md).
+
+## 2. Create the S01 environment
 
 ```bash
-sudo apt install python3.12-venv -y 
-```
-Note: the workflow in this step comes from [here](https://www.cherryservers.com/blog/install-pip-ubuntu) and was not tested. Please let us know in the devops channel on slack if you run into trouble.
-
-**Step 2** Create a virtual environment with the name `s01` for the specialization S01:
-
-```bash
-python3.12 -m venv ~/.virtualenvs/s01
+python3.14 -m venv ~/.virtualenvs/s01
 ```
 
-**Step 3** Activate the environment
+## 3. Activate the environment
 
 ```bash
 source ~/.virtualenvs/s01/bin/activate
 ```
 
->Note: after you activate your virtual environment you should see the name of your virtual environment surrounded by parenthesis at the beginning of your command line, like this:
+The environment name should now appear at the beginning of the prompt:
 
-```bash
-mig@my-machine % source ~/.virtualenvs/s01/bin/activate
-(s01) mig@my-machine %
+```text
+student@computer:~$ source ~/.virtualenvs/s01/bin/activate
+(s01) student@computer:~$
 ```
 
-Now if you use the `which` command it should output the location of your virtual environment's Python installation:
+Confirm that the environment uses Python 3.14:
 
 ```bash
-(s01) mig@my-machine % which python
-/Users/mig/.virtualenvs/s01/bin/python
+python --version
+which python
 ```
 
-**Step 4** Now update pip.
+The output should start with `Python 3.14` and point to `~/.virtualenvs/s01/bin/python`.
+
+## 4. Update the packaging tools
 
 ```bash
-(s01) pip install -U pip
+python -m pip install --upgrade pip setuptools wheel
 ```
 
-And you're done!
+The environment is ready. Activate it whenever you work on S01, and repeat the process with `s02` through `s06` for the later specializations.

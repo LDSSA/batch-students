@@ -1,5 +1,7 @@
 # LDSSA Learning Units
 
+> **Workspace repository name:** Batch 10 uses `batch10-workspace`. Confirm this name on your Portal profile under **Course workspace setup**. This is a private repository in your own GitHub account, separate from `LDSSA/batch-students`.
+
 ## 1. Structure of the batch-students repository
 The repository has a directory for each specialization S01 - S06. Inside are the directories for the learning units. See the example below:
 
@@ -10,15 +12,15 @@ The repository has a directory for each specialization S01 - S06. Inside are the
        |-- media
            |-- some-image.csv
        |-- data
-           |-- some-dataset.csv        
+           |-- some-dataset.csv
        |-- Examples notebook.ipynb
        |-- Exercise notebook.ipynb
        |-- Learning notebook.ipynb
-       |-- README.md    
+       |-- README.md
    |-- SLU02 - Subsetting Data in Pandas
-       ...    
-   |-- SLU03 - Visualization with Pandas and Matplotlib   
-       ...           
+       ...
+   |-- SLU03 - Visualization with Pandas and Matplotlib
+       ...
 ```
 
 The learning unit directory naming follows the convention
@@ -29,17 +31,17 @@ The learning unit directory naming follows the convention
 
 The LU directory contains the `README` (a markdown file with the description of the unit), the `Learning notebook`, the `Exercise notebook`, and the `Examples notebook`. It may also contain a `media` directory with all the visual material, the `data` directory with the datasets, and a `utils.py` file with helper code.
 
-The notebooks are all Jupyter notebooks, the same as you worked with during the admissions process. They contain text, interactive code, and tests for your solutions in the exercises.
+The notebooks are Jupyter notebooks containing text, interactive code and tests for your solutions. In Batch 10, SLU01–03 are ordinary mandatory S01 units; they are not part of admissions.
 
-The `requirements.txt` file in each specialization directory contains the packages to be installed in the virtual environment. 
+The `requirements.txt` file in each specialization directory contains the packages to be installed in the virtual environment.
 
 Please keep this directory structure also in your workspace repository because the grader in the portal depends on it.
 
 ## 2. Get new learning material
 
-You will need to follow this workflow whenever new learning material is released. Learning units release will be announced in the _#announcements_ channel on Slack.
+You will need to follow this workflow whenever new learning material is released. Learning-unit releases will be announced in the _#announcements_ channel on Slack.
 At this point they will be available in this repository.
-A new Learning Unit is usually released on Monday mornings.
+Follow the release schedule in the repository README and the release announcements; units are not guaranteed to be published on a fixed weekday.
 
 To get the new material, enter your local copy of this repo and pull from the repo:
 
@@ -48,29 +50,33 @@ cd ~/projects/batch-students/
 git pull
 ```
 
-Copy the Learning Unit folder to your local `batch8-workspace`:
+Create the specialization directory in your local `batch10-workspace`, copy its current `requirements.txt`, and then copy the newly released Learning Unit:
 
 ```bash
-cp -r ~/projects/batch-students/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learning unit name>" ~/projects/batch8-workspace/"<specialization ID> - <specialization name>"
+mkdir -p ~/projects/batch10-workspace/"<specialization ID> - <specialization name>"
+cp ~/projects/batch-students/"<specialization ID> - <specialization name>"/requirements.txt ~/projects/batch10-workspace/"<specialization ID> - <specialization name>"/
+cp -r ~/projects/batch-students/"<specialization ID> - <specialization name>"/"<learning unit ID> - <learning unit name>" ~/projects/batch10-workspace/"<specialization ID> - <specialization name>"/
 ```
 
 For example, for the `S01 - Bootcamp and Binary Classification` and `SLU01 - Pandas 101`, it would look like this:
 
 ```bash
-cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"
+mkdir -p ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"
+cp ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/requirements.txt ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"/
+cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"/
 ```
 
-:warning: It is important to copy just the newly release LU folders, otherwise you can overwrite your already solved Exercise notebooks.
+:warning: Copy only newly released LU folders. Copying a whole specialization over your workspace can overwrite Exercise notebooks you have already solved.
 
 ## 3. Working on a Learning Unit
 
 ### 3.1 Create a virtual environment for the current specialization
 You will need a new virtual environment for every specialization. You have already created one for S01 during the previous setup steps. Here we will repeat some of those steps so that you have a complete guide for when you start each specialization.
- 
+
 1. Open the terminal and create the virtual environment for the specialization:
 
 ```bash
-python3.12 -m venv ~/.virtualenvs/s01
+python3.14 -m venv ~/.virtualenvs/s01
 ```
 1. Activate the virtual environment of the specialization:
 
@@ -81,7 +87,7 @@ source ~/.virtualenvs/s01/bin/activate
 1. Enter the directory of the specialization and install the requirements:
 
 ```bash
-cd ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"
+cd ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"
 pip install -r requirements.txt
 ```
 
@@ -89,15 +95,15 @@ You will see a lot of output on the terminal while pip installs the packages. Yo
 
 ### 3.2 Launch the Jupyter notebook
 
-1. Enter the learning unit directory in your workspace directory (`batch8-workspace`).
+1. Enter the learning unit directory in your workspace directory (`batch10-workspace`).
 
-    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files in your `batch8-workspace` repository, and **NEVER** change the files in the `batch-students` local repository! If you do change these files, you can have a merge conflict when you next pull from the GitHub repository.
+    >Note: It is **VERY IMPORTANT** that you **ALWAYS** work on the files in your `batch10-workspace` repository, and **NEVER** change the files in the `batch-students` local repository! If you change these files, you can have a merge conflict when you next pull from GitHub.
 
 ```bash
-cd ~/projects/batch8-workspace/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101"
+cd ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101"
 ```
 
-1. Activate the correct virtual environment 
+1. Activate the correct virtual environment
 
 ```bash
 source ~/.virtualenvs/s01/bin/activate
@@ -115,27 +121,27 @@ jupyter notebook --NotebookApp.use_redirect_file=False
 ```
 
 You should see something similar to this in your terminal:
-![Open exercise notebook](/media/jupyter_terminal.png "Open exercise notebook")
+![Open exercise notebook](../media/jupyter_terminal.png "Open exercise notebook")
 Your browser should pop up with Jupyter open, however, if this does not happen, you can simply copy the link you see on your terminal (the one that contains `localhost`) and paste it in your browser's address bar:
 
-![Open exercise notebook](/media/jupyter_terminal_link.png "Open exercise notebook")
+![Open exercise notebook](../media/jupyter_terminal_link.png "Open exercise notebook")
 
->Note: If you see these scarry looking error messages, don't worry, you can just ignore them.
+>Note: If you see these scary-looking error messages, don't worry; you can ignore them.
 
-![Open exercise notebook](/media/jupyter_error_red.png "Open exercise notebook")
+![Open exercise notebook](../media/jupyter_error_red.png "Open exercise notebook")
 
 ### 3.3 Solve the Exercise Notebook
 
-After you have studied the Learning Notebook, do the exercises in the Exercise notebook. The notebook has cells where you should write your solutions followed by cells with tests for the solutions. The tests are series of `assert` statements. If all the asserts pass, that is if you don't get an `AssertionError` or any other kind of error, your solution is correct. 
+After you have studied the Learning Notebook, do the exercises in the Exercise notebook. The notebook has cells where you should write your solutions followed by cells with tests for the solutions. The tests are series of `assert` statements. If all the asserts pass, that is if you don't get an `AssertionError` or any other kind of error, your solution is correct.
 
-The failing asserts usually give you a hint about the error. Other kinds of errors given by Python will produce a lot of tracebacks indicating the line where the error occured. 
+The failing asserts usually give you a hint about the error. Other kinds of errors given by Python will produce a lot of tracebacks indicating the line where the error occured.
 
 Once you've solved all the exercises, we recommend to follow this simple
 checklist to avoid unexpected surprises:
 
 1. Save the notebook (again)
 1. Run "Restart & Run All"
-![Restart & Run All](/media/jupyter_clear_and_run.png "Restart & Run All")
+![Restart & Run All](../media/jupyter_clear_and_run.png "Restart & Run All")
 1. At this point the notebook should have run without any failing assertions
 
 If you want to submit your notebook before it is done all the way to
@@ -145,7 +151,7 @@ Warning: if you use a different software, e.g. VSCode, to complete the exercise 
 
 ### 3.4 Commit and push the Exercise notebook to your repo
 
-Now you have worked on the exercise notebooks, you should commit the changes to your local repository and transfer them to your GitHub repository. You can test this workflow with the notebooks from the admission process, SLU01, SLU02, and SLU03.
+After working on an exercise notebook, commit the changes in your local workspace and push them to your private GitHub repository. You can practise this workflow with SLU01 after it is released as an S01 unit.
 
 Using the terminal, commit and push the changes (from the LU directory):
 
@@ -160,13 +166,13 @@ git push
 Now go to the portal and ask it to grade your notebook.
 
 1. Go to the [_Portal_](https://portal.lisbondatascience.org) and select the learning unit
-![Learning unit](/media/portal_sample_lu.png "Learning unit")
+![Learning unit](../media/portal_sample_lu.png "Learning unit")
 1. Select "Grade"
-![Grade](/media/portal_grade.png "Grade")
+![Grade](../media/portal_grade.png "Grade")
 1. The `Last Grade` status will change to `Sent`. The portal is now running your notebook. It can take some time, depending on the complexity of the code.
 1. Your grade will appear next, e.g. 20/20.
 1. If all the exercise asserts passed locally but the grader doesn't give you the expected
-output head to [troubleshooting](https://github.com/LDSSA/LDSA-setup/blob/main/troubleshooting.md)
+output, go to the local [troubleshooting guide](troubleshooting.md)
 1. You can check the state of the notebook in the portal by clicking on the grade and selecting `Raw Data`. It will show the notebook in plain text and you can search for possible errors.
 
 ## 4. Updates to Learning Units
@@ -198,18 +204,18 @@ We understand it's not ideal and are working on improving this workflow using
 If you are comfortable installing Python packages you can try it out, but
 we offer no support for this at the moment.
 
-## 4. Help
+## 5. Help
 
 During the academy you will surely run into problems and have doubts about the
 material.
 We provide you with some different channels to ask for help.
 
-### 4.1 Learning Unit
+### 5.1 Learning Unit
 
 If you feel something is not clear enough or there is a bug in the learning
 material please follow [these steps](https://ldssa.github.io/wiki/Starters%20Academy%20(LDSSA)/How-to-ask-for-and-give-help/). Remember, there is no such thing as a dumb question, and by asking questions publicly you will help others!
 
-### 4.2 Portal
+### 5.2 Portal
 
 Are you getting different results locally than in the
 Portal? If so we will first ask you to do a bit of troubleshooting:
@@ -222,8 +228,7 @@ effect)
 1. In the learning unit page in the [_Portal_](https://portal.lisbondatascience.org/)
 you are able to download the exercise notebook with the results of the grader
 by clicking on your grade. Have a look to figure out what went wrong.
-![Download notebook](/media/portal_download_notebook.png "Download notebook")
+![Download notebook](../media/portal_download_notebook.png "Download notebook")
 If none of these steps helped go ahead and ask for help on Slack in the #devops channel.
 
 Is the _Portal_ down or acting out in some unexpected way? Please report it in the #devops channel on Slack.
-

@@ -1,6 +1,8 @@
 # Setup _Git_ and _GitHub_
 
-Having a _GitHub_ account and knowing the basics of committing and pushing changes are **mandatory** for this academy. All the learning materials and exercises will be released in this repository. If you need a refresher on Git, check out the learning units 3 and 6 in our [Python prep course](https://github.com/LDSSA/ds-prep-course-2024).
+> **Workspace repository name:** Batch 10 uses `batch10-workspace`. Confirm this name on your Portal profile under **Course workspace setup**. This is a private repository in your own GitHub account, separate from `LDSSA/batch-students`.
+
+Having a _GitHub_ account and knowing the basics of committing and pushing changes are **mandatory** for this academy. All the learning materials and exercises will be released in this repository. If you need a refresher on Git, check out the learning units 3 and 6 in our [Python prep course](https://github.com/LDSSA/ds-prep-course-2025).
 
 With this guide, you will set up GitHub, then create and clone your workspace repository and clone the learning material repository (this one).
 
@@ -22,9 +24,9 @@ The workspace directory/repository is where you will place everything you are wo
 #### 1.1 Create the Workspace Repository
 
 1. Log into _GitHub_
-1. Create a new **private** _GitHub_ repository called *batch9-workspace*, see
+1. Create a new **private** _GitHub_ repository called `batch10-workspace`, see
 [Creating a new repository](https://help.github.com/en/articles/creating-a-new-repository).
-:warning: The repo **MUST** be named *batch9-workspace*! 
+:warning: Use the **exact repository name shown in your Portal profile**. For Batch 10, it must be `batch10-workspace`.
 If you name it anything else, you will be unable to submit any of your work for grading.
 
     1. You need to explicitly select **Private** - This is your work and you will be graded on it, so it should not be open to the world while you are working on it.
@@ -57,21 +59,21 @@ _Portal_
 
 As you're already in the portal, please add your SlackID to your profile. In your **Profile** in the **Portal**, besides your *GitHub Handle*, you should add your **SlackID**. You can find information on how to find it [following this link](https://moshfeu.medium.com/how-to-find-my-member-id-in-slack-workspace-d4bba942e38c)
 
-#### 1.3 Clone Your Workspace Repository
+#### 1.4 Clone Your Workspace Repository
 
 1. Open a Terminal or Git Bash. The next steps are on this terminal.
-1. Clone your `<username>/batch9-workspace` repository. If you're not sure where to put the repository, you can create a `~/projects` folder, and clone it there.
+1. Clone your `<username>/batch10-workspace` repository. If you're not sure where to put the repository, you can create a `~/projects` folder, and clone it there.
 
 1. If you have your [**ssh keys set up**](#Setup-Git-and-GitHub) as instructed (replace `<username>` with your GitHub username):
 
 ```bash
-git clone git@github.com:<username>/batch9-workspace.git
+git clone git@github.com:<username>/batch10-workspace.git
 ```
 
 If for some reason you don't have the ssh key, do:
 
 ```bash
-git clone https://github.com/<username>/batch9-workspace.git
+git clone https://github.com/<username>/batch10-workspace.git
 ```
 
 ### 2. Get the Learning Material

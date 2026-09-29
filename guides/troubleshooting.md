@@ -1,28 +1,30 @@
 # Troubleshooting
 
-[1. When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide](#1-when-i-open-windows-explorer-through-ubuntu-it-goes-to-a-different-folder-than-in-the-guide)   
-[2. Ubuntu on Windows 10 high CPU usage, crashes](#2-ubuntu-on-windows-10-high-cpu-usage-crashes)   
-[3. When I pull from the `batch7-students` repository, I get an error](#3-when-i-pull-from-the-batch7-students-repository-i-get-an-error)   
-[4. When I try to open `jupyter notebook`, I get an error](#4-when-i-try-to-open-the-jupyter-notebook-i-get-an-error)   
-[5. When I use the `cp` command the `>` sign appears and the command does not execute](#5-when-i-use-the-cp-command-the--sign-appears-and-the-command-does-not-execute)   
-[6. When setting up python 3.10 I get an error](#6-when-setting-up-python-310-i-get-an-error)   
-[7. Nothing happens when I type my password](#7-nothing-happens-when-i-type-my-password)   
-[8. I still have a NotImplemented error](#8-i-still-have-a-notimplemented-error)   
-[9. Tutorial videos from Prep Course 2020](#9-tutorial-videos-from-prep-course-2020)   
-[10. Error 0x80370102 when installing WSL](#10-Error-0x80370102-when-installing-WSL)   
-[11. Errors when installing WSL on Windows](#11-Errors-when-installing-WSL-on-Windows)   
+> **Workspace repository name:** Batch 10 uses `batch10-workspace`. Confirm this name on your Portal profile under **Course workspace setup**. This is a private repository in your own GitHub account, separate from `LDSSA/batch-students`.
+
+[1. When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide](#1-when-i-open-windows-explorer-through-ubuntu-it-goes-to-a-different-folder-than-in-the-guide)
+[2. Ubuntu on Windows 10/11 has high CPU usage or crashes](#2-ubuntu-on-windows-1011-has-high-cpu-usage-or-crashes)
+[3. When I pull from the `batch-students` repository, I get an error](#3-when-i-pull-from-the-batch-students-repository-i-get-an-error)
+[4. When I try to open a Jupyter notebook, I get an error](#4-when-i-try-to-open-a-jupyter-notebook-i-get-an-error)
+[5. When I use the `cp` command the `>` sign appears and the command does not execute](#5-when-i-use-the-cp-command-the--sign-appears-and-the-command-does-not-execute)
+[6. When installing Python 3.14, `apt update` reports a repository error](#6-when-installing-python-314-apt-update-reports-a-repository-error)
+[7. Nothing happens when I type my password](#7-nothing-happens-when-i-type-my-password)
+[8. I still have a NotImplemented error](#8-i-still-have-a-notimplemented-error)
+[9. Tutorial videos from Prep Course 2020](#9-tutorial-videos-from-prep-course-2020)
+[10. Error 0x80370102 when installing WSL](#10-error-0x80370102-when-installing-wsl)
+[11. Errors when installing WSL on Windows](#11-errors-when-installing-wsl-on-windows)
 
 ### 1. When I open Windows Explorer through Ubuntu, it goes to a different folder than in the guide
 
 Please make sure:
 
 - you are running the command `explorer.exe .` including the dot at the end.
-- you are running Windows 10 version `1909` or newer.
+- you are running Windows 10 version `2004`, build `19041`, or newer, or Windows 11.
 
-### 2. Ubuntu on Windows 10 high CPU usage, crashes
+### 2. Ubuntu on Windows 10/11 has high CPU usage or crashes
 
-- Make sure you are running Windows 10 version `1909` or newer.
-- Then, try following [these steps](https://teckangaroo.com/enable-windows-10-virtual-machine-platform/)
+- Make sure you are running Windows 10 version `2004`, build `19041`, or newer, or Windows 11.
+- Follow Microsoft's [WSL troubleshooting guide](https://learn.microsoft.com/windows/wsl/troubleshooting).
 
 ### 3. When I pull from the `batch-students` repository, I get an error
 
@@ -35,11 +37,11 @@ Please commit your changes or stash them before you merge.
 Aborting
 ```
 
-what `git` is telling you is that changes were made by you to the files in the `~/projects/batch7-students` folder, and therefore it is not pulling the changes made by the instructors because they would overwrite the changes made by you.
+What `git` is telling you is that you changed files in the `~/projects/batch-students` folder. Git does not pull the instructors' changes because doing so would overwrite your local changes.
 
 To fix this do the following:
 
-1. Make sure that any changes you made to the files in `~/projects/batch-students`  (that you don't want to lose) are saved in your `~/projects/batch8-workspace` repository (refer to [Updates of the learning units](ldssa-workflow.md#4-updates-to-learning-units) on how to do this). If you don't want to keep the changes you made to these files, continue to the next step.
+1. Make sure that any changes you made in `~/projects/batch-students` that you want to keep are saved in `~/projects/batch10-workspace` (refer to [Updates to Learning Units](ldssa-workflow.md#4-updates-to-learning-units)). If you don't want to keep those changes, continue to the next step.
 2. Go to the `~/projects/batch-students` folder and run:
 
     ```bash
@@ -64,31 +66,17 @@ source ~/.virtualenvs/s01/bin/activate
 ### 5. When I use the `cp` command the `>` sign appears and the command does not execute
 
 ```bash
-cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch7-workspace/"S01 - Bootcamp and Binary Classification"
+cp -r ~/projects/batch-students/"S01 - Bootcamp and Binary Classification"/"SLU01 - Pandas 101" ~/projects/batch10-workspace/"S01 - Bootcamp and Binary Classification"/
 >
 ```
 
 Make sure to use this type of quotes `"` and not this one `“`.
 
-### 6. When setting up python 3.12 I get an error
+### 6. When installing Python 3.14, `apt update` reports a repository error
 
-When I run this command:
+If `sudo apt update` reports a GPG, signature or release-file error for a third-party repository, that repository must be corrected or disabled before Ubuntu can install packages reliably.
 
-```bash
-sudo add-apt-repository ppa:deadsnakes/ppa
-```
-
-I get this error:
-
-```bash
-W: GPG error: http://apt.postgresql.org/pub/repos/apt focal-pgdg InRelease: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 7FCC7D46ACCC4CF8
-```
-
-Solution: Take the id in front of `NO_PUBKEY` (in my case it's `7FCC7D46ACCC4CF8`) and run the following command:
-
-```bash
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7FCC7D46ACCC4CF8
-```
+The error is not caused by Python. Do not add the Deadsnakes PPA on Ubuntu 26.04, and do not import an unknown key globally with the deprecated `apt-key` command. Ask in `#devops` if you are unsure which third-party source is safe to change.
 
 ### 7. Nothing happens when I type my password
 

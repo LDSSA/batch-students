@@ -1,122 +1,54 @@
-# Set-up instructions for MacOS
+# Setup instructions for macOS
 
-Welcome to the **MacOS set up** guide!
+Batch 10 uses **Python 3.14**. The same native Homebrew workflow works on Intel and Apple Silicon Macs.
 
-Your first step in this journey is to **carefully read** the steps in this tutorial. You'll learn how to set up your computer - follow the link to your MacOS type :arrow_right:
+## 1. Open Terminal
 
-- [MacOS Intel Setup](#MacOS-Intel-Setup)
-- [MacOS M1 Setup](#MacOS-M1-Setup)
+Open Terminal in either of these ways:
 
-### MacOS Intel Setup
+- In Finder, open `/Applications/Utilities`, then double-click **Terminal**.
+- Press <kbd>Command</kbd> + <kbd>Space</kbd>, type `Terminal`, and press <kbd>Enter</kbd>.
 
-Some of the steps in the following sections will require `Homebrew` for MacOS. `Homebrew` is a package manager - it helps you installing software. Installing `Homebrew` will make it easier to install software that we will use later on.
+<img src='../media/mac_terminal.png' width="50%" alt="macOS Terminal" />
 
-**Step 1:** Open a terminal in one of the following ways:
-* In Finder <img src='../media/finder.png' alt='Finder' width="4%" />, open the `/Applications/Utilities` folder, then double-click `Terminal`.
-* Press <kbd>cmd</kbd> + <kbd>space</kbd> then type `terminal` and press <kbd>enter</kbd>.
+## 2. Install the command-line tools and Homebrew
 
-    The terminal should now be open:
-
-    <img src='../media/mac_terminal.png' width="50%" />
-
-**Step 2:** To install `Homebrew` for MacOS, copy and paste the following line in the terminal:
-
-```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
-
-**Step 2.1:** Sometimes it's necessary to install `xcode command line utils`. To do so, execute the following command before installing `Homebrew`:
+Run:
 
 ```bash
 xcode-select --install
 ```
 
-You may be prompted to install the `Command Line Developers Tools`. Confirm and once it finishes, continue installing `Homebrew` by pressing <kbd>enter</kbd> again.
-
-**Step 3:** Open a terminal and run the following command to update `Homebrew`. The verbose option means that `Homebrew` will tell you what it's doing - you will see a lot of text output in your terminal:
+If the command-line tools are already installed, macOS will tell you. Then install Homebrew using its official installer:
 
 ```bash
-brew update --verbose
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-**Step 4:** Now run the following command to install `git`. `Git` is a version control software that facilitates collaboration of people working together on the same code and keeps track of the versions as the code changes. You will learn more about `git` in Week 02 of this course.
+At the end of the installation, Homebrew may print commands under **Next steps** for adding `brew` to your shell. Run those exact commands before continuing. This is especially important on Apple Silicon Macs, where Homebrew normally uses `/opt/homebrew`.
+
+Verify Homebrew:
 
 ```bash
-brew install git
+brew --version
 ```
 
-**Step 5:** Now run the following command to install `Python 3.12`:
+## 3. Install Git and Python 3.14
 
 ```bash
-brew install python@3.12
+brew update
+brew install git python@3.14
 ```
 
-**Step 6:** then run the following command to set the default `python3` version to 3.12:
+Verify both installations:
 
 ```bash
-brew link python@3.12
+git --version
+python3.14 --version
 ```
 
-And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.
+The Python output must start with `Python 3.14`.
 
-### MacOS M1 Setup
+Use the native Apple Silicon installation on M-series Macs. Rosetta and an Intel-only Homebrew installation are not required for the standard Batch 10 setup. If a specific course dependency later requires an Intel compatibility workaround, instructors will provide that unit-specific procedure.
 
-So you've got the new M1 and you're super happy with how fast it is. Unfortunately dealing with Apple silicon requires a little detour. But don't worry, we'll be able to get there in the end.
-
-**Step 1:** Open a terminal in one of the following ways:
-* In Finder <img src='../media/finder.png' alt='Finder' width="4%" />, open the `/Applications/Utilities` folder, then double-click `Terminal`.
-* Press <kbd>cmd</kbd> + <kbd>space</kbd> then type `terminal` and press <kbd>enter</kbd>.
-
-    The terminal should now be open:
-
-    <img src='../media/mac_terminal.png' width="50%" />
-
-**Step 1.1:** To use Intel-based software, you'll need `Rosetta2`. Most of you should already have it installed. If you don't have it yet, simply run the following line in the terminal:
-
-```bash
-softwareupdate --install-rosetta
-```
-
-This will launch the rosetta installer and you’ll have to agree to a license agreement.
-
-**Step 2:** To install `Homebrew x86` version, aka `ibrew` for MacOS, copy and paste the following line in the terminal. `Homebrew` is a package manager - it helps you installing software. Installing `Homebrew` will make it easier to install software that we will use later on.
-
-```bash
-arch -x86_64 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-```
-
-**Step 2.1:** Sometimes it's necessary to install `xcode command line utils`. To do so, execute the following command before installing `Homebrew`:
-
-```bash
-xcode-select --install
-```
-
-**Step 3:** Add an alias with `ibrew` to your `$PATH` (so that you computer can find `ibrew` when you call it from the terminal):
-
-```bash
-echo 'alias ibrew="arch -x86_64 /usr/local/bin/brew"' >> ~/.zshrc
-```
-
-**Step 4:** Activate the alterations done to the `.zshrc` file:
-```bash
-source ~/.zshrc
-```
-
-**Step 5:** Install `Python 3.12` with `ibrew`:
-
-```bash
-ibrew install python@3.12
-```
-
-**Step 6:** Add `Python 3.12` to `$PATH`:
-
-```bash
-export PATH="/usr/local/opt/python@3.12/bin:$PATH" >> ~/.zshrc
-```
-
-**Step 7** Re-activate the alterations done to the `.zshrc` file:
-```bash
-source ~/.zshrc
-```
-
-And you're done! Go back to the main menu and continue with setting up Git and GitHub in step 3.
+You are ready to return to the main README and continue with Git and GitHub setup.

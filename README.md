@@ -29,7 +29,7 @@ All dates use **Europe/Lisbon**, including daylight saving time. The official pu
 | S02                                | 23 November – 19 December 2026    |
 | Hackathon 2                        | 20 December 2026                  |
 | Christmas/New Year break           | 21 December 2026 – 4 January 2027 |
-| S03                                | 5–30 January 2027                 |
+| S03                                | 4–30 January 2027                 |
 | Hackathon 3                        | 31 January 2027                   |
 | S04                                | 1–27 February 2027                |
 | Hackathon 4                        | 28 February 2027                  |
@@ -54,9 +54,9 @@ Release announcements are posted in `#announcements` on Slack. Pull this reposit
 | S01            | SLU01–10 learning notebooks                                                            | 18 October 2026                              |
 | S01            | SLU01–10 exercise notebooks; SLU11–19, SLU32 and SLU64 learning and exercise materials | 25 October 2026                              |
 | S02            | BLU01, BLU02 and BLU03                                                                 | 23 November, 30 November and 7 December 2026 |
-| S03            | BLU04, BLU05 and BLU06                                                                 | 5 January, 12 January and 19 January 2027    |
-| S04            | BLU07, BLU08 and BLU09                                                                 | 2 February, 9 February and 16 February 2027  |
-| S05            | BLU10, BLU11 and BLU12                                                                 | 2 March, 9 March and 16 March 2027           |
+| S03            | BLU04, BLU05 and BLU06                                                                 | 4 January, 11 January and 18 January 2027    |
+| S04            | BLU07, BLU08 and BLU09                                                                 | 1 February, 8 February and 15 February 2027  |
+| S05            | BLU10, BLU11 and BLU12                                                                 | 1 March, 8 March and 15 March 2027           |
 | S06            | BLU13, BLU14 and BLU15                                                                 | 29 March, 5 April and 12 April 2027          |
 | Capstone       | Capstone materials                                                                     | 3 May 2027                                   |
 

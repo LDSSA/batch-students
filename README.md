@@ -18,9 +18,9 @@ All dates use **Europe/Lisbon**, including daylight saving time. The official pu
 
 | Activity                           | Date / deadline                   |
 | ---------------------------------- | --------------------------------- |
-| Signup and registration completion | 24 September – 15 October 2026    |
-| Scholarship interviews             | 12–16 October 2026                |
-| Payment                            | 12–17 October 2026                |
+| Signup and registration completion | 24 September – 24 October 2026    |
+| Scholarship interviews             | 12–24 October 2026                |
+| Payment                            | 12–24 October 2026                |
 | Introductory session               | 18 October 2026                   |
 | Setup                              | 18–24 October 2026                |
 | Bootcamp classes                   | 25 October and 1 November 2026    |

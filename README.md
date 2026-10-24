@@ -64,24 +64,31 @@ Release announcements are posted in `#announcements` on Slack. Pull this reposit
 
 The remote Bootcamp has two class days of approximately four hours each. Attendance on both days is required for certificate eligibility. SLU01–03 are mandatory self-study units. SLU18, SLU19, SLU32 and SLU64 are optional and are not presented during the Bootcamp.
 
-Each class is approximately 60 minutes, including questions. All times use Europe/Lisbon.
+All times use Europe/Lisbon.
 
 **Day 1 — Sunday, 25 October 2026**
 
-| Time  | Instructor      | Topic                                                                                                                                      |
-| ----- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 09:30 | To be announced | Introduction and icebreaker                                                                                                                |
-| 10:00 | To be announced | Introduction to data science; SLU04 — Basic Statistics with Pandas; SLU05 — Covariance and Correlation; SLU06 — Dealing with Data Problems |
-| 11:00 | To be announced | SLU07 — Linear Regression; SLU08 — Metrics for Regression                                                                                  |
-| 12:00 | To be announced | SLU09 — Logistic Regression; SLU10 — Metrics for Classification                                                                            |
+| Time | Instructor | Topic |
+| --- | --- | --- |
+| 09:00–09:25 | — | Welcome and Introduction |
+| 09:25–09:50 | Carlos Matrena, LDSA | Introduction to Data Science and Basic Tools (SLUs 01–03) |
+| — | — | Short break (10 min.) |
+| 10:00–10:50 | Mária Hanulová, LDSA | Basic Statistics and Data Cleaning (SLUs 04–06) |
+| — | — | Coffee break (20 min.) |
+| 11:10–12:00 | Fábio Cruz, DareData Engineering | Regression Problems and Metrics (SLUs 07–08) |
+| — | — | Short break (10 min.) |
+| 12:10–13:00 | Fábio Cruz, DareData Engineering | Classification Problems and Metrics (SLUs 09–10) |
 
 **Day 2 — Sunday, 1 November 2026**
 
-| Time  | Instructor      | Topic                                                                                                                        |
-| ----- | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 09:30 | To be announced | SLU11 — Tree-Based Models; SLU12 — Feature Engineering                                                                       |
-| 10:30 | To be announced | SLU13 — Bias–Variance Trade-off and Model Selection; SLU14 — Model Complexity and Overfitting; SLU15 — Hyperparameter Tuning |
-| 11:30 | To be announced | SLU16 — Workflow; SLU17 — Ethics and Fairness                                                                                |
+| Time | Instructor | Topic |
+| --- | --- | --- |
+| 09:50–10:00 | — | Welcome gathering |
+| 10:00–10:50 | Instructor to be designated | Tree-based Models and Feature Engineering (SLUs 11–12) |
+| — | — | Short break (10 min.) |
+| 11:00–11:50 | Instructor to be designated | Model Regularization and Optimization (SLUs 13–15) |
+| — | — | Coffee break (20 min.) |
+| 13:10–14:00 | Instructor to be designated | Data Science Workflow, Ethics and Fairness (SLUs 16–17) |
 
 Hackathons are full-day remote Sunday events. Their exact arrival, submission, presentation and closing times are published in each Hackathon brief.
 

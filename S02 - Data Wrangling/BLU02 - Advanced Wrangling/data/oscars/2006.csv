@@ -1,0 +1,111 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2005,2006,78,ACTOR IN A LEADING ROLE,Philip Seymour Hoffman,Capote,True
+1,2005,2006,78,ACTOR IN A LEADING ROLE,Terrence Howard,Hustle & Flow,False
+2,2005,2006,78,ACTOR IN A LEADING ROLE,Heath Ledger,Brokeback Mountain,False
+3,2005,2006,78,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Walk the Line,False
+4,2005,2006,78,ACTOR IN A LEADING ROLE,David Strathairn,"Good Night, and Good Luck.",False
+5,2005,2006,78,ACTOR IN A SUPPORTING ROLE,George Clooney,Syriana,True
+6,2005,2006,78,ACTOR IN A SUPPORTING ROLE,Matt Dillon,Crash,False
+7,2005,2006,78,ACTOR IN A SUPPORTING ROLE,Paul Giamatti,Cinderella Man,False
+8,2005,2006,78,ACTOR IN A SUPPORTING ROLE,Jake Gyllenhaal,Brokeback Mountain,False
+9,2005,2006,78,ACTOR IN A SUPPORTING ROLE,William Hurt,A History of Violence,False
+10,2005,2006,78,ACTRESS IN A LEADING ROLE,Judi Dench,Mrs. Henderson Presents,False
+11,2005,2006,78,ACTRESS IN A LEADING ROLE,Felicity Huffman,Transamerica,False
+12,2005,2006,78,ACTRESS IN A LEADING ROLE,Keira Knightley,Pride & Prejudice,False
+13,2005,2006,78,ACTRESS IN A LEADING ROLE,Charlize Theron,North Country,False
+14,2005,2006,78,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Walk the Line,True
+15,2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Junebug,False
+16,2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Capote,False
+17,2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,North Country,False
+18,2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Constant Gardener,True
+19,2005,2006,78,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Brokeback Mountain,False
+20,2005,2006,78,ANIMATED FEATURE FILM,Hayao Miyazaki,Howl's Moving Castle,False
+21,2005,2006,78,ANIMATED FEATURE FILM,Mike Johnson and Tim Burton,Tim Burton's Corpse Bride,False
+22,2005,2006,78,ANIMATED FEATURE FILM,Nick Park and Steve Box,Wallace & Gromit in The Curse of the Were-Rabbit,True
+23,2005,2006,78,ART DIRECTION,Art Direction:  Jim Bissell; Set Decoration:  Jan Pascale,"Good Night, and Good Luck.",False
+24,2005,2006,78,ART DIRECTION,Art Direction:  Stuart Craig; Set Decoration:  Stephenie McMillan,Harry Potter and the Goblet of Fire,False
+25,2005,2006,78,ART DIRECTION,Art Direction:  Grant Major; Set Decoration:  Dan Hennah and Simon Bright,King Kong,False
+26,2005,2006,78,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Gretchen Rau,Memoirs of a Geisha,True
+27,2005,2006,78,ART DIRECTION,Art Direction:  Sarah Greenwood; Set Decoration:  Katie Spencer,Pride & Prejudice,False
+28,2005,2006,78,CINEMATOGRAPHY,Wally Pfister,Batman Begins,False
+29,2005,2006,78,CINEMATOGRAPHY,Rodrigo Prieto,Brokeback Mountain,False
+30,2005,2006,78,CINEMATOGRAPHY,Robert Elswit,"Good Night, and Good Luck.",False
+31,2005,2006,78,CINEMATOGRAPHY,Dion Beebe,Memoirs of a Geisha,True
+32,2005,2006,78,CINEMATOGRAPHY,Emmanuel Lubezki,The New World,False
+33,2005,2006,78,COSTUME DESIGN,Gabriella Pescucci,Charlie and the Chocolate Factory,False
+34,2005,2006,78,COSTUME DESIGN,Colleen Atwood,Memoirs of a Geisha,True
+35,2005,2006,78,COSTUME DESIGN,Sandy Powell,Mrs. Henderson Presents,False
+36,2005,2006,78,COSTUME DESIGN,Jacqueline Durran,Pride & Prejudice,False
+37,2005,2006,78,COSTUME DESIGN,Arianne Phillips,Walk the Line,False
+38,2005,2006,78,DIRECTING,Ang Lee,Brokeback Mountain,True
+39,2005,2006,78,DIRECTING,Bennett Miller,Capote,False
+40,2005,2006,78,DIRECTING,Paul Haggis,Crash,False
+41,2005,2006,78,DIRECTING,George Clooney,"Good Night, and Good Luck.",False
+42,2005,2006,78,DIRECTING,Steven Spielberg,Munich,False
+43,2005,2006,78,DOCUMENTARY (Feature),Hubert Sauper,Darwin's Nightmare,False
+44,2005,2006,78,DOCUMENTARY (Feature),Alex Gibney and Jason Kliot,Enron: The Smartest Guys in the Room,False
+45,2005,2006,78,DOCUMENTARY (Feature),Luc Jacquet and Yves Darondeau,March of the Penguins,True
+46,2005,2006,78,DOCUMENTARY (Feature),Henry-Alex Rubin and Dana Adam Shapiro,Murderball,False
+47,2005,2006,78,DOCUMENTARY (Feature),Marshall Curry,Street Fight,False
+48,2005,2006,78,DOCUMENTARY (Short Subject),Dan Krauss,The Death of Kevin Carter: Casualty of the Bang Bang Club,False
+49,2005,2006,78,DOCUMENTARY (Short Subject),Kimberlee Acquaro and Stacy Sherman,God Sleeps in Rwanda,False
+50,2005,2006,78,DOCUMENTARY (Short Subject),Steven Okazaki,The Mushroom Club,False
+51,2005,2006,78,DOCUMENTARY (Short Subject),Corinne Marrinan and Eric Simonson,A Note of Triumph: The Golden Age of Norman Corwin,True
+52,2005,2006,78,FILM EDITING,Mike Hill and Dan Hanley,Cinderella Man,False
+53,2005,2006,78,FILM EDITING,Claire Simpson,The Constant Gardener,False
+54,2005,2006,78,FILM EDITING,Hughes Winborne,Crash,True
+55,2005,2006,78,FILM EDITING,Michael Kahn,Munich,False
+56,2005,2006,78,FILM EDITING,Michael McCusker,Walk the Line,False
+57,2005,2006,78,FOREIGN LANGUAGE FILM,Italy,Don't Tell,False
+58,2005,2006,78,FOREIGN LANGUAGE FILM,France,Joyeux Noël,False
+59,2005,2006,78,FOREIGN LANGUAGE FILM,The Palestinian Territories,Paradise Now,False
+60,2005,2006,78,FOREIGN LANGUAGE FILM,Germany,Sophie Scholl - The Final Days,False
+61,2005,2006,78,FOREIGN LANGUAGE FILM,South Africa,Tsotsi,True
+62,2005,2006,78,MAKEUP,Howard Berger and Tami Lane,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",True
+63,2005,2006,78,MAKEUP,David Leroy Anderson and Lance Anderson,Cinderella Man,False
+64,2005,2006,78,MAKEUP,Dave Elsey and Nikki Gooley,Star Wars: Episode III Revenge of the Sith,False
+65,2005,2006,78,MUSIC (Original Score),Gustavo Santaolalla,Brokeback Mountain,True
+66,2005,2006,78,MUSIC (Original Score),Alberto Iglesias,The Constant Gardener,False
+67,2005,2006,78,MUSIC (Original Score),John Williams,Memoirs of a Geisha,False
+68,2005,2006,78,MUSIC (Original Score),John Williams,Munich,False
+69,2005,2006,78,MUSIC (Original Score),Dario Marianelli,Pride & Prejudice,False
+70,2005,2006,78,MUSIC (Original Song),"Music by Kathleen ""Bird"" York and Michael Becker; Lyric by Kathleen ""Bird"" York",Crash,False
+71,2005,2006,78,MUSIC (Original Song),"Music and Lyric by Jordan Houston, Cedric Coleman and Paul Beauregard",Hustle & Flow,True
+72,2005,2006,78,MUSIC (Original Song),Music and Lyric by Dolly Parton,Transamerica,False
+73,2005,2006,78,BEST PICTURE,"Diana Ossana and James Schamus, Producers",Brokeback Mountain,False
+74,2005,2006,78,BEST PICTURE,"Caroline Baron, William Vince and Michael Ohoven, Producers",Capote,False
+75,2005,2006,78,BEST PICTURE,"Paul Haggis and Cathy Schulman, Producers",Crash,True
+76,2005,2006,78,BEST PICTURE,"Grant Heslov, Producer","Good Night, and Good Luck.",False
+77,2005,2006,78,BEST PICTURE,"Kathleen Kennedy, Steven Spielberg and Barry Mendel, Producers",Munich,False
+78,2005,2006,78,SHORT FILM (Animated),Sharon Colman,Badgered,False
+79,2005,2006,78,SHORT FILM (Animated),John Canemaker and Peggy Stern,The Moon and the Son: An Imagined Conversation,True
+80,2005,2006,78,SHORT FILM (Animated),Anthony Lucas,The Mysterious Geographic Explorations of Jasper Morello,False
+81,2005,2006,78,SHORT FILM (Animated),Shane Acker,9,False
+82,2005,2006,78,SHORT FILM (Animated),Andrew Jimenez and Mark Andrews,One Man Band,False
+83,2005,2006,78,SHORT FILM (Live Action),Ulrike Grote,Ausreisser (The Runaway),False
+84,2005,2006,78,SHORT FILM (Live Action),Sean Ellis and Lene Bausager,Cashback,False
+85,2005,2006,78,SHORT FILM (Live Action),Rúnar Rúnarsson and Thor S. Sigurjónsson,The Last Farm,False
+86,2005,2006,78,SHORT FILM (Live Action),Rob Pearlstein and Pia Clemente,Our Time Is Up,False
+87,2005,2006,78,SHORT FILM (Live Action),Martin McDonagh,Six Shooter,True
+88,2005,2006,78,SOUND EDITING,Mike Hopkins and Ethan Van der Ryn,King Kong,True
+89,2005,2006,78,SOUND EDITING,Wylie Stateman,Memoirs of a Geisha,False
+90,2005,2006,78,SOUND EDITING,Richard King,War of the Worlds,False
+91,2005,2006,78,SOUND MIXING,"Terry Porter, Dean A. Zupancic and Tony Johnson","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",False
+92,2005,2006,78,SOUND MIXING,"Christopher Boyes, Michael Semanick, Michael Hedges and Hammond Peek",King Kong,True
+93,2005,2006,78,SOUND MIXING,"Kevin O'Connell, Greg P. Russell, Rick Kline and John Pritchett",Memoirs of a Geisha,False
+94,2005,2006,78,SOUND MIXING,"Paul Massey, D.M. Hemphill and Peter F. Kurland",Walk the Line,False
+95,2005,2006,78,SOUND MIXING,"Andy Nelson, Anna Behlmer and Ronald Judkins",War of the Worlds,False
+96,2005,2006,78,VISUAL EFFECTS,"Dean Wright, Bill Westenhofer, Jim Berney and Scott Farrar","The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",False
+97,2005,2006,78,VISUAL EFFECTS,"Joe Letteri, Brian Van't Hul, Christian Rivers and Richard Taylor",King Kong,True
+98,2005,2006,78,VISUAL EFFECTS,"Dennis Muren, Pablo Helman, Randal M. Dutra and Daniel Sudick",War of the Worlds,False
+99,2005,2006,78,WRITING (Adapted Screenplay),Screenplay by Larry McMurtry & Diana Ossana,Brokeback Mountain,True
+100,2005,2006,78,WRITING (Adapted Screenplay),Screenplay by Dan Futterman,Capote,False
+101,2005,2006,78,WRITING (Adapted Screenplay),Screenplay by Jeffrey Caine,The Constant Gardener,False
+102,2005,2006,78,WRITING (Adapted Screenplay),Screenplay by Josh Olson,A History of Violence,False
+103,2005,2006,78,WRITING (Adapted Screenplay),Screenplay by Tony Kushner and Eric Roth,Munich,False
+104,2005,2006,78,WRITING (Original Screenplay),Screenplay by Paul Haggis & Bobby Moresco; Story by Paul Haggis,Crash,True
+105,2005,2006,78,WRITING (Original Screenplay),Screenplay by George Clooney & Grant Heslov,"Good Night, and Good Luck.",False
+106,2005,2006,78,WRITING (Original Screenplay),Written by Woody Allen,Match Point,False
+107,2005,2006,78,WRITING (Original Screenplay),Written by Noah Baumbach,The Squid and the Whale,False
+108,2005,2006,78,WRITING (Original Screenplay),Written by Stephen Gaghan,Syriana,False
+109,2005,2006,78,HONORARY AWARD, Robert Altman in recognition of a career that has repeatedly reinvented the art form and inspired filmmakers and audiences alike.,,True

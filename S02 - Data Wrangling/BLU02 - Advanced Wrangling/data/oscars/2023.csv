@@ -1,0 +1,127 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2022,2023,95,ACTOR IN A LEADING ROLE,Austin Butler,Elvis,False
+1,2022,2023,95,ACTOR IN A LEADING ROLE,Colin Farrell,The Banshees of Inisherin,False
+2,2022,2023,95,ACTOR IN A LEADING ROLE,Brendan Fraser,The Whale,True
+3,2022,2023,95,ACTOR IN A LEADING ROLE,Paul Mescal,Aftersun,False
+4,2022,2023,95,ACTOR IN A LEADING ROLE,Bill Nighy,Living,False
+5,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Brendan Gleeson,The Banshees of Inisherin,False
+6,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Brian Tyree Henry,Causeway,False
+7,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Judd Hirsch,The Fabelmans,False
+8,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Barry Keoghan,The Banshees of Inisherin,False
+9,2022,2023,95,ACTOR IN A SUPPORTING ROLE,Ke Huy Quan,Everything Everywhere All at Once,True
+10,2022,2023,95,ACTRESS IN A LEADING ROLE,Cate Blanchett,Tár,False
+11,2022,2023,95,ACTRESS IN A LEADING ROLE,Ana de Armas,Blonde,False
+12,2022,2023,95,ACTRESS IN A LEADING ROLE,Andrea Riseborough,To Leslie,False
+13,2022,2023,95,ACTRESS IN A LEADING ROLE,Michelle Williams,The Fabelmans,False
+14,2022,2023,95,ACTRESS IN A LEADING ROLE,Michelle Yeoh,Everything Everywhere All at Once,True
+15,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Angela Bassett,Black Panther: Wakanda Forever,False
+16,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Hong Chau,The Whale,False
+17,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Kerry Condon,The Banshees of Inisherin,False
+18,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Jamie Lee Curtis,Everything Everywhere All at Once,True
+19,2022,2023,95,ACTRESS IN A SUPPORTING ROLE,Stephanie Hsu,Everything Everywhere All at Once,False
+20,2022,2023,95,ANIMATED FEATURE FILM,"Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley",Guillermo del Toro's Pinocchio,True
+21,2022,2023,95,ANIMATED FEATURE FILM,"Dean Fleischer Camp, Elisabeth Holm, Andrew Goldman, Caroline Kaplan and Paul Mezey",Marcel the Shell with Shoes On,False
+22,2022,2023,95,ANIMATED FEATURE FILM,Joel Crawford and Mark Swift,Puss in Boots: The Last Wish,False
+23,2022,2023,95,ANIMATED FEATURE FILM,Chris Williams and Jed Schlanger,The Sea Beast,False
+24,2022,2023,95,ANIMATED FEATURE FILM,Domee Shi and Lindsey Collins,Turning Red,False
+25,2022,2023,95,CINEMATOGRAPHY,James Friend,All Quiet on the Western Front,True
+26,2022,2023,95,CINEMATOGRAPHY,Darius Khondji,"Bardo, False Chronicle of a Handful of Truths",False
+27,2022,2023,95,CINEMATOGRAPHY,Mandy Walker,Elvis,False
+28,2022,2023,95,CINEMATOGRAPHY,Roger Deakins,Empire of Light,False
+29,2022,2023,95,CINEMATOGRAPHY,Florian Hoffmeister,Tár,False
+30,2022,2023,95,COSTUME DESIGN,Mary Zophres,Babylon,False
+31,2022,2023,95,COSTUME DESIGN,Ruth Carter,Black Panther: Wakanda Forever,True
+32,2022,2023,95,COSTUME DESIGN,Catherine Martin,Elvis,False
+33,2022,2023,95,COSTUME DESIGN,Shirley Kurata,Everything Everywhere All at Once,False
+34,2022,2023,95,COSTUME DESIGN,Jenny Beavan,Mrs. Harris Goes to Paris,False
+35,2022,2023,95,DIRECTING,Martin McDonagh,The Banshees of Inisherin,False
+36,2022,2023,95,DIRECTING,Daniel Kwan and Daniel Scheinert,Everything Everywhere All at Once,True
+37,2022,2023,95,DIRECTING,Steven Spielberg,The Fabelmans,False
+38,2022,2023,95,DIRECTING,Todd Field,Tár,False
+39,2022,2023,95,DIRECTING,Ruben Östlund,Triangle of Sadness,False
+40,2022,2023,95,DOCUMENTARY FEATURE FILM,"Shaunak Sen, Aman Mann and Teddy Leifer",All That Breathes,False
+41,2022,2023,95,DOCUMENTARY FEATURE FILM,"Laura Poitras, Howard Gertler, John Lyons, Nan Goldin and Yoni Golijov",All the Beauty and the Bloodshed,False
+42,2022,2023,95,DOCUMENTARY FEATURE FILM,"Sara Dosa, Shane Boris and Ina Fichman",Fire of Love,False
+43,2022,2023,95,DOCUMENTARY FEATURE FILM,Simon Lereng Wilmont and Monica Hellström,A House Made of Splinters,False
+44,2022,2023,95,DOCUMENTARY FEATURE FILM,"Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris",Navalny,True
+45,2022,2023,95,DOCUMENTARY SHORT FILM,Kartiki Gonsalves and Guneet Monga,The Elephant Whisperers,True
+46,2022,2023,95,DOCUMENTARY SHORT FILM,Evgenia Arbugaeva and Maxim Arbugaev,Haulout,False
+47,2022,2023,95,DOCUMENTARY SHORT FILM,Jay Rosenblatt,How Do You Measure a Year?,False
+48,2022,2023,95,DOCUMENTARY SHORT FILM,Anne Alvergue and Beth Levison,The Martha Mitchell Effect,False
+49,2022,2023,95,DOCUMENTARY SHORT FILM,Joshua Seftel and Conall Jones,Stranger at the Gate,False
+50,2022,2023,95,FILM EDITING,Mikkel E.G. Nielsen,The Banshees of Inisherin,False
+51,2022,2023,95,FILM EDITING,Matt Villa and Jonathan Redmond,Elvis,False
+52,2022,2023,95,FILM EDITING,Paul Rogers,Everything Everywhere All at Once,True
+53,2022,2023,95,FILM EDITING,Monika Willi,Tár,False
+54,2022,2023,95,FILM EDITING,Eddie Hamilton,Top Gun: Maverick,False
+55,2022,2023,95,INTERNATIONAL FEATURE FILM,Germany,All Quiet on the Western Front,True
+56,2022,2023,95,INTERNATIONAL FEATURE FILM,Argentina,"Argentina, 1985",False
+57,2022,2023,95,INTERNATIONAL FEATURE FILM,Belgium,Close,False
+58,2022,2023,95,INTERNATIONAL FEATURE FILM,Poland,EO,False
+59,2022,2023,95,INTERNATIONAL FEATURE FILM,Ireland,The Quiet Girl,False
+60,2022,2023,95,MAKEUP AND HAIRSTYLING,Heike Merker and Linda Eisenhamerová,All Quiet on the Western Front,False
+61,2022,2023,95,MAKEUP AND HAIRSTYLING,"Naomi Donne, Mike Marino and Mike Fontaine",The Batman,False
+62,2022,2023,95,MAKEUP AND HAIRSTYLING,Camille Friend and Joel Harlow,Black Panther: Wakanda Forever,False
+63,2022,2023,95,MAKEUP AND HAIRSTYLING,"Mark Coulier, Jason Baird and Aldo Signoretti",Elvis,False
+64,2022,2023,95,MAKEUP AND HAIRSTYLING,"Adrien Morot, Judy Chin and Annemarie Bradley",The Whale,True
+65,2022,2023,95,MUSIC (Original Score),Volker Bertelmann,All Quiet on the Western Front,True
+66,2022,2023,95,MUSIC (Original Score),Justin Hurwitz,Babylon,False
+67,2022,2023,95,MUSIC (Original Score),Carter Burwell,The Banshees of Inisherin,False
+68,2022,2023,95,MUSIC (Original Score),Son Lux,Everything Everywhere All at Once,False
+69,2022,2023,95,MUSIC (Original Score),John Williams,The Fabelmans,False
+70,2022,2023,95,MUSIC (Original Song),Music and Lyric by Diane Warren,Tell It like a Woman,False
+71,2022,2023,95,MUSIC (Original Song),Music and Lyric by Lady Gaga and BloodPop,Top Gun: Maverick,False
+72,2022,2023,95,MUSIC (Original Song),"Music by Tems, Rihanna, Ryan Coogler and Ludwig Goransson; Lyric by Tems and Ryan Coogler",Black Panther: Wakanda Forever,False
+73,2022,2023,95,MUSIC (Original Song),Music by M.M. Keeravaani; Lyric by Chandrabose,RRR,True
+74,2022,2023,95,MUSIC (Original Song),"Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne",Everything Everywhere All at Once,False
+75,2022,2023,95,BEST PICTURE,"Malte Grunert, Producer",All Quiet on the Western Front,False
+76,2022,2023,95,BEST PICTURE,"James Cameron and Jon Landau, Producers",Avatar: The Way of Water,False
+77,2022,2023,95,BEST PICTURE,"Graham Broadbent, Pete Czernin and Martin McDonagh, Producers",The Banshees of Inisherin,False
+78,2022,2023,95,BEST PICTURE,"Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss, Producers",Elvis,False
+79,2022,2023,95,BEST PICTURE,"Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers",Everything Everywhere All at Once,True
+80,2022,2023,95,BEST PICTURE,"Kristie Macosko Krieger, Steven Spielberg and Tony Kushner, Producers",The Fabelmans,False
+81,2022,2023,95,BEST PICTURE,"Todd Field, Alexandra Milchan and Scott Lambert, Producers",Tár,False
+82,2022,2023,95,BEST PICTURE,"Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer, Producers",Top Gun: Maverick,False
+83,2022,2023,95,BEST PICTURE,"Erik Hemmendorff and Philippe Bober, Producers",Triangle of Sadness,False
+84,2022,2023,95,BEST PICTURE,"Dede Gardner, Jeremy Kleiner and Frances McDormand, Producers",Women Talking,False
+85,2022,2023,95,PRODUCTION DESIGN,Production Design: Christian M. Goldbeck; Set Decoration: Ernestine Hipper,All Quiet on the Western Front,True
+86,2022,2023,95,PRODUCTION DESIGN,Production Design: Dylan Cole and Ben Procter; Set Decoration: Vanessa Cole,Avatar: The Way of Water,False
+87,2022,2023,95,PRODUCTION DESIGN,Production Design: Florencia Martin; Set Decoration: Anthony Carlino,Babylon,False
+88,2022,2023,95,PRODUCTION DESIGN,Production Design: Catherine Martin and Karen Murphy; Set Decoration: Bev Dunn,Elvis,False
+89,2022,2023,95,PRODUCTION DESIGN,Production Design: Rick Carter; Set Decoration: Karen O'Hara,The Fabelmans,False
+90,2022,2023,95,SHORT FILM (Animated),Charlie Mackesy and Matthew Freud,"The Boy, the Mole, the Fox and the Horse",True
+91,2022,2023,95,SHORT FILM (Animated),Amanda Forbis and Wendy Tilby,The Flying Sailor,False
+92,2022,2023,95,SHORT FILM (Animated),João Gonzalez and Bruno Caetano,Ice Merchants,False
+93,2022,2023,95,SHORT FILM (Animated),Sara Gunnarsdóttir and Pamela Ribon,My Year of Dicks,False
+94,2022,2023,95,SHORT FILM (Animated),Lachlan Pendragon,An Ostrich Told Me the World Is Fake and I Think I Believe It,False
+95,2022,2023,95,SHORT FILM (Live Action),Tom Berkeley and Ross White,An Irish Goodbye,True
+96,2022,2023,95,SHORT FILM (Live Action),Anders Walter and Rebecca Pruzan,Ivalu,False
+97,2022,2023,95,SHORT FILM (Live Action),Alice Rohrwacher and Alfonso Cuarón,Le Pupille,False
+98,2022,2023,95,SHORT FILM (Live Action),Eirik Tveiten and Gaute Lid Larssen,Night Ride,False
+99,2022,2023,95,SHORT FILM (Live Action),Cyrus Neshvad,The Red Suitcase,False
+100,2022,2023,95,SOUND,"Viktor Prášil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte",All Quiet on the Western Front,False
+101,2022,2023,95,SOUND,"Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges",Avatar: The Way of Water,False
+102,2022,2023,95,SOUND,"Stuart Wilson, William Files, Douglas Murray and Andy Nelson",The Batman,False
+103,2022,2023,95,SOUND,"David Lee, Wayne Pashley, Andy Nelson and Michael Keller",Elvis,False
+104,2022,2023,95,SOUND,"Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor",Top Gun: Maverick,True
+105,2022,2023,95,VISUAL EFFECTS,"Frank Petzold, Viktor Müller, Markus Frank and Kamil Jafar",All Quiet on the Western Front,False
+106,2022,2023,95,VISUAL EFFECTS,"Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett",Avatar: The Way of Water,True
+107,2022,2023,95,VISUAL EFFECTS,"Dan Lemmon, Russell Earl, Anders Langlands and Dominic Tuohy",The Batman,False
+108,2022,2023,95,VISUAL EFFECTS,"Geoffrey Baumann, Craig Hammack, R. Christopher White and Dan Sudick",Black Panther: Wakanda Forever,False
+109,2022,2023,95,VISUAL EFFECTS,"Ryan Tudhope, Seth Hill, Bryan Litson and Scott R. Fisher",Top Gun: Maverick,False
+110,2022,2023,95,WRITING (Adapted Screenplay),"Screenplay - Edward Berger, Lesley Paterson & Ian Stokell",All Quiet on the Western Front,False
+111,2022,2023,95,WRITING (Adapted Screenplay),Written by Rian Johnson,Glass Onion: A Knives Out Mystery,False
+112,2022,2023,95,WRITING (Adapted Screenplay),Written by Kazuo Ishiguro,Living,False
+113,2022,2023,95,WRITING (Adapted Screenplay),Screenplay by Ehren Kruger and Eric Warren Singer and Christopher McQuarrie; Story by Peter Craig and Justin Marks,Top Gun: Maverick,False
+114,2022,2023,95,WRITING (Adapted Screenplay),Screenplay by Sarah Polley,Women Talking,True
+115,2022,2023,95,WRITING (Original Screenplay),Written by Martin McDonagh,The Banshees of Inisherin,False
+116,2022,2023,95,WRITING (Original Screenplay),Written by Daniel Kwan & Daniel Scheinert,Everything Everywhere All at Once,True
+117,2022,2023,95,WRITING (Original Screenplay),Written by Steven Spielberg & Tony Kushner,The Fabelmans,False
+118,2022,2023,95,WRITING (Original Screenplay),Written by Todd Field,Tár,False
+119,2022,2023,95,WRITING (Original Screenplay),Written by Ruben Östlund,Triangle of Sadness,False
+120,2022,2023,95,JEAN HERSHOLT HUMANITARIAN AWARD,,,True
+121,2022,2023,95,HONORARY AWARD,"To Euzhan Palcy, a masterful filmmaker who broke ground for Black women directors and inspired storytellers of all kinds across the globe.",,True
+122,2022,2023,95,HONORARY AWARD,"To Diane Warren, for her genius, generosity and passionate commitment to the power of song in film.",,True
+123,2022,2023,95,HONORARY AWARD,"To Peter Weir, a fearless and consummate filmmaker who has illuminated the human experience with his unique and expansive body of work.",,True
+124,2022,2023,95,GORDON E. SAWYER AWARD,Iain Neil,,True
+125,2022,2023,95,AWARD OF COMMENDATION,To Ryan Laney for his innovative adaptation and deployment of AI-driven facial veiling technology used to protect the identities while preserving the visual relatability of subjects in documentary filmmaking as exemplified in Welcome to Chechnya (2020).,Welcome to Chechnya,True

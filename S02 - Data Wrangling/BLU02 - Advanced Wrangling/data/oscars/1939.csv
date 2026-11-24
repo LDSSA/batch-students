@@ -1,0 +1,140 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1938,1939,11,ACTOR,Charles Boyer,Algiers,False
+1,1938,1939,11,ACTOR,James Cagney,Angels with Dirty Faces,False
+2,1938,1939,11,ACTOR,Robert Donat,The Citadel,False
+3,1938,1939,11,ACTOR,Leslie Howard,Pygmalion,False
+4,1938,1939,11,ACTOR,Spencer Tracy,Boys Town,True
+5,1938,1939,11,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Kentucky,True
+6,1938,1939,11,ACTOR IN A SUPPORTING ROLE,John Garfield,Four Daughters,False
+7,1938,1939,11,ACTOR IN A SUPPORTING ROLE,Gene Lockhart,Algiers,False
+8,1938,1939,11,ACTOR IN A SUPPORTING ROLE,Robert Morley,Marie Antoinette,False
+9,1938,1939,11,ACTOR IN A SUPPORTING ROLE,Basil Rathbone,If I Were King,False
+10,1938,1939,11,ACTRESS,Fay Bainter,White Banners,False
+11,1938,1939,11,ACTRESS,Bette Davis,Jezebel,True
+12,1938,1939,11,ACTRESS,Wendy Hiller,Pygmalion,False
+13,1938,1939,11,ACTRESS,Norma Shearer,Marie Antoinette,False
+14,1938,1939,11,ACTRESS,Margaret Sullavan,Three Comrades,False
+15,1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,Jezebel,True
+16,1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Beulah Bondi,Of Human Hearts,False
+17,1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Billie Burke,Merrily We Live,False
+18,1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Spring Byington,You Can't Take It with You,False
+19,1938,1939,11,ACTRESS IN A SUPPORTING ROLE,Miliza Korjus,The Great Waltz,False
+20,1938,1939,11,ART DIRECTION,Carl J. Weyl,The Adventures of Robin Hood,True
+21,1938,1939,11,ART DIRECTION,Lyle Wheeler,The Adventures of Tom Sawyer,False
+22,1938,1939,11,ART DIRECTION,"Bernard Herzbrun, Boris Leven",Alexander's Ragtime Band,False
+23,1938,1939,11,ART DIRECTION,Alexander Toluboff,Algiers,False
+24,1938,1939,11,ART DIRECTION,Van Nest Polglase,Carefree,False
+25,1938,1939,11,ART DIRECTION,Richard Day,The Goldwyn Follies,False
+26,1938,1939,11,ART DIRECTION,"Stephen Goosson, Lionel Banks",Holiday,False
+27,1938,1939,11,ART DIRECTION,"Hans Dreier, John Goodman",If I Were King,False
+28,1938,1939,11,ART DIRECTION,Jack Otterson,Mad about Music,False
+29,1938,1939,11,ART DIRECTION,Cedric Gibbons,Marie Antoinette,False
+30,1938,1939,11,ART DIRECTION,Charles D. Hall,Merrily We Live,False
+31,1938,1939,11,CINEMATOGRAPHY,James Wong Howe,Algiers,False
+32,1938,1939,11,CINEMATOGRAPHY,"Ernest Miller, Harry Wild",Army Girl,False
+33,1938,1939,11,CINEMATOGRAPHY,Victor Milner,The Buccaneer,False
+34,1938,1939,11,CINEMATOGRAPHY,Joseph Ruttenberg,The Great Waltz,True
+35,1938,1939,11,CINEMATOGRAPHY,Ernest Haller,Jezebel,False
+36,1938,1939,11,CINEMATOGRAPHY,Joseph Valentine,Mad about Music,False
+37,1938,1939,11,CINEMATOGRAPHY,Norbert Brodine,Merrily We Live,False
+38,1938,1939,11,CINEMATOGRAPHY,Peverell Marley,Suez,False
+39,1938,1939,11,CINEMATOGRAPHY,Robert de Grasse,Vivacious Lady,False
+40,1938,1939,11,CINEMATOGRAPHY,Joseph Walker,You Can't Take It with You,False
+41,1938,1939,11,CINEMATOGRAPHY,Leon Shamroy,The Young in Heart,False
+42,1938,1939,11,DIRECTING,Michael Curtiz,Angels with Dirty Faces,False
+43,1938,1939,11,DIRECTING,Norman Taurog,Boys Town,False
+44,1938,1939,11,DIRECTING,King Vidor,The Citadel,False
+45,1938,1939,11,DIRECTING,Michael Curtiz,Four Daughters,False
+46,1938,1939,11,DIRECTING,Frank Capra,You Can't Take It with You,True
+47,1938,1939,11,FILM EDITING,Ralph Dawson,The Adventures of Robin Hood,True
+48,1938,1939,11,FILM EDITING,Barbara McLean,Alexander's Ragtime Band,False
+49,1938,1939,11,FILM EDITING,Tom Held,The Great Waltz,False
+50,1938,1939,11,FILM EDITING,Tom Held,Test Pilot,False
+51,1938,1939,11,FILM EDITING,Gene Havlick,You Can't Take It with You,False
+52,1938,1939,11,MUSIC (Original Score),Erich Wolfgang Korngold,The Adventures of Robin Hood,True
+53,1938,1939,11,MUSIC (Original Score),Victor Young,Army Girl,False
+54,1938,1939,11,MUSIC (Original Score),Marvin Hatley,Block-Heads,False
+55,1938,1939,11,MUSIC (Original Score),Werner Janssen,Blockade,False
+56,1938,1939,11,MUSIC (Original Score),Victor Young,Breaking the Ice,False
+57,1938,1939,11,MUSIC (Original Score),Alfred Newman,The Cowboy and the Lady,False
+58,1938,1939,11,MUSIC (Original Score),Richard Hageman,If I Were King,False
+59,1938,1939,11,MUSIC (Original Score),Herbert Stothart,Marie Antoinette,False
+60,1938,1939,11,MUSIC (Original Score),Russell Bennett,Pacific Liner,False
+61,1938,1939,11,MUSIC (Original Score),Louis Silvers,Suez,False
+62,1938,1939,11,MUSIC (Original Score),Franz Waxman,The Young in Heart,False
+63,1938,1939,11,MUSIC (Scoring),Alfred Newman,Alexander's Ragtime Band,True
+64,1938,1939,11,MUSIC (Scoring),Victor Baravalle,Carefree,False
+65,1938,1939,11,MUSIC (Scoring),"Morris Stoloff, Gregory Stone",Girls' School,False
+66,1938,1939,11,MUSIC (Scoring),Alfred Newman,The Goldwyn Follies,False
+67,1938,1939,11,MUSIC (Scoring),Max Steiner,Jezebel,False
+68,1938,1939,11,MUSIC (Scoring),"Charles Previn, Frank Skinner",Mad about Music,False
+69,1938,1939,11,MUSIC (Scoring),Cy Feuer,Storm over Bengal,False
+70,1938,1939,11,MUSIC (Scoring),Herbert Stothart,Sweethearts,False
+71,1938,1939,11,MUSIC (Scoring),Marvin Hatley,There Goes My Heart,False
+72,1938,1939,11,MUSIC (Scoring),Boris Morros,Tropic Holiday,False
+73,1938,1939,11,MUSIC (Scoring),Franz Waxman,The Young in Heart,False
+74,1938,1939,11,MUSIC (Song),Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright,Mannequin,False
+75,1938,1939,11,MUSIC (Song),Music and Lyrics by Irving Berlin,Carefree,False
+76,1938,1939,11,MUSIC (Song),Music by Lionel Newman; Lyrics by Arthur Quenzer,The Cowboy and the Lady,False
+77,1938,1939,11,MUSIC (Song),Music and Lyrics by Johnny Marvin,Under Western Stars,False
+78,1938,1939,11,MUSIC (Song),Music by Harry Warren; Lyrics by Johnny Mercer,Going Places,False
+79,1938,1939,11,MUSIC (Song),Music by Phil Charig; Lyrics by Arthur Quenzer,Merrily We Live,False
+80,1938,1939,11,MUSIC (Song),Music by Ben Oakland; Lyrics by Oscar Hammerstein II,The Lady Objects,False
+81,1938,1939,11,MUSIC (Song),Music by Jimmy McHugh; Lyrics by Harold Adamson,That Certain Age,False
+82,1938,1939,11,MUSIC (Song),Music and Lyrics by Irving Berlin,Alexander's Ragtime Band,False
+83,1938,1939,11,MUSIC (Song),Music by Ralph Rainger; Lyrics by Leo Robin,The Big Broadcast of 1938,True
+84,1938,1939,11,OUTSTANDING PRODUCTION,Warner Bros.-First National,The Adventures of Robin Hood,False
+85,1938,1939,11,OUTSTANDING PRODUCTION,20th Century-Fox,Alexander's Ragtime Band,False
+86,1938,1939,11,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Boys Town,False
+87,1938,1939,11,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Citadel,False
+88,1938,1939,11,OUTSTANDING PRODUCTION,Warner Bros.-First National,Four Daughters,False
+89,1938,1939,11,OUTSTANDING PRODUCTION,Realization D'Art Cinematographique,Grand Illusion,False
+90,1938,1939,11,OUTSTANDING PRODUCTION,Warner Bros.,Jezebel,False
+91,1938,1939,11,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Pygmalion,False
+92,1938,1939,11,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Test Pilot,False
+93,1938,1939,11,OUTSTANDING PRODUCTION,Columbia,You Can't Take It with You,True
+94,1938,1939,11,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Brave Little Tailor,False
+95,1938,1939,11,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Ferdinand the Bull,True
+96,1938,1939,11,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Good Scouts,False
+97,1938,1939,11,SHORT SUBJECT (Cartoon),Paramount,Hunky and Spunky,False
+98,1938,1939,11,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mother Goose Goes Hollywood,False
+99,1938,1939,11,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,The Great Heart,False
+100,1938,1939,11,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,That Mothers Might Live,True
+101,1938,1939,11,SHORT SUBJECT (One-reel),20th Century-Fox,Timber Toppers,False
+102,1938,1939,11,SHORT SUBJECT (Two-reel),Warner Bros.,Declaration of Independence,True
+103,1938,1939,11,SHORT SUBJECT (Two-reel),Warner Bros.,Swingtime in the Movies,False
+104,1938,1939,11,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,They're Always Caught,False
+105,1938,1939,11,SOUND RECORDING,"Republic Studio Sound Department, Charles L. Lootens, Sound Director",Army Girl,False
+106,1938,1939,11,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",The Cowboy and the Lady,True
+107,1938,1939,11,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Four Daughters,False
+108,1938,1939,11,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",If I Were King,False
+109,1938,1939,11,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",Merrily We Live,False
+110,1938,1939,11,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Edmund H. Hansen, Sound Director",Suez,False
+111,1938,1939,11,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Sweethearts,False
+112,1938,1939,11,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",That Certain Age,False
+113,1938,1939,11,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",Vivacious Lady,False
+114,1938,1939,11,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",You Can't Take It with You,False
+115,1938,1939,11,WRITING (Original Story),Irving Berlin,Alexander's Ragtime Band,False
+116,1938,1939,11,WRITING (Original Story),Rowland Brown,Angels with Dirty Faces,False
+117,1938,1939,11,WRITING (Original Story),John Howard Lawson,Blockade,False
+118,1938,1939,11,WRITING (Original Story),"Dore Schary, Eleanore Griffin",Boys Town,True
+119,1938,1939,11,WRITING (Original Story),"Marcella Burke, Frederick Kohner",Mad about Music,False
+120,1938,1939,11,WRITING (Original Story),Frank Wead,Test Pilot,False
+121,1938,1939,11,WRITING (Screenplay),"John Meehan, Dore Schary",Boys Town,False
+122,1938,1939,11,WRITING (Screenplay),"Ian Dalrymple, Frank Wead, Elizabeth Hill",The Citadel,False
+123,1938,1939,11,WRITING (Screenplay),"Julius J. Epstein, Lenore Coffee",Four Daughters,False
+124,1938,1939,11,WRITING (Screenplay),"Screenplay and Dialogue by George Bernard Shaw; Adaptation by W. P. Lipscomb, Cecil Lewis, Ian Dalrymple",Pygmalion,True
+125,1938,1939,11,WRITING (Screenplay),Robert Riskin,You Can't Take It with You,False
+126,1938,1939,11,SPECIAL AWARD, Deanna Durbin and Mickey Rooney for their significant contribution in bringing to the screen the spirit and personification of youth,,True
+127,1938,1939,11,SPECIAL AWARD, Harry M. Warner in recognition of patriotic service in the production of historical short subjects presenting significant episodes in the early struggle of the American people for liberty.,,True
+128,1938,1939,11,SPECIAL AWARD, Walt Disney for Snow White and the Seven Dwarfs,,True
+129,1938,1939,11,SPECIAL AWARD, Oliver Marsh and Allen Davey for the color cinematography of the Metro-Goldwyn-Mayer production,,True
+130,1938,1939,11,SPECIAL AWARD,For outstanding achievement in creating Special Photographic and Sound Effects in the Paramount production,,True
+131,1938,1939,11,SPECIAL AWARD, J. Arthur Ball for his outstanding contributions to the advancement of color in Motion Picture Photography.,,True
+132,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Samuel Goldwyn,,False
+133,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Joe Pasternak,,False
+134,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,David O. Selznick,,False
+135,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Hunt Stromberg,,False
+136,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Hal B. Wallis,,True
+137,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Walter Wanger,,False
+138,1938,1939,11,IRVING G. THALBERG MEMORIAL AWARD,Darryl F. Zanuck,,False

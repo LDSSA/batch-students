@@ -1,0 +1,108 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1936,1937,9,ACTOR,Gary Cooper,Mr. Deeds Goes to Town,False
+1,1936,1937,9,ACTOR,Walter Huston,Dodsworth,False
+2,1936,1937,9,ACTOR,Paul Muni,The Story of Louis Pasteur,True
+3,1936,1937,9,ACTOR,William Powell,My Man Godfrey,False
+4,1936,1937,9,ACTOR,Spencer Tracy,San Francisco,False
+5,1936,1937,9,ACTOR IN A SUPPORTING ROLE,Mischa Auer,My Man Godfrey,False
+6,1936,1937,9,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Come and Get It,True
+7,1936,1937,9,ACTOR IN A SUPPORTING ROLE,Stuart Erwin,Pigskin Parade,False
+8,1936,1937,9,ACTOR IN A SUPPORTING ROLE,Basil Rathbone,Romeo and Juliet,False
+9,1936,1937,9,ACTOR IN A SUPPORTING ROLE,Akim Tamiroff,The General Died at Dawn,False
+10,1936,1937,9,ACTRESS,Irene Dunne,Theodora Goes Wild,False
+11,1936,1937,9,ACTRESS,Gladys George,Valiant Is the Word for Carrie,False
+12,1936,1937,9,ACTRESS,Carole Lombard,My Man Godfrey,False
+13,1936,1937,9,ACTRESS,Luise Rainer,The Great Ziegfeld,True
+14,1936,1937,9,ACTRESS,Norma Shearer,Romeo and Juliet,False
+15,1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Beulah Bondi,The Gorgeous Hussy,False
+16,1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Alice Brady,My Man Godfrey,False
+17,1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Bonita Granville,These Three,False
+18,1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Maria Ouspenskaya,Dodsworth,False
+19,1936,1937,9,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anthony Adverse,True
+20,1936,1937,9,ART DIRECTION,Anton Grot,Anthony Adverse,False
+21,1936,1937,9,ART DIRECTION,Richard Day,Dodsworth,True
+22,1936,1937,9,ART DIRECTION,"Cedric Gibbons, Eddie Imazu, Edwin B. Willis",The Great Ziegfeld,False
+23,1936,1937,9,ART DIRECTION,William S. Darling,Lloyds of London,False
+24,1936,1937,9,ART DIRECTION,"Albert S. D'Agostino, Jack Otterson",The Magnificent Brute,False
+25,1936,1937,9,ART DIRECTION,"Cedric Gibbons, Fredric Hope, Edwin B. Willis",Romeo and Juliet,False
+26,1936,1937,9,ART DIRECTION,Perry Ferguson,Winterset,False
+27,1936,1937,9,ASSISTANT DIRECTOR,William Cannon,Anthony Adverse,False
+28,1936,1937,9,ASSISTANT DIRECTOR,Jack Sullivan,The Charge of the Light Brigade,True
+29,1936,1937,9,ASSISTANT DIRECTOR,Eric G. Stacey,The Garden of Allah,False
+30,1936,1937,9,ASSISTANT DIRECTOR,Clem Beauchamp,The Last of the Mohicans,False
+31,1936,1937,9,ASSISTANT DIRECTOR,Joseph Newman,San Francisco,False
+32,1936,1937,9,CINEMATOGRAPHY,Gaetano Gaudio,Anthony Adverse,True
+33,1936,1937,9,CINEMATOGRAPHY,Victor Milner,The General Died at Dawn,False
+34,1936,1937,9,CINEMATOGRAPHY,George Folsey,The Gorgeous Hussy,False
+35,1936,1937,9,DANCE DIRECTION,Busby Berkeley,Gold Diggers of 1937,False
+36,1936,1937,9,DANCE DIRECTION,Bobby Connolly,Cain and Mabel,False
+37,1936,1937,9,DANCE DIRECTION,Seymour Felix,The Great Ziegfeld,True
+38,1936,1937,9,DANCE DIRECTION,Dave Gould,Born to Dance,False
+39,1936,1937,9,DANCE DIRECTION,Jack Haskell,One in a Million,False
+40,1936,1937,9,DANCE DIRECTION,Russell Lewis,Dancing Pirate,False
+41,1936,1937,9,DANCE DIRECTION,Hermes Pan,Swing Time,False
+42,1936,1937,9,DIRECTING,William Wyler,Dodsworth,False
+43,1936,1937,9,DIRECTING,Robert Z. Leonard,The Great Ziegfeld,False
+44,1936,1937,9,DIRECTING,Frank Capra,Mr. Deeds Goes to Town,True
+45,1936,1937,9,DIRECTING,Gregory La Cava,My Man Godfrey,False
+46,1936,1937,9,DIRECTING,W. S. Van Dyke,San Francisco,False
+47,1936,1937,9,FILM EDITING,Ralph Dawson,Anthony Adverse,True
+48,1936,1937,9,FILM EDITING,Edward Curtiss,Come and Get It,False
+49,1936,1937,9,FILM EDITING,William S. Gray,The Great Ziegfeld,False
+50,1936,1937,9,FILM EDITING,Barbara McLean,Lloyds of London,False
+51,1936,1937,9,FILM EDITING,Conrad A. Nervig,A Tale of Two Cities,False
+52,1936,1937,9,FILM EDITING,Otto Meyer,Theodora Goes Wild,False
+53,1936,1937,9,MUSIC (Scoring),"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Erich Wolfgang Korngold)",Anthony Adverse,True
+54,1936,1937,9,MUSIC (Scoring),"Warner Bros. Studio Music Department, Leo Forbstein, head of department  (Score by Max Steiner)",The Charge of the Light Brigade,False
+55,1936,1937,9,MUSIC (Scoring),"Selznick International Pictures Music Department, Max Steiner, head of department  (Score by Max Steiner)",The Garden of Allah,False
+56,1936,1937,9,MUSIC (Scoring),"Paramount Studio Music Department, Boris Morros, head of department  (Score by Werner Janssen)",The General Died at Dawn,False
+57,1936,1937,9,MUSIC (Scoring),"RKO Radio Studio Music Department, Nathaniel Shilkret, head of department  (Score by Nathaniel Shilkret)",Winterset,False
+58,1936,1937,9,MUSIC (Song),Music by Walter Donaldson; Lyrics by Harold Adamson,Suzy,False
+59,1936,1937,9,MUSIC (Song),Music and Lyrics by Cole Porter,Born to Dance,False
+60,1936,1937,9,MUSIC (Song),Music by Louis Alter; Lyrics by Sidney Mitchell,Trail of the Lonesome Pine,False
+61,1936,1937,9,MUSIC (Song),Music by Arthur Johnston; Lyrics by Johnny Burke,Pennies from Heaven,False
+62,1936,1937,9,MUSIC (Song),Music by Jerome Kern; Lyrics by Dorothy Fields,Swing Time,True
+63,1936,1937,9,MUSIC (Song),Music by Richard A. Whiting; Lyrics by Walter Bullock,"Sing, Baby, Sing",False
+64,1936,1937,9,OUTSTANDING PRODUCTION,Warner Bros.,Anthony Adverse,False
+65,1936,1937,9,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Dodsworth,False
+66,1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Great Ziegfeld,True
+67,1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Libeled Lady,False
+68,1936,1937,9,OUTSTANDING PRODUCTION,Columbia,Mr. Deeds Goes to Town,False
+69,1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Romeo and Juliet,False
+70,1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,San Francisco,False
+71,1936,1937,9,OUTSTANDING PRODUCTION,Cosmopolitan,The Story of Louis Pasteur,False
+72,1936,1937,9,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,A Tale of Two Cities,False
+73,1936,1937,9,OUTSTANDING PRODUCTION,Universal,Three Smart Girls,False
+74,1936,1937,9,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Country Cousin,True
+75,1936,1937,9,SHORT SUBJECT (Cartoon),Harman-Ising,Old Mill Pond,False
+76,1936,1937,9,SHORT SUBJECT (Cartoon),Paramount,Sinbad the Sailor,False
+77,1936,1937,9,SHORT SUBJECT (Color),Warner Bros.,Give Me Liberty,True
+78,1936,1937,9,SHORT SUBJECT (Color),"Lewis Lewyn, Producer",La Fiesta de Santa Barbara,False
+79,1936,1937,9,SHORT SUBJECT (Color),Paramount,Popular Science J-6-2,False
+80,1936,1937,9,SHORT SUBJECT (One-reel),"Hal Roach, Producer",Bored of Education,True
+81,1936,1937,9,SHORT SUBJECT (One-reel),Paramount,Moscow Moods,False
+82,1936,1937,9,SHORT SUBJECT (One-reel),"Pete Smith, Producer","Wanted, a Master",False
+83,1936,1937,9,SHORT SUBJECT (Two-reel),Warner Bros.,Double or Nothing,False
+84,1936,1937,9,SHORT SUBJECT (Two-reel),RKO Radio,Dummy Ache,False
+85,1936,1937,9,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,The Public Pays,True
+86,1936,1937,9,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Banjo on My Knee,False
+87,1936,1937,9,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",The Charge of the Light Brigade,False
+88,1936,1937,9,SOUND RECORDING,"United Artists Studio Sound Department, Thomas T. Moulton, Sound Director",Dodsworth,False
+89,1936,1937,9,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",General Spanky,False
+90,1936,1937,9,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Mr. Deeds Goes to Town,False
+91,1936,1937,9,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",San Francisco,True
+92,1936,1937,9,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",The Texas Rangers,False
+93,1936,1937,9,SOUND RECORDING,"RKO Radio Studio Sound Department, J. O. Aalberg, Sound Director",That Girl from Paris,False
+94,1936,1937,9,SOUND RECORDING,"Universal Studio Sound Department, Homer G. Tasker, Sound Director",Three Smart Girls,False
+95,1936,1937,9,WRITING (Original Story),Norman Krasna,Fury,False
+96,1936,1937,9,WRITING (Original Story),William Anthony McGuire,The Great Ziegfeld,False
+97,1936,1937,9,WRITING (Original Story),Robert Hopkins,San Francisco,False
+98,1936,1937,9,WRITING (Original Story),"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True
+99,1936,1937,9,WRITING (Original Story),Adele Comandini,Three Smart Girls,False
+100,1936,1937,9,WRITING (Screenplay),"Frances Goodrich, Albert Hackett",After the Thin Man,False
+101,1936,1937,9,WRITING (Screenplay),Sidney Howard,Dodsworth,False
+102,1936,1937,9,WRITING (Screenplay),Robert Riskin,Mr. Deeds Goes to Town,False
+103,1936,1937,9,WRITING (Screenplay),"Eric Hatch, Morris Ryskind",My Man Godfrey,False
+104,1936,1937,9,WRITING (Screenplay),"Pierre Collings, Sheridan Gibney",The Story of Louis Pasteur,True
+105,1936,1937,9,SPECIAL AWARD, The March of Time for its significance to motion pictures and for having revolutionized one of the most important branches of the industry - the newsreel.,,True
+106,1936,1937,9,SPECIAL AWARD, W. Howard Greene and Harold Rosson for the color cinematography of the Selznick International Production,,True

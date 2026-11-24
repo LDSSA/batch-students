@@ -1,0 +1,108 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1986,1987,59,ACTOR IN A LEADING ROLE,Dexter Gordon,'Round Midnight,False
+1,1986,1987,59,ACTOR IN A LEADING ROLE,Bob Hoskins,Mona Lisa,False
+2,1986,1987,59,ACTOR IN A LEADING ROLE,William Hurt,Children of a Lesser God,False
+3,1986,1987,59,ACTOR IN A LEADING ROLE,Paul Newman,The Color of Money,True
+4,1986,1987,59,ACTOR IN A LEADING ROLE,James Woods,Salvador,False
+5,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Tom Berenger,Platoon,False
+6,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Michael Caine,Hannah and Her Sisters,True
+7,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,Platoon,False
+8,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Denholm Elliott,A Room with a View,False
+9,1986,1987,59,ACTOR IN A SUPPORTING ROLE,Dennis Hopper,Hoosiers,False
+10,1986,1987,59,ACTRESS IN A LEADING ROLE,Jane Fonda,The Morning After,False
+11,1986,1987,59,ACTRESS IN A LEADING ROLE,Marlee Matlin,Children of a Lesser God,True
+12,1986,1987,59,ACTRESS IN A LEADING ROLE,Sissy Spacek,Crimes of the Heart,False
+13,1986,1987,59,ACTRESS IN A LEADING ROLE,Kathleen Turner,Peggy Sue Got Married,False
+14,1986,1987,59,ACTRESS IN A LEADING ROLE,Sigourney Weaver,Aliens,False
+15,1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Tess Harper,Crimes of the Heart,False
+16,1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Piper Laurie,Children of a Lesser God,False
+17,1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Mary Elizabeth Mastrantonio,The Color of Money,False
+18,1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,A Room with a View,False
+19,1986,1987,59,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Hannah and Her Sisters,True
+20,1986,1987,59,ART DIRECTION,Art Direction:  Peter Lamont;  Set Decoration:  Crispian Sallis,Aliens,False
+21,1986,1987,59,ART DIRECTION,Art Direction:  Boris Leven;  Set Decoration:  Karen A. O'Hara,The Color of Money,False
+22,1986,1987,59,ART DIRECTION,Art Direction:  Stuart Wurtzel;  Set Decoration:  Carol Joffe,Hannah and Her Sisters,False
+23,1986,1987,59,ART DIRECTION,Art Direction:  Stuart Craig;  Set Decoration:  Jack Stephens,The Mission,False
+24,1986,1987,59,ART DIRECTION,"Art Direction:  Gianni Quaranta, Brian Ackland-Snow;  Set Decoration:  Brian Savegar, Elio Altamura",A Room with a View,True
+25,1986,1987,59,CINEMATOGRAPHY,Chris Menges,The Mission,True
+26,1986,1987,59,CINEMATOGRAPHY,Jordan Cronenweth,Peggy Sue Got Married,False
+27,1986,1987,59,CINEMATOGRAPHY,Robert Richardson,Platoon,False
+28,1986,1987,59,CINEMATOGRAPHY,Tony Pierce-Roberts,A Room with a View,False
+29,1986,1987,59,CINEMATOGRAPHY,Don Peterman,Star Trek IV: The Voyage Home,False
+30,1986,1987,59,COSTUME DESIGN,Enrico Sabbatini,The Mission,False
+31,1986,1987,59,COSTUME DESIGN,"Anna Anni, Maurizio Millenotti",Otello,False
+32,1986,1987,59,COSTUME DESIGN,Theadora Van Runkle,Peggy Sue Got Married,False
+33,1986,1987,59,COSTUME DESIGN,Anthony Powell,Pirates,False
+34,1986,1987,59,COSTUME DESIGN,"Jenny Beavan, John Bright",A Room with a View,True
+35,1986,1987,59,DIRECTING,David Lynch,Blue Velvet,False
+36,1986,1987,59,DIRECTING,Woody Allen,Hannah and Her Sisters,False
+37,1986,1987,59,DIRECTING,Roland Joffé,The Mission,False
+38,1986,1987,59,DIRECTING,Oliver Stone,Platoon,True
+39,1986,1987,59,DIRECTING,James Ivory,A Room with a View,False
+40,1986,1987,59,DOCUMENTARY (Feature),"Brigitte Berman, Producer",Artie Shaw: Time Is All You've Got,True
+41,1986,1987,59,DOCUMENTARY (Feature),"David Bradbury, Producer",Chile: Hasta Cuando?,False
+42,1986,1987,59,DOCUMENTARY (Feature),"Joseph Feury and Milton Justice, Producers",Down and Out in America,True
+43,1986,1987,59,DOCUMENTARY (Feature),"Kirk Simon and Amram Nowak, Producers",Isaac in America: A Journey with Isaac Bashevis Singer,False
+44,1986,1987,59,DOCUMENTARY (Feature),"Sharon I. Sopher, Producer",Witness to Apartheid,False
+45,1986,1987,59,DOCUMENTARY (Short Subject),"Alison Nigh-Strelich, Producer",Debonair Dancers,False
+46,1986,1987,59,DOCUMENTARY (Short Subject),"Sonya Friedman, Producer",The Masters of Disaster,False
+47,1986,1987,59,DOCUMENTARY (Short Subject),"Thomas L. Neff and Madeline Bell, Producers",Red Grooms: Sunflower in a Hothouse,False
+48,1986,1987,59,DOCUMENTARY (Short Subject),"Aaron D. Weisblatt, Producer",Sam,False
+49,1986,1987,59,DOCUMENTARY (Short Subject),"Vivienne Verdon-Roe, Producer","Women--for America, for the World",True
+50,1986,1987,59,FILM EDITING,Ray Lovejoy,Aliens,False
+51,1986,1987,59,FILM EDITING,Susan E. Morse,Hannah and Her Sisters,False
+52,1986,1987,59,FILM EDITING,Jim Clark,The Mission,False
+53,1986,1987,59,FILM EDITING,Claire Simpson,Platoon,True
+54,1986,1987,59,FILM EDITING,"Billy Weber, Chris Lebenzon",Top Gun,False
+55,1986,1987,59,FOREIGN LANGUAGE FILM,The Netherlands,The Assault,True
+56,1986,1987,59,FOREIGN LANGUAGE FILM,France,Betty Blue,False
+57,1986,1987,59,FOREIGN LANGUAGE FILM,Canada,The Decline of the American Empire,False
+58,1986,1987,59,FOREIGN LANGUAGE FILM,Czechoslovakia,My Sweet Little Village,False
+59,1986,1987,59,FOREIGN LANGUAGE FILM,Austria,'38',False
+60,1986,1987,59,MAKEUP,"Michael G. Westmore, Michèle Burke",The Clan of the Cave Bear,False
+61,1986,1987,59,MAKEUP,"Chris Walas, Stephan Dupuis",The Fly,True
+62,1986,1987,59,MAKEUP,"Rob Bottin, Peter Robb-King",Legend,False
+63,1986,1987,59,MUSIC (Original Score),James Horner,Aliens,False
+64,1986,1987,59,MUSIC (Original Score),Jerry Goldsmith,Hoosiers,False
+65,1986,1987,59,MUSIC (Original Score),Ennio Morricone,The Mission,False
+66,1986,1987,59,MUSIC (Original Score),Herbie Hancock,'Round Midnight,True
+67,1986,1987,59,MUSIC (Original Score),Leonard Rosenman,Star Trek IV: The Voyage Home,False
+68,1986,1987,59,MUSIC (Original Song),Music by Peter Cetera and David Foster; Lyric by Peter Cetera and Diane Nini,The Karate Kid Part II,False
+69,1986,1987,59,MUSIC (Original Song),Music by Henry Mancini; Lyric by Leslie Bricusse,That's Life,False
+70,1986,1987,59,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,Little Shop of Horrors,False
+71,1986,1987,59,MUSIC (Original Song),Music by James Horner and Barry Mann; Lyric by Cynthia Weil,An American Tail,False
+72,1986,1987,59,MUSIC (Original Song),Music by Giorgio Moroder; Lyric by Tom Whitlock,Top Gun,True
+73,1986,1987,59,BEST PICTURE,"Burt Sugarman and Patrick Palmer, Producers",Children of a Lesser God,False
+74,1986,1987,59,BEST PICTURE,"Robert Greenhut, Producer",Hannah and Her Sisters,False
+75,1986,1987,59,BEST PICTURE,"Fernando Ghia and David Puttnam, Producers",The Mission,False
+76,1986,1987,59,BEST PICTURE,"Arnold Kopelson, Producer",Platoon,True
+77,1986,1987,59,BEST PICTURE,"Ismail Merchant, Producer",A Room with a View,False
+78,1986,1987,59,SHORT FILM (Animated),"Bob Stenhouse, Producer","The Frog, the Dog and the Devil",False
+79,1986,1987,59,SHORT FILM (Animated),"Linda Van Tulden and Willem Thijssen, Producers",A Greek Tragedy,True
+80,1986,1987,59,SHORT FILM (Animated),"John Lasseter and William Reeves, Producers",Luxo Jr.,False
+81,1986,1987,59,SHORT FILM (Live Action),"Stefano Reali and Pino Quartullo, Producers",Exit,False
+82,1986,1987,59,SHORT FILM (Live Action),"Fredda Weiss, Producer",Love Struck,False
+83,1986,1987,59,SHORT FILM (Live Action),"Chuck Workman, Producer",Precious Images,True
+84,1986,1987,59,SOUND,"Graham V. Hartstone, Nicolas Le Messurier, Michael A. Carter, Roy Charman",Aliens,False
+85,1986,1987,59,SOUND,"Les Fresholtz, Dick Alexander, Vern Poore, William Nelson",Heartbreak Ridge,False
+86,1986,1987,59,SOUND,"John K. Wilkinson, Richard Rogers, Charles 'Bud' Grenzbach,  Simon Kaye",Platoon,True
+87,1986,1987,59,SOUND,"Terry Porter, Dave Hudson, Mel Metcalfe, Gene S. Cantamessa",Star Trek IV: The Voyage Home,False
+88,1986,1987,59,SOUND,"Donald O. Mitchell, Kevin O'Connell, Rick Kline, William B. Kaplan",Top Gun,False
+89,1986,1987,59,SOUND EFFECTS EDITING,Don Sharpe,Aliens,True
+90,1986,1987,59,SOUND EFFECTS EDITING,Mark Mangini,Star Trek IV: The Voyage Home,False
+91,1986,1987,59,SOUND EFFECTS EDITING,"Cecelia Hall, George Watters II",Top Gun,False
+92,1986,1987,59,VISUAL EFFECTS,"Robert Skotak, Stan Winston, John Richardson, Suzanne Benson",Aliens,True
+93,1986,1987,59,VISUAL EFFECTS,"Lyle Conway, Bran Ferren, Martin Gutteridge",Little Shop of Horrors,False
+94,1986,1987,59,VISUAL EFFECTS,"Richard Edlund, John Bruno, Garry Waller, William Neil",Poltergeist II: The Other Side,False
+95,1986,1987,59,WRITING (Screenplay Based on Material from Another Medium),"Hesper Anderson, Mark Medoff",Children of a Lesser God,False
+96,1986,1987,59,WRITING (Screenplay Based on Material from Another Medium),Richard Price,The Color of Money,False
+97,1986,1987,59,WRITING (Screenplay Based on Material from Another Medium),Beth Henley,Crimes of the Heart,False
+98,1986,1987,59,WRITING (Screenplay Based on Material from Another Medium),Ruth Prawer Jhabvala,A Room with a View,True
+99,1986,1987,59,WRITING (Screenplay Based on Material from Another Medium),"Raynold Gideon, Bruce A. Evans",Stand by Me,False
+100,1986,1987,59,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Paul Hogan, Ken Shadie, John Cornell;  Story by Paul Hogan",'Crocodile' Dundee,False
+101,1986,1987,59,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Hannah and Her Sisters,True
+102,1986,1987,59,WRITING (Screenplay Written Directly for the Screen),Hanif Kureishi,My Beautiful Laundrette,False
+103,1986,1987,59,WRITING (Screenplay Written Directly for the Screen),Oliver Stone,Platoon,False
+104,1986,1987,59,WRITING (Screenplay Written Directly for the Screen),"Oliver Stone, Richard Boyle",Salvador,False
+105,1986,1987,59,HONORARY AWARD, Ralph Bellamy for his unique artistry and his distinguished service to the profession of acting.,,True
+106,1986,1987,59,IRVING G. THALBERG MEMORIAL AWARD,Steven Spielberg,,True

@@ -1,0 +1,112 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1958,1959,31,ACTOR,Tony Curtis,The Defiant Ones,False
+1,1958,1959,31,ACTOR,Paul Newman,Cat on a Hot Tin Roof,False
+2,1958,1959,31,ACTOR,David Niven,Separate Tables,True
+3,1958,1959,31,ACTOR,Sidney Poitier,The Defiant Ones,False
+4,1958,1959,31,ACTOR,Spencer Tracy,The Old Man and the Sea,False
+5,1958,1959,31,ACTOR IN A SUPPORTING ROLE,Theodore Bikel,The Defiant Ones,False
+6,1958,1959,31,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,The Brothers Karamazov,False
+7,1958,1959,31,ACTOR IN A SUPPORTING ROLE,Burl Ives,The Big Country,True
+8,1958,1959,31,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Some Came Running,False
+9,1958,1959,31,ACTOR IN A SUPPORTING ROLE,Gig Young,Teacher's Pet,False
+10,1958,1959,31,ACTRESS,Susan Hayward,I Want to Live!,True
+11,1958,1959,31,ACTRESS,Deborah Kerr,Separate Tables,False
+12,1958,1959,31,ACTRESS,Shirley MacLaine,Some Came Running,False
+13,1958,1959,31,ACTRESS,Rosalind Russell,Auntie Mame,False
+14,1958,1959,31,ACTRESS,Elizabeth Taylor,Cat on a Hot Tin Roof,False
+15,1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Peggy Cass,Auntie Mame,False
+16,1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,Separate Tables,True
+17,1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Martha Hyer,Some Came Running,False
+18,1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Lonelyhearts,False
+19,1958,1959,31,ACTRESS IN A SUPPORTING ROLE,Cara Williams,The Defiant Ones,False
+20,1958,1959,31,ART DIRECTION,Art Direction:  Malcolm Bert;  Set Decoration:  George James Hopkins,Auntie Mame,False
+21,1958,1959,31,ART DIRECTION,Art Direction:  Cary Odell;  Set Decoration:  Louis Diage,"Bell, Book and Candle",False
+22,1958,1959,31,ART DIRECTION,"Art Direction:  Lyle R. Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",A Certain Smile,False
+23,1958,1959,31,ART DIRECTION,"Art Direction:  William A. Horning, Preston Ames;  Set Decoration:  Henry Grace, Keogh Gleason",Gigi,True
+24,1958,1959,31,ART DIRECTION,"Art Direction:  Hal Pereira, Henry Bumstead;  Set Decoration:  Sam Comer, Frank McKelvy",Vertigo,False
+25,1958,1959,31,CINEMATOGRAPHY (Black-and-White),Sam Leavitt,The Defiant Ones,True
+26,1958,1959,31,CINEMATOGRAPHY (Black-and-White),Daniel L. Fapp,Desire under the Elms,False
+27,1958,1959,31,CINEMATOGRAPHY (Black-and-White),Lionel Lindon,I Want to Live!,False
+28,1958,1959,31,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",Separate Tables,False
+29,1958,1959,31,CINEMATOGRAPHY (Black-and-White),Joe MacDonald,The Young Lions,False
+30,1958,1959,31,CINEMATOGRAPHY (Color),"Harry Stradling, Sr.",Auntie Mame,False
+31,1958,1959,31,CINEMATOGRAPHY (Color),William Daniels,Cat on a Hot Tin Roof,False
+32,1958,1959,31,CINEMATOGRAPHY (Color),Joseph Ruttenberg,Gigi,True
+33,1958,1959,31,CINEMATOGRAPHY (Color),James Wong Howe,The Old Man and the Sea,False
+34,1958,1959,31,CINEMATOGRAPHY (Color),Leon Shamroy,South Pacific,False
+35,1958,1959,31,COSTUME DESIGN,Jean Louis,"Bell, Book and Candle",False
+36,1958,1959,31,COSTUME DESIGN,"Ralph Jester, Edith Head, John Jensen",The Buccaneer,False
+37,1958,1959,31,COSTUME DESIGN,"Charles LeMaire, Mary Wills",A Certain Smile,False
+38,1958,1959,31,COSTUME DESIGN,Cecil Beaton,Gigi,True
+39,1958,1959,31,COSTUME DESIGN,Walter Plunkett,Some Came Running,False
+40,1958,1959,31,DIRECTING,Richard Brooks,Cat on a Hot Tin Roof,False
+41,1958,1959,31,DIRECTING,Stanley Kramer,The Defiant Ones,False
+42,1958,1959,31,DIRECTING,Vincente Minnelli,Gigi,True
+43,1958,1959,31,DIRECTING,Robert Wise,I Want to Live!,False
+44,1958,1959,31,DIRECTING,Mark Robson,The Inn of the Sixth Happiness,False
+45,1958,1959,31,DOCUMENTARY (Feature),"James Carr, Producer",Antarctic Crossing,False
+46,1958,1959,31,DOCUMENTARY (Feature),"Robert Snyder, Producer",The Hidden World,False
+47,1958,1959,31,DOCUMENTARY (Feature),"Nathan Zucker, Producer",Psychiatric Nursing,False
+48,1958,1959,31,DOCUMENTARY (Feature),"Ben Sharpsteen, Producer",White Wilderness,True
+49,1958,1959,31,DOCUMENTARY (Short Subject),"Ben Sharpsteen, Producer",Ama Girls,True
+50,1958,1959,31,DOCUMENTARY (Short Subject),"Kenneth G. Brown, Producer",Employees Only,False
+51,1958,1959,31,DOCUMENTARY (Short Subject),"Ian Ferguson, Producer",Journey into Spring,False
+52,1958,1959,31,DOCUMENTARY (Short Subject),"Tom Daly, Producer",The Living Stone,False
+53,1958,1959,31,DOCUMENTARY (Short Subject),"Thorold Dickinson, Producer",Overture,False
+54,1958,1959,31,FILM EDITING,William Ziegler,Auntie Mame,False
+55,1958,1959,31,FILM EDITING,"William A. Lyon, Al Clark",Cowboy,False
+56,1958,1959,31,FILM EDITING,Frederic Knudtson,The Defiant Ones,False
+57,1958,1959,31,FILM EDITING,Adrienne Fazan,Gigi,True
+58,1958,1959,31,FILM EDITING,William Hornbeck,I Want to Live!,False
+59,1958,1959,31,FOREIGN LANGUAGE FILM,West Germany,Arms and the Man,False
+60,1958,1959,31,FOREIGN LANGUAGE FILM,Spain,La Venganza,False
+61,1958,1959,31,FOREIGN LANGUAGE FILM,France,My Uncle,True
+62,1958,1959,31,FOREIGN LANGUAGE FILM,Yugoslavia,The Road a Year Long,False
+63,1958,1959,31,FOREIGN LANGUAGE FILM,Italy,The Usual Unidentified Thieves,False
+64,1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Jerome Moross,The Big Country,False
+65,1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Old Man and the Sea,True
+66,1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),David Raksin,Separate Tables,False
+67,1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Oliver Wallace,White Wilderness,False
+68,1958,1959,31,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,The Young Lions,False
+69,1958,1959,31,MUSIC (Scoring of a Musical Picture),"Yuri Faier, G. Rozhdestvensky",The Bolshoi Ballet,False
+70,1958,1959,31,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Damn Yankees,False
+71,1958,1959,31,MUSIC (Scoring of a Musical Picture),Andre Previn,Gigi,True
+72,1958,1959,31,MUSIC (Scoring of a Musical Picture),Lionel Newman,Mardi Gras,False
+73,1958,1959,31,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Ken Darby",South Pacific,False
+74,1958,1959,31,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,Houseboat,False
+75,1958,1959,31,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,A Certain Smile,False
+76,1958,1959,31,MUSIC (Song),Music by Frederick Loewe; Lyrics by Alan Jay Lerner,Gigi,True
+77,1958,1959,31,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,Some Came Running,False
+78,1958,1959,31,MUSIC (Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Marjorie Morningstar,False
+79,1958,1959,31,BEST MOTION PICTURE,Warner Bros.,Auntie Mame,False
+80,1958,1959,31,BEST MOTION PICTURE,"Lawrence Weingarten, Producer",Cat on a Hot Tin Roof,False
+81,1958,1959,31,BEST MOTION PICTURE,"Stanley Kramer, Producer",The Defiant Ones,False
+82,1958,1959,31,BEST MOTION PICTURE,"Arthur Freed, Producer",Gigi,True
+83,1958,1959,31,BEST MOTION PICTURE,"Harold Hecht, Producer",Separate Tables,False
+84,1958,1959,31,SHORT SUBJECT (Cartoon),"John W. Burton, Producer",Knighty Knight Bugs,True
+85,1958,1959,31,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Paul Bunyan,False
+86,1958,1959,31,SHORT SUBJECT (Cartoon),"William M. Weiss, Producer",Sidney's Family Tree,False
+87,1958,1959,31,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Grand Canyon,True
+88,1958,1959,31,SHORT SUBJECT (Live Action),"Ian Ferguson, Producer",Journey into Spring,False
+89,1958,1959,31,SHORT SUBJECT (Live Action),"John Patrick Hayes, Producer",The Kiss,False
+90,1958,1959,31,SHORT SUBJECT (Live Action),New Zealand Screen Board,Snows of Aorangi,False
+91,1958,1959,31,SHORT SUBJECT (Live Action),"James A. Lebenthal, Producer",T Is for Tumbleweed,False
+92,1958,1959,31,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",I Want to Live!,False
+93,1958,1959,31,SOUND,"Todd-AO Sound Department, Fred Hynes, Sound Director",South Pacific,True
+94,1958,1959,31,SOUND,"Universal-International Studio Sound Department, Leslie I. Carey, Sound Director",A Time to Love and a Time to Die,False
+95,1958,1959,31,SOUND,"Paramount Studio Sound Department, George Dutton, Sound Director",Vertigo,False
+96,1958,1959,31,SOUND,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",The Young Lions,False
+97,1958,1959,31,SPECIAL EFFECTS,Visual Effects by Tom Howard,tom thumb,True
+98,1958,1959,31,SPECIAL EFFECTS,Visual Effects by A. Arnold Gillespie; Audible Effects by Harold Humbrock,Torpedo Run,False
+99,1958,1959,31,WRITING (Screenplay--based on material from another medium),"Richard Brooks, James Poe",Cat on a Hot Tin Roof,False
+100,1958,1959,31,WRITING (Screenplay--based on material from another medium),Alan Jay Lerner,Gigi,True
+101,1958,1959,31,WRITING (Screenplay--based on material from another medium),Alec Guinness,The Horse's Mouth,False
+102,1958,1959,31,WRITING (Screenplay--based on material from another medium),"Nelson Gidding, Don Mankiewicz",I Want to Live!,False
+103,1958,1959,31,WRITING (Screenplay--based on material from another medium),"Terence Rattigan, John Gay",Separate Tables,False
+104,1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Nedrick Young, Harold Jacob Smith",The Defiant Ones,True
+105,1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),Paddy Chayefsky,The Goddess,False
+106,1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Melville Shavelson, Jack Rose",Houseboat,False
+107,1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Story by James Edward Grant;  Screenplay by William Bowers, James Edward Grant",The Sheepman,False
+108,1958,1959,31,WRITING (Story and Screenplay--written directly for the screen),"Fay Kanin, Michael Kanin",Teacher's Pet,False
+109,1958,1959,31,HONORARY AWARD, Maurice Chevalier for his contributions to the world of entertainment for more than half a century.,,True
+110,1958,1959,31,IRVING G. THALBERG MEMORIAL AWARD,Jack L. Warner,,True

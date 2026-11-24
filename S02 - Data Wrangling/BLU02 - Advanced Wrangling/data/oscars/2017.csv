@@ -1,0 +1,127 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2016,2017,89,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,True
+1,2016,2017,89,ACTOR IN A LEADING ROLE,Andrew Garfield,Hacksaw Ridge,False
+2,2016,2017,89,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land,False
+3,2016,2017,89,ACTOR IN A LEADING ROLE,Viggo Mortensen,Captain Fantastic,False
+4,2016,2017,89,ACTOR IN A LEADING ROLE,Denzel Washington,Fences,False
+5,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,True
+6,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,Hell or High Water,False
+7,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Lucas Hedges,Manchester by the Sea,False
+8,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Dev Patel,Lion,False
+9,2016,2017,89,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Nocturnal Animals,False
+10,2016,2017,89,ACTRESS IN A LEADING ROLE,Isabelle Huppert,Elle,False
+11,2016,2017,89,ACTRESS IN A LEADING ROLE,Ruth Negga,Loving,False
+12,2016,2017,89,ACTRESS IN A LEADING ROLE,Natalie Portman,Jackie,False
+13,2016,2017,89,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,True
+14,2016,2017,89,ACTRESS IN A LEADING ROLE,Meryl Streep,Florence Foster Jenkins,False
+15,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,True
+16,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Naomie Harris,Moonlight,False
+17,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Nicole Kidman,Lion,False
+18,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,Hidden Figures,False
+19,2016,2017,89,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Manchester by the Sea,False
+20,2016,2017,89,ANIMATED FEATURE FILM,Travis Knight and Arianne Sutner,Kubo and the Two Strings,False
+21,2016,2017,89,ANIMATED FEATURE FILM,"John Musker, Ron Clements and Osnat Shurer",Moana,False
+22,2016,2017,89,ANIMATED FEATURE FILM,Claude Barras and Max Karli,My Life as a Zucchini,False
+23,2016,2017,89,ANIMATED FEATURE FILM,Michael Dudok de Wit and Toshio Suzuki,The Red Turtle,False
+24,2016,2017,89,ANIMATED FEATURE FILM,"Byron Howard, Rich Moore and Clark Spencer",Zootopia,True
+25,2016,2017,89,CINEMATOGRAPHY,Bradford Young,Arrival,False
+26,2016,2017,89,CINEMATOGRAPHY,Linus Sandgren,La La Land,True
+27,2016,2017,89,CINEMATOGRAPHY,Greig Fraser,Lion,False
+28,2016,2017,89,CINEMATOGRAPHY,James Laxton,Moonlight,False
+29,2016,2017,89,CINEMATOGRAPHY,Rodrigo Prieto,Silence,False
+30,2016,2017,89,COSTUME DESIGN,Joanna Johnston,Allied,False
+31,2016,2017,89,COSTUME DESIGN,Colleen Atwood,Fantastic Beasts and Where to Find Them,True
+32,2016,2017,89,COSTUME DESIGN,Consolata Boyle,Florence Foster Jenkins,False
+33,2016,2017,89,COSTUME DESIGN,Madeline Fontaine,Jackie,False
+34,2016,2017,89,COSTUME DESIGN,Mary Zophres,La La Land,False
+35,2016,2017,89,DIRECTING,Denis Villeneuve,Arrival,False
+36,2016,2017,89,DIRECTING,Mel Gibson,Hacksaw Ridge,False
+37,2016,2017,89,DIRECTING,Damien Chazelle,La La Land,True
+38,2016,2017,89,DIRECTING,Kenneth Lonergan,Manchester by the Sea,False
+39,2016,2017,89,DIRECTING,Barry Jenkins,Moonlight,False
+40,2016,2017,89,DOCUMENTARY (Feature),Gianfranco Rosi and Donatella Palermo,Fire at Sea,False
+41,2016,2017,89,DOCUMENTARY (Feature),"Raoul Peck, Rémi Grellety and Hébert Peck",I Am Not Your Negro,False
+42,2016,2017,89,DOCUMENTARY (Feature),Roger Ross Williams and Julie Goldman,"Life, Animated",False
+43,2016,2017,89,DOCUMENTARY (Feature),Ezra Edelman and Caroline Waterlow,O.J.: Made in America,True
+44,2016,2017,89,DOCUMENTARY (Feature),"Ava DuVernay, Spencer Averick and Howard Barish",13th,False
+45,2016,2017,89,DOCUMENTARY (Short Subject),Dan Krauss,Extremis,False
+46,2016,2017,89,DOCUMENTARY (Short Subject),Daphne Matziaraki,4.1 Miles,False
+47,2016,2017,89,DOCUMENTARY (Short Subject),Kahane Cooperman and Raphaela Neihausen,Joe's Violin,False
+48,2016,2017,89,DOCUMENTARY (Short Subject),Marcel Mettelsiefen and Stephen Ellis,Watani: My Homeland,False
+49,2016,2017,89,DOCUMENTARY (Short Subject),Orlando von Einsiedel and Joanna Natasegara,The White Helmets,True
+50,2016,2017,89,FILM EDITING,Joe Walker,Arrival,False
+51,2016,2017,89,FILM EDITING,John Gilbert,Hacksaw Ridge,True
+52,2016,2017,89,FILM EDITING,Jake Roberts,Hell or High Water,False
+53,2016,2017,89,FILM EDITING,Tom Cross,La La Land,False
+54,2016,2017,89,FILM EDITING,Nat Sanders and Joi McMillon,Moonlight,False
+55,2016,2017,89,FOREIGN LANGUAGE FILM,Denmark,Land of Mine,False
+56,2016,2017,89,FOREIGN LANGUAGE FILM,Sweden,A Man Called Ove,False
+57,2016,2017,89,FOREIGN LANGUAGE FILM,Iran,The Salesman,True
+58,2016,2017,89,FOREIGN LANGUAGE FILM,Australia,Tanna,False
+59,2016,2017,89,FOREIGN LANGUAGE FILM,Germany,Toni Erdmann,False
+60,2016,2017,89,MAKEUP AND HAIRSTYLING,Eva von Bahr and Love Larson,A Man Called Ove,False
+61,2016,2017,89,MAKEUP AND HAIRSTYLING,Joel Harlow and Richard Alonzo,Star Trek Beyond,False
+62,2016,2017,89,MAKEUP AND HAIRSTYLING,"Alessandro Bertolazzi, Giorgio Gregorini and Christopher Nelson",Suicide Squad,True
+63,2016,2017,89,MUSIC (Original Score),Mica Levi,Jackie,False
+64,2016,2017,89,MUSIC (Original Score),Justin Hurwitz,La La Land,True
+65,2016,2017,89,MUSIC (Original Score),Dustin O'Halloran and Hauschka,Lion,False
+66,2016,2017,89,MUSIC (Original Score),Nicholas Britell,Moonlight,False
+67,2016,2017,89,MUSIC (Original Score),Thomas Newman,Passengers,False
+68,2016,2017,89,MUSIC (Original Song),Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,La La Land,False
+69,2016,2017,89,MUSIC (Original Song),"Music and Lyric by Justin Timberlake, Max Martin and Karl Johan Schuster",Trolls,False
+70,2016,2017,89,MUSIC (Original Song),Music by Justin Hurwitz; Lyric by Benj Pasek and Justin Paul,La La Land,True
+71,2016,2017,89,MUSIC (Original Song),Music and Lyric by J. Ralph and Sting,Jim: The James Foley Story,False
+72,2016,2017,89,MUSIC (Original Song),Music and Lyric by Lin-Manuel Miranda,Moana,False
+73,2016,2017,89,BEST PICTURE,"Shawn Levy, Dan Levine, Aaron Ryder and David Linde, Producers",Arrival,False
+74,2016,2017,89,BEST PICTURE,"Scott Rudin, Denzel Washington and Todd Black, Producers",Fences,False
+75,2016,2017,89,BEST PICTURE,"Bill Mechanic and David Permut, Producers",Hacksaw Ridge,False
+76,2016,2017,89,BEST PICTURE,"Carla Hacken and Julie Yorn, Producers",Hell or High Water,False
+77,2016,2017,89,BEST PICTURE,"Donna Gigliotti, Peter Chernin, Jenno Topping, Pharrell Williams and Theodore Melfi, Producers",Hidden Figures,False
+78,2016,2017,89,BEST PICTURE,"Fred Berger, Jordan Horowitz and Marc Platt, Producers",La La Land,False
+79,2016,2017,89,BEST PICTURE,"Emile Sherman, Iain Canning and Angie Fielder, Producers",Lion,False
+80,2016,2017,89,BEST PICTURE,"Matt Damon, Kimberly Steward, Chris Moore, Lauren Beck and Kevin J. Walsh, Producers",Manchester by the Sea,False
+81,2016,2017,89,BEST PICTURE,"Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers",Moonlight,True
+82,2016,2017,89,PRODUCTION DESIGN,Production Design: Patrice Vermette; Set Decoration: Paul Hotte,Arrival,False
+83,2016,2017,89,PRODUCTION DESIGN,Production Design: Stuart Craig; Set Decoration: Anna Pinnock,Fantastic Beasts and Where to Find Them,False
+84,2016,2017,89,PRODUCTION DESIGN,Production Design: Jess Gonchor; Set Decoration: Nancy Haigh,"Hail, Caesar!",False
+85,2016,2017,89,PRODUCTION DESIGN,Production Design: David Wasco; Set Decoration: Sandy Reynolds-Wasco,La La Land,True
+86,2016,2017,89,PRODUCTION DESIGN,Production Design: Guy Hendrix Dyas; Set Decoration: Gene Serdena,Passengers,False
+87,2016,2017,89,SHORT FILM (Animated),Theodore Ushev,Blind Vaysha,False
+88,2016,2017,89,SHORT FILM (Animated),Andrew Coats and Lou Hamou-Lhadj,Borrowed Time,False
+89,2016,2017,89,SHORT FILM (Animated),Robert Valley and Cara Speller,Pear Cider and Cigarettes,False
+90,2016,2017,89,SHORT FILM (Animated),Patrick Osborne,Pearl,False
+91,2016,2017,89,SHORT FILM (Animated),Alan Barillaro and Marc Sondheimer,Piper,True
+92,2016,2017,89,SHORT FILM (Live Action),Sélim Azzazi,Ennemis Intérieurs,False
+93,2016,2017,89,SHORT FILM (Live Action),Timo von Gunten and Giacun Caduff,La Femme et le TGV,False
+94,2016,2017,89,SHORT FILM (Live Action),Aske Bang and Kim Magnusson,Silent Nights,False
+95,2016,2017,89,SHORT FILM (Live Action),Kristof Deák and Anna Udvardy,Sing,True
+96,2016,2017,89,SHORT FILM (Live Action),Juanjo Giménez,Timecode,False
+97,2016,2017,89,SOUND EDITING,Sylvain Bellemare,Arrival,True
+98,2016,2017,89,SOUND EDITING,Wylie Stateman and Renée Tondelli,Deepwater Horizon,False
+99,2016,2017,89,SOUND EDITING,Robert Mackenzie and Andy Wright,Hacksaw Ridge,False
+100,2016,2017,89,SOUND EDITING,Ai-Ling Lee and Mildred Iatrou Morgan,La La Land,False
+101,2016,2017,89,SOUND EDITING,Alan Robert Murray and Bub Asman,Sully,False
+102,2016,2017,89,SOUND MIXING,Bernard Gariépy Strobl and Claude La Haye,Arrival,False
+103,2016,2017,89,SOUND MIXING,"Kevin O'Connell, Andy Wright, Robert Mackenzie and Peter Grace",Hacksaw Ridge,True
+104,2016,2017,89,SOUND MIXING,"Andy Nelson, Ai-Ling Lee and Steve A. Morrow",La La Land,False
+105,2016,2017,89,SOUND MIXING,"David Parker, Christopher Scarabosio and Stuart Wilson",Rogue One: A Star Wars Story,False
+106,2016,2017,89,SOUND MIXING,"Gary Summers, Jeffrey J. Haboush and Mac Ruth",13 Hours: The Secret Soldiers of Benghazi,False
+107,2016,2017,89,VISUAL EFFECTS,"Craig Hammack, Jason Snell, Jason Billington and Burt Dalton",Deepwater Horizon,False
+108,2016,2017,89,VISUAL EFFECTS,"Stephane Ceretti, Richard Bluff, Vincent Cirelli and Paul Corbould",Doctor Strange,False
+109,2016,2017,89,VISUAL EFFECTS,"Robert Legato, Adam Valdez, Andrew R. Jones and Dan Lemmon",The Jungle Book,True
+110,2016,2017,89,VISUAL EFFECTS,"Steve Emerson, Oliver Jones, Brian McLean and Brad Schiff",Kubo and the Two Strings,False
+111,2016,2017,89,VISUAL EFFECTS,"John Knoll, Mohen Leo, Hal Hickel and Neil Corbould",Rogue One: A Star Wars Story,False
+112,2016,2017,89,WRITING (Adapted Screenplay),Screenplay by Eric Heisserer,Arrival,False
+113,2016,2017,89,WRITING (Adapted Screenplay),Screenplay by August Wilson,Fences,False
+114,2016,2017,89,WRITING (Adapted Screenplay),Screenplay by Allison Schroeder and Theodore Melfi,Hidden Figures,False
+115,2016,2017,89,WRITING (Adapted Screenplay),Screenplay by Luke Davies,Lion,False
+116,2016,2017,89,WRITING (Adapted Screenplay),Screenplay by Barry Jenkins; Story by Tarell Alvin McCraney,Moonlight,True
+117,2016,2017,89,WRITING (Original Screenplay),Written by Taylor Sheridan,Hell or High Water,False
+118,2016,2017,89,WRITING (Original Screenplay),Written by Damien Chazelle,La La Land,False
+119,2016,2017,89,WRITING (Original Screenplay),"Written by Yorgos Lanthimos, Efthimis Filippou",The Lobster,False
+120,2016,2017,89,WRITING (Original Screenplay),Written by Kenneth Lonergan,Manchester by the Sea,True
+121,2016,2017,89,WRITING (Original Screenplay),Written by Mike Mills,20th Century Women,False
+122,2016,2017,89,HONORARY AWARD, Jackie Chan,,True
+123,2016,2017,89,HONORARY AWARD, Anne V. Coates,,True
+124,2016,2017,89,HONORARY AWARD, Lynn Stalmaster,,True
+125,2016,2017,89,HONORARY AWARD, Frederick Wiseman,,True

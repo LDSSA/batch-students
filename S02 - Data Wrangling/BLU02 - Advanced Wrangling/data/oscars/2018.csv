@@ -1,0 +1,128 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2017,2018,90,ACTOR IN A LEADING ROLE,Timothée Chalamet,Call Me by Your Name,False
+1,2017,2018,90,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Phantom Thread,False
+2,2017,2018,90,ACTOR IN A LEADING ROLE,Daniel Kaluuya,Get Out,False
+3,2017,2018,90,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,True
+4,2017,2018,90,ACTOR IN A LEADING ROLE,Denzel Washington,"Roman J. Israel, Esq.",False
+5,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,The Florida Project,False
+6,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Woody Harrelson,"Three Billboards outside Ebbing, Missouri",False
+7,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,The Shape of Water,False
+8,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,All the Money in the World,False
+9,2017,2018,90,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",True
+10,2017,2018,90,ACTRESS IN A LEADING ROLE,Sally Hawkins,The Shape of Water,False
+11,2017,2018,90,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri",True
+12,2017,2018,90,ACTRESS IN A LEADING ROLE,Margot Robbie,"I, Tonya",False
+13,2017,2018,90,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Lady Bird,False
+14,2017,2018,90,ACTRESS IN A LEADING ROLE,Meryl Streep,The Post,False
+15,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Mary J. Blige,Mudbound,False
+16,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya",True
+17,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Lesley Manville,Phantom Thread,False
+18,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Laurie Metcalf,Lady Bird,False
+19,2017,2018,90,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Shape of Water,False
+20,2017,2018,90,ANIMATED FEATURE FILM,Tom McGrath and Ramsey Naito,The Boss Baby,False
+21,2017,2018,90,ANIMATED FEATURE FILM,Nora Twomey and Anthony Leo,The Breadwinner,False
+22,2017,2018,90,ANIMATED FEATURE FILM,Lee Unkrich and Darla K. Anderson,Coco,True
+23,2017,2018,90,ANIMATED FEATURE FILM,Carlos Saldanha and Lori Forte,Ferdinand,False
+24,2017,2018,90,ANIMATED FEATURE FILM,"Dorota Kobiela, Hugh Welchman and Ivan Mactaggart",Loving Vincent,False
+25,2017,2018,90,CINEMATOGRAPHY,Roger A. Deakins,Blade Runner 2049,True
+26,2017,2018,90,CINEMATOGRAPHY,Bruno Delbonnel,Darkest Hour,False
+27,2017,2018,90,CINEMATOGRAPHY,Hoyte van Hoytema,Dunkirk,False
+28,2017,2018,90,CINEMATOGRAPHY,Rachel Morrison,Mudbound,False
+29,2017,2018,90,CINEMATOGRAPHY,Dan Laustsen,The Shape of Water,False
+30,2017,2018,90,COSTUME DESIGN,Jacqueline Durran,Beauty and the Beast,False
+31,2017,2018,90,COSTUME DESIGN,Jacqueline Durran,Darkest Hour,False
+32,2017,2018,90,COSTUME DESIGN,Mark Bridges,Phantom Thread,True
+33,2017,2018,90,COSTUME DESIGN,Luis Sequeira,The Shape of Water,False
+34,2017,2018,90,COSTUME DESIGN,Consolata Boyle,Victoria & Abdul,False
+35,2017,2018,90,DIRECTING,Christopher Nolan,Dunkirk,False
+36,2017,2018,90,DIRECTING,Jordan Peele,Get Out,False
+37,2017,2018,90,DIRECTING,Greta Gerwig,Lady Bird,False
+38,2017,2018,90,DIRECTING,Paul Thomas Anderson,Phantom Thread,False
+39,2017,2018,90,DIRECTING,Guillermo del Toro,The Shape of Water,True
+40,2017,2018,90,DOCUMENTARY (Feature),"Steve James, Mark Mitten and Julie Goldman",Abacus: Small Enough to Jail,False
+41,2017,2018,90,DOCUMENTARY (Feature),"Agnès Varda, JR and Rosalie Varda",Faces Places,False
+42,2017,2018,90,DOCUMENTARY (Feature),Bryan Fogel and Dan Cogan,Icarus,True
+43,2017,2018,90,DOCUMENTARY (Feature),"Feras Fayyad, Kareem Abeed and Søren Steen Jespersen",Last Men in Aleppo,False
+44,2017,2018,90,DOCUMENTARY (Feature),Yance Ford and Joslyn Barnes,Strong Island,False
+45,2017,2018,90,DOCUMENTARY (Short Subject),Laura Checkoway and Thomas Lee Wright,Edith+Eddie,False
+46,2017,2018,90,DOCUMENTARY (Short Subject),Frank Stiefel,Heaven Is a Traffic Jam on the 405,True
+47,2017,2018,90,DOCUMENTARY (Short Subject),Elaine McMillion Sheldon and Kerrin Sheldon,Heroin(e),False
+48,2017,2018,90,DOCUMENTARY (Short Subject),Thomas Lennon,Knife Skills,False
+49,2017,2018,90,DOCUMENTARY (Short Subject),Kate Davis and David Heilbroner,Traffic Stop,False
+50,2017,2018,90,FILM EDITING,Paul Machliss and Jonathan Amos,Baby Driver,False
+51,2017,2018,90,FILM EDITING,Lee Smith,Dunkirk,True
+52,2017,2018,90,FILM EDITING,Tatiana S. Riegel,"I, Tonya",False
+53,2017,2018,90,FILM EDITING,Sidney Wolinsky,The Shape of Water,False
+54,2017,2018,90,FILM EDITING,Jon Gregory,"Three Billboards outside Ebbing, Missouri",False
+55,2017,2018,90,FOREIGN LANGUAGE FILM,Chile,A Fantastic Woman,True
+56,2017,2018,90,FOREIGN LANGUAGE FILM,Lebanon,The Insult,False
+57,2017,2018,90,FOREIGN LANGUAGE FILM,Russia,Loveless,False
+58,2017,2018,90,FOREIGN LANGUAGE FILM,Hungary,On Body and Soul,False
+59,2017,2018,90,FOREIGN LANGUAGE FILM,Sweden,The Square,False
+60,2017,2018,90,MAKEUP AND HAIRSTYLING,"Kazuhiro Tsuji, David Malinowski and Lucy Sibbick",Darkest Hour,True
+61,2017,2018,90,MAKEUP AND HAIRSTYLING,Daniel Phillips and Lou Sheppard,Victoria & Abdul,False
+62,2017,2018,90,MAKEUP AND HAIRSTYLING,Arjen Tuiten,Wonder,False
+63,2017,2018,90,MUSIC (Original Score),Hans Zimmer,Dunkirk,False
+64,2017,2018,90,MUSIC (Original Score),Jonny Greenwood,Phantom Thread,False
+65,2017,2018,90,MUSIC (Original Score),Alexandre Desplat,The Shape of Water,True
+66,2017,2018,90,MUSIC (Original Score),John Williams,Star Wars: The Last Jedi,False
+67,2017,2018,90,MUSIC (Original Score),Carter Burwell,"Three Billboards outside Ebbing, Missouri",False
+68,2017,2018,90,MUSIC (Original Song),"Music and Lyric by Mary J. Blige, Raphael Saadiq and Taura Stinson",Mudbound,False
+69,2017,2018,90,MUSIC (Original Song),Music and Lyric by Sufjan Stevens,Call Me by Your Name,False
+70,2017,2018,90,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Coco,True
+71,2017,2018,90,MUSIC (Original Song),Music by Diane Warren; Lyric by Lonnie R. Lynn and Diane Warren,Marshall,False
+72,2017,2018,90,MUSIC (Original Song),Music and Lyric by Benj Pasek and Justin Paul,The Greatest Showman,False
+73,2017,2018,90,BEST PICTURE,"Peter Spears, Luca Guadagnino, Emilie Georges and Marco Morabito, Producers",Call Me by Your Name,False
+74,2017,2018,90,BEST PICTURE,"Tim Bevan, Eric Fellner, Lisa Bruce, Anthony McCarten and Douglas Urbanski, Producers",Darkest Hour,False
+75,2017,2018,90,BEST PICTURE,"Emma Thomas and Christopher Nolan, Producers",Dunkirk,False
+76,2017,2018,90,BEST PICTURE,"Sean McKittrick, Jason Blum, Edward H. Hamm Jr. and Jordan Peele, Producers",Get Out,False
+77,2017,2018,90,BEST PICTURE,"Scott Rudin, Eli Bush and Evelyn O'Neill, Producers",Lady Bird,False
+78,2017,2018,90,BEST PICTURE,"JoAnne Sellar, Paul Thomas Anderson, Megan Ellison and Daniel Lupi, Producers",Phantom Thread,False
+79,2017,2018,90,BEST PICTURE,"Amy Pascal, Steven Spielberg and Kristie Macosko Krieger, Producers",The Post,False
+80,2017,2018,90,BEST PICTURE,"Guillermo del Toro and J. Miles Dale, Producers",The Shape of Water,True
+81,2017,2018,90,BEST PICTURE,"Graham Broadbent, Pete Czernin and Martin McDonagh, Producers","Three Billboards outside Ebbing, Missouri",False
+82,2017,2018,90,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,Beauty and the Beast,False
+83,2017,2018,90,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Alessandra Querzola,Blade Runner 2049,False
+84,2017,2018,90,PRODUCTION DESIGN,Production Design: Sarah Greenwood; Set Decoration: Katie Spencer,Darkest Hour,False
+85,2017,2018,90,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Gary Fettis,Dunkirk,False
+86,2017,2018,90,PRODUCTION DESIGN,Production Design: Paul Denham Austerberry; Set Decoration: Shane Vieau and Jeffrey A. Melvin,The Shape of Water,True
+87,2017,2018,90,SHORT FILM (Animated),Glen Keane and Kobe Bryant,Dear Basketball,True
+88,2017,2018,90,SHORT FILM (Animated),Victor Caire and Gabriel Grapperon,Garden Party,False
+89,2017,2018,90,SHORT FILM (Animated),Dave Mullins and Dana Murray,Lou,False
+90,2017,2018,90,SHORT FILM (Animated),Max Porter and Ru Kuwahata,Negative Space,False
+91,2017,2018,90,SHORT FILM (Animated),Jakob Schuh and Jan Lachauer,Revolting Rhymes,False
+92,2017,2018,90,SHORT FILM (Live Action),Reed Van Dyk,DeKalb Elementary,False
+93,2017,2018,90,SHORT FILM (Live Action),Derin Seale and Josh Lawson,The Eleven O'Clock,False
+94,2017,2018,90,SHORT FILM (Live Action),"Kevin Wilson, Jr.",My Nephew Emmett,False
+95,2017,2018,90,SHORT FILM (Live Action),Chris Overton and Rachel Shenton,The Silent Child,True
+96,2017,2018,90,SHORT FILM (Live Action),Katja Benrath and Tobias Rosen,Watu Wote/All of Us,False
+97,2017,2018,90,SOUND EDITING,Julian Slater,Baby Driver,False
+98,2017,2018,90,SOUND EDITING,Mark Mangini and Theo Green,Blade Runner 2049,False
+99,2017,2018,90,SOUND EDITING,Richard King and Alex Gibson,Dunkirk,True
+100,2017,2018,90,SOUND EDITING,Nathan Robitaille and Nelson Ferreira,The Shape of Water,False
+101,2017,2018,90,SOUND EDITING,Matthew Wood and Ren Klyce,Star Wars: The Last Jedi,False
+102,2017,2018,90,SOUND MIXING,"Julian Slater, Tim Cavagin and Mary H. Ellis",Baby Driver,False
+103,2017,2018,90,SOUND MIXING,"Ron Bartlett, Doug Hemphill and Mac Ruth",Blade Runner 2049,False
+104,2017,2018,90,SOUND MIXING,"Gregg Landaker, Gary A. Rizzo and Mark Weingarten",Dunkirk,True
+105,2017,2018,90,SOUND MIXING,"Christian Cooke, Brad Zoern and Glen Gauthier",The Shape of Water,False
+106,2017,2018,90,SOUND MIXING,"David Parker, Michael Semanick, Ren Klyce and Stuart Wilson",Star Wars: The Last Jedi,False
+107,2017,2018,90,VISUAL EFFECTS,"John Nelson, Gerd Nefzer, Paul Lambert and Richard R. Hoover",Blade Runner 2049,True
+108,2017,2018,90,VISUAL EFFECTS,"Christopher Townsend, Guy Williams, Jonathan Fawkner and Dan Sudick",Guardians of the Galaxy Vol. 2,False
+109,2017,2018,90,VISUAL EFFECTS,"Stephen Rosenbaum, Jeff White, Scott Benza and Mike Meinardus",Kong: Skull Island,False
+110,2017,2018,90,VISUAL EFFECTS,"Ben Morris, Mike Mulholland, Neal Scanlan and Chris Corbould",Star Wars: The Last Jedi,False
+111,2017,2018,90,VISUAL EFFECTS,"Joe Letteri, Daniel Barrett, Dan Lemmon and Joel Whist",War for the Planet of the Apes,False
+112,2017,2018,90,WRITING (Adapted Screenplay),Screenplay by James Ivory,Call Me by Your Name,True
+113,2017,2018,90,WRITING (Adapted Screenplay),Screenplay by Scott Neustadter & Michael H. Weber,The Disaster Artist,False
+114,2017,2018,90,WRITING (Adapted Screenplay),Screenplay by Scott Frank & James Mangold and Michael Green; Story by James Mangold,Logan,False
+115,2017,2018,90,WRITING (Adapted Screenplay),Written for the screen by Aaron Sorkin,Molly's Game,False
+116,2017,2018,90,WRITING (Adapted Screenplay),Screenplay by Virgil Williams and Dee Rees,Mudbound,False
+117,2017,2018,90,WRITING (Original Screenplay),Written by Emily V. Gordon & Kumail Nanjiani,The Big Sick,False
+118,2017,2018,90,WRITING (Original Screenplay),Written by Jordan Peele,Get Out,True
+119,2017,2018,90,WRITING (Original Screenplay),Written by Greta Gerwig,Lady Bird,False
+120,2017,2018,90,WRITING (Original Screenplay),Screenplay by Guillermo del Toro & Vanessa Taylor; Story by Guillermo del Toro,The Shape of Water,False
+121,2017,2018,90,WRITING (Original Screenplay),Written by Martin McDonagh,"Three Billboards outside Ebbing, Missouri",False
+122,2017,2018,90,SPECIAL AWARD, Alejandro G. Iñárritu's CARNE y ARENA virtual reality installation,,True
+123,2017,2018,90,HONORARY AWARD, Charles Burnett,,True
+124,2017,2018,90,HONORARY AWARD, Owen Roizman,,True
+125,2017,2018,90,HONORARY AWARD, Donald Sutherland for a lifetime of indelible characters,,True
+126,2017,2018,90,HONORARY AWARD, Agnès Varda,,True

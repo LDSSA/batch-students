@@ -1,0 +1,103 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1987,1988,60,ACTOR IN A LEADING ROLE,Michael Douglas,Wall Street,True
+1,1987,1988,60,ACTOR IN A LEADING ROLE,William Hurt,Broadcast News,False
+2,1987,1988,60,ACTOR IN A LEADING ROLE,Marcello Mastroianni,Dark Eyes,False
+3,1987,1988,60,ACTOR IN A LEADING ROLE,Jack Nicholson,Ironweed,False
+4,1987,1988,60,ACTOR IN A LEADING ROLE,Robin Williams,"Good Morning, Vietnam",False
+5,1987,1988,60,ACTOR IN A SUPPORTING ROLE,Albert Brooks,Broadcast News,False
+6,1987,1988,60,ACTOR IN A SUPPORTING ROLE,Sean Connery,The Untouchables,True
+7,1987,1988,60,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Street Smart,False
+8,1987,1988,60,ACTOR IN A SUPPORTING ROLE,Vincent Gardenia,Moonstruck,False
+9,1987,1988,60,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Cry Freedom,False
+10,1987,1988,60,ACTRESS IN A LEADING ROLE,Cher,Moonstruck,True
+11,1987,1988,60,ACTRESS IN A LEADING ROLE,Glenn Close,Fatal Attraction,False
+12,1987,1988,60,ACTRESS IN A LEADING ROLE,Holly Hunter,Broadcast News,False
+13,1987,1988,60,ACTRESS IN A LEADING ROLE,Sally Kirkland,Anna,False
+14,1987,1988,60,ACTRESS IN A LEADING ROLE,Meryl Streep,Ironweed,False
+15,1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Norma Aleandro,Gaby - A True Story,False
+16,1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Anne Archer,Fatal Attraction,False
+17,1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Olympia Dukakis,Moonstruck,True
+18,1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Anne Ramsey,Throw Momma from the Train,False
+19,1987,1988,60,ACTRESS IN A SUPPORTING ROLE,Ann Sothern,The Whales of August,False
+20,1987,1988,60,ART DIRECTION,Art Direction:  Norman Reynolds;  Set Decoration:  Harry Cordwell,Empire of the Sun,False
+21,1987,1988,60,ART DIRECTION,Art Direction:  Anthony Pratt;  Set Decoration:  Joan Woollard,Hope and Glory,False
+22,1987,1988,60,ART DIRECTION,"Art Direction:  Ferdinando Scarfiotti;  Set Decoration:  Bruno Cesari, Osvaldo Desideri",The Last Emperor,True
+23,1987,1988,60,ART DIRECTION,"Art Direction:  Santo Loquasto;  Set Decoration:  Carol Joffe, Les Bloom, George DeTitta, Jr.",Radio Days,False
+24,1987,1988,60,ART DIRECTION,"Art Direction:  Patrizia Von Brandenstein, William A. Elliott;  Set Decoration:  Hal Gausman",The Untouchables,False
+25,1987,1988,60,CINEMATOGRAPHY,Michael Ballhaus,Broadcast News,False
+26,1987,1988,60,CINEMATOGRAPHY,Allen Daviau,Empire of the Sun,False
+27,1987,1988,60,CINEMATOGRAPHY,Philippe Rousselot,Hope and Glory,False
+28,1987,1988,60,CINEMATOGRAPHY,Vittorio Storaro,The Last Emperor,True
+29,1987,1988,60,CINEMATOGRAPHY,Haskell Wexler,Matewan,False
+30,1987,1988,60,COSTUME DESIGN,Dorothy Jeakins,The Dead,False
+31,1987,1988,60,COSTUME DESIGN,Bob Ringwood,Empire of the Sun,False
+32,1987,1988,60,COSTUME DESIGN,James Acheson,The Last Emperor,True
+33,1987,1988,60,COSTUME DESIGN,"Jenny Beavan, John Bright",Maurice,False
+34,1987,1988,60,COSTUME DESIGN,Marilyn Vance-Straker,The Untouchables,False
+35,1987,1988,60,DIRECTING,Adrian Lyne,Fatal Attraction,False
+36,1987,1988,60,DIRECTING,John Boorman,Hope and Glory,False
+37,1987,1988,60,DIRECTING,Bernardo Bertolucci,The Last Emperor,True
+38,1987,1988,60,DIRECTING,Norman Jewison,Moonstruck,False
+39,1987,1988,60,DIRECTING,Lasse Hallström,My Life as a Dog,False
+40,1987,1988,60,DOCUMENTARY (Feature),"Callie Crossley and James A. DeVinney, Producers",Eyes on the Prize: America's Civil Rights Years/Bridge to Freedom 1965,False
+41,1987,1988,60,DOCUMENTARY (Feature),"John Junkerman and John W. Dower, Producers",Hellfire: A Journey from Hiroshima,False
+42,1987,1988,60,DOCUMENTARY (Feature),"Robert Stone, Producer",Radio Bikini,False
+43,1987,1988,60,DOCUMENTARY (Feature),"Barbara Herbich and Cyril Christo, Producers",A Stitch for Time,False
+44,1987,1988,60,DOCUMENTARY (Feature),"Aviva Slesin, Producer",The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table,True
+45,1987,1988,60,DOCUMENTARY (Short Subject),"Deborah Dickson, Producer",Frances Steloff: Memoirs of a Bookseller,False
+46,1987,1988,60,DOCUMENTARY (Short Subject),"Dr. Frank Daniel and Izak Ben-Meir, Producers",In the Wee Wee Hours...,False
+47,1987,1988,60,DOCUMENTARY (Short Subject),"Megan Williams, Producer",Language Says It All,False
+48,1987,1988,60,DOCUMENTARY (Short Subject),"Lynn Mueller, Producer",Silver into Gold,False
+49,1987,1988,60,DOCUMENTARY (Short Subject),"Sue Marx and Pamela Conn, Producers",Young at Heart,True
+50,1987,1988,60,FILM EDITING,Richard Marks,Broadcast News,False
+51,1987,1988,60,FILM EDITING,Michael Kahn,Empire of the Sun,False
+52,1987,1988,60,FILM EDITING,"Michael Kahn, Peter E. Berger",Fatal Attraction,False
+53,1987,1988,60,FILM EDITING,Gabriella Cristiani,The Last Emperor,True
+54,1987,1988,60,FILM EDITING,Frank J. Urioste,RoboCop,False
+55,1987,1988,60,FOREIGN LANGUAGE FILM,France,"Au Revoir Les Enfants (Goodbye, Children)",False
+56,1987,1988,60,FOREIGN LANGUAGE FILM,Denmark,Babette's Feast,True
+57,1987,1988,60,FOREIGN LANGUAGE FILM,Spain,Course Completed,False
+58,1987,1988,60,FOREIGN LANGUAGE FILM,Italy,The Family,False
+59,1987,1988,60,FOREIGN LANGUAGE FILM,Norway,Pathfinder,False
+60,1987,1988,60,MAKEUP,Bob Laden,Happy New Year,False
+61,1987,1988,60,MAKEUP,Rick Baker,Harry and the Hendersons,True
+62,1987,1988,60,MUSIC (Original Score),"George Fenton, Jonas Gwangwa",Cry Freedom,False
+63,1987,1988,60,MUSIC (Original Score),John Williams,Empire of the Sun,False
+64,1987,1988,60,MUSIC (Original Score),"Ryuichi Sakamoto, David Byrne, Cong Su",The Last Emperor,True
+65,1987,1988,60,MUSIC (Original Score),Ennio Morricone,The Untouchables,False
+66,1987,1988,60,MUSIC (Original Score),John Williams,The Witches of Eastwick,False
+67,1987,1988,60,MUSIC (Original Song),Music and Lyric by George Fenton and Jonas Gwangwa,Cry Freedom,False
+68,1987,1988,60,MUSIC (Original Song),"Music by Franke Previte, John DeNicola and Donald Markowitz; Lyric by Franke Previte",Dirty Dancing,True
+69,1987,1988,60,MUSIC (Original Song),Music and Lyric by Albert Hammond and Diane Warren,Mannequin,False
+70,1987,1988,60,MUSIC (Original Song),"Music by Harold Faltermeyer and Keith Forsey; Lyric by Harold Faltermeyer, Keith Forsey and Bob Seger",Beverly Hills Cop II,False
+71,1987,1988,60,MUSIC (Original Song),Music and Lyric by Willy DeVille,The Princess Bride,False
+72,1987,1988,60,BEST PICTURE,"James L. Brooks, Producer",Broadcast News,False
+73,1987,1988,60,BEST PICTURE,"Stanley R. Jaffe and Sherry Lansing, Producers",Fatal Attraction,False
+74,1987,1988,60,BEST PICTURE,"John Boorman, Producer",Hope and Glory,False
+75,1987,1988,60,BEST PICTURE,"Jeremy Thomas, Producer",The Last Emperor,True
+76,1987,1988,60,BEST PICTURE,"Patrick Palmer and Norman Jewison, Producers",Moonstruck,False
+77,1987,1988,60,SHORT FILM (Animated),"Eunice Macaulay, Producer",George and Rosemary,False
+78,1987,1988,60,SHORT FILM (Animated),"Frédéric Back, Producer",The Man Who Planted Trees,True
+79,1987,1988,60,SHORT FILM (Animated),"Bill Plympton, Producer",Your Face,False
+80,1987,1988,60,SHORT FILM (Live Action),"Ann Wingate, Producer",Making Waves,False
+81,1987,1988,60,SHORT FILM (Live Action),"Jonathan Sanger and Jana Sue Memel, Producers",Ray's Male Heterosexual Dance Hall,True
+82,1987,1988,60,SHORT FILM (Live Action),"Robert A. Katz, Producer",Shoeshine,False
+83,1987,1988,60,SOUND,"Robert Knudson, Don Digirolamo, John Boyd, Tony Dawe",Empire of the Sun,False
+84,1987,1988,60,SOUND,"Bill Rowe, Ivan Sharrock",The Last Emperor,True
+85,1987,1988,60,SOUND,"Les Fresholtz, Dick Alexander, Vern Poore, Bill Nelson",Lethal Weapon,False
+86,1987,1988,60,SOUND,"Michael J. Kohut, Carlos de Larios, Aaron Rochin, Robert Wald",RoboCop,False
+87,1987,1988,60,SOUND,"Wayne Artman, Tom Beckert, Tom Dahl, Art Rochester",The Witches of Eastwick,False
+88,1987,1988,60,VISUAL EFFECTS,"Dennis Muren, William George, Harley Jessup, Kenneth Smith",Innerspace,True
+89,1987,1988,60,VISUAL EFFECTS,"Joel Hynek, Robert M. Greenberg, Richard Greenberg, Stan Winston",Predator,False
+90,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),Tony Huston,The Dead,False
+91,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),James Dearden,Fatal Attraction,False
+92,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Stanley Kubrick, Michael Herr, Gustav Hasford",Full Metal Jacket,False
+93,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Mark Peploe, Bernardo Bertolucci",The Last Emperor,True
+94,1987,1988,60,WRITING (Screenplay Based on Material from Another Medium),"Lasse Hallström, Reidar Jönsson, Brasse Brännström, Per Berglund",My Life as a Dog,False
+95,1987,1988,60,WRITING (Screenplay Written Directly for the Screen),Louis Malle,"Au Revoir Les Enfants (Goodbye, Children)",False
+96,1987,1988,60,WRITING (Screenplay Written Directly for the Screen),James L. Brooks,Broadcast News,False
+97,1987,1988,60,WRITING (Screenplay Written Directly for the Screen),John Boorman,Hope and Glory,False
+98,1987,1988,60,WRITING (Screenplay Written Directly for the Screen),John Patrick Shanley,Moonstruck,True
+99,1987,1988,60,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Radio Days,False
+100,1987,1988,60,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing),"Stephen Flick, John Pospisil",RoboCop,True
+101,1987,1988,60,IRVING G. THALBERG MEMORIAL AWARD,Billy Wilder,,True

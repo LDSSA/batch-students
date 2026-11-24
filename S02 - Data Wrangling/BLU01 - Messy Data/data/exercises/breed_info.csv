@@ -1,0 +1,149 @@
+index;Breed;height_low_inches;height_high_inches;weight_low_lbs;weight_high_lbs
+0;Akita;26;28;80;120
+1;Anatolian Sheepdog;27;29;100;150
+2;Bernese Mountain Dog;23;27;85;110
+3;Bloodhound;24;26;80;120
+4;Borzoi;26;28;70;100
+5;Bullmastiff;25;27;100;130
+6;Great Dane;32;32;120;160
+7;Great Pyrenees;27;32;95;120
+8;Great Swiss Mountain Dog;23;28;130;150
+9;Irish Wolfhound;28;35;90;150
+10;Kuvasz;28;30;70;120
+11;Mastiff;27;30;175;190
+12;Neopolitan Mastiff;24;30;100;150
+13;Newfoundland;26;28;100;150
+14;Otter Hound;24;26;65;110
+15;Rottweiler;22;27;90;110
+16;Saint Bernard;25;28;110;190
+17;Afghan Hound;25;27;50;60
+19;American Foxhound;22;25;65;70
+20;Beauceron;24;27;100;120
+21;Belgian Malinois;22;26;60;65
+22;Belgian Sheepdog;22;26;60;75
+23;Belgian Tervuren;22;26;60;75
+24;Black And Tan Coonhound;23;27;50;75
+25;Black Russian Terrier;25;29;80;140
+26;Bouvier Des Flandres;23;27;75;95
+27;Boxer;21;25;65;70
+28;Briard;23;27;74;76
+29;Chesapeake Bay Retriever;21;26;55;75
+30;Clumber Spaniel;19;20;35;65
+31;Collie (Rough) & (Smooth);22;26;50;75
+32;Curly Coated Retriever;25;27;65;80
+33;Doberman Pinscher;26;28;60;100
+34;English Foxhound;22;25;65;70
+35;English Setter;23;27;45;80
+36;German Shepherd Dog;22;26;75;90
+37;German Shorthaired Pointer;20;27;50;80
+38;German Wirehaired Pointer;22;26;60;70
+39;Giant Schnauzer;25;28;70;75
+40;Golden Retriever;21;24;55;75
+41;Gordon Setter;23;27;45;80
+42;Greyhound;27;30;60;70
+43;Irish Setter;25;27;60;70
+44;Komondor;26.5;35.5;80;135
+45;Labrador Retriever;21;24;55;80
+46;Old English Sheepdog (Bobtail);20;24;60;65
+47;Poodle Standard;15;25;45;45
+48;Rhodesian Ridgeback;24;27;70;85
+49;Scottish Deerhound;28;32;75;110
+50;Spinone Italiano;23;28;65;80
+51;Tibetan Mastiff;24;26;140;170
+52;Weimaraner;25;27;70;85
+53;Airdale Terrier;22;24;45;45
+54;American Staffordshire Terrier;17;19;40;50
+55;American Water Spaniel;15;18;25;45
+56;Australian Cattle Dog;17;20;35;45
+57;Australian Shepherd;18;23;40;60
+58;Basset Hound;14;14;40;50
+59;Bearded Collie;20;22;40;60
+60;Border Collie;19;21;40;40
+61;Brittany;17;21;30;40
+62;Bull Dog;12;16;50;60
+63;Bull Terrier;21;22;50;70
+64;Canaan Dog;19;24;35;55
+65;Chinese Shar Pei;18;20;45;55
+66;Chow Chow;19;22;45;55
+67;Cocker Spaniel-American;15;16;22;28
+68;Cocker Spaniel-English;15;17;25;35
+69;Dalmatian;19;23;45;70
+70;English Springer Spaniel;20;20;45;55
+71;Field Spaniel;18;18;35;50
+72;Flat Coated Retriever;22;23;60;70
+73;Finnish Spitz;15;20;31;35
+74;Harrier;19;21;40;60
+75;Ibizan Hound;22;29;42;55
+76;Irish Terrier;18;19;25;27
+77;Irish Water Spaniel;10;23;45;65
+78;Keeshond;17;19;35;50
+79;Kerry Blue Terrier;17;21;30;45
+80;Norwegian Elkhound;19;20;40;60
+81;Nova Scotia Duck Tolling Retriever;17;21;35;50
+82;Petit Basset Griffon Vendeen;13;15;30;40
+83;Pharaoh Hound;21;25;45;55
+84;Plott Hound;20;24;45;55
+85;Pointer;21;24;44;66
+86;Polish Lowland Sheepdog;16;20;30;35
+87;Portuguese Water Dog;20;23;42;60
+88;Redbone Coonhound;21;27;50;70
+89;Saluki;23;28;35;70
+90;Samoyed;19;24;50;65
+91;Siberian Husky;20;23;40;60
+92;Soft-Coated Wheaten Terrier;18;20;35;45
+93;Staffordshire Bull Terrier;14;16;24;28
+94;Standard Schnauzer;17;19;33;33
+95;Sussex Spaniel;15;16;40;45
+96;Vizsla;48;66;22;25
+97;Welsh Springer Spaniel;16;19;35;45
+98;Wirehaired Pointing Griffon;20;24;45;60
+99;American Eskimo;9;19;25;30
+100;Australian Terrier;10;10;10;14
+101;Basenji;17;17;20;22
+102;Beagle;13;16;18;30
+103;Bedlington Terrier;15;16;18;23
+104;Bichon Frise;9.5;11.5;10;18
+105;Border Terrier;12;15;12;15
+106;Boston Terrier;14;15;15;25
+107;Brussels Griffon;7;8;6;12
+108;Cairn Terrier;9;10;14;14
+109;Cardigan Welsh Corgi;10;12;25;35
+110;Cavalier King Charles Spaniel;10;15;15;20
+112;Dachshund;7;10;16;32
+113;Dandie Dinmont Terrier;18;24;8;11
+114;English Toy Spaniel;10;10;9;15
+115;Fox Terrier ‰ÛÒ Smooth;13;16;15;20
+116;Fox Terrier ‰ÛÒ Wirehair;13;16;15;20
+117;French Bulldog;11;12;17;28
+118;German Pinscher;16;19;25;35
+119;Glen Imaal Terrier;14;14;34;36
+120;Lakeland Terrier;13;14;15;17
+121;Manchester Terrier (Standard);15;16;17;18
+122;Poodle Miniature;10;15;20;20
+123;Pug;10;11;14;22
+124;Puli;16;17;29;33
+125;Schipperke;10;13;12;18
+126;Scottish Terrier;10;12;18;22
+127;Sealyham Terrier;12;12;18;20
+128;Shetland Sheepdog (Sheltie);13;16;14;20
+129;Shiba Inu;13;16;15;30
+130;Shih Tzu;8;11;9;16
+131;Silky Terrier;9;10;8;11
+132;Skye Terrier;10;10;25;25
+133;Tibetan Spaniel;10;10;9;15
+134;Tibetan Terrier;14;17;20;30
+135;Welsh Terrier;15;15;20;21
+136;West Highland White Terrier;11;11;13;15
+137;Whippet;18;22;27;30
+138;Affenpinscher;9;12;8;12
+139;Chihuahua;6;9;2;5
+140;Chinese Crested;11;13;5;12
+141;Italian Greyhound;12;15;6;10
+142;Japanese Chin;8;11;4;11
+143;Maltese;8;10;4;6
+144;Manchester Terrier (Toy);10;12;6;8
+145;Papillon;8;11;5;10
+146;Pomeranian;12;12;3;7
+147;Poodle Toy;10;10;10;10
+148;Toy Fox Terrier;10;10;4;7
+149;Yorkshire Terrier;8;8;3;7

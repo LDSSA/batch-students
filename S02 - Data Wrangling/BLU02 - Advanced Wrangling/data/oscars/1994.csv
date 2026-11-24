@@ -1,0 +1,110 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1993,1994,66,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,In the Name of the Father,False
+1,1993,1994,66,ACTOR IN A LEADING ROLE,Laurence Fishburne,What's Love Got to Do with It,False
+2,1993,1994,66,ACTOR IN A LEADING ROLE,Tom Hanks,Philadelphia,True
+3,1993,1994,66,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Remains of the Day,False
+4,1993,1994,66,ACTOR IN A LEADING ROLE,Liam Neeson,Schindler's List,False
+5,1993,1994,66,ACTOR IN A SUPPORTING ROLE,Leonardo DiCaprio,What's Eating Gilbert Grape,False
+6,1993,1994,66,ACTOR IN A SUPPORTING ROLE,Ralph Fiennes,Schindler's List,False
+7,1993,1994,66,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,The Fugitive,True
+8,1993,1994,66,ACTOR IN A SUPPORTING ROLE,John Malkovich,In the Line of Fire,False
+9,1993,1994,66,ACTOR IN A SUPPORTING ROLE,Pete Postlethwaite,In the Name of the Father,False
+10,1993,1994,66,ACTRESS IN A LEADING ROLE,Angela Bassett,What's Love Got to Do with It,False
+11,1993,1994,66,ACTRESS IN A LEADING ROLE,Stockard Channing,Six Degrees of Separation,False
+12,1993,1994,66,ACTRESS IN A LEADING ROLE,Holly Hunter,The Piano,True
+13,1993,1994,66,ACTRESS IN A LEADING ROLE,Emma Thompson,The Remains of the Day,False
+14,1993,1994,66,ACTRESS IN A LEADING ROLE,Debra Winger,Shadowlands,False
+15,1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Holly Hunter,The Firm,False
+16,1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Anna Paquin,The Piano,True
+17,1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Rosie Perez,Fearless,False
+18,1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Winona Ryder,The Age of Innocence,False
+19,1993,1994,66,ACTRESS IN A SUPPORTING ROLE,Emma Thompson,In the Name of the Father,False
+20,1993,1994,66,ART DIRECTION,Art Direction:  Ken Adam;  Set Decoration:  Marvin March,Addams Family Values,False
+21,1993,1994,66,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Robert J. Franco,The Age of Innocence,False
+22,1993,1994,66,ART DIRECTION,"Art Direction:  Ben Van Os, Jan Roelfs",Orlando,False
+23,1993,1994,66,ART DIRECTION,Art Direction:  Luciana Arrighi;  Set Decoration:  Ian Whittaker,The Remains of the Day,False
+24,1993,1994,66,ART DIRECTION,Art Direction:  Allan Starski;  Set Decoration:  Ewa Braun,Schindler's List,True
+25,1993,1994,66,CINEMATOGRAPHY,Gu Changwei,Farewell My Concubine,False
+26,1993,1994,66,CINEMATOGRAPHY,Michael Chapman,The Fugitive,False
+27,1993,1994,66,CINEMATOGRAPHY,Stuart Dryburgh,The Piano,False
+28,1993,1994,66,CINEMATOGRAPHY,Janusz Kaminski,Schindler's List,True
+29,1993,1994,66,CINEMATOGRAPHY,Conrad L. Hall,Searching for Bobby Fischer,False
+30,1993,1994,66,COSTUME DESIGN,Gabriella Pescucci,The Age of Innocence,True
+31,1993,1994,66,COSTUME DESIGN,Sandy Powell,Orlando,False
+32,1993,1994,66,COSTUME DESIGN,Janet Patterson,The Piano,False
+33,1993,1994,66,COSTUME DESIGN,"Jenny Beavan, John Bright",The Remains of the Day,False
+34,1993,1994,66,COSTUME DESIGN,Anna Biedrzycka-Sheppard,Schindler's List,False
+35,1993,1994,66,DIRECTING,Jim Sheridan,In the Name of the Father,False
+36,1993,1994,66,DIRECTING,Jane Campion,The Piano,False
+37,1993,1994,66,DIRECTING,James Ivory,The Remains of the Day,False
+38,1993,1994,66,DIRECTING,Steven Spielberg,Schindler's List,True
+39,1993,1994,66,DIRECTING,Robert Altman,Short Cuts,False
+40,1993,1994,66,DOCUMENTARY (Feature),"David Paperny, Arthur Ginsberg",The Broadcast Tapes of Dr. Peter,False
+41,1993,1994,66,DOCUMENTARY (Feature),"Susan Todd, Andrew Young",Children of Fate,False
+42,1993,1994,66,DOCUMENTARY (Feature),"David Collier, Betsy Thompson",For Better or for Worse,False
+43,1993,1994,66,DOCUMENTARY (Feature),"Susan Raymond, Alan Raymond",I Am a Promise: The Children of Stanton Elementary School,True
+44,1993,1994,66,DOCUMENTARY (Feature),"D.A. Pennebaker, Chris Hegedus",The War Room,False
+45,1993,1994,66,DOCUMENTARY (Short Subject),"Steven Cantor, Peter Spirer",Blood Ties: The Life and Work of Sally Mann,False
+46,1993,1994,66,DOCUMENTARY (Short Subject),"Elaine Holliman, Jason Schneider",Chicks in White Satin,False
+47,1993,1994,66,DOCUMENTARY (Short Subject),"Margaret Lazarus, Renner Wunderlich",Defending Our Lives,True
+48,1993,1994,66,FILM EDITING,"Dennis Virkler, David Finfer, Dean Goodhill, Don Brochu, Richard Nord, Dov Hoenig",The Fugitive,False
+49,1993,1994,66,FILM EDITING,Anne V. Coates,In the Line of Fire,False
+50,1993,1994,66,FILM EDITING,Gerry Hambling,In the Name of the Father,False
+51,1993,1994,66,FILM EDITING,Veronika Jenet,The Piano,False
+52,1993,1994,66,FILM EDITING,Michael Kahn,Schindler's List,True
+53,1993,1994,66,FOREIGN LANGUAGE FILM,Spain,Belle Epoque,True
+54,1993,1994,66,FOREIGN LANGUAGE FILM,Hong Kong,Farewell My Concubine,False
+55,1993,1994,66,FOREIGN LANGUAGE FILM,United Kingdom,Hedd Wyn,False
+56,1993,1994,66,FOREIGN LANGUAGE FILM,Vietnam,The Scent of Green Papaya,False
+57,1993,1994,66,FOREIGN LANGUAGE FILM,Taiwan,The Wedding Banquet,False
+58,1993,1994,66,MAKEUP,"Greg Cannom, Ve Neill, Yolanda Toussieng",Mrs. Doubtfire,True
+59,1993,1994,66,MAKEUP,"Carl Fullerton, Alan D'Angerio",Philadelphia,False
+60,1993,1994,66,MAKEUP,"Christina Smith, Matthew Mungle, Judy Alexander Cory",Schindler's List,False
+61,1993,1994,66,MUSIC (Original Score),Elmer Bernstein,The Age of Innocence,False
+62,1993,1994,66,MUSIC (Original Score),Dave Grusin,The Firm,False
+63,1993,1994,66,MUSIC (Original Score),James Newton Howard,The Fugitive,False
+64,1993,1994,66,MUSIC (Original Score),Richard Robbins,The Remains of the Day,False
+65,1993,1994,66,MUSIC (Original Score),John Williams,Schindler's List,True
+66,1993,1994,66,MUSIC (Original Song),"Music and Lyric by Janet Jackson, James Harris III and Terry Lewis",Poetic Justice,False
+67,1993,1994,66,MUSIC (Original Song),"Music and Lyric by Carole Bayer Sager, James Ingram and Clif Magness",Beethoven's 2nd,False
+68,1993,1994,66,MUSIC (Original Song),Music and Lyric by Neil Young,Philadelphia,False
+69,1993,1994,66,MUSIC (Original Song),Music and Lyric by Bruce Springsteen,Philadelphia,True
+70,1993,1994,66,MUSIC (Original Song),Music by Marc Shaiman; Lyric by Ramsey McLean,Sleepless in Seattle,False
+71,1993,1994,66,BEST PICTURE,"Arnold Kopelson, Producer",The Fugitive,False
+72,1993,1994,66,BEST PICTURE,"Jim Sheridan, Producer",In the Name of the Father,False
+73,1993,1994,66,BEST PICTURE,"Jan Chapman, Producer",The Piano,False
+74,1993,1994,66,BEST PICTURE,"Mike Nichols, John Calley and Ismail Merchant, Producers",The Remains of the Day,False
+75,1993,1994,66,BEST PICTURE,"Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers",Schindler's List,True
+76,1993,1994,66,SHORT FILM (Animated),Stephen Palmer,Blindscape,False
+77,1993,1994,66,SHORT FILM (Animated),"Frédéric Back, Hubert Tison",The Mighty River,False
+78,1993,1994,66,SHORT FILM (Animated),"Bob Godfrey, Kevin Baldwin",Small Talk,False
+79,1993,1994,66,SHORT FILM (Animated),Mark Baker,The Village,False
+80,1993,1994,66,SHORT FILM (Animated),Nick Park,The Wrong Trousers,True
+81,1993,1994,66,SHORT FILM (Live Action),Pepe Danquart,Black Rider (Schwarzfahrer),True
+82,1993,1994,66,SHORT FILM (Live Action),"Stacy Title, Jonathan Penner",Down on the Waterfront,False
+83,1993,1994,66,SHORT FILM (Live Action),"Susan Seidelman, Jonathan Brett",The Dutch Master,False
+84,1993,1994,66,SHORT FILM (Live Action),"Peter Weller, Jana Sue Memel",Partners,False
+85,1993,1994,66,SHORT FILM (Live Action),Didier Flamand,The Screw (La Vis),False
+86,1993,1994,66,SOUND,"Michael Minkler, Bob Beemer, Tim Cooney",Cliffhanger,False
+87,1993,1994,66,SOUND,"Donald O. Mitchell, Michael Herbick, Frank A. Montaño, Scott D. Smith",The Fugitive,False
+88,1993,1994,66,SOUND,"Chris Carpenter, D. M. Hemphill, Bill W. Benton, Lee Orloff",Geronimo: An American Legend,False
+89,1993,1994,66,SOUND,"Gary Summers, Gary Rydstrom, Shawn Murphy, Ron Judkins",Jurassic Park,True
+90,1993,1994,66,SOUND,"Andy Nelson, Steve Pederson, Scott Millan, Ron Judkins",Schindler's List,False
+91,1993,1994,66,SOUND EFFECTS EDITING,"Wylie Stateman, Gregg Baxter",Cliffhanger,False
+92,1993,1994,66,SOUND EFFECTS EDITING,"John Leveque, Bruce Stambler",The Fugitive,False
+93,1993,1994,66,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",Jurassic Park,True
+94,1993,1994,66,VISUAL EFFECTS,"Neil Krepela, John Richardson, John Bruno, Pamela Easley",Cliffhanger,False
+95,1993,1994,66,VISUAL EFFECTS,"Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri",Jurassic Park,True
+96,1993,1994,66,VISUAL EFFECTS,"Pete Kozachik, Eric Leighton, Ariel Velasco Shaw, Gordon Baker",The Nightmare before Christmas,False
+97,1993,1994,66,WRITING (Screenplay Based on Material Previously Produced or Published),"Jay Cocks, Martin Scorsese",The Age of Innocence,False
+98,1993,1994,66,WRITING (Screenplay Based on Material Previously Produced or Published),"Terry George, Jim Sheridan",In the Name of the Father,False
+99,1993,1994,66,WRITING (Screenplay Based on Material Previously Produced or Published),Ruth Prawer Jhabvala,The Remains of the Day,False
+100,1993,1994,66,WRITING (Screenplay Based on Material Previously Produced or Published),Steven Zaillian,Schindler's List,True
+101,1993,1994,66,WRITING (Screenplay Based on Material Previously Produced or Published),William Nicholson,Shadowlands,False
+102,1993,1994,66,WRITING (Screenplay Written Directly for the Screen),Gary Ross,Dave,False
+103,1993,1994,66,WRITING (Screenplay Written Directly for the Screen),Jeff Maguire,In the Line of Fire,False
+104,1993,1994,66,WRITING (Screenplay Written Directly for the Screen),Ron Nyswaner,Philadelphia,False
+105,1993,1994,66,WRITING (Screenplay Written Directly for the Screen),Jane Campion,The Piano,True
+106,1993,1994,66,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Nora Ephron, David S. Ward, Jeff Arch;  Story by Jeff Arch",Sleepless in Seattle,False
+107,1993,1994,66,JEAN HERSHOLT HUMANITARIAN AWARD,Paul Newman,,True
+108,1993,1994,66,HONORARY AWARD, Deborah Kerr,,True

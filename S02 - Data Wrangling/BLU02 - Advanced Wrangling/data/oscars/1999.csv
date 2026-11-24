@@ -1,0 +1,115 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1998,1999,71,ACTOR IN A LEADING ROLE,Roberto Benigni,Life Is Beautiful,True
+1,1998,1999,71,ACTOR IN A LEADING ROLE,Tom Hanks,Saving Private Ryan,False
+2,1998,1999,71,ACTOR IN A LEADING ROLE,Ian McKellen,Gods and Monsters,False
+3,1998,1999,71,ACTOR IN A LEADING ROLE,Nick Nolte,Affliction,False
+4,1998,1999,71,ACTOR IN A LEADING ROLE,Edward Norton,American History X,False
+5,1998,1999,71,ACTOR IN A SUPPORTING ROLE,James Coburn,Affliction,True
+6,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Robert Duvall,A Civil Action,False
+7,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Truman Show,False
+8,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,Shakespeare in Love,False
+9,1998,1999,71,ACTOR IN A SUPPORTING ROLE,Billy Bob Thornton,A Simple Plan,False
+10,1998,1999,71,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth,False
+11,1998,1999,71,ACTRESS IN A LEADING ROLE,Fernanda Montenegro,Central Station,False
+12,1998,1999,71,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,Shakespeare in Love,True
+13,1998,1999,71,ACTRESS IN A LEADING ROLE,Meryl Streep,One True Thing,False
+14,1998,1999,71,ACTRESS IN A LEADING ROLE,Emily Watson,Hilary and Jackie,False
+15,1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Primary Colors,False
+16,1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Brenda Blethyn,Little Voice,False
+17,1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Shakespeare in Love,True
+18,1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Rachel Griffiths,Hilary and Jackie,False
+19,1998,1999,71,ACTRESS IN A SUPPORTING ROLE,Lynn Redgrave,Gods and Monsters,False
+20,1998,1999,71,ART DIRECTION,Art Direction:  John Myhre;  Set Decoration:  Peter Howitt,Elizabeth,False
+21,1998,1999,71,ART DIRECTION,Art Direction:  Jeannine Oppewall;  Set Decoration:  Jay Hart,Pleasantville,False
+22,1998,1999,71,ART DIRECTION,Art Direction:  Tom Sanders;  Set Decoration:  Lisa Dean Kavanaugh,Saving Private Ryan,False
+23,1998,1999,71,ART DIRECTION,Art Direction:  Martin Childs;  Set Decoration:  Jill Quertier,Shakespeare in Love,True
+24,1998,1999,71,ART DIRECTION,Art Direction:  Eugenio Zanetti;  Set Decoration:  Cindy Carr,What Dreams May Come,False
+25,1998,1999,71,CINEMATOGRAPHY,Conrad L. Hall,A Civil Action,False
+26,1998,1999,71,CINEMATOGRAPHY,Remi Adefarasin,Elizabeth,False
+27,1998,1999,71,CINEMATOGRAPHY,Janusz Kaminski,Saving Private Ryan,True
+28,1998,1999,71,CINEMATOGRAPHY,Richard Greatrex,Shakespeare in Love,False
+29,1998,1999,71,CINEMATOGRAPHY,John Toll,The Thin Red Line,False
+30,1998,1999,71,COSTUME DESIGN,Colleen Atwood,Beloved,False
+31,1998,1999,71,COSTUME DESIGN,Alexandra Byrne,Elizabeth,False
+32,1998,1999,71,COSTUME DESIGN,Judianna Makovsky,Pleasantville,False
+33,1998,1999,71,COSTUME DESIGN,Sandy Powell,Shakespeare in Love,True
+34,1998,1999,71,COSTUME DESIGN,Sandy Powell,Velvet Goldmine,False
+35,1998,1999,71,DIRECTING,Roberto Benigni,Life Is Beautiful,False
+36,1998,1999,71,DIRECTING,Steven Spielberg,Saving Private Ryan,True
+37,1998,1999,71,DIRECTING,John Madden,Shakespeare in Love,False
+38,1998,1999,71,DIRECTING,Terrence Malick,The Thin Red Line,False
+39,1998,1999,71,DIRECTING,Peter Weir,The Truman Show,False
+40,1998,1999,71,DOCUMENTARY (Feature),"Matthew Diamond, Jerry Kupfer",Dancemaker,False
+41,1998,1999,71,DOCUMENTARY (Feature),"Jonathan Stack, Liz Garbus","The Farm: Angola, U.S.A.",False
+42,1998,1999,71,DOCUMENTARY (Feature),"James Moll, Ken Lipper",The Last Days,True
+43,1998,1999,71,DOCUMENTARY (Feature),Robert B. Weide,Lenny Bruce: Swear to Tell the Truth,False
+44,1998,1999,71,DOCUMENTARY (Feature),"Barbara Sonneborn, Janet Cole",Regret to Inform,False
+45,1998,1999,71,DOCUMENTARY (Short Subject),Keiko Ibi,The Personals: Improvisations on Romance in the Golden Years,True
+46,1998,1999,71,DOCUMENTARY (Short Subject),Charles Guggenheim,A Place in the Land,False
+47,1998,1999,71,DOCUMENTARY (Short Subject),"Shui-Bo Wang, Donald McWilliams",Sunrise over Tiananmen Square,False
+48,1998,1999,71,FILM EDITING,Simona Paggi,Life Is Beautiful,False
+49,1998,1999,71,FILM EDITING,Anne V. Coates,Out of Sight,False
+50,1998,1999,71,FILM EDITING,Michael Kahn,Saving Private Ryan,True
+51,1998,1999,71,FILM EDITING,David Gamble,Shakespeare in Love,False
+52,1998,1999,71,FILM EDITING,"Billy Weber, Leslie Jones, Saar Klein",The Thin Red Line,False
+53,1998,1999,71,FOREIGN LANGUAGE FILM,Brazil,Central Station,False
+54,1998,1999,71,FOREIGN LANGUAGE FILM,Iran,Children of Heaven,False
+55,1998,1999,71,FOREIGN LANGUAGE FILM,Spain,The Grandfather,False
+56,1998,1999,71,FOREIGN LANGUAGE FILM,Italy,Life Is Beautiful,True
+57,1998,1999,71,FOREIGN LANGUAGE FILM,Argentina,Tango,False
+58,1998,1999,71,MAKEUP,Jenny Shircore,Elizabeth,True
+59,1998,1999,71,MAKEUP,"Lois Burwell, Conor O'Sullivan, Daniel C. Striepeke",Saving Private Ryan,False
+60,1998,1999,71,MAKEUP,"Lisa Westcott, Veronica Brebner",Shakespeare in Love,False
+61,1998,1999,71,MUSIC (Original Dramatic Score),David Hirschfelder,Elizabeth,False
+62,1998,1999,71,MUSIC (Original Dramatic Score),Nicola Piovani,Life Is Beautiful,True
+63,1998,1999,71,MUSIC (Original Dramatic Score),Randy Newman,Pleasantville,False
+64,1998,1999,71,MUSIC (Original Dramatic Score),John Williams,Saving Private Ryan,False
+65,1998,1999,71,MUSIC (Original Dramatic Score),Hans Zimmer,The Thin Red Line,False
+66,1998,1999,71,MUSIC (Original Musical or Comedy Score),Randy Newman,A Bug's Life,False
+67,1998,1999,71,MUSIC (Original Musical or Comedy Score),Music by Matthew Wilder; Lyrics by David Zippel; Orchestral Score by Jerry Goldsmith,Mulan,False
+68,1998,1999,71,MUSIC (Original Musical or Comedy Score),Marc Shaiman,Patch Adams,False
+69,1998,1999,71,MUSIC (Original Musical or Comedy Score),Music and Lyrics by Stephen Schwartz; Orchestral Score by Hans Zimmer,The Prince of Egypt,False
+70,1998,1999,71,MUSIC (Original Musical or Comedy Score),Stephen Warbeck,Shakespeare in Love,True
+71,1998,1999,71,MUSIC (Original Song),Music and Lyric by Diane Warren,Armageddon,False
+72,1998,1999,71,MUSIC (Original Song),"Music by Carole Bayer Sager and David Foster; Lyric by Carole Bayer Sager, David Foster, Tony Renis and Alberto Testa",Quest for Camelot,False
+73,1998,1999,71,MUSIC (Original Song),Music and Lyric by Allison Moorer and Gwil Owen,The Horse Whisperer,False
+74,1998,1999,71,MUSIC (Original Song),Music and Lyric by Randy Newman,Babe: Pig in the City,False
+75,1998,1999,71,MUSIC (Original Song),Music and Lyric by Stephen Schwartz,The Prince of Egypt,True
+76,1998,1999,71,BEST PICTURE,"Alison Owen, Eric Fellner and Tim Bevan, Producers",Elizabeth,False
+77,1998,1999,71,BEST PICTURE,"Elda Ferri and Gianluigi Braschi, Producers",Life Is Beautiful,False
+78,1998,1999,71,BEST PICTURE,"Steven Spielberg, Ian Bryce, Mark Gordon and Gary Levinsohn, Producers",Saving Private Ryan,False
+79,1998,1999,71,BEST PICTURE,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers",Shakespeare in Love,True
+80,1998,1999,71,BEST PICTURE,"Robert Michael Geisler, John Roberdeau and Grant Hill, Producers",The Thin Red Line,False
+81,1998,1999,71,SHORT FILM (Animated),Chris Wedge,Bunny,True
+82,1998,1999,71,SHORT FILM (Animated),"Christopher Grace, Jonathan Myerson",The Canterbury Tales,False
+83,1998,1999,71,SHORT FILM (Animated),Mark Baker,Jolly Roger,False
+84,1998,1999,71,SHORT FILM (Animated),"Mark Osborne, Steve Kalafer",More,False
+85,1998,1999,71,SHORT FILM (Animated),"Karsten Kiilerich, Stefan Fjeldmark",When Life Departs,False
+86,1998,1999,71,SHORT FILM (Live Action),"Will Speck, Josh Gordon",Culture,False
+87,1998,1999,71,SHORT FILM (Live Action),"Kim Magnusson, Anders Thomas Jensen",Election Night (Valgaften),True
+88,1998,1999,71,SHORT FILM (Live Action),"Alexander Jovy, JJ Keith",Holiday Romance,False
+89,1998,1999,71,SHORT FILM (Live Action),Vivian Goffette,La Carte Postale (The Postcard),False
+90,1998,1999,71,SHORT FILM (Live Action),"Simon Sandquist, Joel Bergvall",Victor,False
+91,1998,1999,71,SOUND,"Kevin O'Connell, Greg P. Russell, Keith A. Wester",Armageddon,False
+92,1998,1999,71,SOUND,"Kevin O'Connell, Greg P. Russell, Pud Cusack",The Mask of Zorro,False
+93,1998,1999,71,SOUND,"Gary Rydstrom, Gary Summers, Andy Nelson, Ronald Judkins",Saving Private Ryan,True
+94,1998,1999,71,SOUND,"Robin O'Donoghue, Dominic Lester, Peter Glossop",Shakespeare in Love,False
+95,1998,1999,71,SOUND,"Andy Nelson, Anna Behlmer, Paul Brincat",The Thin Red Line,False
+96,1998,1999,71,SOUND EFFECTS EDITING,George Watters II,Armageddon,False
+97,1998,1999,71,SOUND EFFECTS EDITING,David McMoyler,The Mask of Zorro,False
+98,1998,1999,71,SOUND EFFECTS EDITING,"Gary Rydstrom, Richard Hymns",Saving Private Ryan,True
+99,1998,1999,71,VISUAL EFFECTS,"Richard R. Hoover, Pat McClung, John Frazier",Armageddon,False
+100,1998,1999,71,VISUAL EFFECTS,"Rick Baker, Hoyt Yeatman, Allen Hall, Jim Mitchell",Mighty Joe Young,False
+101,1998,1999,71,VISUAL EFFECTS,"Joel Hynek, Nicholas Brooks, Stuart Robertson, Kevin Mack",What Dreams May Come,True
+102,1998,1999,71,WRITING (Screenplay Based on Material Previously Produced or Published),Bill Condon,Gods and Monsters,True
+103,1998,1999,71,WRITING (Screenplay Based on Material Previously Produced or Published),Scott Frank,Out of Sight,False
+104,1998,1999,71,WRITING (Screenplay Based on Material Previously Produced or Published),Elaine May,Primary Colors,False
+105,1998,1999,71,WRITING (Screenplay Based on Material Previously Produced or Published),Scott B. Smith,A Simple Plan,False
+106,1998,1999,71,WRITING (Screenplay Based on Material Previously Produced or Published),Terrence Malick,The Thin Red Line,False
+107,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Warren Beatty, Jeremy Pikser;  Story by Warren Beatty",Bulworth,False
+108,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),"Vincenzo Cerami, Roberto Benigni",Life Is Beautiful,False
+109,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),Robert Rodat,Saving Private Ryan,False
+110,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),"Marc Norman, Tom Stoppard",Shakespeare in Love,True
+111,1998,1999,71,WRITING (Screenplay Written Directly for the Screen),Andrew Niccol,The Truman Show,False
+112,1998,1999,71,HONORARY AWARD, Elia Kazan in recognition of his indelible contributions to the art of motion picture direction.,,True
+113,1998,1999,71,IRVING G. THALBERG MEMORIAL AWARD,Norman Jewison,,True

@@ -1,0 +1,113 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2008,2009,81,ACTOR IN A LEADING ROLE,Richard Jenkins,The Visitor,False
+1,2008,2009,81,ACTOR IN A LEADING ROLE,Frank Langella,Frost/Nixon,False
+2,2008,2009,81,ACTOR IN A LEADING ROLE,Sean Penn,Milk,True
+3,2008,2009,81,ACTOR IN A LEADING ROLE,Brad Pitt,The Curious Case of Benjamin Button,False
+4,2008,2009,81,ACTOR IN A LEADING ROLE,Mickey Rourke,The Wrestler,False
+5,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Josh Brolin,Milk,False
+6,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Tropic Thunder,False
+7,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Doubt,False
+8,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,True
+9,2008,2009,81,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Revolutionary Road,False
+10,2008,2009,81,ACTRESS IN A LEADING ROLE,Anne Hathaway,Rachel Getting Married,False
+11,2008,2009,81,ACTRESS IN A LEADING ROLE,Angelina Jolie,Changeling,False
+12,2008,2009,81,ACTRESS IN A LEADING ROLE,Melissa Leo,Frozen River,False
+13,2008,2009,81,ACTRESS IN A LEADING ROLE,Meryl Streep,Doubt,False
+14,2008,2009,81,ACTRESS IN A LEADING ROLE,Kate Winslet,The Reader,True
+15,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Doubt,False
+16,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Vicky Cristina Barcelona,True
+17,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Doubt,False
+18,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,The Curious Case of Benjamin Button,False
+19,2008,2009,81,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,The Wrestler,False
+20,2008,2009,81,ANIMATED FEATURE FILM,Chris Williams and Byron Howard,Bolt,False
+21,2008,2009,81,ANIMATED FEATURE FILM,John Stevenson and Mark Osborne,Kung Fu Panda,False
+22,2008,2009,81,ANIMATED FEATURE FILM,Andrew Stanton,WALL-E,True
+23,2008,2009,81,ART DIRECTION,Art Direction: James J. Murakami; Set Decoration: Gary Fettis,Changeling,False
+24,2008,2009,81,ART DIRECTION,Art Direction: Donald Graham Burt; Set Decoration: Victor J. Zolfo,The Curious Case of Benjamin Button,True
+25,2008,2009,81,ART DIRECTION,Art Direction: Nathan Crowley; Set Decoration: Peter Lando,The Dark Knight,False
+26,2008,2009,81,ART DIRECTION,Art Direction: Michael Carlin; Set Decoration: Rebecca Alleway,The Duchess,False
+27,2008,2009,81,ART DIRECTION,Art Direction: Kristi Zea; Set Decoration: Debra Schutt,Revolutionary Road,False
+28,2008,2009,81,CINEMATOGRAPHY,Tom Stern,Changeling,False
+29,2008,2009,81,CINEMATOGRAPHY,Claudio Miranda,The Curious Case of Benjamin Button,False
+30,2008,2009,81,CINEMATOGRAPHY,Wally Pfister,The Dark Knight,False
+31,2008,2009,81,CINEMATOGRAPHY,Chris Menges and Roger Deakins,The Reader,False
+32,2008,2009,81,CINEMATOGRAPHY,Anthony Dod Mantle,Slumdog Millionaire,True
+33,2008,2009,81,COSTUME DESIGN,Catherine Martin,Australia,False
+34,2008,2009,81,COSTUME DESIGN,Jacqueline West,The Curious Case of Benjamin Button,False
+35,2008,2009,81,COSTUME DESIGN,Michael O'Connor,The Duchess,True
+36,2008,2009,81,COSTUME DESIGN,Danny Glicker,Milk,False
+37,2008,2009,81,COSTUME DESIGN,Albert Wolsky,Revolutionary Road,False
+38,2008,2009,81,DIRECTING,David Fincher,The Curious Case of Benjamin Button,False
+39,2008,2009,81,DIRECTING,Ron Howard,Frost/Nixon,False
+40,2008,2009,81,DIRECTING,Gus Van Sant,Milk,False
+41,2008,2009,81,DIRECTING,Stephen Daldry,The Reader,False
+42,2008,2009,81,DIRECTING,Danny Boyle,Slumdog Millionaire,True
+43,2008,2009,81,DOCUMENTARY (Feature),Ellen Kuras and Thavisouk Phrasavath,The Betrayal (Nerakhoon),False
+44,2008,2009,81,DOCUMENTARY (Feature),Werner Herzog and Henry Kaiser,Encounters at the End of the World,False
+45,2008,2009,81,DOCUMENTARY (Feature),Scott Hamilton Kennedy,The Garden,False
+46,2008,2009,81,DOCUMENTARY (Feature),James Marsh and Simon Chinn,Man on Wire,True
+47,2008,2009,81,DOCUMENTARY (Feature),Tia Lessin and Carl Deal,Trouble the Water,False
+48,2008,2009,81,DOCUMENTARY (Short Subject),Steven Okazaki,The Conscience of Nhem En,False
+49,2008,2009,81,DOCUMENTARY (Short Subject),Irene Taylor Brodsky and Tom Grant,The Final Inch,False
+50,2008,2009,81,DOCUMENTARY (Short Subject),Megan Mylan,Smile Pinki,True
+51,2008,2009,81,DOCUMENTARY (Short Subject),Adam Pertofsky and Margaret Hyde,The Witness - From the Balcony of Room 306,False
+52,2008,2009,81,FILM EDITING,Kirk Baxter and Angus Wall,The Curious Case of Benjamin Button,False
+53,2008,2009,81,FILM EDITING,Lee Smith,The Dark Knight,False
+54,2008,2009,81,FILM EDITING,Mike Hill and Dan Hanley,Frost/Nixon,False
+55,2008,2009,81,FILM EDITING,Elliot Graham,Milk,False
+56,2008,2009,81,FILM EDITING,Chris Dickens,Slumdog Millionaire,True
+57,2008,2009,81,FOREIGN LANGUAGE FILM,Germany,The Baader Meinhof Complex,False
+58,2008,2009,81,FOREIGN LANGUAGE FILM,France,The Class,False
+59,2008,2009,81,FOREIGN LANGUAGE FILM,Japan,Departures,True
+60,2008,2009,81,FOREIGN LANGUAGE FILM,Austria,Revanche,False
+61,2008,2009,81,FOREIGN LANGUAGE FILM,Israel,Waltz with Bashir,False
+62,2008,2009,81,MAKEUP,Greg Cannom,The Curious Case of Benjamin Button,True
+63,2008,2009,81,MAKEUP,"John Caglione, Jr. and Conor O'Sullivan",The Dark Knight,False
+64,2008,2009,81,MAKEUP,Mike Elizalde and Thom Floutz,Hellboy II: The Golden Army,False
+65,2008,2009,81,MUSIC (Original Score),Alexandre Desplat,The Curious Case of Benjamin Button,False
+66,2008,2009,81,MUSIC (Original Score),James Newton Howard,Defiance,False
+67,2008,2009,81,MUSIC (Original Score),Danny Elfman,Milk,False
+68,2008,2009,81,MUSIC (Original Score),A.R. Rahman,Slumdog Millionaire,True
+69,2008,2009,81,MUSIC (Original Score),Thomas Newman,WALL-E,False
+70,2008,2009,81,MUSIC (Original Song),Music by Peter Gabriel and Thomas Newman; Lyric by Peter Gabriel,WALL-E,False
+71,2008,2009,81,MUSIC (Original Song),Music by A.R. Rahman; Lyric by Gulzar,Slumdog Millionaire,True
+72,2008,2009,81,MUSIC (Original Song),Music and Lyric by A.R. Rahman and Maya Arulpragasam,Slumdog Millionaire,False
+73,2008,2009,81,BEST PICTURE,"Kathleen Kennedy, Frank Marshall and Ceán Chaffin, Producers",The Curious Case of Benjamin Button,False
+74,2008,2009,81,BEST PICTURE,"Brian Grazer, Ron Howard and Eric Fellner, Producers",Frost/Nixon,False
+75,2008,2009,81,BEST PICTURE,"Dan Jinks and Bruce Cohen, Producers",Milk,False
+76,2008,2009,81,BEST PICTURE,"Anthony Minghella, Sydney Pollack, Donna Gigliotti and Redmond Morris, Producers",The Reader,False
+77,2008,2009,81,BEST PICTURE,"Christian Colson, Producer",Slumdog Millionaire,True
+78,2008,2009,81,SHORT FILM (Animated),Kunio Kato,La Maison en Petits Cubes,True
+79,2008,2009,81,SHORT FILM (Animated),Konstantin Bronzit,Lavatory - Lovestory,False
+80,2008,2009,81,SHORT FILM (Animated),Emud Mokhberi and Thierry Marchand,Oktapodi,False
+81,2008,2009,81,SHORT FILM (Animated),Doug Sweetland,Presto,False
+82,2008,2009,81,SHORT FILM (Animated),Alan Smith and Adam Foulkes,This Way Up,False
+83,2008,2009,81,SHORT FILM (Live Action),Reto Caffi,Auf der Strecke (On the Line),False
+84,2008,2009,81,SHORT FILM (Live Action),Elizabeth Marre and Olivier Pont,Manon on the Asphalt,False
+85,2008,2009,81,SHORT FILM (Live Action),Steph Green and Tamara Anghie,New Boy,False
+86,2008,2009,81,SHORT FILM (Live Action),Tivi Magnusson and Dorte Høgh,The Pig,False
+87,2008,2009,81,SHORT FILM (Live Action),Jochen Alexander Freydank,Spielzeugland (Toyland),True
+88,2008,2009,81,SOUND EDITING,Richard King,The Dark Knight,True
+89,2008,2009,81,SOUND EDITING,Frank Eulner and Christopher Boyes,Iron Man,False
+90,2008,2009,81,SOUND EDITING,Glenn Freemantle and Tom Sayers,Slumdog Millionaire,False
+91,2008,2009,81,SOUND EDITING,Ben Burtt and Matthew Wood,WALL-E,False
+92,2008,2009,81,SOUND EDITING,Wylie Stateman,Wanted,False
+93,2008,2009,81,SOUND MIXING,"David Parker, Michael Semanick, Ren Klyce and Mark Weingarten",The Curious Case of Benjamin Button,False
+94,2008,2009,81,SOUND MIXING,"Lora Hirschberg, Gary Rizzo and Ed Novick",The Dark Knight,False
+95,2008,2009,81,SOUND MIXING,"Ian Tapp, Richard Pryke and Resul Pookutty",Slumdog Millionaire,True
+96,2008,2009,81,SOUND MIXING,"Tom Myers, Michael Semanick and Ben Burtt",WALL-E,False
+97,2008,2009,81,SOUND MIXING,"Chris Jenkins, Frank A. Montaño and Petr Forejt",Wanted,False
+98,2008,2009,81,VISUAL EFFECTS,"Eric Barba, Steve Preeg, Burt Dalton and Craig Barron",The Curious Case of Benjamin Button,True
+99,2008,2009,81,VISUAL EFFECTS,"Nick Davis, Chris Corbould, Tim Webber and Paul Franklin",The Dark Knight,False
+100,2008,2009,81,VISUAL EFFECTS,"John Nelson, Ben Snow, Dan Sudick and Shane Mahan",Iron Man,False
+101,2008,2009,81,WRITING (Adapted Screenplay),Screenplay by Eric Roth; Screen story by Eric Roth and Robin Swicord,The Curious Case of Benjamin Button,False
+102,2008,2009,81,WRITING (Adapted Screenplay),Written by John Patrick Shanley,Doubt,False
+103,2008,2009,81,WRITING (Adapted Screenplay),Screenplay by Peter Morgan,Frost/Nixon,False
+104,2008,2009,81,WRITING (Adapted Screenplay),Screenplay by David Hare,The Reader,False
+105,2008,2009,81,WRITING (Adapted Screenplay),Screenplay by Simon Beaufoy,Slumdog Millionaire,True
+106,2008,2009,81,WRITING (Original Screenplay),Written by Courtney Hunt,Frozen River,False
+107,2008,2009,81,WRITING (Original Screenplay),Written by Mike Leigh,Happy-Go-Lucky,False
+108,2008,2009,81,WRITING (Original Screenplay),Written by Martin McDonagh,In Bruges,False
+109,2008,2009,81,WRITING (Original Screenplay),Written by Dustin Lance Black,Milk,True
+110,2008,2009,81,WRITING (Original Screenplay),"Screenplay by Andrew Stanton, Jim Reardon; Original story by Andrew Stanton, Pete Docter",WALL-E,False
+111,2008,2009,81,JEAN HERSHOLT HUMANITARIAN AWARD,Jerry Lewis,,True

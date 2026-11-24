@@ -1,0 +1,108 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1974,1975,47,ACTOR,Art Carney,Harry and Tonto,True
+1,1974,1975,47,ACTOR,Albert Finney,Murder on the Orient Express,False
+2,1974,1975,47,ACTOR,Dustin Hoffman,Lenny,False
+3,1974,1975,47,ACTOR,Jack Nicholson,Chinatown,False
+4,1974,1975,47,ACTOR,Al Pacino,The Godfather Part II,False
+5,1974,1975,47,ACTOR IN A SUPPORTING ROLE,Fred Astaire,The Towering Inferno,False
+6,1974,1975,47,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,Thunderbolt and Lightfoot,False
+7,1974,1975,47,ACTOR IN A SUPPORTING ROLE,Robert De Niro,The Godfather Part II,True
+8,1974,1975,47,ACTOR IN A SUPPORTING ROLE,Michael V. Gazzo,The Godfather Part II,False
+9,1974,1975,47,ACTOR IN A SUPPORTING ROLE,Lee Strasberg,The Godfather Part II,False
+10,1974,1975,47,ACTRESS,Ellen Burstyn,Alice Doesn't Live Here Anymore,True
+11,1974,1975,47,ACTRESS,Diahann Carroll,Claudine,False
+12,1974,1975,47,ACTRESS,Faye Dunaway,Chinatown,False
+13,1974,1975,47,ACTRESS,Valerie Perrine,Lenny,False
+14,1974,1975,47,ACTRESS,Gena Rowlands,A Woman under the Influence,False
+15,1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Ingrid Bergman,Murder on the Orient Express,True
+16,1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Valentina Cortese,Day for Night,False
+17,1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Madeline Kahn,Blazing Saddles,False
+18,1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Alice Doesn't Live Here Anymore,False
+19,1974,1975,47,ACTRESS IN A SUPPORTING ROLE,Talia Shire,The Godfather Part II,False
+20,1974,1975,47,ART DIRECTION,"Art Direction:  Richard Sylbert, W. Stewart Campbell;  Set Decoration:  Ruby Levitt",Chinatown,False
+21,1974,1975,47,ART DIRECTION,"Art Direction:  Alexander Golitzen, E. Preston Ames;  Set Decoration:  Frank McKelvy",Earthquake,False
+22,1974,1975,47,ART DIRECTION,"Art Direction:  Dean Tavoularis, Angelo Graham;  Set Decoration:  George R. Nelson",The Godfather Part II,True
+23,1974,1975,47,ART DIRECTION,"Art Direction:  Peter Ellenshaw, John B. Mansbridge, Walter Tyler, Al Roelofs;  Set Decoration:  Hal Gausman",The Island at the Top of the World,False
+24,1974,1975,47,ART DIRECTION,"Art Direction:  William Creber, Ward Preston;  Set Decoration:  Raphael Bretton",The Towering Inferno,False
+25,1974,1975,47,CINEMATOGRAPHY,John A. Alonzo,Chinatown,False
+26,1974,1975,47,CINEMATOGRAPHY,Philip Lathrop,Earthquake,False
+27,1974,1975,47,CINEMATOGRAPHY,Bruce Surtees,Lenny,False
+28,1974,1975,47,CINEMATOGRAPHY,Geoffrey Unsworth,Murder on the Orient Express,False
+29,1974,1975,47,CINEMATOGRAPHY,"Fred Koenekamp, Joseph Biroc",The Towering Inferno,True
+30,1974,1975,47,COSTUME DESIGN,Anthea Sylbert,Chinatown,False
+31,1974,1975,47,COSTUME DESIGN,John Furness,Daisy Miller,False
+32,1974,1975,47,COSTUME DESIGN,Theadora Van Runkle,The Godfather Part II,False
+33,1974,1975,47,COSTUME DESIGN,Theoni V. Aldredge,The Great Gatsby,True
+34,1974,1975,47,COSTUME DESIGN,Tony Walton,Murder on the Orient Express,False
+35,1974,1975,47,DIRECTING,Roman Polanski,Chinatown,False
+36,1974,1975,47,DIRECTING,Francois Truffaut,Day for Night,False
+37,1974,1975,47,DIRECTING,Francis Ford Coppola,The Godfather Part II,True
+38,1974,1975,47,DIRECTING,Bob Fosse,Lenny,False
+39,1974,1975,47,DIRECTING,John Cassavetes,A Woman under the Influence,False
+40,1974,1975,47,DOCUMENTARY (Feature),"Judy Collins and Jill Godmilow, Producers",Antonia: A Portrait of the Woman,False
+41,1974,1975,47,DOCUMENTARY (Feature),"Herbert Kline, Producer",The Challenge...A Tribute to Modern Art,False
+42,1974,1975,47,DOCUMENTARY (Feature),"Jacquot Ehrlich, David Bergman and Haim Gouri, Producers",The 81st Blow,False
+43,1974,1975,47,DOCUMENTARY (Feature),"Peter Davis and Bert Schneider, Producers",Hearts and Minds,True
+44,1974,1975,47,DOCUMENTARY (Feature),"Natalie R. Jones and Eugene S. Jones, Producers",The Wild and the Brave,False
+45,1974,1975,47,DOCUMENTARY (Short Subject),"Francis Thompson, Producer",City Out of Wilderness,False
+46,1974,1975,47,DOCUMENTARY (Short Subject),"Robin Lehman, Producer",Don't,True
+47,1974,1975,47,DOCUMENTARY (Short Subject),"Jon Boorstin, Producer",Exploratorium,False
+48,1974,1975,47,DOCUMENTARY (Short Subject),"Dewitt Jones and Lesley Foster, Producers",John Muir's High Sierra,False
+49,1974,1975,47,DOCUMENTARY (Short Subject),"Ronald S. Kass and Mervyn Lloyd, Producers",Naked Yoga,False
+50,1974,1975,47,FILM EDITING,"John C. Howard, Danford Greene",Blazing Saddles,False
+51,1974,1975,47,FILM EDITING,Sam O'Steen,Chinatown,False
+52,1974,1975,47,FILM EDITING,Dorothy Spencer,Earthquake,False
+53,1974,1975,47,FILM EDITING,Michael Luciano,The Longest Yard,False
+54,1974,1975,47,FILM EDITING,"Harold F. Kress, Carl Kress",The Towering Inferno,True
+55,1974,1975,47,FOREIGN LANGUAGE FILM,Italy,Amarcord,True
+56,1974,1975,47,FOREIGN LANGUAGE FILM,Hungary,Cats' Play,False
+57,1974,1975,47,FOREIGN LANGUAGE FILM,Poland,The Deluge,False
+58,1974,1975,47,FOREIGN LANGUAGE FILM,France,"Lacombe, Lucien",False
+59,1974,1975,47,FOREIGN LANGUAGE FILM,Argentina,The Truce,False
+60,1974,1975,47,MUSIC (Original Dramatic Score),Jerry Goldsmith,Chinatown,False
+61,1974,1975,47,MUSIC (Original Dramatic Score),"Nino Rota, Carmine Coppola",The Godfather Part II,True
+62,1974,1975,47,MUSIC (Original Dramatic Score),Richard Rodney Bennett,Murder on the Orient Express,False
+63,1974,1975,47,MUSIC (Original Dramatic Score),Alex North,Shanks,False
+64,1974,1975,47,MUSIC (Original Dramatic Score),John Williams,The Towering Inferno,False
+65,1974,1975,47,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Nelson Riddle,The Great Gatsby,True
+66,1974,1975,47,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Song Score by Alan Jay Lerner and Frederick Loewe; Adaptation Score by Angela Morley and Douglas Gamley,The Little Prince,False
+67,1974,1975,47,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Song Score by Paul Williams; Adaptation Score by Paul Williams and George Aliceson Tipton,Phantom of the Paradise,False
+68,1974,1975,47,MUSIC (Song),Music by Euel Box; Lyrics by Betty Box,Benji,False
+69,1974,1975,47,MUSIC (Song),Music by John Morris; Lyrics by Mel Brooks,Blazing Saddles,False
+70,1974,1975,47,MUSIC (Song),Music by Frederick Loewe; Lyrics by Alan Jay Lerner,The Little Prince,False
+71,1974,1975,47,MUSIC (Song),Music and Lyrics by Al Kasha and Joel Hirschhorn,The Towering Inferno,True
+72,1974,1975,47,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Don Black,Gold,False
+73,1974,1975,47,BEST PICTURE,"Robert Evans, Producer",Chinatown,False
+74,1974,1975,47,BEST PICTURE,"Francis Ford Coppola, Producer;  Fred Roos, Co-Producer",The Conversation,False
+75,1974,1975,47,BEST PICTURE,"Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers",The Godfather Part II,True
+76,1974,1975,47,BEST PICTURE,"Marvin Worth, Producer",Lenny,False
+77,1974,1975,47,BEST PICTURE,"Irwin Allen, Producer",The Towering Inferno,False
+78,1974,1975,47,SHORT FILM (Animated),"Will Vinton and Bob Gardiner, Producers",Closed Mondays,True
+79,1974,1975,47,SHORT FILM (Animated),"Yvon Mallette and Robert Verrall, Producers",The Family That Dwelt Apart,False
+80,1974,1975,47,SHORT FILM (Animated),"Peter Foldes and René Jodoin, Producers",Hunger,False
+81,1974,1975,47,SHORT FILM (Animated),"Faith Hubley and John Hubley, Producers",Voyage to Next,False
+82,1974,1975,47,SHORT FILM (Animated),"Wolfgang Reitherman, Producer",Winnie the Pooh and Tigger Too,False
+83,1974,1975,47,SHORT FILM (Live Action),"Dewitt Jones, Producer",Climb,False
+84,1974,1975,47,SHORT FILM (Live Action),"Julian Chagrin and Claude Chagrin, Producers",The Concert,False
+85,1974,1975,47,SHORT FILM (Live Action),"Paul Claudon and Edmond Sechan, Producers",One-Eyed Men Are Kings,True
+86,1974,1975,47,SHORT FILM (Live Action),"George V. Casey, Producer",Planet Ocean,False
+87,1974,1975,47,SHORT FILM (Live Action),"Andrew Welsh and George Pastic, Producers",The Violin,False
+88,1974,1975,47,SOUND,"Bud Grenzbach, Larry Jost",Chinatown,False
+89,1974,1975,47,SOUND,"Walter Murch, Arthur Rochester",The Conversation,False
+90,1974,1975,47,SOUND,"Ronald Pierce, Melvin Metcalfe, Sr.",Earthquake,True
+91,1974,1975,47,SOUND,"Theodore Soderberg, Herman Lewis",The Towering Inferno,False
+92,1974,1975,47,SOUND,"Richard Portman, Gene Cantamessa",Young Frankenstein,False
+93,1974,1975,47,WRITING (Original Screenplay),Robert Getchell,Alice Doesn't Live Here Anymore,False
+94,1974,1975,47,WRITING (Original Screenplay),Robert Towne,Chinatown,True
+95,1974,1975,47,WRITING (Original Screenplay),Francis Ford Coppola,The Conversation,False
+96,1974,1975,47,WRITING (Original Screenplay),"Francois Truffaut, Jean-Louis Richard, Suzanne Schiffman",Day for Night,False
+97,1974,1975,47,WRITING (Original Screenplay),"Paul Mazursky, Josh Greenfeld",Harry and Tonto,False
+98,1974,1975,47,WRITING (Screenplay Adapted from Other Material),Screenplay by Mordecai Richler;  Adaptation by Lionel Chetwynd,The Apprenticeship of Duddy Kravitz,False
+99,1974,1975,47,WRITING (Screenplay Adapted from Other Material),"Francis Ford Coppola, Mario Puzo",The Godfather Part II,True
+100,1974,1975,47,WRITING (Screenplay Adapted from Other Material),Julian Barry,Lenny,False
+101,1974,1975,47,WRITING (Screenplay Adapted from Other Material),Paul Dehn,Murder on the Orient Express,False
+102,1974,1975,47,WRITING (Screenplay Adapted from Other Material),"Gene Wilder, Mel Brooks",Young Frankenstein,False
+103,1974,1975,47,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Frank Brendel, Glen Robinson, Albert Whitlock",Earthquake,True
+104,1974,1975,47,JEAN HERSHOLT HUMANITARIAN AWARD,Arthur B. Krim,,True
+105,1974,1975,47,HONORARY AWARD, Howard Hawks - A master American filmmaker whose creative efforts hold a distinguished place in world cinema.,,True
+106,1974,1975,47,HONORARY AWARD, Jean Renoir - a genius who,,True

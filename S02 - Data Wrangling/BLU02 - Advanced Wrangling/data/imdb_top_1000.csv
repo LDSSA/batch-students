@@ -1,0 +1,1001 @@
+film,runtime,rating,metascore,director,star1,star2,star3,star4,no_votes
+The Shawshank Redemption,142 min,9.3,80.0,Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,2343110
+The Godfather,175 min,9.2,100.0,Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan,Diane Keaton,1620367
+The Dark Knight,152 min,9.0,84.0,Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,2303232
+The Godfather: Part II,202 min,9.0,90.0,Francis Ford Coppola,Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton,1129952
+12 Angry Men,96 min,9.0,96.0,Sidney Lumet,Henry Fonda,Lee J. Cobb,Martin Balsam,John Fiedler,689845
+The Lord of the Rings: The Return of the King,201 min,8.9,94.0,Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,1642758
+Pulp Fiction,154 min,8.9,94.0,Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,1826188
+Schindler's List,195 min,8.9,94.0,Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall,1213505
+Inception,148 min,8.8,74.0,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Elliot Page,Ken Watanabe,2067042
+Fight Club,139 min,8.8,66.0,David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,1854740
+The Lord of the Rings: The Fellowship of the Ring,178 min,8.8,92.0,Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,1661481
+Forrest Gump,142 min,8.8,82.0,Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,1809221
+"Il buono, il brutto, il cattivo",161 min,8.8,90.0,Sergio Leone,Clint Eastwood,Eli Wallach,Lee Van Cleef,Aldo Giuffrè,688390
+The Lord of the Rings: The Two Towers,179 min,8.7,87.0,Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,1485555
+The Matrix,136 min,8.7,73.0,Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,1676426
+Goodfellas,146 min,8.7,90.0,Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,1020727
+Star Wars: Episode V - The Empire Strikes Back,124 min,8.7,82.0,Irvin Kershner,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,1159315
+One Flew Over the Cuckoo's Nest,133 min,8.7,83.0,Milos Forman,Jack Nicholson,Louise Fletcher,Michael Berryman,Peter Brocco,918088
+Hamilton,160 min,8.6,90.0,Thomas Kail,Lin-Manuel Miranda,Phillipa Soo,Leslie Odom Jr.,Renée Elise Goldsberry,55291
+Gisaengchung,132 min,8.6,96.0,Bong Joon Ho,Kang-ho Song,Lee Sun-kyun,Cho Yeo-jeong,Choi Woo-sik,552778
+Soorarai Pottru,153 min,8.6,,Sudha Kongara,Suriya,Madhavan,Paresh Rawal,Aparna Balamurali,54995
+Interstellar,169 min,8.6,74.0,Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,1512360
+Cidade de Deus,130 min,8.6,79.0,Fernando Meirelles,Kátia Lund,Alexandre Rodrigues,Leandro Firmino,Matheus Nachtergaele,699256
+Sen to Chihiro no kamikakushi,125 min,8.6,96.0,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette,Miyu Irino,Rumi Hiiragi,651376
+Saving Private Ryan,169 min,8.6,91.0,Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,1235804
+The Green Mile,189 min,8.6,61.0,Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,1147794
+La vita è bella,116 min,8.6,59.0,Roberto Benigni,Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini,Giustino Durano,623629
+Se7en,127 min,8.6,65.0,David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,1445096
+The Silence of the Lambs,118 min,8.6,85.0,Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,1270197
+Star Wars,121 min,8.6,90.0,George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,1231473
+Seppuku,133 min,8.6,85.0,Masaki Kobayashi,Tatsuya Nakadai,Akira Ishihama,Shima Iwashita,Tetsurô Tanba,42004
+Shichinin no samurai,207 min,8.6,98.0,Akira Kurosawa,Toshirô Mifune,Takashi Shimura,Keiko Tsushima,Yukiko Shimazaki,315744
+It's a Wonderful Life,130 min,8.6,89.0,Frank Capra,James Stewart,Donna Reed,Lionel Barrymore,Thomas Mitchell,405801
+Joker,122 min,8.5,59.0,Todd Phillips,Joaquin Phoenix,Robert De Niro,Zazie Beetz,Frances Conroy,939252
+Whiplash,106 min,8.5,88.0,Damien Chazelle,Miles Teller,J.K. Simmons,Melissa Benoist,Paul Reiser,717585
+The Intouchables,112 min,8.5,57.0,Olivier Nakache,Éric Toledano,François Cluzet,Omar Sy,Anne Le Ny,760360
+The Prestige,130 min,8.5,66.0,Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,1190259
+The Departed,151 min,8.5,85.0,Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,1189773
+The Pianist,150 min,8.5,85.0,Roman Polanski,Adrien Brody,Thomas Kretschmann,Frank Finlay,Emilia Fox,729603
+Gladiator,155 min,8.5,67.0,Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,1341460
+American History X,119 min,8.5,62.0,Tony Kaye,Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien,1034705
+The Usual Suspects,106 min,8.5,77.0,Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin,991208
+Léon,110 min,8.5,64.0,Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,1035236
+The Lion King,88 min,8.5,88.0,Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,942045
+Terminator 2: Judgment Day,137 min,8.5,75.0,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,995506
+Nuovo Cinema Paradiso,155 min,8.5,80.0,Giuseppe Tornatore,Philippe Noiret,Enzo Cannavale,Antonella Attili,Isa Danieli,230763
+Hotaru no haka,89 min,8.5,94.0,Isao Takahata,Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi,Yoshiko Shinohara,235231
+Back to the Future,116 min,8.5,87.0,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,1058081
+Once Upon a Time in the West,165 min,8.5,80.0,Sergio Leone,Henry Fonda,Charles Bronson,Claudia Cardinale,Jason Robards,302844
+Psycho,109 min,8.5,97.0,Alfred Hitchcock,Anthony Perkins,Janet Leigh,Vera Miles,John Gavin,604211
+Casablanca,102 min,8.5,100.0,Michael Curtiz,Humphrey Bogart,Ingrid Bergman,Paul Henreid,Claude Rains,522093
+Modern Times,87 min,8.5,96.0,Charles Chaplin,Charles Chaplin,Paulette Goddard,Henry Bergman,Tiny Sandford,217881
+City Lights,87 min,8.5,99.0,Charles Chaplin,Charles Chaplin,Virginia Cherrill,Florence Lee,Harry Myers,167839
+Capharnaüm,126 min,8.4,75.0,Nadine Labaki,Zain Al Rafeea,Yordanos Shiferaw,Boluwatife Treasure Bankole,Kawsar Al Haddad,62635
+Ayla: The Daughter of War,125 min,8.4,,Can Ulkay,Erdem Can,Çetin Tekindor,Ismail Hacioglu,Kyung-jin Lee,34112
+Vikram Vedha,147 min,8.4,,Gayatri,Pushkar,Madhavan,Vijay Sethupathi,Shraddha Srinath,28401
+Kimi no na wa.,106 min,8.4,79.0,Makoto Shinkai,Ryûnosuke Kamiki,Mone Kamishiraishi,Ryô Narita,Aoi Yûki,194838
+Dangal,161 min,8.4,,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar,Fatima Sana Shaikh,Sanya Malhotra,156479
+Spider-Man: Into the Spider-Verse,117 min,8.4,87.0,Bob Persichetti,Peter Ramsey,Rodney Rothman,Shameik Moore,Jake Johnson,375110
+Avengers: Endgame,181 min,8.4,78.0,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Evans,Mark Ruffalo,809955
+Avengers: Infinity War,149 min,8.4,68.0,Anthony Russo,Joe Russo,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo,834477
+Coco,105 min,8.4,81.0,Lee Unkrich,Adrian Molina,Anthony Gonzalez,Gael García Bernal,Benjamin Bratt,384171
+Django Unchained,165 min,8.4,81.0,Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington,1357682
+The Dark Knight Rises,164 min,8.4,78.0,Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,1516346
+3 Idiots,170 min,8.4,67.0,Rajkumar Hirani,Aamir Khan,Madhavan,Mona Singh,Sharman Joshi,344445
+Taare Zameen Par,165 min,8.4,,Aamir Khan,Amole Gupte,Darsheel Safary,Aamir Khan,Tisca Chopra,168895
+WALL·E,98 min,8.4,95.0,Andrew Stanton,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard,999790
+The Lives of Others,137 min,8.4,89.0,Florian Henckel von Donnersmarck,Ulrich Mühe,Martina Gedeck,Sebastian Koch,Ulrich Tukur,358685
+Oldeuboi,101 min,8.4,77.0,Chan-wook Park,Choi Min-sik,Yoo Ji-Tae,Kang Hye-jeong,Kim Byeong-Ok,515451
+Memento,113 min,8.4,80.0,Christopher Nolan,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior,1125712
+Mononoke-hime,134 min,8.4,76.0,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida,Yûko Tanaka,Billy Crudup,343171
+Once Upon a Time in America,229 min,8.4,,Sergio Leone,Robert De Niro,James Woods,Elizabeth McGovern,Treat Williams,311365
+Raiders of the Lost Ark,115 min,8.4,85.0,Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,884112
+The Shining,146 min,8.4,66.0,Stanley Kubrick,Jack Nicholson,Shelley Duvall,Danny Lloyd,Scatman Crothers,898237
+Apocalypse Now,147 min,8.4,94.0,Francis Ford Coppola,Martin Sheen,Marlon Brando,Robert Duvall,Frederic Forrest,606398
+Alien,117 min,8.4,89.0,Ridley Scott,Sigourney Weaver,Tom Skerritt,John Hurt,Veronica Cartwright,787806
+Anand,122 min,8.4,,Hrishikesh Mukherjee,Rajesh Khanna,Amitabh Bachchan,Sumita Sanyal,Ramesh Deo,30273
+Tengoku to jigoku,143 min,8.4,,Akira Kurosawa,Toshirô Mifune,Yutaka Sada,Tatsuya Nakadai,Kyôko Kagawa,34357
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,95 min,8.4,97.0,Stanley Kubrick,Peter Sellers,George C. Scott,Sterling Hayden,Keenan Wynn,450474
+Witness for the Prosecution,116 min,8.4,,Billy Wilder,Tyrone Power,Marlene Dietrich,Charles Laughton,Elsa Lanchester,108862
+Paths of Glory,88 min,8.4,90.0,Stanley Kubrick,Kirk Douglas,Ralph Meeker,Adolphe Menjou,George Macready,178092
+Rear Window,112 min,8.4,100.0,Alfred Hitchcock,James Stewart,Grace Kelly,Wendell Corey,Thelma Ritter,444074
+Sunset Blvd.,110 min,8.4,,Billy Wilder,William Holden,Gloria Swanson,Erich von Stroheim,Nancy Olson,201632
+The Great Dictator,125 min,8.4,,Charles Chaplin,Charles Chaplin,Paulette Goddard,Jack Oakie,Reginald Gardiner,203150
+1917,119 min,8.3,78.0,Sam Mendes,Dean-Charles Chapman,George MacKay,Daniel Mays,Colin Firth,425844
+Tumbbad,104 min,8.3,,Rahi Anil Barve,Anand Gandhi,Adesh Prasad,Sohum Shah,Jyoti Malshe,27793
+Andhadhun,139 min,8.3,,Sriram Raghavan,Ayushmann Khurrana,Tabu,Radhika Apte,Anil Dhawan,71875
+Drishyam,160 min,8.3,,Jeethu Joseph,Mohanlal,Meena,Asha Sharath,Ansiba,30722
+Jagten,115 min,8.3,77.0,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp,Lasse Fogelstrøm,281623
+Jodaeiye Nader az Simin,123 min,8.3,95.0,Asghar Farhadi,Payman Maadi,Leila Hatami,Sareh Bayat,Shahab Hosseini,220002
+Incendies,131 min,8.3,80.0,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette,Mustafa Kamel,150023
+Miracle in cell NO.7,132 min,8.3,,Mehmet Ada Öztekin,Aras Bulut Iynemli,Nisa Sofiya Aksongur,Deniz Baysal,Celile Toyon Uysal,33935
+Babam ve Oglum,112 min,8.3,,Çagan Irmak,Çetin Tekindor,Fikret Kuskan,Hümeyra,Ege Tanman,78925
+Inglourious Basterds,153 min,8.3,69.0,Quentin Tarantino,Brad Pitt,Diane Kruger,Eli Roth,Mélanie Laurent,1267869
+Eternal Sunshine of the Spotless Mind,108 min,8.3,89.0,Michel Gondry,Jim Carrey,Kate Winslet,Tom Wilkinson,Gerry Robert Byrne,911664
+Amélie,122 min,8.3,69.0,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz,Rufus,Lorella Cravotta,703810
+Snatch,104 min,8.3,55.0,Guy Ritchie,Jason Statham,Brad Pitt,Benicio Del Toro,Dennis Farina,782001
+Requiem for a Dream,102 min,8.3,68.0,Darren Aronofsky,Ellen Burstyn,Jared Leto,Jennifer Connelly,Marlon Wayans,766870
+American Beauty,122 min,8.3,84.0,Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,1069738
+Good Will Hunting,126 min,8.3,70.0,Gus Van Sant,Robin Williams,Matt Damon,Ben Affleck,Stellan Skarsgård,861606
+Bacheha-Ye aseman,89 min,8.3,77.0,Majid Majidi,Mohammad Amir Naji,Amir Farrokh Hashemian,Bahare Seddiqi,Nafise Jafar-Mohammadi,65341
+Toy Story,81 min,8.3,95.0,John Lasseter,Tom Hanks,Tim Allen,Don Rickles,Jim Varney,887429
+Braveheart,178 min,8.3,68.0,Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,959181
+Reservoir Dogs,99 min,8.3,79.0,Quentin Tarantino,Harvey Keitel,Tim Roth,Michael Madsen,Chris Penn,918562
+Full Metal Jacket,116 min,8.3,76.0,Stanley Kubrick,Matthew Modine,R. Lee Ermey,Vincent D'Onofrio,Adam Baldwin,675146
+Idi i smotri,142 min,8.3,,Elem Klimov,Aleksey Kravchenko,Olga Mironova,Liubomiras Laucevicius,Vladas Bagdonas,59056
+Aliens,137 min,8.3,84.0,James Cameron,Sigourney Weaver,Michael Biehn,Carrie Henn,Paul Reiser,652719
+Amadeus,160 min,8.3,88.0,Milos Forman,F. Murray Abraham,Tom Hulce,Elizabeth Berridge,Roy Dotrice,369007
+Scarface,170 min,8.3,65.0,Brian De Palma,Al Pacino,Michelle Pfeiffer,Steven Bauer,Mary Elizabeth Mastrantonio,740911
+Star Wars: Episode VI - Return of the Jedi,131 min,8.3,58.0,Richard Marquand,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,950470
+Das Boot,149 min,8.3,86.0,Wolfgang Petersen,Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann,Hubertus Bengsch,231855
+Taxi Driver,114 min,8.3,94.0,Martin Scorsese,Robert De Niro,Jodie Foster,Cybill Shepherd,Albert Brooks,724636
+The Sting,129 min,8.3,83.0,George Roy Hill,Paul Newman,Robert Redford,Robert Shaw,Charles Durning,241513
+A Clockwork Orange,136 min,8.3,77.0,Stanley Kubrick,Malcolm McDowell,Patrick Magee,Michael Bates,Warren Clarke,757904
+2001: A Space Odyssey,149 min,8.3,84.0,Stanley Kubrick,Keir Dullea,Gary Lockwood,William Sylvester,Daniel Richter,603517
+Per qualche dollaro in più,132 min,8.3,74.0,Sergio Leone,Clint Eastwood,Lee Van Cleef,Gian Maria Volontè,Mara Krupp,232772
+Lawrence of Arabia,228 min,8.3,100.0,David Lean,Peter O'Toole,Alec Guinness,Anthony Quinn,Jack Hawkins,268085
+The Apartment,125 min,8.3,94.0,Billy Wilder,Jack Lemmon,Shirley MacLaine,Fred MacMurray,Ray Walston,164363
+North by Northwest,136 min,8.3,98.0,Alfred Hitchcock,Cary Grant,Eva Marie Saint,James Mason,Jessie Royce Landis,299198
+Vertigo,128 min,8.3,100.0,Alfred Hitchcock,James Stewart,Kim Novak,Barbara Bel Geddes,Tom Helmore,364368
+Singin' in the Rain,103 min,8.3,99.0,Stanley Donen,Gene Kelly,Gene Kelly,Donald O'Connor,Debbie Reynolds,218957
+Ikiru,143 min,8.3,,Akira Kurosawa,Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori,Haruo Tanaka,68463
+Ladri di biciclette,89 min,8.3,,Vittorio De Sica,Lamberto Maggiorani,Enzo Staiola,Lianella Carell,Elena Altieri,146427
+Double Indemnity,107 min,8.3,95.0,Billy Wilder,Fred MacMurray,Barbara Stanwyck,Edward G. Robinson,Byron Barr,143525
+Citizen Kane,119 min,8.3,100.0,Orson Welles,Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead,403351
+M - Eine Stadt sucht einen Mörder,117 min,8.3,,Fritz Lang,Peter Lorre,Ellen Widmann,Inge Landgut,Otto Wernicke,143434
+Metropolis,153 min,8.3,98.0,Fritz Lang,Brigitte Helm,Alfred Abel,Gustav Fröhlich,Rudolf Klein-Rogge,159992
+The Kid,68 min,8.3,,Charles Chaplin,Charles Chaplin,Edna Purviance,Jackie Coogan,Carl Miller,113314
+Chhichhore,143 min,8.2,,Nitesh Tiwari,Sushant Singh Rajput,Shraddha Kapoor,Varun Sharma,Prateik,33893
+Uri: The Surgical Strike,138 min,8.2,,Aditya Dhar,Vicky Kaushal,Paresh Rawal,Mohit Raina,Yami Gautam,43444
+K.G.F: Chapter 1,156 min,8.2,,Prashanth Neel,Yash,Srinidhi Shetty,Ramachandra Raju,Archana Jois,36680
+Green Book,130 min,8.2,69.0,Peter Farrelly,Viggo Mortensen,Mahershala Ali,Linda Cardellini,Sebastian Maniscalco,377884
+"Three Billboards Outside Ebbing, Missouri",115 min,8.2,88.0,Martin McDonagh,Frances McDormand,Woody Harrelson,Sam Rockwell,Caleb Landry Jones,432610
+Talvar,132 min,8.2,,Meghna Gulzar,Irrfan Khan,Konkona Sen Sharma,Neeraj Kabi,Sohum Shah,31142
+Baahubali 2: The Conclusion,167 min,8.2,,S.S. Rajamouli,Prabhas,Rana Daggubati,Anushka Shetty,Tamannaah Bhatia,75348
+Klaus,96 min,8.2,65.0,Sergio Pablos,Carlos Martínez López,Jason Schwartzman,J.K. Simmons,Rashida Jones,104761
+Drishyam,163 min,8.2,,Nishikant Kamat,Ajay Devgn,Shriya Saran,Tabu,Rajat Kapoor,70367
+Queen,146 min,8.2,,Vikas Bahl,Kangana Ranaut,Rajkummar Rao,Lisa Haydon,Jeffrey Ho,60701
+Mandariinid,87 min,8.2,73.0,Zaza Urushadze,Lembit Ulfsak,Elmo Nüganen,Giorgi Nakashidze,Misha Meskhi,40382
+Bhaag Milkha Bhaag,186 min,8.2,,Rakeysh Omprakash Mehra,Farhan Akhtar,Sonam Kapoor,Pawan Malhotra,Art Malik,61137
+Gangs of Wasseypur,321 min,8.2,89.0,Anurag Kashyap,Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui,Tigmanshu Dhulia,82365
+Udaan,134 min,8.2,,Vikramaditya Motwane,Rajat Barmecha,Ronit Roy,Manjot Singh,Ram Kapoor,42341
+Paan Singh Tomar,135 min,8.2,,Tigmanshu Dhulia,Irrfan Khan,Mahie Gill,Rajesh Abhay,Hemendra Dandotiya,33237
+El secreto de sus ojos,129 min,8.2,80.0,Juan José Campanella,Ricardo Darín,Soledad Villamil,Pablo Rago,Carla Quevedo,193217
+Warrior,140 min,8.2,71.0,Gavin O'Connor,Tom Hardy,Nick Nolte,Joel Edgerton,Jennifer Morrison,435950
+Shutter Island,138 min,8.2,63.0,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,1129894
+Up,96 min,8.2,88.0,Pete Docter,Bob Peterson,Edward Asner,Jordan Nagai,John Ratzenberger,935507
+The Wolf of Wall Street,180 min,8.2,75.0,Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey,1187498
+Chak De! India,153 min,8.2,68.0,Shimit Amin,Shah Rukh Khan,Vidya Malvade,Sagarika Ghatge,Shilpa Shukla,74129
+There Will Be Blood,158 min,8.2,93.0,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano,Ciarán Hinds,Martin Stringer,517359
+Pan's Labyrinth,118 min,8.2,98.0,Guillermo del Toro,Ivana Baquero,Ariadna Gil,Sergi López,Maribel Verdú,618623
+Toy Story 3,103 min,8.2,92.0,Lee Unkrich,Tom Hanks,Tim Allen,Joan Cusack,Ned Beatty,757032
+V for Vendetta,132 min,8.2,62.0,James McTeigue,Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea,1032749
+Rang De Basanti,167 min,8.2,,Rakeysh Omprakash Mehra,Aamir Khan,Soha Ali Khan,Siddharth,Sharman Joshi,111937
+Black,122 min,8.2,,Sanjay Leela Bhansali,Amitabh Bachchan,Rani Mukerji,Shernaz Patel,Ayesha Kapoor,33354
+Batman Begins,140 min,8.2,70.0,Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,1308302
+"Swades: We, the People",210 min,8.2,,Ashutosh Gowariker,Shah Rukh Khan,Gayatri Joshi,Kishori Ballal,Smit Sheth,83005
+Der Untergang,156 min,8.2,82.0,Oliver Hirschbiegel,Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes,Juliane Köhler,331308
+Hauru no ugoku shiro,119 min,8.2,80.0,Hayao Miyazaki,Chieko Baishô,Takuya Kimura,Tatsuya Gashûin,Akihiro Miwa,333915
+A Beautiful Mind,135 min,8.2,72.0,Ron Howard,Russell Crowe,Ed Harris,Jennifer Connelly,Christopher Plummer,848920
+Hera Pheri,156 min,8.2,,Priyadarshan,Akshay Kumar,Sunil Shetty,Paresh Rawal,Tabu,57057
+"Lock, Stock and Two Smoking Barrels",107 min,8.2,66.0,Guy Ritchie,Jason Flemyng,Dexter Fletcher,Nick Moran,Jason Statham,535216
+L.A. Confidential,138 min,8.2,90.0,Curtis Hanson,Kevin Spacey,Russell Crowe,Guy Pearce,Kim Basinger,531967
+Eskiya,128 min,8.2,,Yavuz Turgul,Sener Sen,Ugur Yücel,Sermin Hürmeriç,Yesim Salkim,64118
+Heat,170 min,8.2,76.0,Michael Mann,Al Pacino,Robert De Niro,Val Kilmer,Jon Voight,577113
+Casino,178 min,8.2,73.0,Martin Scorsese,Robert De Niro,Sharon Stone,Joe Pesci,James Woods,466276
+Andaz Apna Apna,160 min,8.2,,Rajkumar Santoshi,Aamir Khan,Salman Khan,Raveena Tandon,Karisma Kapoor,49300
+Unforgiven,130 min,8.2,85.0,Clint Eastwood,Clint Eastwood,Gene Hackman,Morgan Freeman,Richard Harris,375935
+Indiana Jones and the Last Crusade,127 min,8.2,65.0,Steven Spielberg,Harrison Ford,Sean Connery,Alison Doody,Denholm Elliott,692366
+Dom za vesanje,142 min,8.2,,Emir Kusturica,Davor Dujmovic,Bora Todorovic,Ljubica Adzovic,Husnija Hasimovic,26402
+Tonari no Totoro,86 min,8.2,86.0,Hayao Miyazaki,Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto,Shigesato Itoi,291180
+Die Hard,132 min,8.2,72.0,John McTiernan,Bruce Willis,Alan Rickman,Bonnie Bedelia,Reginald VelJohnson,793164
+Ran,162 min,8.2,96.0,Akira Kurosawa,Tatsuya Nakadai,Akira Terao,Jinpachi Nezu,Daisuke Ryû,112505
+Raging Bull,129 min,8.2,89.0,Martin Scorsese,Robert De Niro,Cathy Moriarty,Joe Pesci,Frank Vincent,321860
+Stalker,162 min,8.2,,Andrei Tarkovsky,Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn,Nikolay Grinko,116945
+Höstsonaten,99 min,8.2,,Ingmar Bergman,Ingrid Bergman,Liv Ullmann,Lena Nyman,Halvar Björk,26875
+The Message,177 min,8.2,,Moustapha Akkad,Anthony Quinn,Irene Papas,Michael Ansara,Johnny Sekka,43885
+Sholay,204 min,8.2,,Ramesh Sippy,Sanjeev Kumar,Dharmendra,Amitabh Bachchan,Amjad Khan,51284
+Monty Python and the Holy Grail,91 min,8.2,91.0,Terry Gilliam,Terry Jones,Graham Chapman,John Cleese,Eric Idle,500875
+The Great Escape,172 min,8.2,86.0,John Sturges,Steve McQueen,James Garner,Richard Attenborough,Charles Bronson,224730
+To Kill a Mockingbird,129 min,8.2,88.0,Robert Mulligan,Gregory Peck,John Megna,Frank Overton,Rosemary Murphy,293811
+Yôjinbô,110 min,8.2,,Akira Kurosawa,Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai,Yôko Tsukasa,111244
+Judgment at Nuremberg,179 min,8.2,60.0,Stanley Kramer,Spencer Tracy,Burt Lancaster,Richard Widmark,Marlene Dietrich,69458
+Some Like It Hot,121 min,8.2,98.0,Billy Wilder,Marilyn Monroe,Tony Curtis,Jack Lemmon,George Raft,243943
+Smultronstället,91 min,8.2,88.0,Ingmar Bergman,Victor Sjöström,Bibi Andersson,Ingrid Thulin,Gunnar Björnstrand,96381
+Det sjunde inseglet,96 min,8.2,88.0,Ingmar Bergman,Max von Sydow,Gunnar Björnstrand,Bengt Ekerot,Nils Poppe,164939
+Du rififi chez les hommes,118 min,8.2,97.0,Jules Dassin,Jean Servais,Carl Möhner,Robert Manuel,Janine Darcey,28810
+Dial M for Murder,105 min,8.2,75.0,Alfred Hitchcock,Ray Milland,Grace Kelly,Robert Cummings,John Williams,158335
+Tôkyô monogatari,136 min,8.2,,Yasujirô Ozu,Chishû Ryû,Chieko Higashiyama,Sô Yamamura,Setsuko Hara,53153
+Rashômon,88 min,8.2,98.0,Akira Kurosawa,Toshirô Mifune,Machiko Kyô,Masayuki Mori,Takashi Shimura,152572
+All About Eve,138 min,8.2,98.0,Joseph L. Mankiewicz,Bette Davis,Anne Baxter,George Sanders,Celeste Holm,120539
+The Treasure of the Sierra Madre,126 min,8.2,98.0,John Huston,Humphrey Bogart,Walter Huston,Tim Holt,Bruce Bennett,114304
+To Be or Not to Be,99 min,8.2,86.0,Ernst Lubitsch,Carole Lombard,Jack Benny,Robert Stack,Felix Bressart,29915
+The Gold Rush,95 min,8.2,,Charles Chaplin,Charles Chaplin,Mack Swain,Tom Murray,Henry Bergman,101053
+Sherlock Jr.,45 min,8.2,,Buster Keaton,Buster Keaton,Kathryn McGuire,Joe Keaton,Erwin Connelly,41985
+Portrait de la jeune fille en feu,122 min,8.1,95.0,Céline Sciamma,Noémie Merlant,Adèle Haenel,Luàna Bajrami,Valeria Golino,63134
+Pink,136 min,8.1,,Aniruddha Roy Chowdhury,Taapsee Pannu,Amitabh Bachchan,Kirti Kulhari,Andrea Tariang,39216
+Koe no katachi,130 min,8.1,78.0,Naoko Yamada,Miyu Irino,Saori Hayami,Aoi Yûki,Kenshô Ono,47708
+Contratiempo,106 min,8.1,,Oriol Paulo,Mario Casas,Ana Wagener,Jose Coronado,Bárbara Lennie,141516
+Ah-ga-ssi,145 min,8.1,84.0,Chan-wook Park,Kim Min-hee,Jung-woo Ha,Cho Jin-woong,Moon So-Ri,113649
+Mommy,139 min,8.1,74.0,Xavier Dolan,Anne Dorval,Antoine Olivier Pilon,Suzanne Clément,Patrick Huard,50700
+Haider,160 min,8.1,,Vishal Bhardwaj,Shahid Kapoor,Tabu,Shraddha Kapoor,Kay Kay Menon,50445
+Logan,137 min,8.1,77.0,James Mangold,Hugh Jackman,Patrick Stewart,Dafne Keen,Boyd Holbrook,647884
+Room,118 min,8.1,86.0,Lenny Abrahamson,Brie Larson,Jacob Tremblay,Sean Bridgers,Wendy Crewson,371538
+Relatos salvajes,122 min,8.1,77.0,Damián Szifron,Darío Grandinetti,María Marull,Mónica Villa,Diego Starosta,177059
+Soul,100 min,8.1,83.0,Pete Docter,Kemp Powers,Jamie Foxx,Tina Fey,Graham Norton,159171
+Kis Uykusu,196 min,8.1,88.0,Nuri Bilge Ceylan,Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan,46547
+PK,153 min,8.1,,Rajkumar Hirani,Aamir Khan,Anushka Sharma,Sanjay Dutt,Boman Irani,163061
+OMG: Oh My God!,125 min,8.1,,Umesh Shukla,Paresh Rawal,Akshay Kumar,Mithun Chakraborty,Mahesh Manjrekar,51739
+The Grand Budapest Hotel,99 min,8.1,88.0,Wes Anderson,Ralph Fiennes,F. Murray Abraham,Mathieu Amalric,Adrien Brody,707630
+Gone Girl,149 min,8.1,79.0,David Fincher,Ben Affleck,Rosamund Pike,Neil Patrick Harris,Tyler Perry,859695
+Ôkami kodomo no Ame to Yuki,117 min,8.1,71.0,Mamoru Hosoda,Aoi Miyazaki,Takao Osawa,Haru Kuroki,Yukito Nishii,38803
+Hacksaw Ridge,139 min,8.1,71.0,Mel Gibson,Andrew Garfield,Sam Worthington,Luke Bracey,Teresa Palmer,435928
+Inside Out,95 min,8.1,94.0,Pete Docter,Ronnie Del Carmen,Amy Poehler,Bill Hader,Lewis Black,616228
+Barfi!,151 min,8.1,,Anurag Basu,Ranbir Kapoor,Priyanka Chopra,Ileana D'Cruz,Saurabh Shukla,75721
+12 Years a Slave,134 min,8.1,96.0,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender,Brad Pitt,640533
+Rush,123 min,8.1,74.0,Ron Howard,Daniel Brühl,Chris Hemsworth,Olivia Wilde,Alexandra Maria Lara,432811
+Ford v Ferrari,152 min,8.1,81.0,James Mangold,Matt Damon,Christian Bale,Jon Bernthal,Caitriona Balfe,291289
+Spotlight,129 min,8.1,93.0,Tom McCarthy,Mark Ruffalo,Michael Keaton,Rachel McAdams,Liev Schreiber,420316
+Song of the Sea,93 min,8.1,85.0,Tomm Moore,David Rawle,Brendan Gleeson,Lisa Hannigan,Fionnula Flanagan,51679
+Kahaani,122 min,8.1,,Sujoy Ghosh,Vidya Balan,Parambrata Chattopadhyay,Indraneil Sengupta,Nawazuddin Siddiqui,57806
+Zindagi Na Milegi Dobara,155 min,8.1,,Zoya Akhtar,Hrithik Roshan,Farhan Akhtar,Abhay Deol,Katrina Kaif,67927
+Prisoners,153 min,8.1,70.0,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal,Viola Davis,Melissa Leo,601149
+Mad Max: Fury Road,120 min,8.1,90.0,George Miller,Tom Hardy,Charlize Theron,Nicholas Hoult,Zoë Kravitz,882316
+A Wednesday,104 min,8.1,,Neeraj Pandey,Anupam Kher,Naseeruddin Shah,Jimmy Sheirgill,Aamir Bashir,73891
+Gran Torino,116 min,8.1,72.0,Clint Eastwood,Clint Eastwood,Bee Vang,Christopher Carley,Ahney Her,720450
+Harry Potter and the Deathly Hallows: Part 2,130 min,8.1,85.0,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,764493
+Okuribito,130 min,8.1,68.0,Yôjirô Takita,Masahiro Motoki,Ryôko Hirosue,Tsutomu Yamazaki,Kazuko Yoshiyuki,48582
+Hachi: A Dog's Tale,93 min,8.1,,Lasse Hallström,Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa,Sarah Roemer,253575
+Mary and Max,92 min,8.1,,Adam Elliot,Toni Collette,Philip Seymour Hoffman,Eric Bana,Barry Humphries,164462
+How to Train Your Dragon,98 min,8.1,75.0,Dean DeBlois,Chris Sanders,Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse,666773
+Into the Wild,148 min,8.1,73.0,Sean Penn,Emile Hirsch,Vince Vaughn,Catherine Keener,Marcia Gay Harden,572921
+No Country for Old Men,122 min,8.1,91.0,Ethan Coen,Joel Coen,Tommy Lee Jones,Javier Bardem,Josh Brolin,856916
+Lage Raho Munna Bhai,144 min,8.1,,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Vidya Balan,Boman Irani,43137
+Million Dollar Baby,132 min,8.1,86.0,Clint Eastwood,Hilary Swank,Clint Eastwood,Morgan Freeman,Jay Baruchel,635975
+Hotel Rwanda,121 min,8.1,79.0,Terry George,Don Cheadle,Sophie Okonedo,Joaquin Phoenix,Xolani Mali,334320
+Taegukgi hwinalrimyeo,140 min,8.1,64.0,Je-kyu Kang,Jang Dong-Gun,Won Bin,Eun-ju Lee,Hyeong-jin Kong,37820
+Before Sunset,80 min,8.1,90.0,Richard Linklater,Ethan Hawke,Julie Delpy,Vernon Dobtcheff,Louise Lemoine Torrès,236311
+Munna Bhai M.B.B.S.,156 min,8.1,,Rajkumar Hirani,Sanjay Dutt,Arshad Warsi,Gracy Singh,Sunil Dutt,73992
+Salinui chueok,131 min,8.1,82.0,Bong Joon Ho,Kang-ho Song,Kim Sang-kyung,Roe-ha Kim,Jae-ho Song,139558
+Dil Chahta Hai,183 min,8.1,,Farhan Akhtar,Aamir Khan,Saif Ali Khan,Akshaye Khanna,Preity Zinta,66803
+Kill Bill: Vol. 1,111 min,8.1,69.0,Quentin Tarantino,Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen,1000639
+Finding Nemo,100 min,8.1,90.0,Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,949565
+Catch Me If You Can,141 min,8.1,75.0,Steven Spielberg,Leonardo DiCaprio,Tom Hanks,Christopher Walken,Martin Sheen,832846
+Amores perros,154 min,8.1,83.0,Alejandro G. Iñárritu,Emilio Echevarría,Gael García Bernal,Goya Toledo,Álvaro Guerrero,223741
+"Monsters, Inc.",92 min,8.1,79.0,Pete Docter,David Silverman,Lee Unkrich,Billy Crystal,John Goodman,815505
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",87 min,8.1,,Hideaki Anno,Kazuya Tsurumaki,Megumi Ogata,Megumi Hayashibara,Yûko Miyamura,38847
+Lagaan: Once Upon a Time in India,224 min,8.1,84.0,Ashutosh Gowariker,Aamir Khan,Raghuvir Yadav,Gracy Singh,Rachel Shelley,105036
+The Sixth Sense,107 min,8.1,64.0,M. Night Shyamalan,Bruce Willis,Haley Joel Osment,Toni Collette,Olivia Williams,911573
+La leggenda del pianista sull'oceano,169 min,8.1,58.0,Giuseppe Tornatore,Tim Roth,Pruitt Taylor Vince,Mélanie Thierry,Bill Nunn,59020
+The Truman Show,103 min,8.1,90.0,Peter Weir,Jim Carrey,Ed Harris,Laura Linney,Noah Emmerich,939631
+"Crna macka, beli macor",127 min,8.1,73.0,Emir Kusturica,Bajram Severdzan,Srdjan 'Zika' Todorovic,Branka Katic,Florijan Ajdini,50862
+The Big Lebowski,117 min,8.1,71.0,Joel Coen,Ethan Coen,Jeff Bridges,John Goodman,Julianne Moore,732620
+Fa yeung nin wah,98 min,8.1,85.0,Kar-Wai Wong,Tony Chiu-Wai Leung,Maggie Cheung,Ping Lam Siu,Tung Cho 'Joe' Cheung,124383
+Trainspotting,93 min,8.1,83.0,Danny Boyle,Ewan McGregor,Ewen Bremner,Jonny Lee Miller,Kevin McKidd,634716
+Fargo,98 min,8.1,85.0,Joel Coen,Ethan Coen,William H. Macy,Frances McDormand,Steve Buscemi,617444
+Underground,170 min,8.1,,Emir Kusturica,Predrag 'Miki' Manojlovic,Lazar Ristovski,Mirjana Jokovic,Slavko Stimac,55220
+La haine,98 min,8.1,,Mathieu Kassovitz,Vincent Cassel,Hubert Koundé,Saïd Taghmaoui,Abdel Ahmed Ghili,150345
+Dilwale Dulhania Le Jayenge,189 min,8.1,,Aditya Chopra,Shah Rukh Khan,Kajol,Amrish Puri,Farida Jalal,63516
+Before Sunrise,101 min,8.1,77.0,Richard Linklater,Ethan Hawke,Julie Delpy,Andrea Eckert,Hanno Pöschl,272291
+Trois couleurs: Rouge,99 min,8.1,100.0,Krzysztof Kieslowski,Irène Jacob,Jean-Louis Trintignant,Frédérique Feder,Jean-Pierre Lorit,90729
+Chung Hing sam lam,102 min,8.1,77.0,Kar-Wai Wong,Brigitte Lin,Takeshi Kaneshiro,Tony Chiu-Wai Leung,Faye Wong,63122
+Jurassic Park,127 min,8.1,68.0,Steven Spielberg,Sam Neill,Laura Dern,Jeff Goldblum,Richard Attenborough,867615
+In the Name of the Father,133 min,8.1,84.0,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie,Philip King,156842
+Ba wang bie ji,171 min,8.1,,Kaige Chen,Leslie Cheung,Fengyi Zhang,Gong Li,You Ge,25088
+Dà hóng denglong gaogao guà,125 min,8.1,,Yimou Zhang,Gong Li,Jingwu Ma,Saifei He,Cuifen Cao,29662
+Dead Poets Society,128 min,8.1,79.0,Peter Weir,Robin Williams,Robert Sean Leonard,Ethan Hawke,Josh Charles,425457
+Stand by Me,89 min,8.1,75.0,Rob Reiner,Wil Wheaton,River Phoenix,Corey Feldman,Jerry O'Connell,363401
+Platoon,120 min,8.1,92.0,Oliver Stone,Charlie Sheen,Tom Berenger,Willem Dafoe,Keith David,381222
+"Paris, Texas",145 min,8.1,78.0,Wim Wenders,Harry Dean Stanton,Nastassja Kinski,Dean Stockwell,Aurore Clément,91188
+Kaze no tani no Naushika,117 min,8.1,86.0,Hayao Miyazaki,Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda,Gorô Naya,150924
+The Thing,109 min,8.1,57.0,John Carpenter,Kurt Russell,Wilford Brimley,Keith David,Richard Masur,371271
+Pink Floyd: The Wall,95 min,8.1,47.0,Alan Parker,Bob Geldof,Christine Hargreaves,James Laurenson,Eleanor David,76081
+Fitzcarraldo,158 min,8.1,,Werner Herzog,Klaus Kinski,Claudia Cardinale,José Lewgoy,Miguel Ángel Fuentes,31595
+Fanny och Alexander,188 min,8.1,100.0,Ingmar Bergman,Bertil Guve,Pernilla Allwin,Kristina Adolphson,Börje Ahlstedt,57784
+Blade Runner,117 min,8.1,84.0,Ridley Scott,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,693827
+The Elephant Man,124 min,8.1,78.0,David Lynch,Anthony Hopkins,John Hurt,Anne Bancroft,John Gielgud,220078
+Life of Brian,94 min,8.1,77.0,Terry Jones,Graham Chapman,John Cleese,Michael Palin,Terry Gilliam,367250
+The Deer Hunter,183 min,8.1,86.0,Michael Cimino,Robert De Niro,Christopher Walken,John Cazale,John Savage,311361
+Rocky,120 min,8.1,70.0,John G. Avildsen,Sylvester Stallone,Talia Shire,Burt Young,Carl Weathers,518546
+Network,121 min,8.1,83.0,Sidney Lumet,Faye Dunaway,William Holden,Peter Finch,Robert Duvall,144911
+Barry Lyndon,185 min,8.1,89.0,Stanley Kubrick,Ryan O'Neal,Marisa Berenson,Patrick Magee,Hardy Krüger,149843
+Zerkalo,107 min,8.1,,Andrei Tarkovsky,Margarita Terekhova,Filipp Yankovskiy,Ignat Daniltsev,Oleg Yankovskiy,40081
+Chinatown,130 min,8.1,92.0,Roman Polanski,Jack Nicholson,Faye Dunaway,John Huston,Perry Lopez,294230
+Paper Moon,102 min,8.1,77.0,Peter Bogdanovich,Ryan O'Neal,Tatum O'Neal,Madeline Kahn,John Hillerman,42285
+Viskningar och rop,91 min,8.1,,Ingmar Bergman,Harriet Andersson,Liv Ullmann,Kari Sylwan,Ingrid Thulin,30206
+Solaris,167 min,8.1,90.0,Andrei Tarkovsky,Natalya Bondarchuk,Donatas Banionis,Jüri Järvet,Vladislav Dvorzhetskiy,81021
+Le samouraï,105 min,8.1,,Jean-Pierre Melville,Alain Delon,François Périer,Nathalie Delon,Cathy Rosier,45434
+Cool Hand Luke,127 min,8.1,92.0,Stuart Rosenberg,Paul Newman,George Kennedy,Strother Martin,J.D. Cannon,161984
+Persona,85 min,8.1,86.0,Ingmar Bergman,Bibi Andersson,Liv Ullmann,Margaretha Krook,Gunnar Björnstrand,103191
+Andrei Rublev,205 min,8.1,,Andrei Tarkovsky,Anatoliy Solonitsyn,Ivan Lapikov,Nikolay Grinko,Nikolay Sergeev,46947
+La battaglia di Algeri,121 min,8.1,96.0,Gillo Pontecorvo,Brahim Hadjadj,Jean Martin,Yacef Saadi,Samia Kerbash,53089
+El ángel exterminador,95 min,8.1,,Luis Buñuel,Silvia Pinal,Jacqueline Andere,Enrique Rambal,José Baviera,29682
+What Ever Happened to Baby Jane?,134 min,8.1,75.0,Robert Aldrich,Bette Davis,Joan Crawford,Victor Buono,Wesley Addy,50058
+Sanjuro,96 min,8.1,,Akira Kurosawa,Toshirô Mifune,Tatsuya Nakadai,Keiju Kobayashi,Yûnosuke Itô,33044
+The Man Who Shot Liberty Valance,123 min,8.1,94.0,John Ford,James Stewart,John Wayne,Vera Miles,Lee Marvin,68827
+Ivanovo detstvo,95 min,8.1,,Andrei Tarkovsky,Eduard Abalov,Nikolay Burlyaev,Valentin Zubkov,Evgeniy Zharikov,31728
+Jungfrukällan,89 min,8.1,,Ingmar Bergman,Max von Sydow,Birgitta Valberg,Gunnel Lindblom,Birgitta Pettersson,26697
+Inherit the Wind,128 min,8.1,75.0,Stanley Kramer,Spencer Tracy,Fredric March,Gene Kelly,Dick York,27254
+Les quatre cents coups,99 min,8.1,,François Truffaut,Jean-Pierre Léaud,Albert Rémy,Claire Maurier,Guy Decomble,105291
+Ben-Hur,212 min,8.1,90.0,William Wyler,Charlton Heston,Jack Hawkins,Stephen Boyd,Haya Harareet,219466
+Kakushi-toride no san-akunin,139 min,8.1,,Akira Kurosawa,Toshirô Mifune,Misa Uehara,Minoru Chiaki,Kamatari Fujiwara,34797
+Le notti di Cabiria,110 min,8.1,,Federico Fellini,Giulietta Masina,François Périer,Franca Marzi,Dorian Gray,42940
+Kumonosu-jô,110 min,8.1,,Akira Kurosawa,Toshirô Mifune,Minoru Chiaki,Isuzu Yamada,Takashi Shimura,46678
+The Bridge on the River Kwai,161 min,8.1,87.0,David Lean,William Holden,Alec Guinness,Jack Hawkins,Sessue Hayakawa,203463
+On the Waterfront,108 min,8.1,91.0,Elia Kazan,Marlon Brando,Karl Malden,Lee J. Cobb,Rod Steiger,142107
+Le salaire de la peur,131 min,8.1,85.0,Henri-Georges Clouzot,Yves Montand,Charles Vanel,Peter van Eyck,Folco Lulli,54588
+Ace in the Hole,111 min,8.1,72.0,Billy Wilder,Kirk Douglas,Jan Sterling,Robert Arthur,Porter Hall,31568
+White Heat,114 min,8.1,,Raoul Walsh,James Cagney,Virginia Mayo,Edmond O'Brien,Margaret Wycherly,29807
+The Third Man,104 min,8.1,97.0,Carol Reed,Orson Welles,Joseph Cotten,Alida Valli,Trevor Howard,158731
+The Red Shoes,135 min,8.1,,Michael Powell,Emeric Pressburger,Anton Walbrook,Marius Goring,Moira Shearer,30935
+The Shop Around the Corner,99 min,8.1,96.0,Ernst Lubitsch,Margaret Sullavan,James Stewart,Frank Morgan,Joseph Schildkraut,28450
+Rebecca,130 min,8.1,86.0,Alfred Hitchcock,Laurence Olivier,Joan Fontaine,George Sanders,Judith Anderson,123942
+Mr. Smith Goes to Washington,129 min,8.1,73.0,Frank Capra,James Stewart,Jean Arthur,Claude Rains,Edward Arnold,107017
+Gone with the Wind,238 min,8.1,97.0,Victor Fleming,George Cukor,Sam Wood,Clark Gable,Vivien Leigh,290074
+La Grande Illusion,113 min,8.1,,Jean Renoir,Jean Gabin,Dita Parlo,Pierre Fresnay,Erich von Stroheim,33829
+It Happened One Night,105 min,8.1,87.0,Frank Capra,Clark Gable,Claudette Colbert,Walter Connolly,Roscoe Karns,94016
+La passion de Jeanne d'Arc,110 min,8.1,,Carl Theodor Dreyer,Maria Falconetti,Eugene Silvain,André Berley,Maurice Schutz,47676
+The Circus,72 min,8.1,90.0,Charles Chaplin,Charles Chaplin,Merna Kennedy,Al Ernest Garcia,Harry Crocker,30205
+Sunrise: A Song of Two Humans,94 min,8.1,,F.W. Murnau,George O'Brien,Janet Gaynor,Margaret Livingston,Bodil Rosing,46865
+The General,67 min,8.1,,Clyde Bruckman,Buster Keaton,Buster Keaton,Marion Mack,Glen Cavender,81156
+Das Cabinet des Dr. Caligari,76 min,8.1,,Robert Wiene,Werner Krauss,Conrad Veidt,Friedrich Feher,Lil Dagover,57428
+Badhaai ho,124 min,8.0,,Amit Ravindernath Sharma,Ayushmann Khurrana,Neena Gupta,Gajraj Rao,Sanya Malhotra,27978
+Togo,113 min,8.0,69.0,Ericson Core,Willem Dafoe,Julianne Nicholson,Christopher Heyerdahl,Richard Dormer,37556
+Airlift,130 min,8.0,,Raja Menon,Akshay Kumar,Nimrat Kaur,Kumud Mishra,Prakash Belawadi,52897
+Bajrangi Bhaijaan,163 min,8.0,,Kabir Khan,Salman Khan,Harshaali Malhotra,Nawazuddin Siddiqui,Kareena Kapoor,72245
+Baby,159 min,8.0,,Neeraj Pandey,Akshay Kumar,Danny Denzongpa,Rana Daggubati,Taapsee Pannu,52848
+La La Land,128 min,8.0,94.0,Damien Chazelle,Ryan Gosling,Emma Stone,Rosemarie DeWitt,J.K. Simmons,505918
+Lion,118 min,8.0,69.0,Garth Davis,Dev Patel,Nicole Kidman,Rooney Mara,Sunny Pawar,213970
+The Martian,144 min,8.0,80.0,Ridley Scott,Matt Damon,Jessica Chastain,Kristen Wiig,Kate Mara,760094
+Zootopia,108 min,8.0,78.0,Byron Howard,Rich Moore,Jared Bush,Ginnifer Goodwin,Jason Bateman,434143
+Bãhubali: The Beginning,159 min,8.0,,S.S. Rajamouli,Prabhas,Rana Daggubati,Ramya Krishnan,Sathyaraj,102972
+Kaguyahime no monogatari,137 min,8.0,89.0,Isao Takahata,Chloë Grace Moretz,James Caan,Mary Steenburgen,James Marsden,38746
+Wonder,113 min,8.0,66.0,Stephen Chbosky,Jacob Tremblay,Owen Wilson,Izabela Vidovic,Julia Roberts,141923
+Gully Boy,154 min,8.0,65.0,Zoya Akhtar,Vijay Varma,Nakul Roshan Sahdev,Ranveer Singh,Vijay Raaz,31886
+Special Chabbis,144 min,8.0,,Neeraj Pandey,Akshay Kumar,Anupam Kher,Manoj Bajpayee,Jimmy Sheirgill,51069
+Short Term 12,96 min,8.0,82.0,Destin Daniel Cretton,Brie Larson,Frantz Turner,John Gallagher Jr.,Kaitlyn Dever,81770
+Serbuan maut 2: Berandal,150 min,8.0,71.0,Gareth Evans,Iko Uwais,Yayan Ruhian,Arifin Putra,Oka Antara,114316
+The Imitation Game,114 min,8.0,73.0,Morten Tyldum,Benedict Cumberbatch,Keira Knightley,Matthew Goode,Allen Leech,685201
+Guardians of the Galaxy,121 min,8.0,76.0,James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,1043455
+Blade Runner 2049,164 min,8.0,81.0,Denis Villeneuve,Harrison Ford,Ryan Gosling,Ana de Armas,Dave Bautista,461823
+Her,126 min,8.0,90.0,Spike Jonze,Joaquin Phoenix,Amy Adams,Scarlett Johansson,Rooney Mara,540772
+Bohemian Rhapsody,134 min,8.0,49.0,Bryan Singer,Rami Malek,Lucy Boynton,Gwilym Lee,Ben Hardy,450349
+The Revenant,156 min,8.0,76.0,Alejandro G. Iñárritu,Leonardo DiCaprio,Tom Hardy,Will Poulter,Domhnall Gleeson,705589
+The Perks of Being a Wallflower,103 min,8.0,67.0,Stephen Chbosky,Logan Lerman,Emma Watson,Ezra Miller,Paul Rudd,462252
+Tropa de Elite 2: O Inimigo Agora é Outro,115 min,8.0,71.0,José Padilha,Wagner Moura,Irandhir Santos,André Ramiro,Milhem Cortaz,79200
+The King's Speech,118 min,8.0,88.0,Tom Hooper,Colin Firth,Geoffrey Rush,Helena Bonham Carter,Derek Jacobi,639603
+The Help,146 min,8.0,62.0,Tate Taylor,Emma Stone,Viola Davis,Octavia Spencer,Bryce Dallas Howard,428521
+Deadpool,108 min,8.0,65.0,Tim Miller,Ryan Reynolds,Morena Baccarin,T.J. Miller,Ed Skrein,902669
+Darbareye Elly,119 min,8.0,87.0,Asghar Farhadi,Golshifteh Farahani,Shahab Hosseini,Taraneh Alidoosti,Merila Zare'i,45803
+Dev.D,144 min,8.0,,Anurag Kashyap,Abhay Deol,Mahie Gill,Kalki Koechlin,Dibyendu Bhattacharya,28749
+Yip Man,106 min,8.0,59.0,Wilson Yip,Donnie Yen,Simon Yam,Siu-Wong Fan,Ka Tung Lam,211427
+My Name Is Khan,165 min,8.0,50.0,Karan Johar,Shah Rukh Khan,Kajol,Sheetal Menon,Katie A. Keane,98575
+Nefes: Vatan Sagolsun,128 min,8.0,,Levent Semerci,Erdem Can,Mete Horozoglu,Ilker Kizmaz,Baris Bagci,31838
+Slumdog Millionaire,120 min,8.0,84.0,Danny Boyle,Loveleen Tandan,Dev Patel,Freida Pinto,Saurabh Shukla,798882
+Black Swan,108 min,8.0,79.0,Darren Aronofsky,Natalie Portman,Mila Kunis,Vincent Cassel,Winona Ryder,699673
+Tropa de Elite,115 min,8.0,33.0,José Padilha,Wagner Moura,André Ramiro,Caio Junqueira,Milhem Cortaz,98097
+The Avengers,143 min,8.0,69.0,Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,1260806
+Persepolis,96 min,8.0,90.0,Vincent Paronnaud,Marjane Satrapi,Chiara Mastroianni,Catherine Deneuve,Gena Rowlands,88656
+Dallas Buyers Club,117 min,8.0,80.0,Jean-Marc Vallée,Matthew McConaughey,Jennifer Garner,Jared Leto,Steve Zahn,441614
+The Pursuit of Happyness,117 min,8.0,64.0,Gabriele Muccino,Will Smith,Thandie Newton,Jaden Smith,Brian Howe,448930
+Blood Diamond,143 min,8.0,64.0,Edward Zwick,Leonardo DiCaprio,Djimon Hounsou,Jennifer Connelly,Kagiso Kuypers,499439
+The Bourne Ultimatum,115 min,8.0,85.0,Paul Greengrass,Matt Damon,Edgar Ramírez,Joan Allen,Julia Stiles,604694
+Bin-jip,88 min,8.0,72.0,Ki-duk Kim,Seung-Yun Lee,Hee Jae,Hyuk-ho Kwon,Jin-mo Joo,50610
+Sin City,124 min,8.0,74.0,Frank Miller,Quentin Tarantino,Robert Rodriguez,Mickey Rourke,Clive Owen,738512
+Le scaphandre et le papillon,112 min,8.0,92.0,Julian Schnabel,Laura Obiols,Mathieu Amalric,Emmanuelle Seigner,Marie-Josée Croze,103284
+G.O.R.A.,127 min,8.0,,Ömer Faruk Sorak,Cem Yilmaz,Özge Özberk,Ozan Güven,Safak Sezer,56960
+Ratatouille,111 min,8.0,96.0,Brad Bird,Jan Pinkava,Brad Garrett,Lou Romano,Patton Oswalt,641645
+Casino Royale,144 min,8.0,80.0,Martin Campbell,Daniel Craig,Eva Green,Judi Dench,Jeffrey Wright,582239
+Kill Bill: Vol. 2,137 min,8.0,83.0,Quentin Tarantino,Uma Thurman,David Carradine,Michael Madsen,Daryl Hannah,683900
+Vozvrashchenie,110 min,8.0,82.0,Andrey Zvyagintsev,Vladimir Garin,Ivan Dobronravov,Konstantin Lavronenko,Nataliya Vdovina,42399
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,103 min,8.0,85.0,Ki-duk Kim,Ki-duk Kim,Yeong-su Oh,Jong-ho Kim,Kim Young-Min,77520
+Mar adentro,126 min,8.0,74.0,Alejandro Amenábar,Javier Bardem,Belén Rueda,Lola Dueñas,Mabel Rivera,77554
+Cinderella Man,144 min,8.0,69.0,Ron Howard,Russell Crowe,Renée Zellweger,Craig Bierko,Paul Giamatti,176151
+Kal Ho Naa Ho,186 min,8.0,54.0,Nikkhil Advani,Preity Zinta,Shah Rukh Khan,Saif Ali Khan,Jaya Bachchan,63460
+Mou gaan dou,101 min,8.0,75.0,Andrew Lau,Alan Mak,Andy Lau,Tony Chiu-Wai Leung,Anthony Chau-Sang Wong,117857
+Pirates of the Caribbean: The Curse of the Black Pearl,143 min,8.0,63.0,Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,1015122
+Big Fish,125 min,8.0,58.0,Tim Burton,Ewan McGregor,Albert Finney,Billy Crudup,Jessica Lange,415218
+The Incredibles,115 min,8.0,90.0,Brad Bird,Craig T. Nelson,Samuel L. Jackson,Holly Hunter,Jason Lee,657047
+Yeopgijeogin geunyeo,137 min,8.0,,Jae-young Kwak,Tae-Hyun Cha,Jun Ji-Hyun,In-mun Kim,Song Wok-suk,45403
+Dogville,178 min,8.0,60.0,Lars von Trier,Nicole Kidman,Paul Bettany,Lauren Bacall,Harriet Andersson,137963
+Vizontele,110 min,8.0,,Yilmaz Erdogan,Ömer Faruk Sorak,Yilmaz Erdogan,Demet Akbag,Altan Erkekli,33592
+Donnie Darko,113 min,8.0,88.0,Richard Kelly,Jake Gyllenhaal,Jena Malone,Mary McDonnell,Holmes Osborne,740086
+Magnolia,188 min,8.0,77.0,Paul Thomas Anderson,Tom Cruise,Jason Robards,Julianne Moore,Philip Seymour Hoffman,289742
+Dancer in the Dark,140 min,8.0,61.0,Lars von Trier,Björk,Catherine Deneuve,David Morse,Peter Stormare,102285
+The Straight Story,112 min,8.0,86.0,David Lynch,Richard Farnsworth,Sissy Spacek,Jane Galloway Heitz,Joseph A. Carpenter,82002
+Pâfekuto burû,81 min,8.0,,Satoshi Kon,Junko Iwao,Rica Matsumoto,Shinpachi Tsuji,Masaaki Ôkura,58192
+Festen,105 min,8.0,82.0,Thomas Vinterberg,Ulrich Thomsen,Henning Moritzen,Thomas Bo Larsen,Paprika Steen,78341
+Central do Brasil,110 min,8.0,80.0,Walter Salles,Fernanda Montenegro,Vinícius de Oliveira,Marília Pêra,Soia Lira,36419
+The Iron Giant,86 min,8.0,85.0,Brad Bird,Eli Marienthal,Harry Connick Jr.,Jennifer Aniston,Vin Diesel,172083
+Knockin' on Heaven's Door,87 min,8.0,,Thomas Jahn,Til Schweiger,Jan Josef Liefers,Thierry van Werveke,Moritz Bleibtreu,27721
+Sling Blade,135 min,8.0,84.0,Billy Bob Thornton,Billy Bob Thornton,Dwight Yoakam,J.T. Walsh,John Ritter,86838
+Secrets & Lies,136 min,8.0,91.0,Mike Leigh,Timothy Spall,Brenda Blethyn,Phyllis Logan,Claire Rushbrook,37564
+Twelve Monkeys,129 min,8.0,74.0,Terry Gilliam,Bruce Willis,Madeleine Stowe,Brad Pitt,Joseph Melito,578443
+Kôkaku Kidôtai,83 min,8.0,76.0,Mamoru Oshii,Atsuko Tanaka,Iemasa Kayumi,Akio Ôtsuka,Kôichi Yamadera,129231
+The Nightmare Before Christmas,76 min,8.0,82.0,Henry Selick,Danny Elfman,Chris Sarandon,Catherine O'Hara,William Hickey,300208
+Groundhog Day,101 min,8.0,72.0,Harold Ramis,Bill Murray,Andie MacDowell,Chris Elliott,Stephen Tobolowsky,577991
+Bound by Honor,180 min,8.0,47.0,Taylor Hackford,Damian Chapa,Jesse Borrego,Benjamin Bratt,Enrique Castillo,28825
+Scent of a Woman,156 min,8.0,59.0,Martin Brest,Al Pacino,Chris O'Donnell,James Rebhorn,Gabrielle Anwar,263918
+Aladdin,90 min,8.0,86.0,Ron Clements,John Musker,Scott Weinger,Robin Williams,Linda Larkin,373845
+JFK,189 min,8.0,72.0,Oliver Stone,Kevin Costner,Gary Oldman,Jack Lemmon,Walter Matthau,142110
+Beauty and the Beast,84 min,8.0,95.0,Gary Trousdale,Kirk Wise,Paige O'Hara,Robby Benson,Jesse Corti,417178
+Dances with Wolves,181 min,8.0,72.0,Kevin Costner,Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,240266
+Do the Right Thing,120 min,8.0,93.0,Spike Lee,Danny Aiello,Ossie Davis,Ruby Dee,Richard Edson,89429
+Rain Man,133 min,8.0,65.0,Barry Levinson,Dustin Hoffman,Tom Cruise,Valeria Golino,Gerald R. Molen,473064
+Akira,124 min,8.0,,Katsuhiro Ôtomo,Mitsuo Iwata,Nozomu Sasaki,Mami Koyama,Tesshô Genda,164918
+The Princess Bride,98 min,8.0,77.0,Rob Reiner,Cary Elwes,Mandy Patinkin,Robin Wright,Chris Sarandon,393899
+Der Himmel über Berlin,128 min,8.0,79.0,Wim Wenders,Bruno Ganz,Solveig Dommartin,Otto Sander,Curt Bois,64722
+Au revoir les enfants,104 min,8.0,88.0,Louis Malle,Gaspard Manesse,Raphael Fejtö,Francine Racette,Stanislas Carré de Malberg,31163
+Tenkû no shiro Rapyuta,125 min,8.0,78.0,Hayao Miyazaki,Mayumi Tanaka,Keiko Yokozawa,Kotoe Hatsui,Minori Terada,150140
+The Terminator,107 min,8.0,84.0,James Cameron,Arnold Schwarzenegger,Linda Hamilton,Michael Biehn,Paul Winfield,799795
+Gandhi,191 min,8.0,79.0,Richard Attenborough,Ben Kingsley,John Gielgud,Rohini Hattangadi,Roshan Seth,217664
+Kagemusha,180 min,8.0,84.0,Akira Kurosawa,Tatsuya Nakadai,Tsutomu Yamazaki,Ken'ichi Hagiwara,Jinpachi Nezu,32195
+Being There,130 min,8.0,83.0,Hal Ashby,Peter Sellers,Shirley MacLaine,Melvyn Douglas,Jack Warden,65625
+Annie Hall,93 min,8.0,92.0,Woody Allen,Woody Allen,Diane Keaton,Tony Roberts,Carol Kane,251823
+Jaws,124 min,8.0,87.0,Steven Spielberg,Roy Scheider,Robert Shaw,Richard Dreyfuss,Lorraine Gary,543388
+Dog Day Afternoon,125 min,8.0,86.0,Sidney Lumet,Al Pacino,John Cazale,Penelope Allen,Sully Boyar,235652
+Young Frankenstein,106 min,8.0,80.0,Mel Brooks,Gene Wilder,Madeline Kahn,Marty Feldman,Peter Boyle,143359
+Papillon,151 min,8.0,58.0,Franklin J. Schaffner,Steve McQueen,Dustin Hoffman,Victor Jory,Don Gordon,121627
+The Exorcist,122 min,8.0,81.0,William Friedkin,Ellen Burstyn,Max von Sydow,Linda Blair,Lee J. Cobb,362393
+Sleuth,138 min,8.0,,Joseph L. Mankiewicz,Laurence Olivier,Michael Caine,Alec Cawthorne,John Matthews,44748
+The Last Picture Show,118 min,8.0,93.0,Peter Bogdanovich,Timothy Bottoms,Jeff Bridges,Cybill Shepherd,Ben Johnson,42456
+Fiddler on the Roof,181 min,8.0,67.0,Norman Jewison,Topol,Norma Crane,Leonard Frey,Molly Picon,39491
+Il conformista,113 min,8.0,100.0,Bernardo Bertolucci,Jean-Louis Trintignant,Stefania Sandrelli,Gastone Moschin,Enzo Tarascio,27067
+Butch Cassidy and the Sundance Kid,110 min,8.0,66.0,George Roy Hill,Paul Newman,Robert Redford,Katharine Ross,Strother Martin,201888
+Rosemary's Baby,137 min,8.0,96.0,Roman Polanski,Mia Farrow,John Cassavetes,Ruth Gordon,Sidney Blackmer,193674
+Planet of the Apes,112 min,8.0,79.0,Franklin J. Schaffner,Charlton Heston,Roddy McDowall,Kim Hunter,Maurice Evans,165167
+The Graduate,106 min,8.0,83.0,Mike Nichols,Dustin Hoffman,Anne Bancroft,Katharine Ross,William Daniels,253676
+Who's Afraid of Virginia Woolf?,131 min,8.0,75.0,Mike Nichols,Elizabeth Taylor,Richard Burton,George Segal,Sandy Dennis,68926
+The Sound of Music,172 min,8.0,63.0,Robert Wise,Julie Andrews,Christopher Plummer,Eleanor Parker,Richard Haydn,205425
+Doctor Zhivago,197 min,8.0,69.0,David Lean,Omar Sharif,Julie Christie,Geraldine Chaplin,Rod Steiger,69903
+Per un pugno di dollari,99 min,8.0,65.0,Sergio Leone,Clint Eastwood,Gian Maria Volontè,Marianne Koch,Wolfgang Lukschy,198219
+8½,138 min,8.0,91.0,Federico Fellini,Marcello Mastroianni,Anouk Aimée,Claudia Cardinale,Sandra Milo,108844
+Vivre sa vie: Film en douze tableaux,80 min,8.0,,Jean-Luc Godard,Anna Karina,Sady Rebbot,André S. Labarthe,Guylaine Schlumberger,28057
+The Hustler,134 min,8.0,90.0,Robert Rossen,Paul Newman,Jackie Gleason,Piper Laurie,George C. Scott,75067
+La dolce vita,174 min,8.0,95.0,Federico Fellini,Marcello Mastroianni,Anita Ekberg,Anouk Aimée,Yvonne Furneaux,66621
+Rio Bravo,141 min,8.0,93.0,Howard Hawks,John Wayne,Dean Martin,Ricky Nelson,Angie Dickinson,56305
+Anatomy of a Murder,161 min,8.0,95.0,Otto Preminger,James Stewart,Lee Remick,Ben Gazzara,Arthur O'Connell,59847
+Touch of Evil,95 min,8.0,99.0,Orson Welles,Charlton Heston,Orson Welles,Janet Leigh,Joseph Calleia,98431
+Cat on a Hot Tin Roof,108 min,8.0,84.0,Richard Brooks,Elizabeth Taylor,Paul Newman,Burl Ives,Jack Carson,45062
+Sweet Smell of Success,96 min,8.0,100.0,Alexander Mackendrick,Burt Lancaster,Tony Curtis,Susan Harrison,Martin Milner,28137
+The Killing,84 min,8.0,91.0,Stanley Kubrick,Sterling Hayden,Coleen Gray,Vince Edwards,Jay C. Flippen,81702
+The Night of the Hunter,92 min,8.0,99.0,Charles Laughton,Robert Mitchum,Shelley Winters,Lillian Gish,James Gleason,81980
+La Strada,108 min,8.0,,Federico Fellini,Anthony Quinn,Giulietta Masina,Richard Basehart,Aldo Silvani,58314
+Les diaboliques,117 min,8.0,,Henri-Georges Clouzot,Simone Signoret,Véra Clouzot,Paul Meurisse,Charles Vanel,61503
+Stalag 17,120 min,8.0,84.0,Billy Wilder,William Holden,Don Taylor,Otto Preminger,Robert Strauss,51046
+Roman Holiday,118 min,8.0,78.0,William Wyler,Gregory Peck,Audrey Hepburn,Eddie Albert,Hartley Power,127256
+A Streetcar Named Desire,122 min,8.0,97.0,Elia Kazan,Vivien Leigh,Marlon Brando,Kim Hunter,Karl Malden,99182
+In a Lonely Place,94 min,8.0,,Nicholas Ray,Humphrey Bogart,Gloria Grahame,Frank Lovejoy,Carl Benton Reid,26784
+Kind Hearts and Coronets,106 min,8.0,,Robert Hamer,Dennis Price,Alec Guinness,Valerie Hobson,Joan Greenwood,34485
+Rope,80 min,8.0,73.0,Alfred Hitchcock,James Stewart,John Dall,Farley Granger,Dick Hogan,129783
+Out of the Past,97 min,8.0,,Jacques Tourneur,Robert Mitchum,Jane Greer,Kirk Douglas,Rhonda Fleming,32784
+Brief Encounter,86 min,8.0,92.0,David Lean,Celia Johnson,Trevor Howard,Stanley Holloway,Joyce Carey,35601
+Laura,88 min,8.0,,Otto Preminger,Gene Tierney,Dana Andrews,Clifton Webb,Vincent Price,42725
+The Best Years of Our Lives,170 min,8.0,93.0,William Wyler,Myrna Loy,Dana Andrews,Fredric March,Teresa Wright,57259
+Arsenic and Old Lace,118 min,8.0,,Frank Capra,Cary Grant,Priscilla Lane,Raymond Massey,Jack Carson,65101
+The Maltese Falcon,100 min,8.0,96.0,John Huston,Humphrey Bogart,Mary Astor,Gladys George,Peter Lorre,148928
+The Grapes of Wrath,129 min,8.0,96.0,John Ford,Henry Fonda,Jane Darwell,John Carradine,Charley Grapewin,85559
+The Wizard of Oz,102 min,8.0,92.0,Victor Fleming,George Cukor,Mervyn LeRoy,Norman Taurog,Richard Thorpe,371379
+La règle du jeu,110 min,8.0,,Jean Renoir,Marcel Dalio,Nora Gregor,Paulette Dubost,Mila Parély,26725
+The Thin Man,91 min,8.0,86.0,W.S. Van Dyke,William Powell,Myrna Loy,Maureen O'Sullivan,Nat Pendleton,26642
+All Quiet on the Western Front,152 min,8.0,91.0,Lewis Milestone,Lew Ayres,Louis Wolheim,John Wray,Arnold Lucy,57318
+Bronenosets Potemkin,75 min,8.0,97.0,Sergei M. Eisenstein,Aleksandr Antonov,Vladimir Barskiy,Grigoriy Aleksandrov,Ivan Bobrov,53054
+Knives Out,130 min,7.9,82.0,Rian Johnson,Daniel Craig,Chris Evans,Ana de Armas,Jamie Lee Curtis,454203
+Dil Bechara,101 min,7.9,,Mukesh Chhabra,Sushant Singh Rajput,Sanjana Sanghi,Sahil Vaid,Saswata Chatterjee,111478
+Manbiki kazoku,121 min,7.9,93.0,Hirokazu Koreeda,Lily Franky,Sakura Andô,Kirin Kiki,Mayu Matsuoka,62754
+Marriage Story,137 min,7.9,94.0,Noah Baumbach,Adam Driver,Scarlett Johansson,Julia Greer,Azhy Robertson,246644
+Call Me by Your Name,132 min,7.9,93.0,Luca Guadagnino,Armie Hammer,Timothée Chalamet,Michael Stuhlbarg,Amira Casar,212651
+"I, Daniel Blake",100 min,7.9,78.0,Ken Loach,Laura Obiols,Dave Johns,Hayley Squires,Sharon Percy,53818
+Isle of Dogs,101 min,7.9,82.0,Wes Anderson,Bryan Cranston,Koyu Rankin,Edward Norton,Bob Balaban,139114
+Hunt for the Wilderpeople,101 min,7.9,81.0,Taika Waititi,Sam Neill,Julian Dennison,Rima Te Wiata,Rachel House,111483
+Captain Fantastic,118 min,7.9,72.0,Matt Ross,Viggo Mortensen,George MacKay,Samantha Isler,Annalise Basso,189400
+Sing Street,106 min,7.9,79.0,John Carney,Ferdia Walsh-Peelo,Aidan Gillen,Maria Doyle Kennedy,Jack Reynor,85109
+Thor: Ragnarok,130 min,7.9,74.0,Taika Waititi,Chris Hemsworth,Tom Hiddleston,Cate Blanchett,Mark Ruffalo,587775
+Nightcrawler,117 min,7.9,76.0,Dan Gilroy,Jake Gyllenhaal,Rene Russo,Bill Paxton,Riz Ahmed,466134
+Jojo Rabbit,108 min,7.9,58.0,Taika Waititi,Roman Griffin Davis,Thomasin McKenzie,Scarlett Johansson,Taika Waititi,297918
+Arrival,116 min,7.9,81.0,Denis Villeneuve,Amy Adams,Jeremy Renner,Forest Whitaker,Michael Stuhlbarg,594181
+Star Wars: Episode VII - The Force Awakens,138 min,7.9,80.0,J.J. Abrams,Daisy Ridley,John Boyega,Oscar Isaac,Domhnall Gleeson,860823
+Before Midnight,109 min,7.9,94.0,Richard Linklater,Ethan Hawke,Julie Delpy,Seamus Davey-Fitzpatrick,Ariane Labed,141457
+X-Men: Days of Future Past,132 min,7.9,75.0,Bryan Singer,Patrick Stewart,Ian McKellen,Hugh Jackman,James McAvoy,659763
+Bir Zamanlar Anadolu'da,157 min,7.9,82.0,Nuri Bilge Ceylan,Muhammet Uzuner,Yilmaz Erdogan,Taner Birsel,Ahmet Mümtaz Taylan,41995
+The Artist,100 min,7.9,89.0,Michel Hazanavicius,Jean Dujardin,Bérénice Bejo,John Goodman,James Cromwell,230624
+Edge of Tomorrow,113 min,7.9,71.0,Doug Liman,Tom Cruise,Emily Blunt,Bill Paxton,Brendan Gleeson,600004
+Amour,127 min,7.9,94.0,Michael Haneke,Jean-Louis Trintignant,Emmanuelle Riva,Isabelle Huppert,Alexandre Tharaud,93090
+The Irishman,209 min,7.9,94.0,Martin Scorsese,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,324720
+Un prophète,155 min,7.9,90.0,Jacques Audiard,Tahar Rahim,Niels Arestrup,Adel Bencherif,Reda Kateb,93560
+Moon,97 min,7.9,67.0,Duncan Jones,Sam Rockwell,Kevin Spacey,Dominique McElligott,Rosie Shaw,335152
+Låt den rätte komma in,114 min,7.9,82.0,Tomas Alfredson,Kåre Hedebrant,Lina Leandersson,Per Ragnar,Henrik Dahl,205609
+District 9,112 min,7.9,81.0,Neill Blomkamp,Sharlto Copley,David James,Jason Cope,Nathalie Boltt,638202
+The Wrestler,109 min,7.9,80.0,Darren Aronofsky,Mickey Rourke,Marisa Tomei,Evan Rachel Wood,Mark Margolis,289415
+Jab We Met,138 min,7.9,,Imtiaz Ali,Shahid Kapoor,Kareena Kapoor,Tarun Arora,Dara Singh,47720
+Boyhood,165 min,7.9,100.0,Richard Linklater,Ellar Coltrane,Patricia Arquette,Ethan Hawke,Elijah Smith,335533
+"4 luni, 3 saptamâni si 2 zile",113 min,7.9,97.0,Cristian Mungiu,Anamaria Marinca,Laura Vasiliu,Vlad Ivanov,Alexandru Potocean,56625
+Star Trek,127 min,7.9,82.0,J.J. Abrams,Chris Pine,Zachary Quinto,Simon Pegg,Leonard Nimoy,577336
+In Bruges,107 min,7.9,67.0,Martin McDonagh,Colin Farrell,Brendan Gleeson,Ciarán Hinds,Elizabeth Berrington,390334
+The Man from Earth,87 min,7.9,,Richard Schenkman,David Lee Smith,Tony Todd,John Billingsley,Ellen Crawford,174125
+Letters from Iwo Jima,141 min,7.9,89.0,Clint Eastwood,Ken Watanabe,Kazunari Ninomiya,Tsuyoshi Ihara,Ryô Kase,154011
+The Fall,117 min,7.9,64.0,Tarsem Singh,Lee Pace,Catinca Untaru,Justine Waddell,Kim Uylenbroek,107290
+Life of Pi,127 min,7.9,79.0,Ang Lee,Suraj Sharma,Irrfan Khan,Adil Hussain,Tabu,580708
+Fantastic Mr. Fox,87 min,7.9,83.0,Wes Anderson,George Clooney,Meryl Streep,Bill Murray,Jason Schwartzman,199696
+C.R.A.Z.Y.,129 min,7.9,81.0,Jean-Marc Vallée,Michel Côté,Marc-André Grondin,Danielle Proulx,Émile Vallée,31476
+Les choristes,97 min,7.9,56.0,Christophe Barratier,Gérard Jugnot,François Berléand,Jean-Baptiste Maunier,Kad Merad,57430
+Iron Man,126 min,7.9,79.0,Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,939644
+Shaun of the Dead,99 min,7.9,76.0,Edgar Wright,Simon Pegg,Nick Frost,Kate Ashfield,Lucy Davis,512249
+Gegen die Wand,121 min,7.9,78.0,Fatih Akin,Birol Ünel,Sibel Kekilli,Güven Kiraç,Zarah Jane McKenzie,51325
+Mystic River,138 min,7.9,84.0,Clint Eastwood,Sean Penn,Tim Robbins,Kevin Bacon,Emmy Rossum,419420
+Harry Potter and the Prisoner of Azkaban,142 min,7.9,82.0,Alfonso Cuarón,Daniel Radcliffe,Emma Watson,Rupert Grint,Richard Griffiths,552493
+Ying xiong,120 min,7.9,85.0,Yimou Zhang,Jet Li,Tony Chiu-Wai Leung,Maggie Cheung,Ziyi Zhang,173999
+Hable con ella,112 min,7.9,86.0,Pedro Almodóvar,Rosario Flores,Javier Cámara,Darío Grandinetti,Leonor Watling,104691
+No Man's Land,98 min,7.9,84.0,Danis Tanovic,Branko Djuric,Rene Bitorajac,Filip Sovagovic,Georges Siatidis,44618
+Cowboy Bebop: Tengoku no tobira,115 min,7.9,61.0,Shin'ichirô Watanabe,Tensai Okamura,Hiroyuki Okiura,Yoshiyuki Takei,Beau Billingslea,42897
+The Bourne Identity,119 min,7.9,68.0,Doug Liman,Franka Potente,Matt Damon,Chris Cooper,Clive Owen,508771
+Nueve reinas,114 min,7.9,80.0,Fabián Bielinsky,Ricardo Darín,Gastón Pauls,Graciela Tenenbaum,María Mercedes Villagra,49721
+Children of Men,109 min,7.9,84.0,Alfonso Cuarón,Julianne Moore,Clive Owen,Chiwetel Ejiofor,Michael Caine,465113
+Almost Famous,122 min,7.9,90.0,Cameron Crowe,Billy Crudup,Patrick Fugit,Kate Hudson,Frances McDormand,252586
+Mulholland Dr.,147 min,7.9,85.0,David Lynch,Naomi Watts,Laura Harring,Justin Theroux,Jeanne Bates,322031
+Toy Story 2,92 min,7.9,88.0,John Lasseter,Ash Brannon,Lee Unkrich,Tom Hanks,Tim Allen,527512
+Boogie Nights,155 min,7.9,85.0,Paul Thomas Anderson,Mark Wahlberg,Julianne Moore,Burt Reynolds,Luis Guzmán,239473
+Mimi wo sumaseba,111 min,7.9,75.0,Yoshifumi Kondô,Yoko Honna,Issey Takahashi,Takashi Tachibana,Shigeru Muroi,51943
+Once Were Warriors,102 min,7.9,77.0,Lee Tamahori,Rena Owen,Temuera Morrison,Mamaengaroa Kerr-Bell,Julian Arahanga,31590
+True Romance,119 min,7.9,59.0,Tony Scott,Christian Slater,Patricia Arquette,Dennis Hopper,Val Kilmer,206918
+Trois couleurs: Bleu,94 min,7.9,85.0,Krzysztof Kieslowski,Juliette Binoche,Zbigniew Zamachowski,Julie Delpy,Benoît Régent,89836
+Jûbê ninpûchô,94 min,7.9,,Yoshiaki Kawajiri,Kôichi Yamadera,Emi Shinohara,Takeshi Aono,Osamu Saka,34529
+Carlito's Way,144 min,7.9,65.0,Brian De Palma,Al Pacino,Sean Penn,Penelope Ann Miller,John Leguizamo,201000
+Edward Scissorhands,105 min,7.9,74.0,Tim Burton,Johnny Depp,Winona Ryder,Dianne Wiest,Anthony Michael Hall,447368
+My Left Foot: The Story of Christy Brown,103 min,7.9,97.0,Jim Sheridan,Daniel Day-Lewis,Brenda Fricker,Alison Whelan,Kirsten Sheridan,68076
+Crimes and Misdemeanors,104 min,7.9,77.0,Woody Allen,Martin Landau,Woody Allen,Bill Bernstein,Claire Bloom,54670
+The Untouchables,119 min,7.9,79.0,Brian De Palma,Kevin Costner,Sean Connery,Robert De Niro,Charles Martin Smith,281842
+Hannah and Her Sisters,107 min,7.9,90.0,Woody Allen,Mia Farrow,Dianne Wiest,Michael Caine,Barbara Hershey,67176
+Brazil,132 min,7.9,84.0,Terry Gilliam,Jonathan Pryce,Kim Greist,Robert De Niro,Katherine Helmond,187567
+This Is Spinal Tap,82 min,7.9,92.0,Rob Reiner,Rob Reiner,Michael McKean,Christopher Guest,Kimberly Stringer,128812
+A Christmas Story,93 min,7.9,77.0,Bob Clark,Peter Billingsley,Melinda Dillon,Darren McGavin,Scott Schwartz,132947
+The Blues Brothers,133 min,7.9,60.0,John Landis,John Belushi,Dan Aykroyd,Cab Calloway,John Candy,183182
+Manhattan,96 min,7.9,83.0,Woody Allen,Woody Allen,Diane Keaton,Mariel Hemingway,Michael Murphy,131436
+All That Jazz,123 min,7.9,72.0,Bob Fosse,Roy Scheider,Jessica Lange,Ann Reinking,Leland Palmer,28223
+Dawn of the Dead,127 min,7.9,71.0,George A. Romero,David Emge,Ken Foree,Scott H. Reiniger,Gaylen Ross,111512
+All the President's Men,138 min,7.9,84.0,Alan J. Pakula,Dustin Hoffman,Robert Redford,Jack Warden,Martin Balsam,103031
+La montaña sagrada,114 min,7.9,76.0,Alejandro Jodorowsky,Alejandro Jodorowsky,Horacio Salinas,Zamira Saunders,Juan Ferrara,37183
+Amarcord,123 min,7.9,,Federico Fellini,Magali Noël,Bruno Zanin,Pupella Maggio,Armando Brancia,39897
+Le charme discret de la bourgeoisie,102 min,7.9,93.0,Luis Buñuel,Fernando Rey,Delphine Seyrig,Paul Frankeur,Bulle Ogier,38737
+"Aguirre, der Zorn Gottes",95 min,7.9,,Werner Herzog,Klaus Kinski,Ruy Guerra,Helena Rojo,Del Negro,52397
+Harold and Maude,91 min,7.9,62.0,Hal Ashby,Ruth Gordon,Bud Cort,Vivian Pickles,Cyril Cusack,70826
+Patton,172 min,7.9,91.0,Franklin J. Schaffner,George C. Scott,Karl Malden,Stephen Young,Michael Strong,93741
+The Wild Bunch,145 min,7.9,97.0,Sam Peckinpah,William Holden,Ernest Borgnine,Robert Ryan,Edmond O'Brien,77401
+Night of the Living Dead,96 min,7.9,89.0,George A. Romero,Duane Jones,Judith O'Dea,Karl Hardman,Marilyn Eastman,116557
+The Lion in Winter,134 min,7.9,,Anthony Harvey,Peter O'Toole,Katharine Hepburn,Anthony Hopkins,John Castle,29003
+In the Heat of the Night,110 min,7.9,75.0,Norman Jewison,Sidney Poitier,Rod Steiger,Warren Oates,Lee Grant,67804
+Charade,113 min,7.9,83.0,Stanley Donen,Cary Grant,Audrey Hepburn,Walter Matthau,James Coburn,68689
+The Manchurian Candidate,126 min,7.9,94.0,John Frankenheimer,Frank Sinatra,Laurence Harvey,Janet Leigh,Angela Lansbury,71122
+Spartacus,197 min,7.9,87.0,Stanley Kubrick,Kirk Douglas,Laurence Olivier,Jean Simmons,Charles Laughton,124339
+L'avventura,144 min,7.9,,Michelangelo Antonioni,Gabriele Ferzetti,Monica Vitti,Lea Massari,Dominique Blanchar,26542
+Hiroshima mon amour,90 min,7.9,,Alain Resnais,Emmanuelle Riva,Eiji Okada,Stella Dassas,Pierre Barbaud,28421
+The Ten Commandments,220 min,7.9,,Cecil B. DeMille,Charlton Heston,Yul Brynner,Anne Baxter,Edward G. Robinson,63560
+The Searchers,119 min,7.9,94.0,John Ford,John Wayne,Jeffrey Hunter,Vera Miles,Ward Bond,80316
+East of Eden,118 min,7.9,72.0,Elia Kazan,James Dean,Raymond Massey,Julie Harris,Burl Ives,40313
+High Noon,85 min,7.9,89.0,Fred Zinnemann,Gary Cooper,Grace Kelly,Thomas Mitchell,Lloyd Bridges,97222
+Strangers on a Train,101 min,7.9,88.0,Alfred Hitchcock,Farley Granger,Robert Walker,Ruth Roman,Leo G. Carroll,123341
+Harvey,104 min,7.9,,Henry Koster,James Stewart,Wallace Ford,William H. Lynn,Victoria Horne,52573
+Miracle on 34th Street,96 min,7.9,88.0,George Seaton,Edmund Gwenn,Maureen O'Hara,John Payne,Gene Lockhart,41625
+Notorious,102 min,7.9,100.0,Alfred Hitchcock,Cary Grant,Ingrid Bergman,Claude Rains,Louis Calhern,92306
+The Big Sleep,114 min,7.9,,Howard Hawks,Humphrey Bogart,Lauren Bacall,John Ridgely,Martha Vickers,78796
+The Lost Weekend,101 min,7.9,,Billy Wilder,Ray Milland,Jane Wyman,Phillip Terry,Howard Da Silva,33549
+The Philadelphia Story,112 min,7.9,96.0,George Cukor,Cary Grant,Katharine Hepburn,James Stewart,Ruth Hussey,63550
+His Girl Friday,92 min,7.9,,Howard Hawks,Cary Grant,Rosalind Russell,Ralph Bellamy,Gene Lockhart,53667
+The Adventures of Robin Hood,102 min,7.9,97.0,Michael Curtiz,William Keighley,Errol Flynn,Olivia de Havilland,Basil Rathbone,47175
+A Night at the Opera,96 min,7.9,,Sam Wood,Edmund Goulding,Groucho Marx,Chico Marx,Harpo Marx,30580
+King Kong,100 min,7.9,90.0,Merian C. Cooper,Ernest B. Schoedsack,Fay Wray,Robert Armstrong,Bruce Cabot,78991
+Freaks,64 min,7.9,80.0,Tod Browning,Wallace Ford,Leila Hyams,Olga Baclanova,Roscoe Ates,42117
+Nosferatu,94 min,7.9,,F.W. Murnau,Max Schreck,Alexander Granach,Gustav von Wangenheim,Greta Schröder,88794
+The Gentlemen,113 min,7.8,51.0,Guy Ritchie,Matthew McConaughey,Charlie Hunnam,Michelle Dockery,Jeremy Strong,237392
+Raazi,138 min,7.8,,Meghna Gulzar,Alia Bhatt,Vicky Kaushal,Rajit Kapoor,Shishir Sharma,25344
+Sound of Metal,120 min,7.8,81.0,Darius Marder,Riz Ahmed,Olivia Cooke,Paul Raci,Lauren Ridloff,27187
+Forushande,124 min,7.8,85.0,Asghar Farhadi,Shahab Hosseini,Taraneh Alidoosti,Babak Karimi,Mina Sadati,51240
+Dunkirk,106 min,7.8,94.0,Christopher Nolan,Fionn Whitehead,Barry Keoghan,Mark Rylance,Tom Hardy,555092
+Perfetti sconosciuti,96 min,7.8,,Paolo Genovese,Giuseppe Battiston,Anna Foglietta,Marco Giallini,Edoardo Leo,57168
+Hidden Figures,127 min,7.8,74.0,Theodore Melfi,Taraji P. Henson,Octavia Spencer,Janelle Monáe,Kevin Costner,200876
+Paddington 2,103 min,7.8,88.0,Paul King,Ben Whishaw,Hugh Grant,Hugh Bonneville,Sally Hawkins,61594
+Udta Punjab,148 min,7.8,,Abhishek Chaubey,Shahid Kapoor,Alia Bhatt,Kareena Kapoor,Diljit Dosanjh,27175
+Kubo and the Two Strings,101 min,7.8,84.0,Travis Knight,Charlize Theron,Art Parkinson,Matthew McConaughey,Ralph Fiennes,118035
+M.S. Dhoni: The Untold Story,184 min,7.8,,Neeraj Pandey,Sushant Singh Rajput,Kiara Advani,Anupam Kher,Disha Patani,40416
+Manchester by the Sea,137 min,7.8,96.0,Kenneth Lonergan,Casey Affleck,Michelle Williams,Kyle Chandler,Lucas Hedges,246963
+Under sandet,100 min,7.8,75.0,Martin Zandvliet,Roland Møller,Louis Hofmann,Joel Basman,Mikkel Boe Følsgaard,35539
+Rogue One,133 min,7.8,65.0,Gareth Edwards,Felicity Jones,Diego Luna,Alan Tudyk,Donnie Yen,556608
+Captain America: Civil War,147 min,7.8,75.0,Anthony Russo,Joe Russo,Chris Evans,Robert Downey Jr.,Scarlett Johansson,663649
+The Hateful Eight,168 min,7.8,68.0,Quentin Tarantino,Samuel L. Jackson,Kurt Russell,Jennifer Jason Leigh,Walton Goggins,517059
+Little Women,135 min,7.8,91.0,Greta Gerwig,Saoirse Ronan,Emma Watson,Florence Pugh,Eliza Scanlen,143250
+Loving Vincent,94 min,7.8,62.0,Dorota Kobiela,Hugh Welchman,Douglas Booth,Jerome Flynn,Robert Gulaczyk,50778
+Pride,119 min,7.8,79.0,Matthew Warchus,Bill Nighy,Imelda Staunton,Dominic West,Paddy Considine,51841
+Le passé,130 min,7.8,85.0,Asghar Farhadi,Bérénice Bejo,Tahar Rahim,Ali Mosaffa,Pauline Burlet,45002
+La grande bellezza,141 min,7.8,86.0,Paolo Sorrentino,Toni Servillo,Carlo Verdone,Sabrina Ferilli,Carlo Buccirosso,81125
+The Lunchbox,104 min,7.8,76.0,Ritesh Batra,Irrfan Khan,Nimrat Kaur,Nawazuddin Siddiqui,Lillete Dubey,50523
+Vicky Donor,126 min,7.8,,Shoojit Sircar,Ayushmann Khurrana,Yami Gautam,Annu Kapoor,Dolly Ahluwalia,39710
+Big Hero 6,102 min,7.8,74.0,Don Hall,Chris Williams,Ryan Potter,Scott Adsit,Jamie Chung,410983
+About Time,123 min,7.8,55.0,Richard Curtis,Domhnall Gleeson,Rachel McAdams,Bill Nighy,Lydia Wilson,303032
+English Vinglish,134 min,7.8,,Gauri Shinde,Sridevi,Adil Hussain,Mehdi Nebbou,Priya Anand,33618
+Kaze tachinu,126 min,7.8,83.0,Hayao Miyazaki,Hideaki Anno,Hidetoshi Nishijima,Miori Takimoto,Masahiko Nishimura,73690
+Toy Story 4,100 min,7.8,84.0,Josh Cooley,Tom Hanks,Tim Allen,Annie Potts,Tony Hale,203177
+La migliore offerta,131 min,7.8,49.0,Giuseppe Tornatore,Geoffrey Rush,Jim Sturgess,Sylvia Hoeks,Donald Sutherland,108399
+Moonrise Kingdom,94 min,7.8,84.0,Wes Anderson,Jared Gilman,Kara Hayward,Bruce Willis,Bill Murray,318789
+How to Train Your Dragon 2,102 min,7.8,76.0,Dean DeBlois,Jay Baruchel,Cate Blanchett,Gerard Butler,Craig Ferguson,305611
+The Big Short,130 min,7.8,81.0,Adam McKay,Christian Bale,Steve Carell,Ryan Gosling,Brad Pitt,362942
+Kokuhaku,106 min,7.8,,Tetsuya Nakashima,Takako Matsu,Yoshino Kimura,Masaki Okada,Yukito Nishii,35713
+Ang-ma-reul bo-at-da,144 min,7.8,67.0,Jee-woon Kim,Lee Byung-Hun,Choi Min-sik,Jeon Gook-Hwan,Ho-jin Chun,111252
+The Girl with the Dragon Tattoo,158 min,7.8,71.0,David Fincher,Daniel Craig,Rooney Mara,Christopher Plummer,Stellan Skarsgård,423010
+Captain Phillips,134 min,7.8,82.0,Paul Greengrass,Tom Hanks,Barkhad Abdi,Barkhad Abdirahman,Catherine Keener,421244
+Ajeossi,119 min,7.8,,Jeong-beom Lee,Won Bin,Sae-ron Kim,Tae-hoon Kim,Hee-won Kim,62848
+Straight Outta Compton,147 min,7.8,72.0,F. Gary Gray,O'Shea Jackson Jr.,Corey Hawkins,Jason Mitchell,Neil Brown Jr.,179264
+Madeo,129 min,7.8,79.0,Bong Joon Ho,Hye-ja Kim,Won Bin,Jin Goo,Je-mun Yun,52758
+Chugyeokja,125 min,7.8,64.0,Hong-jin Na,Kim Yoon-seok,Jung-woo Ha,Yeong-hie Seo,Yoo-Jeong Kim,58468
+The Hobbit: The Desolation of Smaug,161 min,7.8,66.0,Peter Jackson,Ian McKellen,Martin Freeman,Richard Armitage,Ken Stott,601408
+Das weiße Band - Eine deutsche Kindergeschichte,144 min,7.8,82.0,Michael Haneke,Christian Friedel,Ernst Jacobi,Leonie Benesch,Ulrich Tukur,68715
+Män som hatar kvinnor,152 min,7.8,76.0,Niels Arden Oplev,Michael Nyqvist,Noomi Rapace,Ewa Fröling,Lena Endre,208994
+The Trial of the Chicago 7,129 min,7.8,77.0,Aaron Sorkin,Eddie Redmayne,Alex Sharp,Sacha Baron Cohen,Jeremy Strong,89896
+Druk,117 min,7.8,81.0,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen,Magnus Millang,Lars Ranthe,33931
+The Fighter,116 min,7.8,79.0,David O. Russell,Mark Wahlberg,Christian Bale,Amy Adams,Melissa Leo,340584
+Taken,90 min,7.8,51.0,Pierre Morel,Liam Neeson,Maggie Grace,Famke Janssen,Leland Orser,564791
+The Boy in the Striped Pyjamas,94 min,7.8,55.0,Mark Herman,Asa Butterfield,David Thewlis,Rupert Friend,Zac Mattoon O'Brien,190748
+Once,86 min,7.8,88.0,John Carney,Glen Hansard,Markéta Irglová,Hugh Walsh,Gerard Hendrick,110656
+The Hobbit: An Unexpected Journey,169 min,7.8,58.0,Peter Jackson,Martin Freeman,Ian McKellen,Richard Armitage,Andy Serkis,757377
+Auf der anderen Seite,122 min,7.8,85.0,Fatih Akin,Baki Davrak,Nurgül Yesilçay,Tuncel Kurtiz,Nursel Köse,30827
+Atonement,123 min,7.8,85.0,Joe Wright,Keira Knightley,James McAvoy,Brenda Blethyn,Saoirse Ronan,251370
+Drive,100 min,7.8,78.0,Nicolas Winding Refn,Ryan Gosling,Carey Mulligan,Bryan Cranston,Albert Brooks,571571
+American Gangster,157 min,7.8,76.0,Ridley Scott,Denzel Washington,Russell Crowe,Chiwetel Ejiofor,Josh Brolin,392449
+Avatar,162 min,7.8,83.0,James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,1118998
+Mr. Nobody,141 min,7.8,63.0,Jaco Van Dormael,Jared Leto,Sarah Polley,Diane Kruger,Linh Dan Pham,216421
+Apocalypto,139 min,7.8,68.0,Mel Gibson,Gerardo Taracena,Raoul Max Trujillo,Dalia Hernández,Rudy Youngblood,291018
+Little Miss Sunshine,101 min,7.8,80.0,Jonathan Dayton,Valerie Faris,Steve Carell,Toni Collette,Greg Kinnear,439856
+Hot Fuzz,121 min,7.8,81.0,Edgar Wright,Simon Pegg,Nick Frost,Martin Freeman,Bill Nighy,463466
+The Curious Case of Benjamin Button,166 min,7.8,70.0,David Fincher,Brad Pitt,Cate Blanchett,Tilda Swinton,Julia Ormond,589160
+Veer-Zaara,192 min,7.8,67.0,Yash Chopra,Shah Rukh Khan,Preity Zinta,Rani Mukerji,Kirron Kher,49050
+Adams æbler,94 min,7.8,51.0,Anders Thomas Jensen,Ulrich Thomsen,Mads Mikkelsen,Nicolas Bro,Paprika Steen,45717
+Pride & Prejudice,129 min,7.8,82.0,Joe Wright,Keira Knightley,Matthew Macfadyen,Brenda Blethyn,Donald Sutherland,258924
+The World's Fastest Indian,127 min,7.8,68.0,Roger Donaldson,Anthony Hopkins,Diane Ladd,Iain Rea,Tessa Mitchell,51980
+Tôkyô goddofâzâzu,90 min,7.8,73.0,Satoshi Kon,Shôgo Furuya,Tôru Emori,Yoshiaki Umegaki,Aya Okamoto,31658
+Serenity,119 min,7.8,74.0,Joss Whedon,Nathan Fillion,Gina Torres,Chiwetel Ejiofor,Alan Tudyk,283310
+Walk the Line,136 min,7.8,72.0,James Mangold,Joaquin Phoenix,Reese Witherspoon,Ginnifer Goodwin,Robert Patrick,234207
+Ondskan,113 min,7.8,61.0,Mikael Håfström,Andreas Wilson,Henrik Lundström,Gustaf Skarsgård,Linda Zilliacus,35682
+The Notebook,123 min,7.8,53.0,Nick Cassavetes,Gena Rowlands,James Garner,Rachel McAdams,Ryan Gosling,520284
+Diarios de motocicleta,126 min,7.8,75.0,Walter Salles,Gael García Bernal,Rodrigo De la Serna,Mía Maestro,Mercedes Morán,96703
+Lilja 4-ever,109 min,7.8,82.0,Lukas Moodysson,Oksana Akinshina,Artyom Bogucharskiy,Pavel Ponomaryov,Lyubov Agapova,42673
+Les triplettes de Belleville,80 min,7.8,91.0,Sylvain Chomet,Michèle Caucheteux,Jean-Claude Donda,Michel Robin,Monica Viegas,50622
+Gongdong gyeongbi guyeok JSA,110 min,7.8,58.0,Chan-wook Park,Lee Yeong-ae,Lee Byung-Hun,Kang-ho Song,Kim Tae-Woo,26518
+The Count of Monte Cristo,131 min,7.8,61.0,Kevin Reynolds,Jim Caviezel,Guy Pearce,Christopher Adamson,JB Blanc,129022
+Waking Life,99 min,7.8,83.0,Richard Linklater,Ethan Hawke,Trevor Jack Brooks,Lorelei Linklater,Wiley Wiggins,60684
+Remember the Titans,113 min,7.8,48.0,Boaz Yakin,Denzel Washington,Will Patton,Wood Harris,Ryan Hurst,198089
+Wo hu cang long,120 min,7.8,94.0,Ang Lee,Yun-Fat Chow,Michelle Yeoh,Ziyi Zhang,Chen Chang,253228
+Todo sobre mi madre,101 min,7.8,87.0,Pedro Almodóvar,Cecilia Roth,Marisa Paredes,Candela Peña,Antonia San Juan,89058
+Cast Away,143 min,7.8,73.0,Robert Zemeckis,Tom Hanks,Helen Hunt,Paul Sanchez,Lari White,524235
+The Boondock Saints,108 min,7.8,44.0,Troy Duffy,Willem Dafoe,Sean Patrick Flanery,Norman Reedus,David Della Rocco,227143
+The Insider,157 min,7.8,84.0,Michael Mann,Russell Crowe,Al Pacino,Christopher Plummer,Diane Venora,159886
+October Sky,108 min,7.8,71.0,Joe Johnston,Jake Gyllenhaal,Chris Cooper,Laura Dern,Chris Owen,82855
+Shrek,90 min,7.8,84.0,Andrew Adamson,Vicky Jenson,Mike Myers,Eddie Murphy,Cameron Diaz,613941
+Titanic,194 min,7.8,75.0,James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,1046089
+Hana-bi,103 min,7.8,,Takeshi Kitano,Takeshi Kitano,Kayoko Kishimoto,Ren Osugi,Susumu Terajima,27712
+Gattaca,106 min,7.8,64.0,Andrew Niccol,Ethan Hawke,Uma Thurman,Jude Law,Gore Vidal,280845
+The Game,129 min,7.8,61.0,David Fincher,Michael Douglas,Deborah Kara Unger,Sean Penn,James Rebhorn,345096
+Breaking the Waves,159 min,7.8,76.0,Lars von Trier,Emily Watson,Stellan Skarsgård,Katrin Cartlidge,Jean-Marc Barr,62428
+Ed Wood,127 min,7.8,70.0,Tim Burton,Johnny Depp,Martin Landau,Sarah Jessica Parker,Patricia Arquette,164937
+What's Eating Gilbert Grape,118 min,7.8,73.0,Lasse Hallström,Johnny Depp,Leonardo DiCaprio,Juliette Lewis,Mary Steenburgen,215034
+Tombstone,130 min,7.8,50.0,George P. Cosmatos,Kevin Jarre,Kurt Russell,Val Kilmer,Sam Elliott,126871
+The Sandlot,101 min,7.8,55.0,David Mickey Evans,Tom Guiry,Mike Vitar,Art LaFleur,Patrick Renna,78963
+The Remains of the Day,134 min,7.8,84.0,James Ivory,Anthony Hopkins,Emma Thompson,John Haycraft,Christopher Reeve,66065
+Naked,132 min,7.8,84.0,Mike Leigh,David Thewlis,Lesley Sharp,Katrin Cartlidge,Greg Cruttwell,34635
+The Fugitive,130 min,7.8,87.0,Andrew Davis,Harrison Ford,Tommy Lee Jones,Sela Ward,Julianne Moore,267684
+A Bronx Tale,121 min,7.8,80.0,Robert De Niro,Robert De Niro,Chazz Palminteri,Lillo Brancato,Francis Capra,128171
+Batman: Mask of the Phantasm,76 min,7.8,,Kevin Altieri,Boyd Kirkland,Frank Paur,Dan Riba,Eric Radomski,43690
+Lat sau san taam,128 min,7.8,,John Woo,Yun-Fat Chow,Tony Chiu-Wai Leung,Teresa Mo,Philip Chan,46700
+Night on Earth,129 min,7.8,68.0,Jim Jarmusch,Winona Ryder,Gena Rowlands,Lisanne Falk,Alan Randolph Scott,55362
+La double vie de Véronique,98 min,7.8,86.0,Krzysztof Kieslowski,Irène Jacob,Wladyslaw Kowalski,Halina Gryglaszewska,Kalina Jedrusik,42376
+Boyz n the Hood,112 min,7.8,76.0,John Singleton,Cuba Gooding Jr.,Laurence Fishburne,Hudhail Al-Amir,Lloyd Avery II,126082
+Misery,107 min,7.8,75.0,Rob Reiner,James Caan,Kathy Bates,Richard Farnsworth,Frances Sternhagen,184740
+Awakenings,121 min,7.8,74.0,Penny Marshall,Robert De Niro,Robin Williams,Julie Kavner,Ruth Nelson,125276
+Majo no takkyûbin,103 min,7.8,83.0,Hayao Miyazaki,Kirsten Dunst,Minami Takayama,Rei Sakuma,Kappei Yamaguchi,124193
+Glory,122 min,7.8,78.0,Edward Zwick,Matthew Broderick,Denzel Washington,Cary Elwes,Morgan Freeman,122779
+Dip huet seung hung,111 min,7.8,82.0,John Woo,Yun-Fat Chow,Danny Lee,Sally Yeh,Kong Chu,45624
+Back to the Future Part II,108 min,7.8,57.0,Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Thomas F. Wilson,481918
+Mississippi Burning,128 min,7.8,65.0,Alan Parker,Gene Hackman,Willem Dafoe,Frances McDormand,Brad Dourif,88214
+Predator,107 min,7.8,45.0,John McTiernan,Arnold Schwarzenegger,Carl Weathers,Kevin Peter Hall,Elpidia Carrillo,371387
+Evil Dead II,84 min,7.8,72.0,Sam Raimi,Bruce Campbell,Sarah Berry,Dan Hicks,Kassie Wesley DePaiva,148359
+Ferris Bueller's Day Off,103 min,7.8,61.0,John Hughes,Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones,321382
+Down by Law,107 min,7.8,75.0,Jim Jarmusch,Tom Waits,John Lurie,Roberto Benigni,Nicoletta Braschi,47834
+The Goonies,114 min,7.8,62.0,Richard Donner,Sean Astin,Josh Brolin,Jeff Cohen,Corey Feldman,244430
+The Color Purple,154 min,7.8,78.0,Steven Spielberg,Danny Glover,Whoopi Goldberg,Oprah Winfrey,Margaret Avery,78321
+The Breakfast Club,97 min,7.8,66.0,John Hughes,Emilio Estevez,Judd Nelson,Molly Ringwald,Ally Sheedy,357026
+The Killing Fields,141 min,7.8,76.0,Roland Joffé,Sam Waterston,Haing S. Ngor,John Malkovich,Julian Sands,51585
+Ghostbusters,105 min,7.8,71.0,Ivan Reitman,Bill Murray,Dan Aykroyd,Sigourney Weaver,Harold Ramis,355413
+The Right Stuff,193 min,7.8,91.0,Philip Kaufman,Sam Shepard,Scott Glenn,Ed Harris,Dennis Quaid,56235
+The King of Comedy,109 min,7.8,73.0,Martin Scorsese,Robert De Niro,Jerry Lewis,Diahnne Abbott,Sandra Bernhard,88511
+E.T. the Extra-Terrestrial,115 min,7.8,91.0,Steven Spielberg,Henry Thomas,Drew Barrymore,Peter Coyote,Dee Wallace,372490
+Kramer vs. Kramer,105 min,7.8,77.0,Robert Benton,Dustin Hoffman,Meryl Streep,Jane Alexander,Justin Henry,133351
+Days of Heaven,94 min,7.8,93.0,Terrence Malick,Richard Gere,Brooke Adams,Sam Shepard,Linda Manz,52852
+The Outlaw Josey Wales,135 min,7.8,69.0,Clint Eastwood,Clint Eastwood,Sondra Locke,Chief Dan George,Bill McKinney,65659
+The Man Who Would Be King,129 min,7.8,91.0,John Huston,Sean Connery,Michael Caine,Christopher Plummer,Saeed Jaffrey,44917
+The Conversation,113 min,7.8,85.0,Francis Ford Coppola,Gene Hackman,John Cazale,Allen Garfield,Frederic Forrest,98611
+La planète sauvage,72 min,7.8,73.0,René Laloux,Barry Bostwick,Jennifer Drake,Eric Baugin,Jean Topart,25229
+The Day of the Jackal,143 min,7.8,80.0,Fred Zinnemann,Edward Fox,Terence Alexander,Michel Auclair,Alan Badel,37445
+Badlands,94 min,7.8,93.0,Terrence Malick,Martin Sheen,Sissy Spacek,Warren Oates,Ramon Bieri,66009
+Cabaret,124 min,7.8,80.0,Bob Fosse,Liza Minnelli,Michael York,Helmut Griem,Joel Grey,48334
+Willy Wonka & the Chocolate Factory,100 min,7.8,67.0,Mel Stuart,Gene Wilder,Jack Albertson,Peter Ostrum,Roy Kinnear,178731
+Midnight Cowboy,113 min,7.8,79.0,John Schlesinger,Dustin Hoffman,Jon Voight,Sylvia Miles,John McGiver,101124
+Wait Until Dark,108 min,7.8,81.0,Terence Young,Audrey Hepburn,Alan Arkin,Richard Crenna,Efrem Zimbalist Jr.,27733
+Guess Who's Coming to Dinner,108 min,7.8,63.0,Stanley Kramer,Spencer Tracy,Sidney Poitier,Katharine Hepburn,Katharine Houghton,39642
+Bonnie and Clyde,111 min,7.8,86.0,Arthur Penn,Warren Beatty,Faye Dunaway,Michael J. Pollard,Gene Hackman,102415
+My Fair Lady,170 min,7.8,95.0,George Cukor,Audrey Hepburn,Rex Harrison,Stanley Holloway,Wilfrid Hyde-White,86525
+Mary Poppins,139 min,7.8,88.0,Robert Stevenson,Julie Andrews,Dick Van Dyke,David Tomlinson,Glynis Johns,158029
+The Longest Day,178 min,7.8,75.0,Ken Annakin,Andrew Marton,Gerd Oswald,Bernhard Wicki,Darryl F. Zanuck,52141
+Jules et Jim,105 min,7.8,97.0,François Truffaut,Jeanne Moreau,Oskar Werner,Henri Serre,Vanna Urbino,37605
+The Innocents,100 min,7.8,88.0,Jack Clayton,Deborah Kerr,Peter Wyngarde,Megs Jenkins,Michael Redgrave,27007
+À bout de souffle,90 min,7.8,,Jean-Luc Godard,Jean-Paul Belmondo,Jean Seberg,Daniel Boulanger,Henri-Jacques Huet,73251
+Red River,133 min,7.8,,Howard Hawks,Arthur Rosson,John Wayne,Montgomery Clift,Joanne Dru,28167
+Key Largo,100 min,7.8,,John Huston,Humphrey Bogart,Edward G. Robinson,Lauren Bacall,Lionel Barrymore,36995
+To Have and Have Not,100 min,7.8,,Howard Hawks,Humphrey Bogart,Lauren Bacall,Walter Brennan,Dolores Moran,31053
+Shadow of a Doubt,108 min,7.8,94.0,Alfred Hitchcock,Teresa Wright,Joseph Cotten,Macdonald Carey,Henry Travers,59556
+Stagecoach,96 min,7.8,93.0,John Ford,John Wayne,Claire Trevor,Andy Devine,John Carradine,43621
+The Lady Vanishes,96 min,7.8,98.0,Alfred Hitchcock,Margaret Lockwood,Michael Redgrave,Paul Lukas,May Whitty,47400
+Bringing Up Baby,102 min,7.8,91.0,Howard Hawks,Katharine Hepburn,Cary Grant,Charles Ruggles,Walter Catlett,55163
+Bride of Frankenstein,75 min,7.8,95.0,James Whale,Boris Karloff,Elsa Lanchester,Colin Clive,Valerie Hobson,43542
+Duck Soup,69 min,7.8,93.0,Leo McCarey,Groucho Marx,Harpo Marx,Chico Marx,Zeppo Marx,55581
+Scarface: The Shame of the Nation,93 min,7.8,87.0,Howard Hawks,Richard Rosson,Paul Muni,Ann Dvorak,Karen Morley,25312
+Frankenstein,70 min,7.8,91.0,James Whale,Colin Clive,Mae Clarke,Boris Karloff,John Boles,65341
+Roma,135 min,7.7,96.0,Alfonso Cuarón,Yalitza Aparicio,Marina de Tavira,Diego Cortina Autrey,Carlos Peralta,140375
+God's Own Country,104 min,7.7,85.0,Francis Lee,Josh O'Connor,Alec Secareanu,Gemma Jones,Ian Hart,25198
+Deadpool 2,119 min,7.7,66.0,David Leitch,Ryan Reynolds,Josh Brolin,Morena Baccarin,Julian Dennison,478586
+Wind River,107 min,7.7,73.0,Taylor Sheridan,Kelsey Asbille,Jeremy Renner,Julia Jones,Teo Briones,205444
+Get Out,104 min,7.7,85.0,Jordan Peele,Daniel Kaluuya,Allison Williams,Bradley Whitford,Catherine Keener,492851
+Mission: Impossible - Fallout,147 min,7.7,86.0,Christopher McQuarrie,Tom Cruise,Henry Cavill,Ving Rhames,Simon Pegg,291257
+En man som heter Ove,116 min,7.7,70.0,Hannes Holm,Rolf Lassgård,Bahar Pars,Filip Berg,Ida Engvoll,47444
+What We Do in the Shadows,86 min,7.7,76.0,Jemaine Clement,Taika Waititi,Jemaine Clement,Taika Waititi,Cori Gonzalez-Macuer,157498
+Omoide no Mânî,103 min,7.7,72.0,James Simone,Hiromasa Yonebayashi,Sara Takatsuki,Kasumi Arimura,Nanako Matsushima,32798
+The Theory of Everything,123 min,7.7,72.0,James Marsh,Eddie Redmayne,Felicity Jones,Tom Prior,Sophie Perry,404182
+Kingsman: The Secret Service,129 min,7.7,60.0,Matthew Vaughn,Colin Firth,Taron Egerton,Samuel L. Jackson,Michael Caine,590440
+The Fault in Our Stars,126 min,7.7,69.0,Josh Boone,Shailene Woodley,Ansel Elgort,Nat Wolff,Laura Dern,344312
+Me and Earl and the Dying Girl,105 min,7.7,74.0,Alfonso Gomez-Rejon,Thomas Mann,RJ Cyler,Olivia Cooke,Nick Offerman,123210
+Birdman or (The Unexpected Virtue of Ignorance),119 min,7.7,87.0,Alejandro G. Iñárritu,Michael Keaton,Zach Galifianakis,Edward Norton,Andrea Riseborough,580291
+La vie d'Adèle,180 min,7.7,89.0,Abdellatif Kechiche,Léa Seydoux,Adèle Exarchopoulos,Salim Kechiouche,Aurélien Recoing,138741
+Kai po che!,130 min,7.7,40.0,Abhishek Kapoor,Amit Sadh,Sushant Singh Rajput,Rajkummar Rao,Amrita Puri,32628
+The Broken Circle Breakdown,111 min,7.7,70.0,Felix van Groeningen,Veerle Baetens,Johan Heldenbergh,Nell Cattrysse,Geert Van Rampelberg,39379
+Captain America: The Winter Soldier,136 min,7.7,70.0,Anthony Russo,Joe Russo,Chris Evans,Samuel L. Jackson,Scarlett Johansson,736182
+Rockstar,159 min,7.7,,Imtiaz Ali,Ranbir Kapoor,Nargis Fakhri,Shammi Kapoor,Kumud Mishra,39501
+Nebraska,115 min,7.7,87.0,Alexander Payne,Bruce Dern,Will Forte,June Squibb,Bob Odenkirk,112298
+Wreck-It Ralph,101 min,7.7,72.0,Rich Moore,John C. Reilly,Jack McBrayer,Jane Lynch,Sarah Silverman,380195
+Le Petit Prince,108 min,7.7,70.0,Mark Osborne,Jeff Bridges,Mackenzie Foy,Rachel McAdams,Marion Cotillard,56720
+Detachment,98 min,7.7,52.0,Tony Kaye,Adrien Brody,Christina Hendricks,Marcia Gay Harden,Lucy Liu,77071
+Midnight in Paris,96 min,7.7,81.0,Woody Allen,Owen Wilson,Rachel McAdams,Kathy Bates,Kurt Fuller,388089
+The Lego Movie,100 min,7.7,83.0,Christopher Miller,Phil Lord,Chris Pratt,Will Ferrell,Elizabeth Banks,323982
+Gravity,91 min,7.7,96.0,Alfonso Cuarón,Sandra Bullock,George Clooney,Ed Harris,Orto Ignatiussen,769145
+Star Trek Into Darkness,132 min,7.7,72.0,J.J. Abrams,Chris Pine,Zachary Quinto,Zoe Saldana,Benedict Cumberbatch,463188
+Beasts of No Nation,137 min,7.7,79.0,Cary Joji Fukunaga,Abraham Attah,Emmanuel Affadzi,Ricky Adelayitor,Andrew Adote,73964
+The Social Network,120 min,7.7,95.0,David Fincher,Jesse Eisenberg,Andrew Garfield,Justin Timberlake,Rooney Mara,624982
+X: First Class,131 min,7.7,65.0,Matthew Vaughn,James McAvoy,Michael Fassbender,Jennifer Lawrence,Kevin Bacon,645512
+The Hangover,100 min,7.7,73.0,Todd Phillips,Zach Galifianakis,Bradley Cooper,Justin Bartha,Ed Helms,717559
+Skyfall,143 min,7.7,81.0,Sam Mendes,Daniel Craig,Javier Bardem,Naomie Harris,Judi Dench,630614
+Silver Linings Playbook,122 min,7.7,81.0,David O. Russell,Bradley Cooper,Jennifer Lawrence,Robert De Niro,Jacki Weaver,661871
+Argo,120 min,7.7,86.0,Ben Affleck,Ben Affleck,Bryan Cranston,John Goodman,Alan Arkin,572581
+(500) Days of Summer,95 min,7.7,76.0,Marc Webb,Zooey Deschanel,Joseph Gordon-Levitt,Geoffrey Arend,Chloë Grace Moretz,472242
+Harry Potter and the Deathly Hallows: Part 1,146 min,7.7,65.0,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Bill Nighy,479120
+Gake no ue no Ponyo,101 min,7.7,86.0,Hayao Miyazaki,Cate Blanchett,Matt Damon,Liam Neeson,Tomoko Yamaguchi,125317
+Frost/Nixon,122 min,7.7,80.0,Ron Howard,Frank Langella,Michael Sheen,Kevin Bacon,Sam Rockwell,103330
+Papurika,90 min,7.7,81.0,Satoshi Kon,Megumi Hayashibara,Tôru Emori,Katsunosuke Hori,Tôru Furuya,71379
+Changeling,141 min,7.7,63.0,Clint Eastwood,Angelina Jolie,Colm Feore,Amy Ryan,Gattlin Griffith,239203
+Flipped,90 min,7.7,45.0,Rob Reiner,Madeline Carroll,Callan McAuliffe,Rebecca De Mornay,Anthony Edwards,81446
+Toki o kakeru shôjo,98 min,7.7,,Mamoru Hosoda,Riisa Naka,Takuya Ishida,Mitsutaka Itakura,Ayami Kakiuchi,60368
+Death Note: Desu nôto,126 min,7.7,,Shûsuke Kaneko,Tatsuya Fujiwara,Ken'ichi Matsuyama,Asaka Seto,Yû Kashii,28630
+This Is England,101 min,7.7,86.0,Shane Meadows,Thomas Turgoose,Stephen Graham,Jo Hartley,Andrew Shim,115576
+Ex Machina,108 min,7.7,78.0,Alex Garland,Alicia Vikander,Domhnall Gleeson,Oscar Isaac,Sonoya Mizuno,474141
+Efter brylluppet,120 min,7.7,78.0,Susanne Bier,Mads Mikkelsen,Sidse Babett Knudsen,Rolf Lassgård,Neeral Mulchandani,32001
+The Last King of Scotland,123 min,7.7,74.0,Kevin Macdonald,James McAvoy,Forest Whitaker,Gillian Anderson,Kerry Washington,175355
+Zodiac,157 min,7.7,78.0,David Fincher,Jake Gyllenhaal,Robert Downey Jr.,Mark Ruffalo,Anthony Edwards,466080
+Lucky Number Slevin,110 min,7.7,53.0,Paul McGuigan,Josh Hartnett,Ben Kingsley,Morgan Freeman,Lucy Liu,299524
+Joyeux Noël,116 min,7.7,70.0,Christian Carion,Diane Kruger,Benno Fürmann,Guillaume Canet,Natalie Dessay,28003
+Control,122 min,7.7,78.0,Anton Corbijn,Sam Riley,Samantha Morton,Craig Parkinson,Alexandra Maria Lara,61609
+Tangled,100 min,7.7,71.0,Nathan Greno,Byron Howard,Mandy Moore,Zachary Levi,Donna Murphy,405922
+Zwartboek,145 min,7.7,71.0,Paul Verhoeven,Carice van Houten,Sebastian Koch,Thom Hoffman,Halina Reijn,72643
+Brokeback Mountain,134 min,7.7,87.0,Ang Lee,Jake Gyllenhaal,Heath Ledger,Michelle Williams,Randy Quaid,323103
+3:10 to Yuma,122 min,7.7,76.0,James Mangold,Russell Crowe,Christian Bale,Ben Foster,Logan Lerman,288797
+Crash,112 min,7.7,66.0,Paul Haggis,Don Cheadle,Sandra Bullock,Thandie Newton,Karina Arroyave,419483
+Kung fu,99 min,7.7,78.0,Stephen Chow,Stephen Chow,Wah Yuen,Qiu Yuen,Siu-Lung Leung,127250
+The Bourne Supremacy,108 min,7.7,73.0,Paul Greengrass,Matt Damon,Franka Potente,Joan Allen,Brian Cox,434841
+The Machinist,101 min,7.7,61.0,Brad Anderson,Christian Bale,Jennifer Jason Leigh,Aitana Sánchez-Gijón,John Sharian,358432
+Ray,152 min,7.7,73.0,Taylor Hackford,Jamie Foxx,Regina King,Kerry Washington,Clifton Powell,138356
+Lost in Translation,102 min,7.7,89.0,Sofia Coppola,Bill Murray,Scarlett Johansson,Giovanni Ribisi,Anna Faris,415074
+Harry Potter and the Goblet of Fire,157 min,7.7,81.0,Mike Newell,Daniel Radcliffe,Emma Watson,Rupert Grint,Eric Sykes,548619
+Man on Fire,146 min,7.7,47.0,Tony Scott,Denzel Washington,Christopher Walken,Dakota Fanning,Radha Mitchell,329592
+Coraline,100 min,7.7,80.0,Henry Selick,Dakota Fanning,Teri Hatcher,John Hodgman,Jennifer Saunders,197761
+The Last Samurai,154 min,7.7,55.0,Edward Zwick,Tom Cruise,Ken Watanabe,Billy Connolly,William Atherton,400049
+The Magdalene Sisters,114 min,7.7,83.0,Peter Mullan,Eileen Walsh,Dorothy Duffy,Nora-Jane Noone,Anne-Marie Duff,25938
+Good Bye Lenin!,121 min,7.7,68.0,Wolfgang Becker,Daniel Brühl,Katrin Saß,Chulpan Khamatova,Florian Lukas,137981
+In America,105 min,7.7,76.0,Jim Sheridan,Paddy Considine,Samantha Morton,Djimon Hounsou,Sarah Bolger,40403
+I Am Sam,132 min,7.7,28.0,Jessie Nelson,Sean Penn,Michelle Pfeiffer,Dakota Fanning,Dianne Wiest,142863
+Adaptation.,115 min,7.7,83.0,Spike Jonze,Nicolas Cage,Meryl Streep,Chris Cooper,Tilda Swinton,178565
+Black Hawk Down,144 min,7.7,74.0,Ridley Scott,Josh Hartnett,Ewan McGregor,Tom Sizemore,Eric Bana,364254
+Road to Perdition,117 min,7.7,72.0,Sam Mendes,Tom Hanks,Tyler Hoechlin,Rob Maxey,Liam Aiken,246840
+Das Experiment,120 min,7.7,60.0,Oliver Hirschbiegel,Moritz Bleibtreu,Christian Berkel,Oliver Stokowski,Wotan Wilke Möhring,90842
+Billy Elliot,110 min,7.7,74.0,Stephen Daldry,Jamie Bell,Julie Walters,Jean Heywood,Jamie Draven,126770
+Hedwig and the Angry Inch,95 min,7.7,85.0,John Cameron Mitchell,John Cameron Mitchell,Miriam Shor,Stephen Trask,Theodore Liscinski,31957
+Ocean's Eleven,116 min,7.7,74.0,Steven Soderbergh,George Clooney,Brad Pitt,Julia Roberts,Matt Damon,516372
+Vampire Hunter D: Bloodlust,103 min,7.7,62.0,Yoshiaki Kawajiri,Andrew Philpot,John Rafter Lee,Pamela Adlon,Wendee Lee,29210
+"O Brother, Where Art Thou?",107 min,7.7,69.0,Joel Coen,Ethan Coen,George Clooney,John Turturro,Tim Blake Nelson,286742
+Interstate 60: Episodes of the Road,116 min,7.7,,Bob Gale,James Marsden,Gary Oldman,Kurt Russell,Matthew Edison,29999
+"South Park: Bigger, Longer & Uncut",81 min,7.7,73.0,Trey Parker,Trey Parker,Matt Stone,Mary Kay Bergman,Isaac Hayes,192112
+Office Space,89 min,7.7,68.0,Mike Judge,Ron Livingston,Jennifer Aniston,David Herman,Ajay Naidu,241575
+Happiness,134 min,7.7,81.0,Todd Solondz,Jane Adams,Jon Lovitz,Philip Seymour Hoffman,Dylan Baker,66408
+Training Day,122 min,7.7,69.0,Antoine Fuqua,Denzel Washington,Ethan Hawke,Scott Glenn,Tom Berenger,390247
+Rushmore,93 min,7.7,86.0,Wes Anderson,Jason Schwartzman,Bill Murray,Olivia Williams,Seymour Cassel,169229
+Abre los ojos,119 min,7.7,,Alejandro Amenábar,Eduardo Noriega,Penélope Cruz,Chete Lera,Fele Martínez,64082
+Being John Malkovich,113 min,7.7,90.0,Spike Jonze,John Cusack,Cameron Diaz,Catherine Keener,John Malkovich,312542
+As Good as It Gets,139 min,7.7,67.0,James L. Brooks,Jack Nicholson,Helen Hunt,Greg Kinnear,Cuba Gooding Jr.,275755
+The Fifth Element,126 min,7.7,52.0,Luc Besson,Bruce Willis,Milla Jovovich,Gary Oldman,Ian Holm,434125
+Le dîner de cons,80 min,7.7,73.0,Francis Veber,Thierry Lhermitte,Jacques Villeret,Francis Huster,Daniel Prévost,37424
+Donnie Brasco,127 min,7.7,76.0,Mike Newell,Al Pacino,Johnny Depp,Michael Madsen,Bruno Kirby,279318
+Shine,105 min,7.7,87.0,Scott Hicks,Geoffrey Rush,Armin Mueller-Stahl,Justin Braine,Sonia Todd,51350
+Primal Fear,129 min,7.7,47.0,Gregory Hoblit,Richard Gere,Laura Linney,Edward Norton,John Mahoney,189716
+Hamlet,242 min,7.7,,Kenneth Branagh,Kenneth Branagh,Julie Christie,Derek Jacobi,Kate Winslet,35991
+A Little Princess,97 min,7.7,83.0,Alfonso Cuarón,Liesel Matthews,Eleanor Bron,Liam Cunningham,Rusty Schwimmer,32236
+Do lok tin si,99 min,7.7,71.0,Kar-Wai Wong,Leon Lai,Michelle Reis,Takeshi Kaneshiro,Charlie Yeung,26429
+Il postino,108 min,7.7,81.0,Michael Radford,Massimo Troisi,Massimo Troisi,Philippe Noiret,Maria Grazia Cucinotta,33600
+Clerks,92 min,7.7,70.0,Kevin Smith,Brian O'Halloran,Jeff Anderson,Marilyn Ghigliotti,Lisa Spoonauer,211450
+Short Cuts,188 min,7.7,79.0,Robert Altman,Andie MacDowell,Julianne Moore,Tim Robbins,Bruce Davison,42275
+Philadelphia,125 min,7.7,66.0,Jonathan Demme,Tom Hanks,Denzel Washington,Roberta Maxwell,Buzz Kilman,224169
+The Muppet Christmas Carol,85 min,7.7,64.0,Brian Henson,Michael Caine,Kermit the Frog,Dave Goelz,Miss Piggy,50298
+Malcolm X,202 min,7.7,73.0,Spike Lee,Denzel Washington,Angela Bassett,Delroy Lindo,Spike Lee,85819
+The Last of the Mohicans,112 min,7.7,76.0,Michael Mann,Daniel Day-Lewis,Madeleine Stowe,Russell Means,Eric Schweig,150409
+Kurenai no buta,94 min,7.7,83.0,Hayao Miyazaki,Shûichirô Moriyama,Tokiko Katô,Bunshi Katsura Vi,Tsunehiko Kamijô,77798
+Glengarry Glen Ross,100 min,7.7,82.0,James Foley,Al Pacino,Jack Lemmon,Alec Baldwin,Alan Arkin,95826
+A Few Good Men,138 min,7.7,62.0,Rob Reiner,Tom Cruise,Jack Nicholson,Demi Moore,Kevin Bacon,235388
+Fried Green Tomatoes,130 min,7.7,64.0,Jon Avnet,Kathy Bates,Jessica Tandy,Mary Stuart Masterson,Mary-Louise Parker,66941
+Barton Fink,116 min,7.7,69.0,Joel Coen,Ethan Coen,John Turturro,John Goodman,Judy Davis,113240
+Miller's Crossing,115 min,7.7,66.0,Joel Coen,Ethan Coen,Gabriel Byrne,Albert Finney,John Turturro,125822
+Who Framed Roger Rabbit,104 min,7.7,83.0,Robert Zemeckis,Bob Hoskins,Christopher Lloyd,Joanna Cassidy,Charles Fleischer,182009
+Spoorloos,107 min,7.7,,George Sluizer,Bernard-Pierre Donnadieu,Gene Bervoets,Johanna ter Steege,Gwen Eckhaus,33982
+Withnail & I,107 min,7.7,84.0,Bruce Robinson,Richard E. Grant,Paul McGann,Richard Griffiths,Ralph Brown,40396
+The Last Emperor,163 min,7.7,76.0,Bernardo Bertolucci,John Lone,Joan Chen,Peter O'Toole,Ruocheng Ying,94326
+Empire of the Sun,153 min,7.7,62.0,Steven Spielberg,Christian Bale,John Malkovich,Miranda Richardson,Nigel Havers,115677
+Der Name der Rose,130 min,7.7,54.0,Jean-Jacques Annaud,Sean Connery,Christian Slater,Helmut Qualtinger,Elya Baskin,102031
+Blue Velvet,120 min,7.7,76.0,David Lynch,Isabella Rossellini,Kyle MacLachlan,Dennis Hopper,Laura Dern,181285
+The Purple Rose of Cairo,82 min,7.7,75.0,Woody Allen,Mia Farrow,Jeff Daniels,Danny Aiello,Irving Metzman,47102
+After Hours,97 min,7.7,90.0,Martin Scorsese,Griffin Dunne,Rosanna Arquette,Verna Bloom,Tommy Chong,59635
+Zelig,79 min,7.7,,Woody Allen,Woody Allen,Mia Farrow,Patrick Horgan,John Buckwalter,39881
+The Verdict,129 min,7.7,77.0,Sidney Lumet,Paul Newman,Charlotte Rampling,Jack Warden,James Mason,36096
+Star Trek II: The Wrath of Khan,113 min,7.7,67.0,Nicholas Meyer,William Shatner,Leonard Nimoy,DeForest Kelley,James Doohan,112704
+First Blood,93 min,7.7,61.0,Ted Kotcheff,Sylvester Stallone,Brian Dennehy,Richard Crenna,Bill McKinney,226541
+Ordinary People,124 min,7.7,86.0,Robert Redford,Donald Sutherland,Mary Tyler Moore,Judd Hirsch,Timothy Hutton,47099
+Airplane!,88 min,7.7,78.0,Jim Abrahams,David Zucker,Jerry Zucker,Robert Hays,Julie Hagerty,214882
+Rupan sansei: Kariosutoro no shiro,100 min,7.7,71.0,Hayao Miyazaki,Yasuo Yamada,Eiko Masuyama,Kiyoshi Kobayashi,Makio Inoue,27014
+Halloween,91 min,7.7,87.0,John Carpenter,Donald Pleasence,Jamie Lee Curtis,Tony Moran,Nancy Kyes,233106
+Le locataire,126 min,7.7,71.0,Roman Polanski,Roman Polanski,Isabelle Adjani,Melvyn Douglas,Jo Van Fleet,39889
+Love and Death,85 min,7.7,89.0,Woody Allen,Woody Allen,Diane Keaton,Georges Adet,Frank Adu,36037
+The Taking of Pelham One Two Three,104 min,7.7,68.0,Joseph Sargent,Walter Matthau,Robert Shaw,Martin Balsam,Hector Elizondo,26729
+Blazing Saddles,93 min,7.7,73.0,Mel Brooks,Cleavon Little,Gene Wilder,Slim Pickens,Harvey Korman,125993
+Serpico,130 min,7.7,87.0,Sidney Lumet,Al Pacino,John Randolph,Jack Kehoe,Biff McGuire,109941
+Enter the Dragon,102 min,7.7,83.0,Robert Clouse,Bruce Lee,John Saxon,Jim Kelly,Ahna Capri,96561
+Deliverance,109 min,7.7,80.0,John Boorman,Jon Voight,Burt Reynolds,Ned Beatty,Ronny Cox,98740
+The French Connection,104 min,7.7,94.0,William Friedkin,Gene Hackman,Roy Scheider,Fernando Rey,Tony Lo Bianco,110075
+Dirty Harry,102 min,7.7,90.0,Don Siegel,Clint Eastwood,Andrew Robinson,Harry Guardino,Reni Santoni,143292
+Where Eagles Dare,158 min,7.7,63.0,Brian G. Hutton,Richard Burton,Clint Eastwood,Mary Ure,Patrick Wymark,51913
+The Odd Couple,105 min,7.7,86.0,Gene Saks,Jack Lemmon,Walter Matthau,John Fiedler,Herb Edelman,31572
+The Dirty Dozen,150 min,7.7,73.0,Robert Aldrich,Lee Marvin,Ernest Borgnine,Charles Bronson,John Cassavetes,67183
+Belle de jour,100 min,7.7,,Luis Buñuel,Catherine Deneuve,Jean Sorel,Michel Piccoli,Geneviève Page,40274
+A Man for All Seasons,120 min,7.7,72.0,Fred Zinnemann,Paul Scofield,Wendy Hiller,Robert Shaw,Leo McKern,31222
+Repulsion,105 min,7.7,91.0,Roman Polanski,Catherine Deneuve,Ian Hendry,John Fraser,Yvonne Furneaux,48883
+Zulu,138 min,7.7,77.0,Cy Endfield,Stanley Baker,Jack Hawkins,Ulla Jacobsson,James Booth,35999
+Goldfinger,110 min,7.7,87.0,Guy Hamilton,Sean Connery,Gert Fröbe,Honor Blackman,Shirley Eaton,174119
+The Birds,119 min,7.7,90.0,Alfred Hitchcock,Rod Taylor,Tippi Hedren,Jessica Tandy,Suzanne Pleshette,171739
+Cape Fear,106 min,7.7,76.0,J. Lee Thompson,Gregory Peck,Robert Mitchum,Polly Bergen,Lori Martin,26457
+Peeping Tom,101 min,7.7,,Michael Powell,Karlheinz Böhm,Anna Massey,Moira Shearer,Maxine Audley,31354
+The Magnificent Seven,128 min,7.7,74.0,John Sturges,Yul Brynner,Steve McQueen,Charles Bronson,Eli Wallach,87719
+Les yeux sans visage,90 min,7.7,90.0,Georges Franju,Pierre Brasseur,Alida Valli,Juliette Mayniel,Alexandre Rignault,27620
+Invasion of the Body Snatchers,80 min,7.7,92.0,Don Siegel,Kevin McCarthy,Dana Wynter,Larry Gates,King Donovan,44839
+Rebel Without a Cause,111 min,7.7,89.0,Nicholas Ray,James Dean,Natalie Wood,Sal Mineo,Jim Backus,83363
+The Ladykillers,91 min,7.7,91.0,Alexander Mackendrick,Alec Guinness,Peter Sellers,Cecil Parker,Herbert Lom,26464
+Sabrina,113 min,7.7,72.0,Billy Wilder,Humphrey Bogart,Audrey Hepburn,William Holden,Walter Hampden,59415
+The Quiet Man,129 min,7.7,,John Ford,John Wayne,Maureen O'Hara,Barry Fitzgerald,Ward Bond,34677
+The Day the Earth Stood Still,92 min,7.7,,Robert Wise,Michael Rennie,Patricia Neal,Hugh Marlowe,Sam Jaffe,76315
+The African Queen,105 min,7.7,91.0,John Huston,Humphrey Bogart,Katharine Hepburn,Robert Morley,Peter Bull,71481
+Gilda,110 min,7.7,,Charles Vidor,Rita Hayworth,Glenn Ford,George Macready,Joseph Calleia,27991
+Fantasia,125 min,7.7,96.0,James Algar,Samuel Armstrong,Ford Beebe Jr.,Norman Ferguson,David Hand,88662
+The Invisible Man,71 min,7.7,87.0,James Whale,Claude Rains,Gloria Stuart,William Harrigan,Henry Travers,30683
+Dark Waters,126 min,7.6,73.0,Todd Haynes,Mark Ruffalo,Anne Hathaway,Tim Robbins,Bill Pullman,60408
+Searching,102 min,7.6,71.0,Aneesh Chaganty,John Cho,Debra Messing,Joseph Lee,Michelle La,140840
+Once Upon a Time... in Hollywood,161 min,7.6,83.0,Quentin Tarantino,Leonardo DiCaprio,Brad Pitt,Margot Robbie,Emile Hirsch,551309
+Nelyubov,127 min,7.6,86.0,Andrey Zvyagintsev,Maryana Spivak,Aleksey Rozin,Matvey Novikov,Marina Vasileva,29765
+The Florida Project,111 min,7.6,92.0,Sean Baker,Brooklynn Prince,Bria Vinaite,Willem Dafoe,Christopher Rivera,95181
+Just Mercy,137 min,7.6,68.0,Destin Daniel Cretton,Michael B. Jordan,Jamie Foxx,Brie Larson,Charlie Pye Jr.,46739
+Gifted,101 min,7.6,60.0,Marc Webb,Chris Evans,Mckenna Grace,Lindsay Duncan,Octavia Spencer,99643
+The Peanut Butter Falcon,97 min,7.6,70.0,Tyler Nilson,Michael Schwartz,Zack Gottsagen,Ann Owens,Dakota Johnson,66346
+Victoria,138 min,7.6,77.0,Sebastian Schipper,Laia Costa,Frederick Lau,Franz Rogowski,Burak Yigit,52903
+Mustang,97 min,7.6,83.0,Deniz Gamze Ergüven,Günes Sensoy,Doga Zeynep Doguslu,Tugba Sunguroglu,Elit Iscan,35785
+Guardians of the Galaxy Vol. 2,136 min,7.6,67.0,James Gunn,Chris Pratt,Zoe Saldana,Dave Bautista,Vin Diesel,569974
+Baby Driver,113 min,7.6,86.0,Edgar Wright,Ansel Elgort,Jon Bernthal,Jon Hamm,Eiza González,439406
+Only the Brave,134 min,7.6,72.0,Joseph Kosinski,Josh Brolin,Miles Teller,Jeff Bridges,Jennifer Connelly,58371
+Bridge of Spies,142 min,7.6,81.0,Steven Spielberg,Tom Hanks,Mark Rylance,Alan Alda,Amy Ryan,287659
+Incredibles 2,118 min,7.6,80.0,Brad Bird,Craig T. Nelson,Holly Hunter,Sarah Vowell,Huck Milner,250057
+Moana,107 min,7.6,81.0,Ron Clements,John Musker,Don Hall,Chris Williams,Auli'i Cravalho,272784
+Sicario,121 min,7.6,82.0,Denis Villeneuve,Emily Blunt,Josh Brolin,Benicio Del Toro,Jon Bernthal,371291
+Creed,133 min,7.6,82.0,Ryan Coogler,Michael B. Jordan,Sylvester Stallone,Tessa Thompson,Phylicia Rashad,247666
+Leviafan,140 min,7.6,92.0,Andrey Zvyagintsev,Aleksey Serebryakov,Elena Lyadova,Roman Madyanov,Vladimir Vdovichenkov,49397
+Hell or High Water,102 min,7.6,88.0,David Mackenzie,Chris Pine,Ben Foster,Jeff Bridges,Gil Birmingham,204175
+Philomena,98 min,7.6,77.0,Stephen Frears,Judi Dench,Steve Coogan,Sophie Kennedy Clark,Mare Winningham,94212
+Dawn of the Planet of the Apes,130 min,7.6,79.0,Matt Reeves,Gary Oldman,Keri Russell,Andy Serkis,Kodi Smit-McPhee,411599
+El cuerpo,112 min,7.6,,Oriol Paulo,Jose Coronado,Hugo Silva,Belén Rueda,Aura Garrido,57549
+Serbuan maut,101 min,7.6,73.0,Gareth Evans,Iko Uwais,Ananda George,Ray Sahetapy,Donny Alamsyah,190531
+End of Watch,109 min,7.6,68.0,David Ayer,Jake Gyllenhaal,Michael Peña,Anna Kendrick,America Ferrera,228132
+Kari-gurashi no Arietti,94 min,7.6,80.0,Hiromasa Yonebayashi,Amy Poehler,Mirai Shida,Ryûnosuke Kamiki,Tatsuya Fujiwara,80939
+A Star Is Born,136 min,7.6,88.0,Bradley Cooper,Lady Gaga,Bradley Cooper,Sam Elliott,Greg Grunberg,334312
+True Grit,110 min,7.6,80.0,Ethan Coen,Joel Coen,Jeff Bridges,Matt Damon,Hailee Steinfeld,311822
+Hævnen,118 min,7.6,65.0,Susanne Bier,Mikael Persbrandt,Trine Dyrholm,Markus Rygaard,Wil Johnson,38491
+Despicable Me,95 min,7.6,72.0,Pierre Coffin,Chris Renaud,Steve Carell,Jason Segel,Russell Brand,500851
+50/50,100 min,7.6,72.0,Jonathan Levine,Joseph Gordon-Levitt,Seth Rogen,Anna Kendrick,Bryce Dallas Howard,315426
+Kick-Ass,117 min,7.6,66.0,Matthew Vaughn,Aaron Taylor-Johnson,Nicolas Cage,Chloë Grace Moretz,Garrett M. Brown,524081
+Celda 211,113 min,7.6,,Daniel Monzón,Luis Tosar,Alberto Ammann,Antonio Resines,Manuel Morón,63882
+Moneyball,133 min,7.6,87.0,Bennett Miller,Brad Pitt,Robin Wright,Jonah Hill,Philip Seymour Hoffman,369529
+La piel que habito,120 min,7.6,70.0,Pedro Almodóvar,Antonio Banderas,Elena Anaya,Jan Cornet,Marisa Paredes,138959
+Zombieland,88 min,7.6,73.0,Ruben Fleischer,Jesse Eisenberg,Emma Stone,Woody Harrelson,Abigail Breslin,520041
+Die Welle,107 min,7.6,,Dennis Gansel,Jürgen Vogel,Frederick Lau,Max Riemelt,Jennifer Ulrich,102742
+Sherlock Holmes,128 min,7.6,57.0,Guy Ritchie,Robert Downey Jr.,Jude Law,Rachel McAdams,Mark Strong,583158
+The Blind Side,129 min,7.6,53.0,John Lee Hancock,Quinton Aaron,Sandra Bullock,Tim McGraw,Jae Head,293266
+The Visitor,104 min,7.6,79.0,Tom McCarthy,Richard Jenkins,Haaz Sleiman,Danai Gurira,Hiam Abbass,41544
+Seven Pounds,123 min,7.6,36.0,Gabriele Muccino,Will Smith,Rosario Dawson,Woody Harrelson,Michael Ealy,286770
+Eastern Promises,100 min,7.6,82.0,David Cronenberg,Naomi Watts,Viggo Mortensen,Armin Mueller-Stahl,Josef Altin,227760
+Stardust,127 min,7.6,66.0,Matthew Vaughn,Charlie Cox,Claire Danes,Sienna Miller,Ian McKellen,255036
+The Secret of Kells,71 min,7.6,81.0,Tomm Moore,Nora Twomey,Evan McGuire,Brendan Gleeson,Mick Lally,31779
+Inside Man,129 min,7.6,76.0,Spike Lee,Denzel Washington,Clive Owen,Jodie Foster,Christopher Plummer,339757
+Gone Baby Gone,114 min,7.6,72.0,Ben Affleck,Morgan Freeman,Ed Harris,Casey Affleck,Michelle Monaghan,250590
+La Vie En Rose,140 min,7.6,66.0,Olivier Dahan,Marion Cotillard,Sylvie Testud,Pascal Greggory,Emmanuelle Seigner,82781
+Huo Yuan Jia,104 min,7.6,70.0,Ronny Yu,Jet Li,Li Sun,Yong Dong,Yun Qu,72863
+The Illusionist,110 min,7.6,68.0,Neil Burger,Edward Norton,Jessica Biel,Paul Giamatti,Rufus Sewell,354728
+Dead Man's Shoes,90 min,7.6,52.0,Shane Meadows,Paddy Considine,Gary Stretch,Toby Kebbell,Stuart Wolfenden,49728
+Harry Potter and the Half-Blood Prince,153 min,7.6,78.0,David Yates,Daniel Radcliffe,Emma Watson,Rupert Grint,Michael Gambon,474827
+300,117 min,7.6,52.0,Zack Snyder,Gerard Butler,Lena Headey,David Wenham,Dominic West,732876
+Match Point,124 min,7.6,72.0,Woody Allen,Scarlett Johansson,Jonathan Rhys Meyers,Emily Mortimer,Matthew Goode,206294
+Watchmen,162 min,7.6,56.0,Zack Snyder,Jackie Earle Haley,Patrick Wilson,Carla Gugino,Malin Akerman,500799
+Lord of War,122 min,7.6,62.0,Andrew Niccol,Nicolas Cage,Ethan Hawke,Jared Leto,Bridget Moynahan,294140
+Saw,103 min,7.6,46.0,James Wan,Cary Elwes,Leigh Whannell,Danny Glover,Ken Leung,379020
+"Synecdoche, New York",124 min,7.6,67.0,Charlie Kaufman,Philip Seymour Hoffman,Samantha Morton,Michelle Williams,Catherine Keener,83158
+Mysterious Skin,105 min,7.6,73.0,Gregg Araki,Brady Corbet,Joseph Gordon-Levitt,Elisabeth Shue,Chase Ellison,65939
+Jeux d'enfants,93 min,7.6,45.0,Yann Samuell,Guillaume Canet,Marion Cotillard,Thibault Verhaeghe,Joséphine Lebas-Joly,67360
+Un long dimanche de fiançailles,133 min,7.6,76.0,Jean-Pierre Jeunet,Audrey Tautou,Gaspard Ulliel,Jodie Foster,Dominique Pinon,70925
+The Station Agent,89 min,7.6,81.0,Tom McCarthy,Peter Dinklage,Patricia Clarkson,Bobby Cannavale,Paul Benjamin,67370
+21 Grams,124 min,7.6,70.0,Alejandro G. Iñárritu,Sean Penn,Benicio Del Toro,Naomi Watts,Danny Huston,224545
+Boksuneun naui geot,129 min,7.6,56.0,Chan-wook Park,Kang-ho Song,Shin Ha-kyun,Bae Doona,Ji-Eun Lim,62659
+Finding Neverland,106 min,7.6,67.0,Marc Forster,Johnny Depp,Kate Winslet,Julie Christie,Radha Mitchell,198677
+25th Hour,135 min,7.6,68.0,Spike Lee,Edward Norton,Barry Pepper,Philip Seymour Hoffman,Rosario Dawson,169708
+The Butterfly Effect,113 min,7.6,30.0,Eric Bress,J. Mackye Gruber,Ashton Kutcher,Amy Smart,Melora Walters,451479
+28 Days Later...,113 min,7.6,73.0,Danny Boyle,Cillian Murphy,Naomie Harris,Christopher Eccleston,Alex Palmer,376853
+Batoru rowaiaru,114 min,7.6,81.0,Kinji Fukasaku,Tatsuya Fujiwara,Aki Maeda,Tarô Yamamoto,Takeshi Kitano,169091
+The Royal Tenenbaums,110 min,7.6,76.0,Wes Anderson,Gene Hackman,Gwyneth Paltrow,Anjelica Huston,Ben Stiller,266842
+Y tu mamá también,106 min,7.6,88.0,Alfonso Cuarón,Maribel Verdú,Gael García Bernal,Daniel Giménez Cacho,Ana López Mercado,115827
+Harry Potter and the Sorcerer's Stone,152 min,7.6,64.0,Chris Columbus,Daniel Radcliffe,Rupert Grint,Richard Harris,Maggie Smith,658185
+The Others,101 min,7.6,74.0,Alejandro Amenábar,Nicole Kidman,Christopher Eccleston,Fionnula Flanagan,Alakina Mann,337651
+Blow,124 min,7.6,52.0,Ted Demme,Johnny Depp,Penélope Cruz,Franka Potente,Rachel Griffiths,240714
+Enemy at the Gates,131 min,7.6,53.0,Jean-Jacques Annaud,Jude Law,Ed Harris,Joseph Fiennes,Rachel Weisz,243729
+Minority Report,145 min,7.6,80.0,Steven Spielberg,Tom Cruise,Colin Farrell,Samantha Morton,Max von Sydow,508417
+The Hurricane,146 min,7.6,74.0,Norman Jewison,Denzel Washington,Vicellous Shannon,Deborah Kara Unger,Liev Schreiber,91557
+American Psycho,101 min,7.6,64.0,Mary Harron,Christian Bale,Justin Theroux,Josh Lucas,Bill Sage,490062
+Lola rennt,81 min,7.6,77.0,Tom Tykwer,Franka Potente,Moritz Bleibtreu,Herbert Knaup,Nina Petri,188317
+The Thin Red Line,170 min,7.6,78.0,Terrence Malick,Jim Caviezel,Sean Penn,Nick Nolte,Kirk Acevedo,172710
+Mulan,88 min,7.6,71.0,Tony Bancroft,Barry Cook,Ming-Na Wen,Eddie Murphy,BD Wong,256906
+Fear and Loathing in Las Vegas,118 min,7.6,41.0,Terry Gilliam,Johnny Depp,Benicio Del Toro,Tobey Maguire,Michael Lee Gogin,259753
+Funny Games,108 min,7.6,69.0,Michael Haneke,Susanne Lothar,Ulrich Mühe,Arno Frisch,Frank Giering,65058
+Dark City,100 min,7.6,66.0,Alex Proyas,Rufus Sewell,Kiefer Sutherland,Jennifer Connelly,William Hurt,187927
+Sleepers,147 min,7.6,49.0,Barry Levinson,Robert De Niro,Kevin Bacon,Brad Pitt,Jason Patric,186734
+Lost Highway,134 min,7.6,52.0,David Lynch,Bill Pullman,Patricia Arquette,John Roselius,Louis Eppolito,131101
+Sense and Sensibility,136 min,7.6,84.0,Ang Lee,Emma Thompson,Kate Winslet,James Fleet,Tom Wilkinson,102598
+Die Hard: With a Vengeance,128 min,7.6,58.0,John McTiernan,Bruce Willis,Jeremy Irons,Samuel L. Jackson,Graham Greene,364420
+Dead Man,121 min,7.6,62.0,Jim Jarmusch,Johnny Depp,Gary Farmer,Crispin Glover,Lance Henriksen,90442
+The Bridges of Madison County,135 min,7.6,69.0,Clint Eastwood,Clint Eastwood,Meryl Streep,Annie Corley,Victor Slezak,73172
+Apollo 13,140 min,7.6,77.0,Ron Howard,Tom Hanks,Bill Paxton,Kevin Bacon,Gary Sinise,269197
+Trois couleurs: Blanc,92 min,7.6,88.0,Krzysztof Kieslowski,Zbigniew Zamachowski,Julie Delpy,Janusz Gajos,Jerzy Stuhr,64390
+Falling Down,113 min,7.6,56.0,Joel Schumacher,Michael Douglas,Robert Duvall,Barbara Hershey,Rachel Ticotin,171640
+Dazed and Confused,102 min,7.6,78.0,Richard Linklater,Jason London,Wiley Wiggins,Matthew McConaughey,Rory Cochrane,165465
+My Cousin Vinny,120 min,7.6,68.0,Jonathan Lynn,Joe Pesci,Marisa Tomei,Ralph Macchio,Mitchell Whitfield,107325
+Omohide poro poro,118 min,7.6,90.0,Isao Takahata,Miki Imai,Toshirô Yanagiba,Yoko Honna,Mayumi Izuka,27071
+Delicatessen,99 min,7.6,66.0,Marc Caro,Jean-Pierre Jeunet,Marie-Laure Dougnac,Dominique Pinon,Pascal Benezech,80487
+Home Alone,103 min,7.6,63.0,Chris Columbus,Macaulay Culkin,Joe Pesci,Daniel Stern,John Heard,488817
+The Godfather: Part III,162 min,7.6,60.0,Francis Ford Coppola,Al Pacino,Diane Keaton,Andy Garcia,Talia Shire,359809
+When Harry Met Sally...,95 min,7.6,76.0,Rob Reiner,Billy Crystal,Meg Ryan,Carrie Fisher,Bruno Kirby,195663
+The Little Mermaid,83 min,7.6,88.0,Ron Clements,John Musker,Jodi Benson,Samuel E. Wright,Rene Auberjonois,237696
+The Naked Gun: From the Files of Police Squad!,85 min,7.6,76.0,David Zucker,Leslie Nielsen,Priscilla Presley,O.J. Simpson,Ricardo Montalban,152871
+"Planes, Trains & Automobiles",93 min,7.6,72.0,John Hughes,Steve Martin,John Candy,Laila Robins,Michael McKean,124773
+Lethal Weapon,109 min,7.6,68.0,Richard Donner,Mel Gibson,Danny Glover,Gary Busey,Mitchell Ryan,236894
+Blood Simple,99 min,7.6,82.0,Joel Coen,Ethan Coen,John Getz,Frances McDormand,Dan Hedaya,87745
+On Golden Pond,109 min,7.6,68.0,Mark Rydell,Katharine Hepburn,Henry Fonda,Jane Fonda,Doug McKeon,27650
+Mad Max 2,96 min,7.6,77.0,George Miller,Mel Gibson,Bruce Spence,Michael Preston,Max Phipps,166588
+The Warriors,92 min,7.6,65.0,Walter Hill,Michael Beck,James Remar,Dorsey Wright,Brian Tyler,93878
+The Muppet Movie,95 min,7.6,74.0,James Frawley,Jim Henson,Frank Oz,Jerry Nelson,Richard Hunt,32802
+Escape from Alcatraz,112 min,7.6,76.0,Don Siegel,Clint Eastwood,Patrick McGoohan,Roberts Blossom,Jack Thibeau,121731
+Watership Down,91 min,7.6,64.0,Martin Rosen,John Hubley,John Hurt,Richard Briers,Ralph Richardson,33656
+Midnight Express,121 min,7.6,59.0,Alan Parker,Brad Davis,Irene Miracle,Bo Hopkins,Paolo Bonacelli,73662
+Close Encounters of the Third Kind,138 min,7.6,90.0,Steven Spielberg,Richard Dreyfuss,François Truffaut,Teri Garr,Melinda Dillon,184966
+The Long Goodbye,112 min,7.6,87.0,Robert Altman,Elliott Gould,Nina van Pallandt,Sterling Hayden,Mark Rydell,26337
+Giù la testa,157 min,7.6,77.0,Sergio Leone,Rod Steiger,James Coburn,Romolo Valli,Maria Monti,30144
+Kelly's Heroes,144 min,7.6,50.0,Brian G. Hutton,Clint Eastwood,Telly Savalas,Don Rickles,Carroll O'Connor,45338
+The Jungle Book,78 min,7.6,65.0,Wolfgang Reitherman,Phil Harris,Sebastian Cabot,Louis Prima,Bruce Reitherman,166409
+Blowup,111 min,7.6,82.0,Michelangelo Antonioni,David Hemmings,Vanessa Redgrave,Sarah Miles,John Castle,56513
+A Hard Day's Night,87 min,7.6,96.0,Richard Lester,John Lennon,Paul McCartney,George Harrison,Ringo Starr,40351
+Breakfast at Tiffany's,115 min,7.6,76.0,Blake Edwards,Audrey Hepburn,George Peppard,Patricia Neal,Buddy Ebsen,166544
+Giant,201 min,7.6,84.0,George Stevens,Elizabeth Taylor,Rock Hudson,James Dean,Carroll Baker,34075
+From Here to Eternity,118 min,7.6,85.0,Fred Zinnemann,Burt Lancaster,Montgomery Clift,Deborah Kerr,Donna Reed,43374
+Lifeboat,97 min,7.6,78.0,Alfred Hitchcock,Tallulah Bankhead,John Hodiak,Walter Slezak,William Bendix,26471
+The 39 Steps,86 min,7.6,93.0,Alfred Hitchcock,Robert Donat,Madeleine Carroll,Lucie Mannheim,Godfrey Tearle,51853

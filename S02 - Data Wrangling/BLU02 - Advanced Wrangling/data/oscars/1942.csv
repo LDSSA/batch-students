@@ -1,0 +1,184 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1941,1942,14,ACTOR,Gary Cooper,Sergeant York,True
+1,1941,1942,14,ACTOR,Cary Grant,Penny Serenade,False
+2,1941,1942,14,ACTOR,Walter Huston,All That Money Can Buy,False
+3,1941,1942,14,ACTOR,Robert Montgomery,Here Comes Mr. Jordan,False
+4,1941,1942,14,ACTOR,Orson Welles,Citizen Kane,False
+5,1941,1942,14,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Sergeant York,False
+6,1941,1942,14,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The Devil and Miss Jones,False
+7,1941,1942,14,ACTOR IN A SUPPORTING ROLE,Donald Crisp,How Green Was My Valley,True
+8,1941,1942,14,ACTOR IN A SUPPORTING ROLE,James Gleason,Here Comes Mr. Jordan,False
+9,1941,1942,14,ACTOR IN A SUPPORTING ROLE,Sydney Greenstreet,The Maltese Falcon,False
+10,1941,1942,14,ACTRESS,Bette Davis,The Little Foxes,False
+11,1941,1942,14,ACTRESS,Olivia de Havilland,Hold Back the Dawn,False
+12,1941,1942,14,ACTRESS,Joan Fontaine,Suspicion,True
+13,1941,1942,14,ACTRESS,Greer Garson,Blossoms in the Dust,False
+14,1941,1942,14,ACTRESS,Barbara Stanwyck,Ball of Fire,False
+15,1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Sara Allgood,How Green Was My Valley,False
+16,1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Mary Astor,The Great Lie,True
+17,1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Patricia Collinge,The Little Foxes,False
+18,1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,The Little Foxes,False
+19,1941,1942,14,ACTRESS IN A SUPPORTING ROLE,Margaret Wycherly,Sergeant York,False
+20,1941,1942,14,ART DIRECTION (Black-and-White),"Art Direction:  Perry Ferguson, Van Nest Polglase;  Interior Decoration:  Al Fields, Darrell Silvera",Citizen Kane,False
+21,1941,1942,14,ART DIRECTION (Black-and-White),"Art Direction:  Martin Obzina, Jack Otterson;  Interior Decoration:  Russell A. Gausman",The Flame of New Orleans,False
+22,1941,1942,14,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Robert Usher;  Interior Decoration:  Sam Comer",Hold Back the Dawn,False
+23,1941,1942,14,ART DIRECTION (Black-and-White),"Art Direction:  Richard Day, Nathan Juran;  Interior Decoration:  Thomas Little",How Green Was My Valley,True
+24,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  Lionel Banks;  Interior Decoration:  George Montgomery,Ladies in Retirement,False
+25,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  Stephen Goosson;  Interior Decoration:  Howard Bristol,The Little Foxes,False
+26,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  John Hughes;  Interior Decoration:  Fred MacLean,Sergeant York,False
+27,1941,1942,14,ART DIRECTION (Black-and-White),Sis Hopkins,Sis Hopkins,False
+28,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  John DuCasse Schulze;  Interior Decoration:  Edward G. Boyle,The Son of Monte Cristo,False
+29,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  Alexander Golitzen;  Interior Decoration:  Richard Irvine,Sundown,False
+30,1941,1942,14,ART DIRECTION (Black-and-White),Art Direction:  Vincent Korda;  Interior Decoration:  Julia Heron,That Hamilton Woman,False
+31,1941,1942,14,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Randall Duell;  Interior Decoration:  Edwin B. Willis",When Ladies Meet,False
+32,1941,1942,14,ART DIRECTION (Color),"Art Direction:  Richard Day, Joseph C. Wright;  Interior Decoration:  Thomas Little",Blood and Sand,False
+33,1941,1942,14,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Urie McCleary;  Interior Decoration:  Edwin B. Willis",Blossoms in the Dust,True
+34,1941,1942,14,ART DIRECTION (Color),Art Direction:  Raoul Pene du Bois;  Interior Decoration:  Stephen A. Seymour,Louisiana Purchase,False
+35,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Karl Freund,The Chocolate Soldier,False
+36,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Gregg Toland,Citizen Kane,False
+37,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Dr. Jekyll and Mr. Hyde,False
+38,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Joseph Walker,Here Comes Mr. Jordan,False
+39,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Leo Tover,Hold Back the Dawn,False
+40,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Arthur Miller,How Green Was My Valley,True
+41,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Sol Polito,Sergeant York,False
+42,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Edward Cronjager,Sun Valley Serenade,False
+43,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Charles Lang,Sundown,False
+44,1941,1942,14,CINEMATOGRAPHY (Black-and-White),Rudolph Maté,That Hamilton Woman,False
+45,1941,1942,14,CINEMATOGRAPHY (Color),"Wilfred M. Cline, Karl Struss, William Snyder",Aloma of the South Seas,False
+46,1941,1942,14,CINEMATOGRAPHY (Color),"William V. Skall, Leonard Smith",Billy the Kid,False
+47,1941,1942,14,CINEMATOGRAPHY (Color),"Ernest Palmer, Ray Rennahan",Blood and Sand,True
+48,1941,1942,14,CINEMATOGRAPHY (Color),"Karl Freund, W. Howard Greene",Blossoms in the Dust,False
+49,1941,1942,14,CINEMATOGRAPHY (Color),Bert Glennon,Dive Bomber,False
+50,1941,1942,14,CINEMATOGRAPHY (Color),"Harry Hallenberger, Ray Rennahan",Louisiana Purchase,False
+51,1941,1942,14,DIRECTING,Orson Welles,Citizen Kane,False
+52,1941,1942,14,DIRECTING,Alexander Hall,Here Comes Mr. Jordan,False
+53,1941,1942,14,DIRECTING,John Ford,How Green Was My Valley,True
+54,1941,1942,14,DIRECTING,William Wyler,The Little Foxes,False
+55,1941,1942,14,DIRECTING,Howard Hawks,Sergeant York,False
+56,1941,1942,14,DOCUMENTARY (Short Subject),Film Associates,Adventure in the Bronx,False
+57,1941,1942,14,DOCUMENTARY (Short Subject),United States Office for Emergency Management Film Unit,Bomber,False
+58,1941,1942,14,DOCUMENTARY (Short Subject),British Ministry of Information,Christmas under Fire,False
+59,1941,1942,14,DOCUMENTARY (Short Subject),National Film Board of Canada,Churchill's Island,True
+60,1941,1942,14,DOCUMENTARY (Short Subject),British Ministry of Information,Letter from Home,False
+61,1941,1942,14,DOCUMENTARY (Short Subject),"Truman Talley, Producer",Life of a Thoroughbred,False
+62,1941,1942,14,DOCUMENTARY (Short Subject),The March of Time,Norway in Revolt,False
+63,1941,1942,14,DOCUMENTARY (Short Subject),Philadelphia Housing Association,A Place to Live,False
+64,1941,1942,14,DOCUMENTARY (Short Subject),Amkino,Russian Soil,False
+65,1941,1942,14,DOCUMENTARY (Short Subject),"Truman Talley, Producer",Soldiers of the Sky,False
+66,1941,1942,14,DOCUMENTARY (Short Subject),National Film Board of Canada,War Clouds in the Pacific,False
+67,1941,1942,14,FILM EDITING,Robert Wise,Citizen Kane,False
+68,1941,1942,14,FILM EDITING,Harold F. Kress,Dr. Jekyll and Mr. Hyde,False
+69,1941,1942,14,FILM EDITING,James B. Clark,How Green Was My Valley,False
+70,1941,1942,14,FILM EDITING,Daniel Mandell,The Little Foxes,False
+71,1941,1942,14,FILM EDITING,William Holmes,Sergeant York,True
+72,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Bernard Herrmann,All That Money Can Buy,True
+73,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Frank Skinner,Back Street,False
+74,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Alfred Newman,Ball of Fire,False
+75,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Ward,Cheers for Miss Bishop,False
+76,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Bernard Herrmann,Citizen Kane,False
+77,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Franz Waxman,Dr. Jekyll and Mr. Hyde,False
+78,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Victor Young,Hold Back the Dawn,False
+79,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Alfred Newman,How Green Was My Valley,False
+80,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Kay,King of the Zombies,False
+81,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),"Morris Stoloff, Ernst Toch",Ladies in Retirement,False
+82,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Meredith Willson,The Little Foxes,False
+83,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Miklos Rozsa,Lydia,False
+84,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),"Cy Feuer, Walter Scharf",Mercy Island,False
+85,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Max Steiner,Sergeant York,False
+86,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Louis Gruenberg,So Ends Our Night,False
+87,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Miklos Rozsa,Sundown,False
+88,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Franz Waxman,Suspicion,False
+89,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Edward Ward,Tanks a Million,False
+90,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Werner Heymann,That Uncertain Feeling,False
+91,1941,1942,14,MUSIC (Music Score of a Dramatic Picture),Richard Hageman,This Woman Is Mine,False
+92,1941,1942,14,MUSIC (Scoring of a Musical Picture),Edward Ward,All-American Co-Ed,False
+93,1941,1942,14,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Birth of the Blues,False
+94,1941,1942,14,MUSIC (Scoring of a Musical Picture),Charles Previn,Buck Privates,False
+95,1941,1942,14,MUSIC (Scoring of a Musical Picture),"Herbert Stothart, Bronislau Kaper",The Chocolate Soldier,False
+96,1941,1942,14,MUSIC (Scoring of a Musical Picture),"Frank Churchill, Oliver Wallace",Dumbo,True
+97,1941,1942,14,MUSIC (Scoring of a Musical Picture),Cy Feuer,Ice-Capades,False
+98,1941,1942,14,MUSIC (Scoring of a Musical Picture),Heinz Roemheld,The Strawberry Blonde,False
+99,1941,1942,14,MUSIC (Scoring of a Musical Picture),Emil Newman,Sun Valley Serenade,False
+100,1941,1942,14,MUSIC (Scoring of a Musical Picture),Anthony Collins,Sunny,False
+101,1941,1942,14,MUSIC (Scoring of a Musical Picture),Morris Stoloff,You'll Never Get Rich,False
+102,1941,1942,14,MUSIC (Song),Music by Frank Churchill; Lyrics by Ned Washington,Dumbo,False
+103,1941,1942,14,MUSIC (Song),Music and Lyrics by Gene Autry and Fred Rose,Ridin' on a Rainbow,False
+104,1941,1942,14,MUSIC (Song),Music by Harold Arlen; Lyrics by Johnny Mercer,Blues in the Night,False
+105,1941,1942,14,MUSIC (Song),Music by Hugh Prince; Lyrics by Don Raye,Buck Privates,False
+106,1941,1942,14,MUSIC (Song),Music by Harry Warren; Lyrics by Mack Gordon,Sun Valley Serenade,False
+107,1941,1942,14,MUSIC (Song),Music by Lou Alter; Lyrics by Frank Loesser,Las Vegas Nights,False
+108,1941,1942,14,MUSIC (Song),Music by Jerome Kern; Lyrics by Oscar Hammerstein II,Lady Be Good,True
+109,1941,1942,14,MUSIC (Song),Music and Lyrics by Lloyd B. Norlind,All-American Co-Ed,False
+110,1941,1942,14,MUSIC (Song),Music and Lyrics by Cole Porter,You'll Never Get Rich,False
+111,1941,1942,14,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,Blossoms in the Dust,False
+112,1941,1942,14,OUTSTANDING MOTION PICTURE,Mercury,Citizen Kane,False
+113,1941,1942,14,OUTSTANDING MOTION PICTURE,Columbia,Here Comes Mr. Jordan,False
+114,1941,1942,14,OUTSTANDING MOTION PICTURE,Paramount,Hold Back the Dawn,False
+115,1941,1942,14,OUTSTANDING MOTION PICTURE,20th Century-Fox,How Green Was My Valley,True
+116,1941,1942,14,OUTSTANDING MOTION PICTURE,Samuel Goldwyn Productions,The Little Foxes,False
+117,1941,1942,14,OUTSTANDING MOTION PICTURE,Warner Bros.,The Maltese Falcon,False
+118,1941,1942,14,OUTSTANDING MOTION PICTURE,Warner Bros.,One Foot in Heaven,False
+119,1941,1942,14,OUTSTANDING MOTION PICTURE,Warner Bros.,Sergeant York,False
+120,1941,1942,14,OUTSTANDING MOTION PICTURE,RKO Radio,Suspicion,False
+121,1941,1942,14,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Boogie Woogie Bugle Boy of Company B,False
+122,1941,1942,14,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",Hiawatha's Rabbit Hunt,False
+123,1941,1942,14,SHORT SUBJECT (Cartoon),Columbia,How War Came,False
+124,1941,1942,14,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Lend a Paw,True
+125,1941,1942,14,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,The Night before Christmas,False
+126,1941,1942,14,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",Rhapsody in Rivets,False
+127,1941,1942,14,SHORT SUBJECT (Cartoon),"George Pal, Producer",Rhythm in the Ranks,False
+128,1941,1942,14,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,The Rookie Bear,False
+129,1941,1942,14,SHORT SUBJECT (Cartoon),"Max Fleischer, Producer",Superman,False
+130,1941,1942,14,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Truant Officer Donald,False
+131,1941,1942,14,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Army Champions,False
+132,1941,1942,14,SHORT SUBJECT (One-reel),Paramount,Beauty and the Beach,False
+133,1941,1942,14,SHORT SUBJECT (One-reel),Paramount,Down on the Farm,False
+134,1941,1942,14,SHORT SUBJECT (One-reel),Warner Bros.,Forty Boys and a Song,False
+135,1941,1942,14,SHORT SUBJECT (One-reel),Warner Bros.,Kings of the Turf,False
+136,1941,1942,14,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,Of Pups and Puzzles,True
+137,1941,1942,14,SHORT SUBJECT (One-reel),20th Century-Fox,Sagebrush and Silver,False
+138,1941,1942,14,SHORT SUBJECT (Two-reel),"Woodard Productions, Inc.",Alive in the Deep,False
+139,1941,1942,14,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Forbidden Passage,False
+140,1941,1942,14,SHORT SUBJECT (Two-reel),Warner Bros.,The Gay Parisian,False
+141,1941,1942,14,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Main Street on the March!,True
+142,1941,1942,14,SHORT SUBJECT (Two-reel),United States Army,The Tanks Are Coming,False
+143,1941,1942,14,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",Appointment for Love,False
+144,1941,1942,14,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",Ball of Fire,False
+145,1941,1942,14,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",The Chocolate Soldier,False
+146,1941,1942,14,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",Citizen Kane,False
+147,1941,1942,14,SOUND RECORDING,"Republic Studio Sound Department, Charles Lootens, Sound Director",The Devil Pays Off,False
+148,1941,1942,14,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",How Green Was My Valley,False
+149,1941,1942,14,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",The Men in Her Life,False
+150,1941,1942,14,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Sergeant York,False
+151,1941,1942,14,SOUND RECORDING,"Paramount Studio Sound Department, Loren Ryder, Sound Director",Skylark,False
+152,1941,1942,14,SOUND RECORDING,"General Service Sound Department, Jack Whitney, Sound Director",That Hamilton Woman,True
+153,1941,1942,14,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer Raguse, Sound Director",Topper Returns,False
+154,1941,1942,14,SPECIAL EFFECTS,"Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",Aloma of the South Seas,False
+155,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson,Dive Bomber,False
+156,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer,Flight Command,False
+157,1941,1942,14,SPECIAL EFFECTS,"Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Louis Mesenkop",I Wanted Wings,True
+158,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by John Fulton; Sound Effects by John Hall,The Invisible Woman,False
+159,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson,The Sea Wolf,False
+160,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth,That Hamilton Woman,False
+161,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse,Topper Returns,False
+162,1941,1942,14,SPECIAL EFFECTS,Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen,A Yank in the R.A.F.,False
+163,1941,1942,14,WRITING (Original Screenplay),"Herman J. Mankiewicz, Orson Welles",Citizen Kane,True
+164,1941,1942,14,WRITING (Original Screenplay),Norman Krasna,The Devil and Miss Jones,False
+165,1941,1942,14,WRITING (Original Screenplay),"Abem Finkel, Harry Chandlee, Howard Koch, John Huston",Sergeant York,False
+166,1941,1942,14,WRITING (Original Screenplay),"Karl Tunberg, Darrell Ware","Tall, Dark and Handsome",False
+167,1941,1942,14,WRITING (Original Screenplay),Paul Jarrico,"Tom, Dick and Harry",False
+168,1941,1942,14,WRITING (Original Story),"Billy Wilder, Thomas Monroe",Ball of Fire,False
+169,1941,1942,14,WRITING (Original Story),Harry Segall,Here Comes Mr. Jordan,True
+170,1941,1942,14,WRITING (Original Story),Monckton Hoffe,The Lady Eve,False
+171,1941,1942,14,WRITING (Original Story),"Richard Connell, Robert Presnell",Meet John Doe,False
+172,1941,1942,14,WRITING (Original Story),Gordon Wellesley,Night Train,False
+173,1941,1942,14,WRITING (Screenplay),"Sidney Buchman, Seton I. Miller",Here Comes Mr. Jordan,True
+174,1941,1942,14,WRITING (Screenplay),"Charles Brackett, Billy Wilder",Hold Back the Dawn,False
+175,1941,1942,14,WRITING (Screenplay),Philip Dunne,How Green Was My Valley,False
+176,1941,1942,14,WRITING (Screenplay),Lillian Hellman,The Little Foxes,False
+177,1941,1942,14,WRITING (Screenplay),John Huston,The Maltese Falcon,False
+178,1941,1942,14,SPECIAL AWARD, Rey Scott for his extraordinary achievement in producing Kukan,,True
+179,1941,1942,14,SPECIAL AWARD, The British Ministry of Information for its vivid and dramatic presentation of the heroism of the RAF in the documentary film,,True
+180,1941,1942,14,SPECIAL AWARD, Leopold Stokowski and his associates for their unique achievement in the creation of a new form of visualized music in Walt Disney's production,,True
+181,1941,1942,14,SPECIAL AWARD, Walt Disney,,True
+182,1941,1942,14,IRVING G. THALBERG MEMORIAL AWARD,Walt Disney,,True

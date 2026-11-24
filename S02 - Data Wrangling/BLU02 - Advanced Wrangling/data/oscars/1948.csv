@@ -1,0 +1,106 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1947,1948,20,ACTOR,Ronald Colman,A Double Life,True
+1,1947,1948,20,ACTOR,John Garfield,Body and Soul,False
+2,1947,1948,20,ACTOR,Gregory Peck,Gentleman's Agreement,False
+3,1947,1948,20,ACTOR,William Powell,Life with Father,False
+4,1947,1948,20,ACTOR,Michael Redgrave,Mourning Becomes Electra,False
+5,1947,1948,20,ACTOR IN A SUPPORTING ROLE,Charles Bickford,The Farmer's Daughter,False
+6,1947,1948,20,ACTOR IN A SUPPORTING ROLE,Thomas Gomez,Ride the Pink Horse,False
+7,1947,1948,20,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Miracle on 34th Street,True
+8,1947,1948,20,ACTOR IN A SUPPORTING ROLE,Robert Ryan,Crossfire,False
+9,1947,1948,20,ACTOR IN A SUPPORTING ROLE,Richard Widmark,Kiss of Death,False
+10,1947,1948,20,ACTRESS,Joan Crawford,Possessed,False
+11,1947,1948,20,ACTRESS,Susan Hayward,Smash-Up--The Story of a Woman,False
+12,1947,1948,20,ACTRESS,Dorothy McGuire,Gentleman's Agreement,False
+13,1947,1948,20,ACTRESS,Rosalind Russell,Mourning Becomes Electra,False
+14,1947,1948,20,ACTRESS,Loretta Young,The Farmer's Daughter,True
+15,1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,The Paradine Case,False
+16,1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,Crossfire,False
+17,1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Gentleman's Agreement,True
+18,1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Marjorie Main,The Egg and I,False
+19,1947,1948,20,ACTRESS IN A SUPPORTING ROLE,Anne Revere,Gentleman's Agreement,False
+20,1947,1948,20,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Maurice Ransford;  Set Decoration:  Thomas Little, Paul S. Fox",The Foxes of Harrow,False
+21,1947,1948,20,ART DIRECTION (Black-and-White),Art Direction:  John Bryan;  Set Decoration:  Wilfred Shingleton,Great Expectations,True
+22,1947,1948,20,ART DIRECTION (Color),Art Direction:  Alfred Junge;  Set Decoration:  Alfred Junge,Black Narcissus,True
+23,1947,1948,20,ART DIRECTION (Color),Art Direction:  Robert M. Haas;  Set Decoration:  George James Hopkins,Life with Father,False
+24,1947,1948,20,CINEMATOGRAPHY (Black-and-White),"Charles Lang, Jr.",The Ghost and Mrs. Muir,False
+25,1947,1948,20,CINEMATOGRAPHY (Black-and-White),Guy Green,Great Expectations,True
+26,1947,1948,20,CINEMATOGRAPHY (Black-and-White),George Folsey,Green Dolphin Street,False
+27,1947,1948,20,CINEMATOGRAPHY (Color),Jack Cardiff,Black Narcissus,True
+28,1947,1948,20,CINEMATOGRAPHY (Color),"Peverell Marley, William V. Skall",Life with Father,False
+29,1947,1948,20,CINEMATOGRAPHY (Color),Harry Jackson,Mother Wore Tights,False
+30,1947,1948,20,DIRECTING,Henry Koster,The Bishop's Wife,False
+31,1947,1948,20,DIRECTING,Edward Dmytryk,Crossfire,False
+32,1947,1948,20,DIRECTING,George Cukor,A Double Life,False
+33,1947,1948,20,DIRECTING,Elia Kazan,Gentleman's Agreement,True
+34,1947,1948,20,DIRECTING,David Lean,Great Expectations,False
+35,1947,1948,20,DOCUMENTARY (Feature),"Sid Rogell, Executive Producer;  Theron Warth and Richard O. Fleischer, Producers",Design for Death,True
+36,1947,1948,20,DOCUMENTARY (Feature),United States Department of State Office of Information and Educational Exchange,Journey into Medicine,False
+37,1947,1948,20,DOCUMENTARY (Feature),"Paul Rotha, Producer",The World Is Rich,False
+38,1947,1948,20,DOCUMENTARY (Short Subject),United Nations Division of Films and Visual Information,First Steps,True
+39,1947,1948,20,DOCUMENTARY (Short Subject),"Frederic Ullman, Jr., Producer",Passport to Nowhere,False
+40,1947,1948,20,DOCUMENTARY (Short Subject),Australian News & Information Bureau,School in the Mailbox,False
+41,1947,1948,20,FILM EDITING,Monica Collingwood,The Bishop's Wife,False
+42,1947,1948,20,FILM EDITING,"Francis Lyon, Robert Parrish",Body and Soul,True
+43,1947,1948,20,FILM EDITING,Harmon Jones,Gentleman's Agreement,False
+44,1947,1948,20,FILM EDITING,George White,Green Dolphin Street,False
+45,1947,1948,20,FILM EDITING,Fergus McDonell,Odd Man Out,False
+46,1947,1948,20,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,The Bishop's Wife,False
+47,1947,1948,20,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Captain from Castile,False
+48,1947,1948,20,MUSIC (Music Score of a Dramatic or Comedy Picture),Dr. Miklos Rozsa,A Double Life,True
+49,1947,1948,20,MUSIC (Music Score of a Dramatic or Comedy Picture),David Raksin,Forever Amber,False
+50,1947,1948,20,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Life with Father,False
+51,1947,1948,20,MUSIC (Scoring of a Musical Picture),Johnny Green,Fiesta,False
+52,1947,1948,20,MUSIC (Scoring of a Musical Picture),Alfred Newman,Mother Wore Tights,True
+53,1947,1948,20,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Max Steiner",My Wild Irish Rose,False
+54,1947,1948,20,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Road to Rio,False
+55,1947,1948,20,MUSIC (Scoring of a Musical Picture),"Daniele Amfitheatrof, Paul J. Smith, Charles Wolcott",Song of the South,False
+56,1947,1948,20,MUSIC (Song),Music by Arthur Schwartz; Lyrics by Leo Robin,"The Time, the Place and the Girl",False
+57,1947,1948,20,MUSIC (Song),Music and Lyrics by Frank Loesser,The Perils of Pauline,False
+58,1947,1948,20,MUSIC (Song),"Music and Lyrics by Ralph Blane, Roger Edens and Hugh Martin",Good News,False
+59,1947,1948,20,MUSIC (Song),Music by Josef Myrow; Lyrics by Mack Gordon,Mother Wore Tights,False
+60,1947,1948,20,MUSIC (Song),Music by Allie Wrubel; Lyrics by Ray Gilbert,Song of the South,True
+61,1947,1948,20,BEST MOTION PICTURE,Samuel Goldwyn Productions,The Bishop's Wife,False
+62,1947,1948,20,BEST MOTION PICTURE,RKO Radio,Crossfire,False
+63,1947,1948,20,BEST MOTION PICTURE,20th Century-Fox,Gentleman's Agreement,True
+64,1947,1948,20,BEST MOTION PICTURE,J. Arthur Rank-Cineguild,Great Expectations,False
+65,1947,1948,20,BEST MOTION PICTURE,20th Century-Fox,Miracle on 34th Street,False
+66,1947,1948,20,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Chip An' Dale,False
+67,1947,1948,20,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",Dr. Jekyll and Mr. Mouse,False
+68,1947,1948,20,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Pluto's Blue Note,False
+69,1947,1948,20,SHORT SUBJECT (Cartoon),"George Pal, Producer",Tubby the Tuba,False
+70,1947,1948,20,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Tweetie Pie,True
+71,1947,1948,20,SHORT SUBJECT (One-reel),"Thomas Mead, Producer","Brooklyn, U.S.A.",False
+72,1947,1948,20,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer",Good-bye Miss Turlock,True
+73,1947,1948,20,SHORT SUBJECT (One-reel),"Jerry Fairbanks, Producer",Moon Rockets,False
+74,1947,1948,20,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Now You See It,False
+75,1947,1948,20,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",So You Want to Be in Pictures,False
+76,1947,1948,20,SHORT SUBJECT (Two-reel),"Harry Grey, Producer",Champagne for Two,False
+77,1947,1948,20,SHORT SUBJECT (Two-reel),"Irving Allen, Producer",Climbing the Matterhorn,True
+78,1947,1948,20,SHORT SUBJECT (Two-reel),"Thomas Mead, Producer",Fight of the Wild Stallions,False
+79,1947,1948,20,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Give Us the Earth,False
+80,1947,1948,20,SHORT SUBJECT (Two-reel),"Ben Blake, Producer",A Voice Is Born: The Story of Niklos Gafni,False
+81,1947,1948,20,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",The Bishop's Wife,True
+82,1947,1948,20,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Green Dolphin Street,False
+83,1947,1948,20,SOUND RECORDING,"Sound Service, Inc., Jack R. Whitney, Sound Director",T-Men,False
+84,1947,1948,20,SPECIAL EFFECTS,"Special Visual Effects by A. Arnold Gillespie, Warren Newcombe; Special Audible Effects by Douglas Shearer, Michael Steinore",Green Dolphin Street,True
+85,1947,1948,20,SPECIAL EFFECTS,"Special Visual Effects by Farciot Edouart, Devereux Jennings, Gordon Jennings, Wallace Kelley, Paul Lerpae; Special Audible Effects by George Dutton",Unconquered,False
+86,1947,1948,20,WRITING (Motion Picture Story),"Georges Chaperot, Rene Wheeler",A Cage of Nightingales,False
+87,1947,1948,20,WRITING (Motion Picture Story),"Herbert Clyde Lewis, Frederick Stephani",It Happened on Fifth Avenue,False
+88,1947,1948,20,WRITING (Motion Picture Story),Eleazar Lipsky,Kiss of Death,False
+89,1947,1948,20,WRITING (Motion Picture Story),Valentine Davies,Miracle on 34th Street,True
+90,1947,1948,20,WRITING (Motion Picture Story),"Dorothy Parker, Frank Cavett",Smash-Up--The Story of a Woman,False
+91,1947,1948,20,WRITING (Original Screenplay),Sidney Sheldon,The Bachelor and the Bobby-Soxer,True
+92,1947,1948,20,WRITING (Original Screenplay),Abraham Polonsky,Body and Soul,False
+93,1947,1948,20,WRITING (Original Screenplay),"Ruth Gordon, Garson Kanin",A Double Life,False
+94,1947,1948,20,WRITING (Original Screenplay),Charles Chaplin,Monsieur Verdoux,False
+95,1947,1948,20,WRITING (Original Screenplay),"Sergio Amidei, Adolfo Franci, C. G. Viola, Cesare Zavattini",Shoe-Shine,False
+96,1947,1948,20,WRITING (Screenplay),Richard Murphy,Boomerang!,False
+97,1947,1948,20,WRITING (Screenplay),John Paxton,Crossfire,False
+98,1947,1948,20,WRITING (Screenplay),Moss Hart,Gentleman's Agreement,False
+99,1947,1948,20,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Great Expectations,False
+100,1947,1948,20,WRITING (Screenplay),George Seaton,Miracle on 34th Street,True
+101,1947,1948,20,SPECIAL AWARD, James Baskett for his able and heart-warming characterization of Uncle Remus,,True
+102,1947,1948,20,SPECIAL AWARD, Bill and Coo,,True
+103,1947,1948,20,SPECIAL AWARD, Shoe-Shine - the high quality of this motion picture,,True
+104,1947,1948,20,SPECIAL AWARD, Colonel William N. Selig,,True

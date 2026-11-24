@@ -1,0 +1,127 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2013,2014,86,ACTOR IN A LEADING ROLE,Christian Bale,American Hustle,False
+1,2013,2014,86,ACTOR IN A LEADING ROLE,Bruce Dern,Nebraska,False
+2,2013,2014,86,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Wolf of Wall Street,False
+3,2013,2014,86,ACTOR IN A LEADING ROLE,Chiwetel Ejiofor,12 Years a Slave,False
+4,2013,2014,86,ACTOR IN A LEADING ROLE,Matthew McConaughey,Dallas Buyers Club,True
+5,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Barkhad Abdi,Captain Phillips,False
+6,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Bradley Cooper,American Hustle,False
+7,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Michael Fassbender,12 Years a Slave,False
+8,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Jonah Hill,The Wolf of Wall Street,False
+9,2013,2014,86,ACTOR IN A SUPPORTING ROLE,Jared Leto,Dallas Buyers Club,True
+10,2013,2014,86,ACTRESS IN A LEADING ROLE,Amy Adams,American Hustle,False
+11,2013,2014,86,ACTRESS IN A LEADING ROLE,Cate Blanchett,Blue Jasmine,True
+12,2013,2014,86,ACTRESS IN A LEADING ROLE,Sandra Bullock,Gravity,False
+13,2013,2014,86,ACTRESS IN A LEADING ROLE,Judi Dench,Philomena,False
+14,2013,2014,86,ACTRESS IN A LEADING ROLE,Meryl Streep,August: Osage County,False
+15,2013,2014,86,ACTRESS IN A SUPPORTING ROLE,Sally Hawkins,Blue Jasmine,False
+16,2013,2014,86,ACTRESS IN A SUPPORTING ROLE,Jennifer Lawrence,American Hustle,False
+17,2013,2014,86,ACTRESS IN A SUPPORTING ROLE,Lupita Nyong'o,12 Years a Slave,True
+18,2013,2014,86,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,August: Osage County,False
+19,2013,2014,86,ACTRESS IN A SUPPORTING ROLE,June Squibb,Nebraska,False
+20,2013,2014,86,ANIMATED FEATURE FILM,"Chris Sanders, Kirk DeMicco and Kristine Belson",The Croods,False
+21,2013,2014,86,ANIMATED FEATURE FILM,"Chris Renaud, Pierre Coffin and Chris Meledandri",Despicable Me 2,False
+22,2013,2014,86,ANIMATED FEATURE FILM,Benjamin Renner and Didier Brunner,Ernest & Celestine,False
+23,2013,2014,86,ANIMATED FEATURE FILM,"Chris Buck, Jennifer Lee and Peter Del Vecho",Frozen,True
+24,2013,2014,86,ANIMATED FEATURE FILM,Hayao Miyazaki and Toshio Suzuki,The Wind Rises,False
+25,2013,2014,86,CINEMATOGRAPHY,Philippe Le Sourd,The Grandmaster,False
+26,2013,2014,86,CINEMATOGRAPHY,Emmanuel Lubezki,Gravity,True
+27,2013,2014,86,CINEMATOGRAPHY,Bruno Delbonnel,Inside Llewyn Davis,False
+28,2013,2014,86,CINEMATOGRAPHY,Phedon Papamichael,Nebraska,False
+29,2013,2014,86,CINEMATOGRAPHY,Roger A. Deakins,Prisoners,False
+30,2013,2014,86,COSTUME DESIGN,Michael Wilkinson,American Hustle,False
+31,2013,2014,86,COSTUME DESIGN,William Chang Suk Ping,The Grandmaster,False
+32,2013,2014,86,COSTUME DESIGN,Catherine Martin,The Great Gatsby,True
+33,2013,2014,86,COSTUME DESIGN,Michael O'Connor,The Invisible Woman,False
+34,2013,2014,86,COSTUME DESIGN,Patricia Norris,12 Years a Slave,False
+35,2013,2014,86,DIRECTING,David O. Russell,American Hustle,False
+36,2013,2014,86,DIRECTING,Alfonso Cuarón,Gravity,True
+37,2013,2014,86,DIRECTING,Alexander Payne,Nebraska,False
+38,2013,2014,86,DIRECTING,Steve McQueen,12 Years a Slave,False
+39,2013,2014,86,DIRECTING,Martin Scorsese,The Wolf of Wall Street,False
+40,2013,2014,86,DOCUMENTARY (Feature),Joshua Oppenheimer and Signe Byrge Sørensen,The Act of Killing,False
+41,2013,2014,86,DOCUMENTARY (Feature),Zachary Heinzerling and Lydia Dean Pilcher,Cutie and the Boxer,False
+42,2013,2014,86,DOCUMENTARY (Feature),Richard Rowley and Jeremy Scahill,Dirty Wars,False
+43,2013,2014,86,DOCUMENTARY (Feature),Jehane Noujaim and Karim Amer,The Square,False
+44,2013,2014,86,DOCUMENTARY (Feature),"Morgan Neville, Gil Friesen and Caitrin Rogers",20 Feet from Stardom,True
+45,2013,2014,86,DOCUMENTARY (Short Subject),Jeffrey Karoff,CaveDigger,False
+46,2013,2014,86,DOCUMENTARY (Short Subject),Jason Cohen,Facing Fear,False
+47,2013,2014,86,DOCUMENTARY (Short Subject),Sara Ishaq,Karama Has No Walls,False
+48,2013,2014,86,DOCUMENTARY (Short Subject),Malcolm Clarke and Nicholas Reed,The Lady in Number 6: Music Saved My Life,True
+49,2013,2014,86,DOCUMENTARY (Short Subject),Edgar Barens,Prison Terminal: The Last Days of Private Jack Hall,False
+50,2013,2014,86,FILM EDITING,"Jay Cassidy, Crispin Struthers and Alan Baumgarten",American Hustle,False
+51,2013,2014,86,FILM EDITING,Christopher Rouse,Captain Phillips,False
+52,2013,2014,86,FILM EDITING,John Mac McMurphy and Martin Pensa,Dallas Buyers Club,False
+53,2013,2014,86,FILM EDITING,Alfonso Cuarón and Mark Sanger,Gravity,True
+54,2013,2014,86,FILM EDITING,Joe Walker,12 Years a Slave,False
+55,2013,2014,86,FOREIGN LANGUAGE FILM,Belgium,The Broken Circle Breakdown,False
+56,2013,2014,86,FOREIGN LANGUAGE FILM,Italy,The Great Beauty,True
+57,2013,2014,86,FOREIGN LANGUAGE FILM,Denmark,The Hunt,False
+58,2013,2014,86,FOREIGN LANGUAGE FILM,Cambodia,The Missing Picture,False
+59,2013,2014,86,FOREIGN LANGUAGE FILM,Palestine,Omar,False
+60,2013,2014,86,MAKEUP AND HAIRSTYLING,Adruitha Lee and Robin Mathews,Dallas Buyers Club,True
+61,2013,2014,86,MAKEUP AND HAIRSTYLING,Stephen Prouty,Jackass Presents: Bad Grandpa,False
+62,2013,2014,86,MAKEUP AND HAIRSTYLING,Joel Harlow and Gloria Pasqua-Casny,The Lone Ranger,False
+63,2013,2014,86,MUSIC (Original Score),John Williams,The Book Thief,False
+64,2013,2014,86,MUSIC (Original Score),Steven Price,Gravity,True
+65,2013,2014,86,MUSIC (Original Score),William Butler and Owen Pallett,Her,False
+66,2013,2014,86,MUSIC (Original Score),Alexandre Desplat,Philomena,False
+67,2013,2014,86,MUSIC (Original Score),Thomas Newman,Saving Mr. Banks,False
+68,2013,2014,86,MUSIC (Original Song),Music by Bruce Broughton; Lyric by Dennis Spiegel,Alone Yet Not Alone,False
+69,2013,2014,86,MUSIC (Original Song),Music and Lyric by Pharrell Williams,Despicable Me 2,False
+70,2013,2014,86,MUSIC (Original Song),Music and Lyric by Kristen Anderson-Lopez and Robert Lopez,Frozen,True
+71,2013,2014,86,MUSIC (Original Song),Music by Karen O; Lyric by Karen O and Spike Jonze,Her,False
+72,2013,2014,86,MUSIC (Original Song),"Music by Paul Hewson, Dave Evans, Adam Clayton and Larry Mullen; Lyric by Paul Hewson",Mandela: Long Walk to Freedom,False
+73,2013,2014,86,BEST PICTURE,"Charles Roven, Richard Suckle, Megan Ellison and Jonathan Gordon, Producers",American Hustle,False
+74,2013,2014,86,BEST PICTURE,"Scott Rudin, Dana Brunetti and Michael De Luca, Producers",Captain Phillips,False
+75,2013,2014,86,BEST PICTURE,"Robbie Brenner and Rachel Winter, Producers",Dallas Buyers Club,False
+76,2013,2014,86,BEST PICTURE,"Alfonso Cuarón and David Heyman, Producers",Gravity,False
+77,2013,2014,86,BEST PICTURE,"Megan Ellison, Spike Jonze and Vincent Landay, Producers",Her,False
+78,2013,2014,86,BEST PICTURE,"Albert Berger and Ron Yerxa, Producers",Nebraska,False
+79,2013,2014,86,BEST PICTURE,"Gabrielle Tana, Steve Coogan and Tracey Seaward, Producers",Philomena,False
+80,2013,2014,86,BEST PICTURE,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers",12 Years a Slave,True
+81,2013,2014,86,BEST PICTURE,"Martin Scorsese, Leonardo DiCaprio, Joey McFarland and Emma Tillinger Koskoff, Producers",The Wolf of Wall Street,False
+82,2013,2014,86,PRODUCTION DESIGN,Production Design: Judy Becker; Set Decoration: Heather Loeffler,American Hustle,False
+83,2013,2014,86,PRODUCTION DESIGN,Production Design: Andy Nicholson; Set Decoration: Rosie Goodwin and Joanne Woollard,Gravity,False
+84,2013,2014,86,PRODUCTION DESIGN,Production Design: Catherine Martin; Set Decoration: Beverley Dunn,The Great Gatsby,True
+85,2013,2014,86,PRODUCTION DESIGN,Production Design: K.K. Barrett; Set Decoration: Gene Serdena,Her,False
+86,2013,2014,86,PRODUCTION DESIGN,Production Design: Adam Stockhausen; Set Decoration: Alice Baker,12 Years a Slave,False
+87,2013,2014,86,SHORT FILM (Animated),Daniel Sousa and Dan Golden,Feral,False
+88,2013,2014,86,SHORT FILM (Animated),Lauren MacMullan and Dorothy McKim,Get a Horse!,False
+89,2013,2014,86,SHORT FILM (Animated),Laurent Witz and Alexandre Espigares,Mr. Hublot,True
+90,2013,2014,86,SHORT FILM (Animated),Shuhei Morita,Possessions,False
+91,2013,2014,86,SHORT FILM (Animated),Max Lang and Jan Lachauer,Room on the Broom,False
+92,2013,2014,86,SHORT FILM (Live Action),Esteban Crespo,Aquel No Era Yo (That Wasn't Me),False
+93,2013,2014,86,SHORT FILM (Live Action),Xavier Legrand and Alexandre Gavras,Avant Que De Tout Perdre (Just before Losing Everything),False
+94,2013,2014,86,SHORT FILM (Live Action),Anders Walter and Kim Magnusson,Helium,True
+95,2013,2014,86,SHORT FILM (Live Action),Selma Vilhunen and Kirsikka Saari,Pitääkö Mun Kaikki Hoitaa? (Do I Have to Take Care of Everything?),False
+96,2013,2014,86,SHORT FILM (Live Action),Mark Gill and Baldwin Li,The Voorman Problem,False
+97,2013,2014,86,SOUND EDITING,Steve Boeddeker and Richard Hymns,All Is Lost,False
+98,2013,2014,86,SOUND EDITING,Oliver Tarney,Captain Phillips,False
+99,2013,2014,86,SOUND EDITING,Glenn Freemantle,Gravity,True
+100,2013,2014,86,SOUND EDITING,Brent Burge and Chris Ward,The Hobbit: The Desolation of Smaug,False
+101,2013,2014,86,SOUND EDITING,Wylie Stateman,Lone Survivor,False
+102,2013,2014,86,SOUND MIXING,"Chris Burdon, Mark Taylor, Mike Prestwood Smith and Chris Munro",Captain Phillips,False
+103,2013,2014,86,SOUND MIXING,"Skip Lievsay, Niv Adiri, Christopher Benstead and Chris Munro",Gravity,True
+104,2013,2014,86,SOUND MIXING,"Christopher Boyes, Michael Hedges, Michael Semanick and Tony Johnson",The Hobbit: The Desolation of Smaug,False
+105,2013,2014,86,SOUND MIXING,"Skip Lievsay, Greg Orloff and Peter F. Kurland",Inside Llewyn Davis,False
+106,2013,2014,86,SOUND MIXING,"Andy Koyama, Beau Borders and David Brownlow",Lone Survivor,False
+107,2013,2014,86,VISUAL EFFECTS,"Tim Webber, Chris Lawrence, David Shirk and Neil Corbould",Gravity,True
+108,2013,2014,86,VISUAL EFFECTS,"Joe Letteri, Eric Saindon, David Clayton and Eric Reynolds",The Hobbit: The Desolation of Smaug,False
+109,2013,2014,86,VISUAL EFFECTS,"Christopher Townsend, Guy Williams, Erik Nash and Dan Sudick",Iron Man 3,False
+110,2013,2014,86,VISUAL EFFECTS,"Tim Alexander, Gary Brozenich, Edson Williams and John Frazier",The Lone Ranger,False
+111,2013,2014,86,VISUAL EFFECTS,"Roger Guyett, Patrick Tubach, Ben Grossmann and Burt Dalton",Star Trek Into Darkness,False
+112,2013,2014,86,WRITING (Adapted Screenplay),"Written by Richard Linklater, Julie Delpy, Ethan Hawke",Before Midnight,False
+113,2013,2014,86,WRITING (Adapted Screenplay),Screenplay by Billy Ray,Captain Phillips,False
+114,2013,2014,86,WRITING (Adapted Screenplay),Screenplay by Steve Coogan and Jeff Pope,Philomena,False
+115,2013,2014,86,WRITING (Adapted Screenplay),Screenplay by John Ridley,12 Years a Slave,True
+116,2013,2014,86,WRITING (Adapted Screenplay),Screenplay by Terence Winter,The Wolf of Wall Street,False
+117,2013,2014,86,WRITING (Original Screenplay),Written by Eric Warren Singer and David O. Russell,American Hustle,False
+118,2013,2014,86,WRITING (Original Screenplay),Written by Woody Allen,Blue Jasmine,False
+119,2013,2014,86,WRITING (Original Screenplay),Written by Craig Borten & Melisa Wallack,Dallas Buyers Club,False
+120,2013,2014,86,WRITING (Original Screenplay),Written by Spike Jonze,Her,True
+121,2013,2014,86,WRITING (Original Screenplay),Written by Bob Nelson,Nebraska,False
+122,2013,2014,86,JEAN HERSHOLT HUMANITARIAN AWARD,Angelina Jolie,,True
+123,2013,2014,86,HONORARY AWARD, Angela Lansbury,,True
+124,2013,2014,86,HONORARY AWARD, Steve Martin in recognition of his extraordinary talents and the unique inspiration he has brought to the art of motion pictures.,,True
+125,2013,2014,86,HONORARY AWARD, Piero si,,True

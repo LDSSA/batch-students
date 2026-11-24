@@ -1,0 +1,126 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2014,2015,87,ACTOR IN A LEADING ROLE,Steve Carell,Foxcatcher,False
+1,2014,2015,87,ACTOR IN A LEADING ROLE,Bradley Cooper,American Sniper,False
+2,2014,2015,87,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,The Imitation Game,False
+3,2014,2015,87,ACTOR IN A LEADING ROLE,Michael Keaton,Birdman or (The Unexpected Virtue of Ignorance),False
+4,2014,2015,87,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,True
+5,2014,2015,87,ACTOR IN A SUPPORTING ROLE,Robert Duvall,The Judge,False
+6,2014,2015,87,ACTOR IN A SUPPORTING ROLE,Ethan Hawke,Boyhood,False
+7,2014,2015,87,ACTOR IN A SUPPORTING ROLE,Edward Norton,Birdman or (The Unexpected Virtue of Ignorance),False
+8,2014,2015,87,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Foxcatcher,False
+9,2014,2015,87,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,True
+10,2014,2015,87,ACTRESS IN A LEADING ROLE,Marion Cotillard,"Two Days, One Night",False
+11,2014,2015,87,ACTRESS IN A LEADING ROLE,Felicity Jones,The Theory of Everything,False
+12,2014,2015,87,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,True
+13,2014,2015,87,ACTRESS IN A LEADING ROLE,Rosamund Pike,Gone Girl,False
+14,2014,2015,87,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Wild,False
+15,2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,True
+16,2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Wild,False
+17,2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Keira Knightley,The Imitation Game,False
+18,2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Emma Stone,Birdman or (The Unexpected Virtue of Ignorance),False
+19,2014,2015,87,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Into the Woods,False
+20,2014,2015,87,ANIMATED FEATURE FILM,"Don Hall, Chris Williams and Roy Conli",Big Hero 6,True
+21,2014,2015,87,ANIMATED FEATURE FILM,"Anthony Stacchi, Graham Annable and Travis Knight",The Boxtrolls,False
+22,2014,2015,87,ANIMATED FEATURE FILM,Dean DeBlois and Bonnie Arnold,How to Train Your Dragon 2,False
+23,2014,2015,87,ANIMATED FEATURE FILM,Tomm Moore and Paul Young,Song of the Sea,False
+24,2014,2015,87,ANIMATED FEATURE FILM,Isao Takahata and Yoshiaki Nishimura,The Tale of the Princess Kaguya,False
+25,2014,2015,87,CINEMATOGRAPHY,Emmanuel Lubezki,Birdman or (The Unexpected Virtue of Ignorance),True
+26,2014,2015,87,CINEMATOGRAPHY,Robert Yeoman,The Grand Budapest Hotel,False
+27,2014,2015,87,CINEMATOGRAPHY,Lukasz Zal and Ryszard Lenczewski,Ida,False
+28,2014,2015,87,CINEMATOGRAPHY,Dick Pope,Mr. Turner,False
+29,2014,2015,87,CINEMATOGRAPHY,Roger Deakins,Unbroken,False
+30,2014,2015,87,COSTUME DESIGN,Milena Canonero,The Grand Budapest Hotel,True
+31,2014,2015,87,COSTUME DESIGN,Mark Bridges,Inherent Vice,False
+32,2014,2015,87,COSTUME DESIGN,Colleen Atwood,Into the Woods,False
+33,2014,2015,87,COSTUME DESIGN,Anna B. Sheppard,Maleficent,False
+34,2014,2015,87,COSTUME DESIGN,Jacqueline Durran,Mr. Turner,False
+35,2014,2015,87,DIRECTING,Alejandro G. Iñárritu,Birdman or (The Unexpected Virtue of Ignorance),True
+36,2014,2015,87,DIRECTING,Richard Linklater,Boyhood,False
+37,2014,2015,87,DIRECTING,Bennett Miller,Foxcatcher,False
+38,2014,2015,87,DIRECTING,Wes Anderson,The Grand Budapest Hotel,False
+39,2014,2015,87,DIRECTING,Morten Tyldum,The Imitation Game,False
+40,2014,2015,87,DOCUMENTARY (Feature),"Laura Poitras, Mathilde Bonnefoy and Dirk Wilutzky",CitizenFour,True
+41,2014,2015,87,DOCUMENTARY (Feature),John Maloof and Charlie Siskel,Finding Vivian Maier,False
+42,2014,2015,87,DOCUMENTARY (Feature),Rory Kennedy and Keven McAlester,Last Days in Vietnam,False
+43,2014,2015,87,DOCUMENTARY (Feature),"Wim Wenders, Juliano Ribeiro Salgado and David Rosier",The Salt of the Earth,False
+44,2014,2015,87,DOCUMENTARY (Feature),Orlando von Einsiedel and Joanna Natasegara,Virunga,False
+45,2014,2015,87,DOCUMENTARY (Short Subject),Ellen Goosenberg Kent and Dana Perry,Crisis Hotline: Veterans Press 1,True
+46,2014,2015,87,DOCUMENTARY (Short Subject),Aneta Kopacz,Joanna,False
+47,2014,2015,87,DOCUMENTARY (Short Subject),Tomasz Sliwinski and Maciej Slesicki,Our Curse,False
+48,2014,2015,87,DOCUMENTARY (Short Subject),Gabriel Serra Arguello,The Reaper (La Parka),False
+49,2014,2015,87,DOCUMENTARY (Short Subject),J. Christian Jensen,White Earth,False
+50,2014,2015,87,FILM EDITING,Joel Cox and Gary D. Roach,American Sniper,False
+51,2014,2015,87,FILM EDITING,Sandra Adair,Boyhood,False
+52,2014,2015,87,FILM EDITING,Barney Pilling,The Grand Budapest Hotel,False
+53,2014,2015,87,FILM EDITING,William Goldenberg,The Imitation Game,False
+54,2014,2015,87,FILM EDITING,Tom Cross,Whiplash,True
+55,2014,2015,87,FOREIGN LANGUAGE FILM,Poland,Ida,True
+56,2014,2015,87,FOREIGN LANGUAGE FILM,Russia,Leviathan,False
+57,2014,2015,87,FOREIGN LANGUAGE FILM,Estonia,Tangerines,False
+58,2014,2015,87,FOREIGN LANGUAGE FILM,Mauritania,Timbuktu,False
+59,2014,2015,87,FOREIGN LANGUAGE FILM,Argentina,Wild Tales,False
+60,2014,2015,87,MAKEUP AND HAIRSTYLING,Bill Corso and Dennis Liddiard,Foxcatcher,False
+61,2014,2015,87,MAKEUP AND HAIRSTYLING,Frances Hannon and Mark Coulier,The Grand Budapest Hotel,True
+62,2014,2015,87,MAKEUP AND HAIRSTYLING,Elizabeth Yianni-Georgiou and David White,Guardians of the Galaxy,False
+63,2014,2015,87,MUSIC (Original Score),Alexandre Desplat,The Grand Budapest Hotel,True
+64,2014,2015,87,MUSIC (Original Score),Alexandre Desplat,The Imitation Game,False
+65,2014,2015,87,MUSIC (Original Score),Hans Zimmer,Interstellar,False
+66,2014,2015,87,MUSIC (Original Score),Gary Yershon,Mr. Turner,False
+67,2014,2015,87,MUSIC (Original Score),Jóhann Jóhannsson,The Theory of Everything,False
+68,2014,2015,87,MUSIC (Original Song),Music and Lyric by Shawn Patterson,The Lego Movie,False
+69,2014,2015,87,MUSIC (Original Song),Music and Lyric by John Stephens and Lonnie Lynn,Selma,True
+70,2014,2015,87,MUSIC (Original Song),Music and Lyric by Diane Warren,Beyond the Lights,False
+71,2014,2015,87,MUSIC (Original Song),Music and Lyric by Glen Campbell and Julian Raymond,Glen Campbell...I'll Be Me,False
+72,2014,2015,87,MUSIC (Original Song),Music and Lyric by Gregg Alexander and Danielle Brisebois,Begin Again,False
+73,2014,2015,87,BEST PICTURE,"Clint Eastwood, Robert Lorenz, Andrew Lazar, Bradley Cooper and Peter Morgan, Producers",American Sniper,False
+74,2014,2015,87,BEST PICTURE,"Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers",Birdman or (The Unexpected Virtue of Ignorance),True
+75,2014,2015,87,BEST PICTURE,"Richard Linklater and Cathleen Sutherland, Producers",Boyhood,False
+76,2014,2015,87,BEST PICTURE,"Wes Anderson, Scott Rudin, Steven Rales and Jeremy Dawson, Producers",The Grand Budapest Hotel,False
+77,2014,2015,87,BEST PICTURE,"Nora Grossman, Ido Ostrowsky and Teddy Schwarzman, Producers",The Imitation Game,False
+78,2014,2015,87,BEST PICTURE,"Christian Colson, Oprah Winfrey, Dede Gardner and Jeremy Kleiner, Producers",Selma,False
+79,2014,2015,87,BEST PICTURE,"Tim Bevan, Eric Fellner, Lisa Bruce and Anthony McCarten, Producers",The Theory of Everything,False
+80,2014,2015,87,BEST PICTURE,"Jason Blum, Helen Estabrook and David Lancaster, Producers",Whiplash,False
+81,2014,2015,87,PRODUCTION DESIGN,Production Design: Adam Stockhausen; Set Decoration: Anna Pinnock,The Grand Budapest Hotel,True
+82,2014,2015,87,PRODUCTION DESIGN,Production Design: Maria Djurkovic; Set Decoration: Tatiana Macdonald,The Imitation Game,False
+83,2014,2015,87,PRODUCTION DESIGN,Production Design: Nathan Crowley; Set Decoration: Gary Fettis,Interstellar,False
+84,2014,2015,87,PRODUCTION DESIGN,Production Design: Dennis Gassner; Set Decoration: Anna Pinnock,Into the Woods,False
+85,2014,2015,87,PRODUCTION DESIGN,Production Design: Suzie Davies; Set Decoration: Charlotte Watts,Mr. Turner,False
+86,2014,2015,87,SHORT FILM (Animated),Daisy Jacobs and Christopher Hees,The Bigger Picture,False
+87,2014,2015,87,SHORT FILM (Animated),Robert Kondo and Dice Tsutsumi,The Dam Keeper,False
+88,2014,2015,87,SHORT FILM (Animated),Patrick Osborne and Kristina Reed,Feast,True
+89,2014,2015,87,SHORT FILM (Animated),Torill Kove,Me and My Moulton,False
+90,2014,2015,87,SHORT FILM (Animated),Joris Oprins,A Single Life,False
+91,2014,2015,87,SHORT FILM (Live Action),Oded Binnun and Mihal Brezis,Aya,False
+92,2014,2015,87,SHORT FILM (Live Action),Michael Lennox and Ronan Blaney,Boogaloo and Graham,False
+93,2014,2015,87,SHORT FILM (Live Action),Hu Wei and Julien Féret,Butter Lamp (La Lampe Au Beurre De Yak),False
+94,2014,2015,87,SHORT FILM (Live Action),Talkhon Hamzavi and Stefan Eichenberger,Parvaneh,False
+95,2014,2015,87,SHORT FILM (Live Action),Mat Kirkby and James Lucas,The Phone Call,True
+96,2014,2015,87,SOUND EDITING,Alan Robert Murray and Bub Asman,American Sniper,True
+97,2014,2015,87,SOUND EDITING,Martín Hernández and Aaron Glascock,Birdman or (The Unexpected Virtue of Ignorance),False
+98,2014,2015,87,SOUND EDITING,Brent Burge and Jason Canovas,The Hobbit: The Battle of the Five Armies,False
+99,2014,2015,87,SOUND EDITING,Richard King,Interstellar,False
+100,2014,2015,87,SOUND EDITING,Becky Sullivan and Andrew DeCristofaro,Unbroken,False
+101,2014,2015,87,SOUND MIXING,"John Reitz, Gregg Rudloff and Walt Martin",American Sniper,False
+102,2014,2015,87,SOUND MIXING,"Jon Taylor, Frank A. Montaño and Thomas Varga",Birdman or (The Unexpected Virtue of Ignorance),False
+103,2014,2015,87,SOUND MIXING,"Gary A. Rizzo, Gregg Landaker and Mark Weingarten",Interstellar,False
+104,2014,2015,87,SOUND MIXING,"Jon Taylor, Frank A. Montaño and David Lee",Unbroken,False
+105,2014,2015,87,SOUND MIXING,"Craig Mann, Ben Wilkins and Thomas Curley",Whiplash,True
+106,2014,2015,87,VISUAL EFFECTS,"Dan DeLeeuw, Russell Earl, Bryan Grill and Dan Sudick",Captain America: The Winter Soldier,False
+107,2014,2015,87,VISUAL EFFECTS,"Joe Letteri, Dan Lemmon, Daniel Barrett and Erik Winquist",Dawn of the Planet of the Apes,False
+108,2014,2015,87,VISUAL EFFECTS,"Stephane Ceretti, Nicolas Aithadi, Jonathan Fawkner and Paul Corbould",Guardians of the Galaxy,False
+109,2014,2015,87,VISUAL EFFECTS,"Paul Franklin, Andrew Lockley, Ian Hunter and Scott Fisher",Interstellar,True
+110,2014,2015,87,VISUAL EFFECTS,"Richard Stammers, Lou Pecora, Tim Crosbie and Cameron Waldbauer",X-Men: Days of Future Past,False
+111,2014,2015,87,WRITING (Adapted Screenplay),Written by Jason Hall,American Sniper,False
+112,2014,2015,87,WRITING (Adapted Screenplay),Written by Graham Moore,The Imitation Game,True
+113,2014,2015,87,WRITING (Adapted Screenplay),Written for the screen by Paul Thomas Anderson,Inherent Vice,False
+114,2014,2015,87,WRITING (Adapted Screenplay),Screenplay by Anthony McCarten,The Theory of Everything,False
+115,2014,2015,87,WRITING (Adapted Screenplay),Written by Damien Chazelle,Whiplash,False
+116,2014,2015,87,WRITING (Original Screenplay),"Written by Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris, Jr. & Armando Bo",Birdman or (The Unexpected Virtue of Ignorance),True
+117,2014,2015,87,WRITING (Original Screenplay),Written by Richard Linklater,Boyhood,False
+118,2014,2015,87,WRITING (Original Screenplay),Written by E. Max Frye and Dan Futterman,Foxcatcher,False
+119,2014,2015,87,WRITING (Original Screenplay),Screenplay by Wes Anderson; Story by Wes Anderson & Hugo Guinness,The Grand Budapest Hotel,False
+120,2014,2015,87,WRITING (Original Screenplay),Written by Dan Gilroy,Nightcrawler,False
+121,2014,2015,87,JEAN HERSHOLT HUMANITARIAN AWARD,Harry Belafonte,,True
+122,2014,2015,87,HONORARY AWARD, Jean-Claude Carrière,,True
+123,2014,2015,87,HONORARY AWARD, Hayao Miyazaki,,True
+124,2014,2015,87,HONORARY AWARD, Maureen O'Hara,,True

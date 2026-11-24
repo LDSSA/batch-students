@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1981,1982,54,ACTOR IN A LEADING ROLE,Warren Beatty,Reds,False
+1,1981,1982,54,ACTOR IN A LEADING ROLE,Henry Fonda,On Golden Pond,True
+2,1981,1982,54,ACTOR IN A LEADING ROLE,Burt Lancaster,Atlantic City,False
+3,1981,1982,54,ACTOR IN A LEADING ROLE,Dudley Moore,Arthur,False
+4,1981,1982,54,ACTOR IN A LEADING ROLE,Paul Newman,Absence of Malice,False
+5,1981,1982,54,ACTOR IN A SUPPORTING ROLE,James Coco,Only When I Laugh,False
+6,1981,1982,54,ACTOR IN A SUPPORTING ROLE,John Gielgud,Arthur,True
+7,1981,1982,54,ACTOR IN A SUPPORTING ROLE,Ian Holm,Chariots of Fire,False
+8,1981,1982,54,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Reds,False
+9,1981,1982,54,ACTOR IN A SUPPORTING ROLE,"Howard E. Rollins, Jr.",Ragtime,False
+10,1981,1982,54,ACTRESS IN A LEADING ROLE,Katharine Hepburn,On Golden Pond,True
+11,1981,1982,54,ACTRESS IN A LEADING ROLE,Diane Keaton,Reds,False
+12,1981,1982,54,ACTRESS IN A LEADING ROLE,Marsha Mason,Only When I Laugh,False
+13,1981,1982,54,ACTRESS IN A LEADING ROLE,Susan Sarandon,Atlantic City,False
+14,1981,1982,54,ACTRESS IN A LEADING ROLE,Meryl Streep,The French Lieutenant's Woman,False
+15,1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Melinda Dillon,Absence of Malice,False
+16,1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Jane Fonda,On Golden Pond,False
+17,1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Joan Hackett,Only When I Laugh,False
+18,1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Elizabeth McGovern,Ragtime,False
+19,1981,1982,54,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Reds,True
+20,1981,1982,54,ART DIRECTION,Art Direction:  Assheton Gorton;  Set Decoration:  Ann Mollo,The French Lieutenant's Woman,False
+21,1981,1982,54,ART DIRECTION,Art Direction:  Tambi Larsen;  Set Decoration:  Jim Berkey,Heaven's Gate,False
+22,1981,1982,54,ART DIRECTION,"Art Direction:  John Graysmark, Patrizia Von Brandenstein, Anthony Reading;  Set Decoration:  George de Titta, Sr., George de Titta, Jr., Peter Howitt",Ragtime,False
+23,1981,1982,54,ART DIRECTION,"Art Direction:  Norman Reynolds, Leslie Dilley;  Set Decoration:  Michael Ford",Raiders of the Lost Ark,True
+24,1981,1982,54,ART DIRECTION,Art Direction:  Richard Sylbert;  Set Decoration:  Michael Seirton,Reds,False
+25,1981,1982,54,CINEMATOGRAPHY,Alex Thomson,Excalibur,False
+26,1981,1982,54,CINEMATOGRAPHY,Billy Williams,On Golden Pond,False
+27,1981,1982,54,CINEMATOGRAPHY,Miroslav Ondricek,Ragtime,False
+28,1981,1982,54,CINEMATOGRAPHY,Douglas Slocombe,Raiders of the Lost Ark,False
+29,1981,1982,54,CINEMATOGRAPHY,Vittorio Storaro,Reds,True
+30,1981,1982,54,COSTUME DESIGN,Milena Canonero,Chariots of Fire,True
+31,1981,1982,54,COSTUME DESIGN,Tom Rand,The French Lieutenant's Woman,False
+32,1981,1982,54,COSTUME DESIGN,Bob Mackie,Pennies from Heaven,False
+33,1981,1982,54,COSTUME DESIGN,Anna Hill Johnstone,Ragtime,False
+34,1981,1982,54,COSTUME DESIGN,Shirley Russell,Reds,False
+35,1981,1982,54,DIRECTING,Louis Malle,Atlantic City,False
+36,1981,1982,54,DIRECTING,Hugh Hudson,Chariots of Fire,False
+37,1981,1982,54,DIRECTING,Mark Rydell,On Golden Pond,False
+38,1981,1982,54,DIRECTING,Steven Spielberg,Raiders of the Lost Ark,False
+39,1981,1982,54,DIRECTING,Warren Beatty,Reds,True
+40,1981,1982,54,DOCUMENTARY (Feature),"Suzanne Bauman, Paul Neshamkin and Jim Burroughs, Producers",Against Wind and Tide: A Cuban Odyssey,False
+41,1981,1982,54,DOCUMENTARY (Feature),"Ken Burns, Producer",Brooklyn Bridge,False
+42,1981,1982,54,DOCUMENTARY (Feature),"Mary Benjamin, Susanne Simpson and Boyd Estus, Producers",Eight Minutes to Midnight: A Portrait of Dr. Helen Caldicott,False
+43,1981,1982,54,DOCUMENTARY (Feature),"Glenn Silber and Tete Vasconcellos, Producers",El Salvador: Another Vietnam,False
+44,1981,1982,54,DOCUMENTARY (Feature),"Arnold Schwartzman and Rabbi Marvin Hier, Producers",Genocide,True
+45,1981,1982,54,DOCUMENTARY (Short Subject),"Obie Benz, Producer",Americas in Transition,False
+46,1981,1982,54,DOCUMENTARY (Short Subject),"Nigel Noble, Producer",Close Harmony,True
+47,1981,1982,54,DOCUMENTARY (Short Subject),"Dick Young, Producer",Journey for Survival,False
+48,1981,1982,54,DOCUMENTARY (Short Subject),"Linda Chapman, Pam LeBlanc and Freddi Stevens, Producers",See What I Say,False
+49,1981,1982,54,DOCUMENTARY (Short Subject),"Roland Hallé and John Hoover, Producers",Urge to Build,False
+50,1981,1982,54,FILM EDITING,Terry Rawlings,Chariots of Fire,False
+51,1981,1982,54,FILM EDITING,John Bloom,The French Lieutenant's Woman,False
+52,1981,1982,54,FILM EDITING,Robert L. Wolfe,On Golden Pond,False
+53,1981,1982,54,FILM EDITING,Michael Kahn,Raiders of the Lost Ark,True
+54,1981,1982,54,FILM EDITING,"Dede Allen, Craig McKay",Reds,False
+55,1981,1982,54,FOREIGN LANGUAGE FILM,Switzerland,The Boat Is Full,False
+56,1981,1982,54,FOREIGN LANGUAGE FILM,Poland,Man of Iron,False
+57,1981,1982,54,FOREIGN LANGUAGE FILM,Hungary,Mephisto,True
+58,1981,1982,54,FOREIGN LANGUAGE FILM,Japan,Muddy River,False
+59,1981,1982,54,FOREIGN LANGUAGE FILM,Italy,Three Brothers,False
+60,1981,1982,54,MAKEUP,Rick Baker,An American Werewolf in London,True
+61,1981,1982,54,MAKEUP,Stan Winston,Heartbeeps,False
+62,1981,1982,54,MUSIC (Original Score),Vangelis,Chariots of Fire,True
+63,1981,1982,54,MUSIC (Original Score),Alex North,Dragonslayer,False
+64,1981,1982,54,MUSIC (Original Score),Dave Grusin,On Golden Pond,False
+65,1981,1982,54,MUSIC (Original Score),Randy Newman,Ragtime,False
+66,1981,1982,54,MUSIC (Original Score),John Williams,Raiders of the Lost Ark,False
+67,1981,1982,54,MUSIC (Original Song),"Music and Lyric by Burt Bacharach, Carole Bayer Sager, Christopher Cross and Peter Allen",Arthur,True
+68,1981,1982,54,MUSIC (Original Song),Music and Lyric by Lionel Richie,Endless Love,False
+69,1981,1982,54,MUSIC (Original Song),Music and Lyric by Joe Raposo,The Great Muppet Caper,False
+70,1981,1982,54,MUSIC (Original Song),Music by Bill Conti; Lyric by Mick Leeson,For Your Eyes Only,False
+71,1981,1982,54,MUSIC (Original Song),Music and Lyric by Randy Newman,Ragtime,False
+72,1981,1982,54,BEST PICTURE,"Denis Heroux and John Kemeny, Producers",Atlantic City,False
+73,1981,1982,54,BEST PICTURE,"David Puttnam, Producer",Chariots of Fire,True
+74,1981,1982,54,BEST PICTURE,"Bruce Gilbert, Producer",On Golden Pond,False
+75,1981,1982,54,BEST PICTURE,"Frank Marshall, Producer",Raiders of the Lost Ark,False
+76,1981,1982,54,BEST PICTURE,"Warren Beatty, Producer",Reds,False
+77,1981,1982,54,SHORT FILM (Animated),"Frédéric Back, Producer",Crac,True
+78,1981,1982,54,SHORT FILM (Animated),"Will Vinton, Producer",The Creation,False
+79,1981,1982,54,SHORT FILM (Animated),"Janet Perlman, Producer",The Tender Tale of Cinderella Penguin,False
+80,1981,1982,54,SHORT FILM (Live Action),"Christine Oestreicher, Producer",Couples and Robbers,False
+81,1981,1982,54,SHORT FILM (Live Action),"John N. Smith, Producer",First Winter,False
+82,1981,1982,54,SHORT FILM (Live Action),"Paul Kemp and Shelley Levinson, Producers",Violet,True
+83,1981,1982,54,SOUND,"Richard Portman, David Ronne",On Golden Pond,False
+84,1981,1982,54,SOUND,"John K. Wilkinson, Robert W. Glass, Jr., Robert M. Thirlwell, Robin Gregory",Outland,False
+85,1981,1982,54,SOUND,"Michael J. Kohut, Jay M. Harding, Richard Tyler, Al Overton",Pennies from Heaven,False
+86,1981,1982,54,SOUND,"Bill Varney, Steve Maslow, Gregg Landaker, Roy Charman",Raiders of the Lost Ark,True
+87,1981,1982,54,SOUND,"Dick Vorisek, Tom Fleischman, Simon Kaye",Reds,False
+88,1981,1982,54,VISUAL EFFECTS,"Dennis Muren, Phil Tippett, Ken Ralston, Brian Johnson",Dragonslayer,False
+89,1981,1982,54,VISUAL EFFECTS,"Richard Edlund, Kit West, Bruce Nicholson, Joe Johnston",Raiders of the Lost Ark,True
+90,1981,1982,54,WRITING (Screenplay Based on Material from Another Medium),Harold Pinter,The French Lieutenant's Woman,False
+91,1981,1982,54,WRITING (Screenplay Based on Material from Another Medium),Ernest Thompson,On Golden Pond,True
+92,1981,1982,54,WRITING (Screenplay Based on Material from Another Medium),Dennis Potter,Pennies from Heaven,False
+93,1981,1982,54,WRITING (Screenplay Based on Material from Another Medium),"Jay Presson Allen, Sidney Lumet",Prince of the City,False
+94,1981,1982,54,WRITING (Screenplay Based on Material from Another Medium),Michael Weller,Ragtime,False
+95,1981,1982,54,WRITING (Screenplay Written Directly for the Screen),Kurt Luedtke,Absence of Malice,False
+96,1981,1982,54,WRITING (Screenplay Written Directly for the Screen),Steve Gordon,Arthur,False
+97,1981,1982,54,WRITING (Screenplay Written Directly for the Screen),John Guare,Atlantic City,False
+98,1981,1982,54,WRITING (Screenplay Written Directly for the Screen),Colin Welland,Chariots of Fire,True
+99,1981,1982,54,WRITING (Screenplay Written Directly for the Screen),"Warren Beatty, Trevor Griffiths",Reds,False
+100,1981,1982,54,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing),"Ben Burtt, Richard L. Anderson",Raiders of the Lost Ark,True
+101,1981,1982,54,JEAN HERSHOLT HUMANITARIAN AWARD,Danny Kaye,,True
+102,1981,1982,54,HONORARY AWARD, Barbara Stanwyck for superlative creativity and unique contribution to the art of screen acting.,,True
+103,1981,1982,54,IRVING G. THALBERG MEMORIAL AWARD,Albert R. Broccoli,,True

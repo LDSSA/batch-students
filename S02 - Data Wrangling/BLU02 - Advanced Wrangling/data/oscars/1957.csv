@@ -1,0 +1,129 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1956,1957,29,ACTOR,Yul Brynner,The King and I,True
+1,1956,1957,29,ACTOR,James Dean,Giant,False
+2,1956,1957,29,ACTOR,Kirk Douglas,Lust for Life,False
+3,1956,1957,29,ACTOR,Rock Hudson,Giant,False
+4,1956,1957,29,ACTOR,Sir Laurence Olivier,Richard III,False
+5,1956,1957,29,ACTOR IN A SUPPORTING ROLE,Don Murray,Bus Stop,False
+6,1956,1957,29,ACTOR IN A SUPPORTING ROLE,Anthony Perkins,Friendly Persuasion,False
+7,1956,1957,29,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Lust for Life,True
+8,1956,1957,29,ACTOR IN A SUPPORTING ROLE,Mickey Rooney,The Bold and the Brave,False
+9,1956,1957,29,ACTOR IN A SUPPORTING ROLE,Robert Stack,Written on the Wind,False
+10,1956,1957,29,ACTRESS,Carroll Baker,Baby Doll,False
+11,1956,1957,29,ACTRESS,Ingrid Bergman,Anastasia,True
+12,1956,1957,29,ACTRESS,Katharine Hepburn,The Rainmaker,False
+13,1956,1957,29,ACTRESS,Nancy Kelly,The Bad Seed,False
+14,1956,1957,29,ACTRESS,Deborah Kerr,The King and I,False
+15,1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Mildred Dunnock,Baby Doll,False
+16,1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,The Bad Seed,False
+17,1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,Giant,False
+18,1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Patty McCormack,The Bad Seed,False
+19,1956,1957,29,ACTRESS IN A SUPPORTING ROLE,Dorothy Malone,Written on the Wind,True
+20,1956,1957,29,ART DIRECTION (Black-and-White),Takashi Matsuyama,The Magnificent Seven,False
+21,1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, A. Earl Hedrick;  Set Decoration:  Samuel M. Comer, Frank R. McKelvy",The Proud and Profane,False
+22,1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Ross Bellah;  Set Decoration:  William R. Kiernan, Louis Diage",The Solid Gold Cadillac,False
+23,1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Malcolm F. Brown;  Set Decoration:  Edwin B. Willis, F. Keogh Gleason",Somebody Up There Likes Me,True
+24,1956,1957,29,ART DIRECTION (Black-and-White),"Art Direction:  Lyle R. Wheeler, Jack Martin Smith;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Teenage Rebel,False
+25,1956,1957,29,ART DIRECTION (Color),"Art Direction:  James W. Sullivan, Ken Adam;  Set Decoration:  Ross J. Dowd",Around the World in 80 Days,False
+26,1956,1957,29,ART DIRECTION (Color),Art Direction:  Boris Leven;  Set Decoration:  Ralph S. Hurst,Giant,False
+27,1956,1957,29,ART DIRECTION (Color),"Art Direction:  Lyle R. Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott, Paul S. Fox",The King and I,True
+28,1956,1957,29,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Hans Peters, Preston Ames;  Set Decoration:  Edwin B. Willis, F. Keogh Gleason",Lust for Life,False
+29,1956,1957,29,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Walter H. Tyler, Albert Nozaki;  Set Decoration:  Samuel M. Comer, Ray Moyer",The Ten Commandments,False
+30,1956,1957,29,CINEMATOGRAPHY (Black-and-White),Boris Kaufman,Baby Doll,False
+31,1956,1957,29,CINEMATOGRAPHY (Black-and-White),Hal Rosson,The Bad Seed,False
+32,1956,1957,29,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,The Harder They Fall,False
+33,1956,1957,29,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Somebody Up There Likes Me,True
+34,1956,1957,29,CINEMATOGRAPHY (Black-and-White),Walter Strenge,Stagecoach to Fury,False
+35,1956,1957,29,CINEMATOGRAPHY (Color),Lionel Lindon,Around the World in 80 Days,True
+36,1956,1957,29,CINEMATOGRAPHY (Color),Harry Stradling,The Eddy Duchin Story,False
+37,1956,1957,29,CINEMATOGRAPHY (Color),Leon Shamroy,The King and I,False
+38,1956,1957,29,CINEMATOGRAPHY (Color),Loyal Griggs,The Ten Commandments,False
+39,1956,1957,29,CINEMATOGRAPHY (Color),Jack Cardiff,War and Peace,False
+40,1956,1957,29,COSTUME DESIGN (Black-and-White),Kohei Ezaki,The Magnificent Seven,False
+41,1956,1957,29,COSTUME DESIGN (Black-and-White),Helen Rose,The Power and the Prize,False
+42,1956,1957,29,COSTUME DESIGN (Black-and-White),Edith Head,The Proud and Profane,False
+43,1956,1957,29,COSTUME DESIGN (Black-and-White),Jean Louis,The Solid Gold Cadillac,True
+44,1956,1957,29,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Mary Wills",Teenage Rebel,False
+45,1956,1957,29,COSTUME DESIGN (Color),Miles White,Around the World in 80 Days,False
+46,1956,1957,29,COSTUME DESIGN (Color),"Moss Mabry, Marjorie Best",Giant,False
+47,1956,1957,29,COSTUME DESIGN (Color),Irene Sharaff,The King and I,True
+48,1956,1957,29,COSTUME DESIGN (Color),"Edith Head, Ralph Jester, John Jensen, Dorothy Jeakins, Arnold Friberg",The Ten Commandments,False
+49,1956,1957,29,COSTUME DESIGN (Color),Marie De Matteis,War and Peace,False
+50,1956,1957,29,DIRECTING,Michael Anderson,Around the World in 80 Days,False
+51,1956,1957,29,DIRECTING,William Wyler,Friendly Persuasion,False
+52,1956,1957,29,DIRECTING,George Stevens,Giant,True
+53,1956,1957,29,DIRECTING,Walter Lang,The King and I,False
+54,1956,1957,29,DIRECTING,King Vidor,War and Peace,False
+55,1956,1957,29,DOCUMENTARY (Feature),"Louis Clyde Stoumen, Producer",The Naked Eye,False
+56,1956,1957,29,DOCUMENTARY (Feature),"Jacques-Yves Cousteau, Producer",The Silent World,True
+57,1956,1957,29,DOCUMENTARY (Feature),The Government Film Committee of Denmark,Where Mountains Float,False
+58,1956,1957,29,DOCUMENTARY (Short Subject),"Charles Guggenheim & Associates, Inc.",A City Decides,False
+59,1956,1957,29,DOCUMENTARY (Short Subject),"John Healy, Producer",The Dark Wave,False
+60,1956,1957,29,DOCUMENTARY (Short Subject),"Valentine Davies, Producer",The House without a Name,False
+61,1956,1957,29,DOCUMENTARY (Short Subject),"Ward Kimball, Producer",Man in Space,False
+62,1956,1957,29,DOCUMENTARY (Short Subject),"Louis Clyde Stoumen, Producer",The True Story of the Civil War,True
+63,1956,1957,29,FILM EDITING,"Gene Ruggiero, Paul Weatherwax",Around the World in 80 Days,True
+64,1956,1957,29,FILM EDITING,Merrill G. White,The Brave One,False
+65,1956,1957,29,FILM EDITING,"William Hornbeck, Philip W. Anderson, Fred Bohanan",Giant,False
+66,1956,1957,29,FILM EDITING,Albert Akst,Somebody Up There Likes Me,False
+67,1956,1957,29,FILM EDITING,Anne Bauchens,The Ten Commandments,False
+68,1956,1957,29,FOREIGN LANGUAGE FILM,"Federal Republic of Germany - West; Gyula Trebitsch and Walter Koppel, Producers",The Captain of Kopenick,False
+69,1956,1957,29,FOREIGN LANGUAGE FILM,"France; Annie Dorfmann, Producer",Gervaise,False
+70,1956,1957,29,FOREIGN LANGUAGE FILM,"Japan; Masayuki Takagi, Producer",Harp of Burma,False
+71,1956,1957,29,FOREIGN LANGUAGE FILM,"Italy; Dino De Laurentiis and Carlo Ponti, Producers",La Strada,True
+72,1956,1957,29,FOREIGN LANGUAGE FILM,"Denmark; O. Dalsgaard-Olsen, Producer",Qivitoq,False
+73,1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Anastasia,False
+74,1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Around the World in 80 Days,True
+75,1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,Between Heaven and Hell,False
+76,1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,Giant,False
+77,1956,1957,29,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,The Rainmaker,False
+78,1956,1957,29,MUSIC (Scoring of a Musical Picture),Lionel Newman,The Best Things in Life Are Free,False
+79,1956,1957,29,MUSIC (Scoring of a Musical Picture),"Morris Stoloff, George Duning",The Eddy Duchin Story,False
+80,1956,1957,29,MUSIC (Scoring of a Musical Picture),"Johnny Green, Saul Chaplin",High Society,False
+81,1956,1957,29,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Ken Darby",The King and I,True
+82,1956,1957,29,MUSIC (Scoring of a Musical Picture),"George Stoll, Johnny Green",Meet Me in Las Vegas,False
+83,1956,1957,29,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,Friendly Persuasion,False
+84,1956,1957,29,MUSIC (Song),Music by Leith Stevens; Lyrics by Tom Adair,Julie,False
+85,1956,1957,29,MUSIC (Song),Music and Lyrics by Cole Porter,High Society,False
+86,1956,1957,29,MUSIC (Song),Music and Lyrics by Jay Livingston and Ray Evans,The Man Who Knew Too Much,True
+87,1956,1957,29,MUSIC (Song),Music by Victor Young; Lyrics by Sammy Cahn,Written on the Wind,False
+88,1956,1957,29,BEST MOTION PICTURE,"Michael Todd, Producer",Around the World in 80 Days,True
+89,1956,1957,29,BEST MOTION PICTURE,"William Wyler, Producer",Friendly Persuasion,False
+90,1956,1957,29,BEST MOTION PICTURE,"George Stevens and Henry Ginsberg, Producers",Giant,False
+91,1956,1957,29,BEST MOTION PICTURE,"Charles Brackett, Producer",The King and I,False
+92,1956,1957,29,BEST MOTION PICTURE,"Cecil B. DeMille, Producer",The Ten Commandments,False
+93,1956,1957,29,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Gerald McBoing-Boing on Planet Moo,False
+94,1956,1957,29,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",The Jaywalker,False
+95,1956,1957,29,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Producer",Mister Magoo's Puddle Jumper,True
+96,1956,1957,29,SHORT SUBJECT (One-reel),"Konstantin Kalser, Producer",Crashing the Water Barrier,True
+97,1956,1957,29,SHORT SUBJECT (One-reel),"Robert Youngson, Producer",I Never Forget a Face,False
+98,1956,1957,29,SHORT SUBJECT (One-reel),"Cedric Francis, Producer",Time Stood Still,False
+99,1956,1957,29,SHORT SUBJECT (Two-reel),Romulus Films,The Bespoke Overcoat,True
+100,1956,1957,29,SHORT SUBJECT (Two-reel),"Larry Lansburgh, Producer",Cow Dog,False
+101,1956,1957,29,SHORT SUBJECT (Two-reel),"John Healy, Producer",The Dark Wave,False
+102,1956,1957,29,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Samoa,False
+103,1956,1957,29,SOUND RECORDING,"King Bros. Productions, Inc., Sound Department, John Myers, Sound Director",The Brave One,False
+104,1956,1957,29,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",The Eddy Duchin Story,False
+105,1956,1957,29,SOUND RECORDING,"Westrex Sound Services, Inc., Gordon R. Glennan, Sound Director; and Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",Friendly Persuasion,False
+106,1956,1957,29,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Carl Faulkner, Sound Director",The King and I,True
+107,1956,1957,29,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",The Ten Commandments,False
+108,1956,1957,29,SPECIAL EFFECTS,"A. Arnold Gillespie, Irving Ries, Wesley C. Miller",Forbidden Planet,False
+109,1956,1957,29,SPECIAL EFFECTS,John Fulton,The Ten Commandments,True
+110,1956,1957,29,WRITING (Motion Picture Story),Dalton Trumbo,The Brave One,True
+111,1956,1957,29,WRITING (Motion Picture Story),Leo Katcher,The Eddy Duchin Story,False
+112,1956,1957,29,WRITING (Motion Picture Story),"Edward Bernds, Elwood Ullman",High Society,False
+113,1956,1957,29,WRITING (Motion Picture Story),Jean Paul Sartre,The Proud and the Beautiful,False
+114,1956,1957,29,WRITING (Motion Picture Story),Cesare Zavattini,Umberto D.,False
+115,1956,1957,29,WRITING (Screenplay--Adapted),"James Poe, John Farrow, S.J. Perelman",Around the World in 80 Days,True
+116,1956,1957,29,WRITING (Screenplay--Adapted),Tennessee Williams,Baby Doll,False
+117,1956,1957,29,WRITING (Screenplay--Adapted),Michael Wilson,Friendly Persuasion,False
+118,1956,1957,29,WRITING (Screenplay--Adapted),"Fred Guiol, Ivan Moffat",Giant,False
+119,1956,1957,29,WRITING (Screenplay--Adapted),Norman Corwin,Lust for Life,False
+120,1956,1957,29,WRITING (Screenplay--Original),Robert Lewin,The Bold and the Brave,False
+121,1956,1957,29,WRITING (Screenplay--Original),Andrew L. Stone,Julie,False
+122,1956,1957,29,WRITING (Screenplay--Original),"Federico Fellini, Tullio Pinelli",La Strada,False
+123,1956,1957,29,WRITING (Screenplay--Original),William Rose,The Ladykillers,False
+124,1956,1957,29,WRITING (Screenplay--Original),Albert Lamorisse,The Red Balloon,True
+125,1956,1957,29,JEAN HERSHOLT HUMANITARIAN AWARD,Y. Frank Freeman,,True
+126,1956,1957,29,HONORARY AWARD, Eddie Cantor for distinguished service to the film industry.,,True
+127,1956,1957,29,IRVING G. THALBERG MEMORIAL AWARD,Buddy Adler,,True

@@ -1,0 +1,123 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1960,1961,33,ACTOR,Trevor Howard,Sons and Lovers,False
+1,1960,1961,33,ACTOR,Burt Lancaster,Elmer Gantry,True
+2,1960,1961,33,ACTOR,Jack Lemmon,The Apartment,False
+3,1960,1961,33,ACTOR,Laurence Olivier,The Entertainer,False
+4,1960,1961,33,ACTOR,Spencer Tracy,Inherit the Wind,False
+5,1960,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Falk,"Murder, Inc.",False
+6,1960,1961,33,ACTOR IN A SUPPORTING ROLE,Jack Kruschen,The Apartment,False
+7,1960,1961,33,ACTOR IN A SUPPORTING ROLE,Sal Mineo,Exodus,False
+8,1960,1961,33,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Spartacus,True
+9,1960,1961,33,ACTOR IN A SUPPORTING ROLE,Chill Wills,The Alamo,False
+10,1960,1961,33,ACTRESS,Greer Garson,Sunrise at Campobello,False
+11,1960,1961,33,ACTRESS,Deborah Kerr,The Sundowners,False
+12,1960,1961,33,ACTRESS,Shirley MacLaine,The Apartment,False
+13,1960,1961,33,ACTRESS,Melina Mercouri,Never on Sunday,False
+14,1960,1961,33,ACTRESS,Elizabeth Taylor,Butterfield 8,True
+15,1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Glynis Johns,The Sundowners,False
+16,1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Jones,Elmer Gantry,True
+17,1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,The Dark at the Top of the Stairs,False
+18,1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Janet Leigh,Psycho,False
+19,1960,1961,33,ACTRESS IN A SUPPORTING ROLE,Mary Ure,Sons and Lovers,False
+20,1960,1961,33,ART DIRECTION (Black-and-White),Art Direction:  Alexander Trauner;  Set Decoration:  Edward G. Boyle,The Apartment,True
+21,1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Joseph McMillan Johnson, Kenneth A. Reid;  Set Decoration:  Ross Dowd",The Facts of Life,False
+22,1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Joseph Hurley, Robert Clatworthy;  Set Decoration:  George Milo",Psycho,False
+23,1960,1961,33,ART DIRECTION (Black-and-White),Art Direction:  Tom Morahan;  Set Decoration:  Lionel Couch,Sons and Lovers,False
+24,1960,1961,33,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Walter Tyler;  Set Decoration:  Sam Comer, Arthur Krams",Visit to a Small Planet,False
+25,1960,1961,33,ART DIRECTION (Color),"Art Direction:  George W. Davis, Addison Hehr;  Set Decoration:  Henry Grace, Hugh Hunt, Otto Siegel",Cimarron,False
+26,1960,1961,33,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Sam Comer, Arrigo Breschi",It Started in Naples,False
+27,1960,1961,33,ART DIRECTION (Color),Art Direction:  Ted Haworth;  Set Decoration:  William Kiernan,Pepe,False
+28,1960,1961,33,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, Eric Orbom;  Set Decoration:  Russell A. Gausman, Julia Heron",Spartacus,True
+29,1960,1961,33,ART DIRECTION (Color),Art Direction:  Edward Carrere;  Set Decoration:  George James Hopkins,Sunrise at Campobello,False
+30,1960,1961,33,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,The Apartment,False
+31,1960,1961,33,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.",The Facts of Life,False
+32,1960,1961,33,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Inherit the Wind,False
+33,1960,1961,33,CINEMATOGRAPHY (Black-and-White),John L. Russell,Psycho,False
+34,1960,1961,33,CINEMATOGRAPHY (Black-and-White),Freddie Francis,Sons and Lovers,True
+35,1960,1961,33,CINEMATOGRAPHY (Color),William H. Clothier,The Alamo,False
+36,1960,1961,33,CINEMATOGRAPHY (Color),"Joseph Ruttenberg, Charles Harten",Butterfield 8,False
+37,1960,1961,33,CINEMATOGRAPHY (Color),Sam Leavitt,Exodus,False
+38,1960,1961,33,CINEMATOGRAPHY (Color),Joe MacDonald,Pepe,False
+39,1960,1961,33,CINEMATOGRAPHY (Color),Russell Metty,Spartacus,True
+40,1960,1961,33,COSTUME DESIGN (Black-and-White),"Edith Head, Edward Stevenson",The Facts of Life,True
+41,1960,1961,33,COSTUME DESIGN (Black-and-White),Deni Vachlioti,Never on Sunday,False
+42,1960,1961,33,COSTUME DESIGN (Black-and-White),Howard Shoup,The Rise and Fall of Legs Diamond,False
+43,1960,1961,33,COSTUME DESIGN (Black-and-White),Bill Thomas,Seven Thieves,False
+44,1960,1961,33,COSTUME DESIGN (Black-and-White),Marik Vos,The Virgin Spring,False
+45,1960,1961,33,COSTUME DESIGN (Color),Irene Sharaff,Can-Can,False
+46,1960,1961,33,COSTUME DESIGN (Color),Irene,Midnight Lace,False
+47,1960,1961,33,COSTUME DESIGN (Color),Edith Head,Pepe,False
+48,1960,1961,33,COSTUME DESIGN (Color),"Valles, Bill Thomas",Spartacus,True
+49,1960,1961,33,COSTUME DESIGN (Color),Marjorie Best,Sunrise at Campobello,False
+50,1960,1961,33,DIRECTING,Billy Wilder,The Apartment,True
+51,1960,1961,33,DIRECTING,Jules Dassin,Never on Sunday,False
+52,1960,1961,33,DIRECTING,Alfred Hitchcock,Psycho,False
+53,1960,1961,33,DIRECTING,Jack Cardiff,Sons and Lovers,False
+54,1960,1961,33,DIRECTING,Fred Zinnemann,The Sundowners,False
+55,1960,1961,33,DOCUMENTARY (Feature),"Larry Lansburgh, Producer",The Horse with the Flying Tail,True
+56,1960,1961,33,DOCUMENTARY (Feature),"Robert D. Fraser, Producer",Rebel in Paradise,False
+57,1960,1961,33,DOCUMENTARY (Short Subject),United States Information Agency,Beyond Silence,False
+58,1960,1961,33,DOCUMENTARY (Short Subject),"Statens Filmcentral, The Danish Government Film Office",A City Called Copenhagen,False
+59,1960,1961,33,DOCUMENTARY (Short Subject),"Charles Carey and Altina Carey, Producers",George Grosz' Interregnum,False
+60,1960,1961,33,DOCUMENTARY (Short Subject),"James Hill, Producer",Giuseppina,True
+61,1960,1961,33,DOCUMENTARY (Short Subject),"Colin Low, Producer",Universe,False
+62,1960,1961,33,FILM EDITING,Stuart Gilmore,The Alamo,False
+63,1960,1961,33,FILM EDITING,Daniel Mandell,The Apartment,True
+64,1960,1961,33,FILM EDITING,Frederic Knudtson,Inherit the Wind,False
+65,1960,1961,33,FILM EDITING,"Viola Lawrence, Al Clark",Pepe,False
+66,1960,1961,33,FILM EDITING,Robert Lawrence,Spartacus,False
+67,1960,1961,33,FOREIGN LANGUAGE FILM,Italy,Kapo,False
+68,1960,1961,33,FOREIGN LANGUAGE FILM,France,La Vérité,False
+69,1960,1961,33,FOREIGN LANGUAGE FILM,Mexico,Macario,False
+70,1960,1961,33,FOREIGN LANGUAGE FILM,Yugoslavia,The Ninth Circle,False
+71,1960,1961,33,FOREIGN LANGUAGE FILM,Sweden,The Virgin Spring,True
+72,1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Alamo,False
+73,1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Andre Previn,Elmer Gantry,False
+74,1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Ernest Gold,Exodus,True
+75,1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Elmer Bernstein,The Magnificent Seven,False
+76,1960,1961,33,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,Spartacus,False
+77,1960,1961,33,MUSIC (Scoring of a Musical Picture),Andre Previn,Bells Are Ringing,False
+78,1960,1961,33,MUSIC (Scoring of a Musical Picture),Nelson Riddle,Can-Can,False
+79,1960,1961,33,MUSIC (Scoring of a Musical Picture),"Lionel Newman, Earle H. Hagen",Let's Make Love,False
+80,1960,1961,33,MUSIC (Scoring of a Musical Picture),Johnny Green,Pepe,False
+81,1960,1961,33,MUSIC (Scoring of a Musical Picture),"Morris Stoloff, Harry Sukman",Song without End (The Story of Franz Liszt),True
+82,1960,1961,33,MUSIC (Song),Music and Lyrics by Johnny Mercer,The Facts of Life,False
+83,1960,1961,33,MUSIC (Song),Music by Andre Previn; Lyrics by Dory Langdon,Pepe,False
+84,1960,1961,33,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Paul Francis Webster,The Alamo,False
+85,1960,1961,33,MUSIC (Song),Music and Lyrics by Manos Hadjidakis,Never on Sunday,True
+86,1960,1961,33,MUSIC (Song),Music by James Van Heusen; Lyrics by Sammy Cahn,High Time,False
+87,1960,1961,33,BEST MOTION PICTURE,"John Wayne, Producer",The Alamo,False
+88,1960,1961,33,BEST MOTION PICTURE,"Billy Wilder, Producer",The Apartment,True
+89,1960,1961,33,BEST MOTION PICTURE,"Bernard Smith, Producer",Elmer Gantry,False
+90,1960,1961,33,BEST MOTION PICTURE,"Jerry Wald, Producer",Sons and Lovers,False
+91,1960,1961,33,BEST MOTION PICTURE,"Fred Zinnemann, Producer",The Sundowners,False
+92,1960,1961,33,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Goliath II,False
+93,1960,1961,33,SHORT SUBJECT (Cartoon),Warner Bros.,High Note,False
+94,1960,1961,33,SHORT SUBJECT (Cartoon),Warner Bros.,Mouse and Garden,False
+95,1960,1961,33,SHORT SUBJECT (Cartoon),"William L. Snyder, Producer",Munro,True
+96,1960,1961,33,SHORT SUBJECT (Cartoon),"Frantisek Vystrecil, Producer",A Place in the Sun,False
+97,1960,1961,33,SHORT SUBJECT (Live Action),"Charles F. Schwep and Ismail Merchant, Producers",The Creation of Woman,False
+98,1960,1961,33,SHORT SUBJECT (Live Action),"Ezra R. Baker, Producer",Day of the Painter,True
+99,1960,1961,33,SHORT SUBJECT (Live Action),"Walt Disney, Producer",Islands of the Sea,False
+100,1960,1961,33,SHORT SUBJECT (Live Action),"Leslie Winik, Producer",A Sport Is Born,False
+101,1960,1961,33,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Alamo,True
+102,1960,1961,33,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",The Apartment,False
+103,1960,1961,33,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Cimarron,False
+104,1960,1961,33,SOUND,"Columbia Studio Sound Department, Charles Rice, Sound Director",Pepe,False
+105,1960,1961,33,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Sunrise at Campobello,False
+106,1960,1961,33,SPECIAL EFFECTS,Visual Effects by A.J. Lohman,The Last Voyage,False
+107,1960,1961,33,SPECIAL EFFECTS,"Visual Effects by Gene Warren, Tim Baar",The Time Machine,True
+108,1960,1961,33,WRITING (Screenplay--based on material from another medium),Richard Brooks,Elmer Gantry,True
+109,1960,1961,33,WRITING (Screenplay--based on material from another medium),"Nedrick Young, Harold Jacob Smith",Inherit the Wind,False
+110,1960,1961,33,WRITING (Screenplay--based on material from another medium),"Gavin Lambert, T. E. B. Clarke",Sons and Lovers,False
+111,1960,1961,33,WRITING (Screenplay--based on material from another medium),Isobel Lennart,The Sundowners,False
+112,1960,1961,33,WRITING (Screenplay--based on material from another medium),James Kennaway,Tunes of Glory,False
+113,1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Story by Richard Gregson, Michael Craig;  Screenplay by Bryan Forbes",The Angry Silence,False
+114,1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Apartment,True
+115,1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),"Norman Panama, Melvin Frank",The Facts of Life,False
+116,1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Marguerite Duras,"Hiroshima, Mon Amour",False
+117,1960,1961,33,WRITING (Story and Screenplay--written directly for the screen),Jules Dassin,Never on Sunday,False
+118,1960,1961,33,JEAN HERSHOLT HUMANITARIAN AWARD,Sol Lesser,,True
+119,1960,1961,33,HONORARY AWARD, Gary Cooper for his many memorable screen performances and the international recognition he,,True
+120,1960,1961,33,HONORARY AWARD, Stan Laurel for his creative pioneering in the field of cinema comedy.,,True
+121,1960,1961,33,HONORARY AWARD, Hayley Mills for Pollyanna,,True

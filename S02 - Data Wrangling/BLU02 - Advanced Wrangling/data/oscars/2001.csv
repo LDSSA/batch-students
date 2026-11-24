@@ -1,0 +1,110 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2000,2001,73,ACTOR IN A LEADING ROLE,Javier Bardem,Before Night Falls,False
+1,2000,2001,73,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,True
+2,2000,2001,73,ACTOR IN A LEADING ROLE,Tom Hanks,Cast Away,False
+3,2000,2001,73,ACTOR IN A LEADING ROLE,Ed Harris,Pollock,False
+4,2000,2001,73,ACTOR IN A LEADING ROLE,Geoffrey Rush,Quills,False
+5,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,The Contender,False
+6,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,Shadow of the Vampire,False
+7,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,True
+8,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Albert Finney,Erin Brockovich,False
+9,2000,2001,73,ACTOR IN A SUPPORTING ROLE,Joaquin Phoenix,Gladiator,False
+10,2000,2001,73,ACTRESS IN A LEADING ROLE,Joan Allen,The Contender,False
+11,2000,2001,73,ACTRESS IN A LEADING ROLE,Juliette Binoche,Chocolat,False
+12,2000,2001,73,ACTRESS IN A LEADING ROLE,Ellen Burstyn,Requiem for a Dream,False
+13,2000,2001,73,ACTRESS IN A LEADING ROLE,Laura Linney,You Can Count on Me,False
+14,2000,2001,73,ACTRESS IN A LEADING ROLE,Julia Roberts,Erin Brockovich,True
+15,2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Chocolat,False
+16,2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Pollock,True
+17,2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Kate Hudson,Almost Famous,False
+18,2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,Almost Famous,False
+19,2000,2001,73,ACTRESS IN A SUPPORTING ROLE,Julie Walters,Billy Elliot,False
+20,2000,2001,73,ART DIRECTION,Tim Yip,"Crouching Tiger, Hidden Dragon",True
+21,2000,2001,73,ART DIRECTION,Art Direction:  Michael Corenblith;  Set Decoration:  Merideth Boswell,Dr. Seuss' How the Grinch Stole Christmas,False
+22,2000,2001,73,ART DIRECTION,Art Direction:  Arthur Max;  Set Decoration:  Crispian Sallis,Gladiator,False
+23,2000,2001,73,ART DIRECTION,Art Direction:  Martin Childs;  Set Decoration:  Jill Quertier,Quills,False
+24,2000,2001,73,ART DIRECTION,Art Direction:  Jean Rabasse;  Set Decoration:  Françoise Benoît-Fresco,Vatel,False
+25,2000,2001,73,CINEMATOGRAPHY,Peter Pau,"Crouching Tiger, Hidden Dragon",True
+26,2000,2001,73,CINEMATOGRAPHY,John Mathieson,Gladiator,False
+27,2000,2001,73,CINEMATOGRAPHY,Lajos Koltai,Malèna,False
+28,2000,2001,73,CINEMATOGRAPHY,Roger Deakins,"O Brother, Where Art Thou?",False
+29,2000,2001,73,CINEMATOGRAPHY,Caleb Deschanel,The Patriot,False
+30,2000,2001,73,COSTUME DESIGN,Tim Yip,"Crouching Tiger, Hidden Dragon",False
+31,2000,2001,73,COSTUME DESIGN,Rita Ryack,Dr. Seuss' How the Grinch Stole Christmas,False
+32,2000,2001,73,COSTUME DESIGN,Janty Yates,Gladiator,True
+33,2000,2001,73,COSTUME DESIGN,Anthony Powell,102 Dalmatians,False
+34,2000,2001,73,COSTUME DESIGN,Jacqueline West,Quills,False
+35,2000,2001,73,DIRECTING,Stephen Daldry,Billy Elliot,False
+36,2000,2001,73,DIRECTING,Ang Lee,"Crouching Tiger, Hidden Dragon",False
+37,2000,2001,73,DIRECTING,Steven Soderbergh,Erin Brockovich,False
+38,2000,2001,73,DIRECTING,Ridley Scott,Gladiator,False
+39,2000,2001,73,DIRECTING,Steven Soderbergh,Traffic,True
+40,2000,2001,73,DOCUMENTARY (Feature),"Mark Jonathan Harris, Deborah Oppenheimer",Into the Arms of Strangers: Stories of the Kindertransport,True
+41,2000,2001,73,DOCUMENTARY (Feature),Tod Lending,Legacy,False
+42,2000,2001,73,DOCUMENTARY (Feature),"Frances Reid, Deborah Hoffmann",Long Night's Journey into Day,False
+43,2000,2001,73,DOCUMENTARY (Feature),"Barak Goodman, Daniel Anker",Scottsboro: An American Tragedy,False
+44,2000,2001,73,DOCUMENTARY (Feature),"Josh Aronson, Roger Weisberg",Sound and Fury,False
+45,2000,2001,73,DOCUMENTARY (Short Subject),Tracy Seretean,Big Mama,True
+46,2000,2001,73,DOCUMENTARY (Short Subject),"Chuck Braverman, Steve Kalafer",Curtain Call,False
+47,2000,2001,73,DOCUMENTARY (Short Subject),"Greg MacGillivray, Alec Lorimore",Dolphins,False
+48,2000,2001,73,DOCUMENTARY (Short Subject),Daniel Raim,The Man on Lincoln's Nose,False
+49,2000,2001,73,DOCUMENTARY (Short Subject),"Eric Simonson, Leelai Demoz",On Tiptoe: Gentle Steps to Freedom,False
+50,2000,2001,73,FILM EDITING,"Joe Hutshing, Saar Klein",Almost Famous,False
+51,2000,2001,73,FILM EDITING,Tim Squyres,"Crouching Tiger, Hidden Dragon",False
+52,2000,2001,73,FILM EDITING,Pietro Scalia,Gladiator,False
+53,2000,2001,73,FILM EDITING,Stephen Mirrione,Traffic,True
+54,2000,2001,73,FILM EDITING,Dede Allen,Wonder Boys,False
+55,2000,2001,73,FOREIGN LANGUAGE FILM,Mexico,Amores Perros,False
+56,2000,2001,73,FOREIGN LANGUAGE FILM,Taiwan,"Crouching Tiger, Hidden Dragon",True
+57,2000,2001,73,FOREIGN LANGUAGE FILM,Czech Republic,Divided We Fall,False
+58,2000,2001,73,FOREIGN LANGUAGE FILM,Belgium,Everybody Famous!,False
+59,2000,2001,73,FOREIGN LANGUAGE FILM,France,The Taste of Others,False
+60,2000,2001,73,MAKEUP,"Michèle Burke, Edouard Henriques",The Cell,False
+61,2000,2001,73,MAKEUP,"Rick Baker, Gail Ryan",Dr. Seuss' How the Grinch Stole Christmas,True
+62,2000,2001,73,MAKEUP,"Ann Buchanan, Amber Sibley",Shadow of the Vampire,False
+63,2000,2001,73,MUSIC (Original Score),Rachel Portman,Chocolat,False
+64,2000,2001,73,MUSIC (Original Score),Tan Dun,"Crouching Tiger, Hidden Dragon",True
+65,2000,2001,73,MUSIC (Original Score),Hans Zimmer,Gladiator,False
+66,2000,2001,73,MUSIC (Original Score),Ennio Morricone,Malèna,False
+67,2000,2001,73,MUSIC (Original Score),John Williams,The Patriot,False
+68,2000,2001,73,MUSIC (Original Song),Music and Lyric by Randy Newman,Meet the Parents,False
+69,2000,2001,73,MUSIC (Original Song),Music by Björk; Lyric by Lars von Trier and Sjon Sigurdsson,Dancer in the Dark,False
+70,2000,2001,73,MUSIC (Original Song),Music by Jorge Calandrelli and Tan Dun; Lyric by James Schamus,"Crouching Tiger, Hidden Dragon",False
+71,2000,2001,73,MUSIC (Original Song),Music by Sting and David Hartley; Lyric by Sting,The Emperor's New Groove,False
+72,2000,2001,73,MUSIC (Original Song),Music and Lyric by Bob Dylan,Wonder Boys,True
+73,2000,2001,73,BEST PICTURE,"David Brown, Kit Golden and Leslie Holleran, Producers",Chocolat,False
+74,2000,2001,73,BEST PICTURE,"Bill Kong, Hsu Li Kong and Ang Lee, Producers","Crouching Tiger, Hidden Dragon",False
+75,2000,2001,73,BEST PICTURE,"Danny DeVito, Michael Shamberg and Stacey Sher, Producers",Erin Brockovich,False
+76,2000,2001,73,BEST PICTURE,"Douglas Wick, David Franzoni and Branko Lustig, Producers",Gladiator,True
+77,2000,2001,73,BEST PICTURE,"Edward Zwick, Marshall Herskovitz and Laura Bickford, Producers",Traffic,False
+78,2000,2001,73,SHORT FILM (Animated),Michael Dudok de Wit,Father and Daughter,True
+79,2000,2001,73,SHORT FILM (Animated),"Steffen Schäffler, Annette Schäffler",The Periwig-Maker,False
+80,2000,2001,73,SHORT FILM (Animated),Don Hertzfeldt,Rejected,False
+81,2000,2001,73,SHORT FILM (Live Action),"Peter Riegert, Ericka Frederick",By Courier,False
+82,2000,2001,73,SHORT FILM (Live Action),"Joan Stein, Christina Lazaridi",One Day Crossing,False
+83,2000,2001,73,SHORT FILM (Live Action),Florian Gallenberger,Quiero Ser (I want to be...),True
+84,2000,2001,73,SHORT FILM (Live Action),"Gail Lerner, Colin Campbell",Seraglio,False
+85,2000,2001,73,SHORT FILM (Live Action),Paulo Machline,A Soccer Story (Uma Historia de Futebol),False
+86,2000,2001,73,SOUND,"Randy Thom, Tom Johnson, Dennis Sands, William B. Kaplan",Cast Away,False
+87,2000,2001,73,SOUND,"Scott Millan, Bob Beemer, Ken Weston",Gladiator,True
+88,2000,2001,73,SOUND,"Kevin O'Connell, Greg P. Russell, Lee Orloff",The Patriot,False
+89,2000,2001,73,SOUND,"John Reitz, Gregg Rudloff, David Campbell, Keith A. Wester",The Perfect Storm,False
+90,2000,2001,73,SOUND,"Steve Maslow, Gregg Landaker, Rick Kline, Ivan Sharrock",U-571,False
+91,2000,2001,73,SOUND EDITING,"Alan Robert Murray, Bub Asman",Space Cowboys,False
+92,2000,2001,73,SOUND EDITING,Jon Johnson,U-571,True
+93,2000,2001,73,VISUAL EFFECTS,"John Nelson, Neil Corbould, Tim Burke, Rob Harvey",Gladiator,True
+94,2000,2001,73,VISUAL EFFECTS,"Scott E. Anderson, Craig Hayes, Scott Stokdyk, Stan Parks",Hollow Man,False
+95,2000,2001,73,VISUAL EFFECTS,"Stefen Fangmeier, Habib Zargarpour, John Frazier, Walt Conti",The Perfect Storm,False
+96,2000,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Screenplay by Robert Nelson Jacobs,Chocolat,False
+97,2000,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Written by Wang Hui Ling and James Schamus and Tsai Kuo Jung,"Crouching Tiger, Hidden Dragon",False
+98,2000,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Written by Ethan Coen & Joel Coen,"O Brother, Where Art Thou?",False
+99,2000,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Screenplay by Stephen Gaghan,Traffic,True
+100,2000,2001,73,WRITING (Screenplay Based on Material Previously Produced or Published),Screenplay by Steve Kloves,Wonder Boys,False
+101,2000,2001,73,WRITING (Screenplay Written Directly for the Screen),Written by Cameron Crowe,Almost Famous,True
+102,2000,2001,73,WRITING (Screenplay Written Directly for the Screen),Written by Lee Hall,Billy Elliot,False
+103,2000,2001,73,WRITING (Screenplay Written Directly for the Screen),Written by Susannah Grant,Erin Brockovich,False
+104,2000,2001,73,WRITING (Screenplay Written Directly for the Screen),Screenplay by David Franzoni and John Logan and William Nicholson;  Story by David Franzoni,Gladiator,False
+105,2000,2001,73,WRITING (Screenplay Written Directly for the Screen),Written by Kenneth Lonergan,You Can Count on Me,False
+106,2000,2001,73,HONORARY AWARD, Jack Cardiff,,True
+107,2000,2001,73,HONORARY AWARD, Ernest Lehman,,True
+108,2000,2001,73,IRVING G. THALBERG MEMORIAL AWARD,Dino De Laurentiis,,True

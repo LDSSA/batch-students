@@ -1,0 +1,110 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1977,1978,50,ACTOR IN A LEADING ROLE,Woody Allen,Annie Hall,False
+1,1977,1978,50,ACTOR IN A LEADING ROLE,Richard Burton,Equus,False
+2,1977,1978,50,ACTOR IN A LEADING ROLE,Richard Dreyfuss,The Goodbye Girl,True
+3,1977,1978,50,ACTOR IN A LEADING ROLE,Marcello Mastroianni,A Special Day,False
+4,1977,1978,50,ACTOR IN A LEADING ROLE,John Travolta,Saturday Night Fever,False
+5,1977,1978,50,ACTOR IN A SUPPORTING ROLE,Mikhail Baryshnikov,The Turning Point,False
+6,1977,1978,50,ACTOR IN A SUPPORTING ROLE,Peter Firth,Equus,False
+7,1977,1978,50,ACTOR IN A SUPPORTING ROLE,Alec Guinness,Star Wars,False
+8,1977,1978,50,ACTOR IN A SUPPORTING ROLE,Jason Robards,Julia,True
+9,1977,1978,50,ACTOR IN A SUPPORTING ROLE,Maximilian Schell,Julia,False
+10,1977,1978,50,ACTRESS IN A LEADING ROLE,Anne Bancroft,The Turning Point,False
+11,1977,1978,50,ACTRESS IN A LEADING ROLE,Jane Fonda,Julia,False
+12,1977,1978,50,ACTRESS IN A LEADING ROLE,Diane Keaton,Annie Hall,True
+13,1977,1978,50,ACTRESS IN A LEADING ROLE,Shirley MacLaine,The Turning Point,False
+14,1977,1978,50,ACTRESS IN A LEADING ROLE,Marsha Mason,The Goodbye Girl,False
+15,1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Leslie Browne,The Turning Point,False
+16,1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Quinn Cummings,The Goodbye Girl,False
+17,1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Melinda Dillon,Close Encounters of the Third Kind,False
+18,1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Julia,True
+19,1977,1978,50,ACTRESS IN A SUPPORTING ROLE,Tuesday Weld,Looking for Mr. Goodbar,False
+20,1977,1978,50,ART DIRECTION,Art Direction:  George C. Webb;  Set Decoration:  Mickey S. Michaels,Airport '77,False
+21,1977,1978,50,ART DIRECTION,"Art Direction:  Joe Alves, Dan Lomino;  Set Decoration:  Phil Abramson",Close Encounters of the Third Kind,False
+22,1977,1978,50,ART DIRECTION,"Art Direction:  Ken Adam, Peter Lamont;  Set Decoration:  Hugh Scaife",The Spy Who Loved Me,False
+23,1977,1978,50,ART DIRECTION,"Art Direction:  John Barry, Norman Reynolds, Leslie Dilley;  Set Decoration:  Roger Christian",Star Wars,True
+24,1977,1978,50,ART DIRECTION,Art Direction:  Albert Brenner;  Set Decoration:  Marvin March,The Turning Point,False
+25,1977,1978,50,CINEMATOGRAPHY,Vilmos Zsigmond,Close Encounters of the Third Kind,True
+26,1977,1978,50,CINEMATOGRAPHY,Fred J. Koenekamp,Islands in the Stream,False
+27,1977,1978,50,CINEMATOGRAPHY,Douglas Slocombe,Julia,False
+28,1977,1978,50,CINEMATOGRAPHY,William A. Fraker,Looking for Mr. Goodbar,False
+29,1977,1978,50,CINEMATOGRAPHY,Robert Surtees,The Turning Point,False
+30,1977,1978,50,COSTUME DESIGN,"Edith Head, Burton Miller",Airport '77,False
+31,1977,1978,50,COSTUME DESIGN,Anthea Sylbert,Julia,False
+32,1977,1978,50,COSTUME DESIGN,Florence Klotz,A Little Night Music,False
+33,1977,1978,50,COSTUME DESIGN,Irene Sharaff,The Other Side of Midnight,False
+34,1977,1978,50,COSTUME DESIGN,John Mollo,Star Wars,True
+35,1977,1978,50,DIRECTING,Woody Allen,Annie Hall,True
+36,1977,1978,50,DIRECTING,Steven Spielberg,Close Encounters of the Third Kind,False
+37,1977,1978,50,DIRECTING,Fred Zinnemann,Julia,False
+38,1977,1978,50,DIRECTING,George Lucas,Star Wars,False
+39,1977,1978,50,DIRECTING,Herbert Ross,The Turning Point,False
+40,1977,1978,50,DOCUMENTARY (Feature),"Robert Dornhelm and Earle Mack, Producers",The Children of Theatre Street,False
+41,1977,1978,50,DOCUMENTARY (Feature),"Bill Brind, Torben Schioler and Tony Ianzelo, Producers",High Grass Circus,False
+42,1977,1978,50,DOCUMENTARY (Feature),"Harry Rasky, Producer",Homage to Chagall--The Colours of Love,False
+43,1977,1978,50,DOCUMENTARY (Feature),"James Klein, Julia Reichert and Miles Mogulescu, Producers",Union Maids,False
+44,1977,1978,50,DOCUMENTARY (Feature),"John Korty, Dan McCann and Warren L. Lockhart, Producers",Who Are the DeBolts? And Where Did They Get Nineteen Kids?,True
+45,1977,1978,50,DOCUMENTARY (Short Subject),"Moctesuma Esparza, Producer","Agueda Martinez: Our People, Our Country",False
+46,1977,1978,50,DOCUMENTARY (Short Subject),"Helen Whitney and DeWitt L. Sage, Jr., Producers",First Edition,False
+47,1977,1978,50,DOCUMENTARY (Short Subject),"John Joseph and Jan Stussy, Producers",Gravity Is My Enemy,True
+48,1977,1978,50,DOCUMENTARY (Short Subject),"James R. Messenger and Paul N. Raimondi, Producers","Of Time, Tombs and Treasure",False
+49,1977,1978,50,DOCUMENTARY (Short Subject),"Douglas Gordon, Producer",The Shetland Experience,False
+50,1977,1978,50,FILM EDITING,Michael Kahn,Close Encounters of the Third Kind,False
+51,1977,1978,50,FILM EDITING,Walter Murch,Julia,False
+52,1977,1978,50,FILM EDITING,"Walter Hannemann, Angelo Ross",Smokey and the Bandit,False
+53,1977,1978,50,FILM EDITING,"Paul Hirsch, Marcia Lucas, Richard Chew",Star Wars,True
+54,1977,1978,50,FILM EDITING,William Reynolds,The Turning Point,False
+55,1977,1978,50,FOREIGN LANGUAGE FILM,Greece,Iphigenia,False
+56,1977,1978,50,FOREIGN LANGUAGE FILM,France,Madame Rosa,True
+57,1977,1978,50,FOREIGN LANGUAGE FILM,Israel,Operation Thunderbolt,False
+58,1977,1978,50,FOREIGN LANGUAGE FILM,Italy,A Special Day,False
+59,1977,1978,50,FOREIGN LANGUAGE FILM,Spain,That Obscure Object of Desire,False
+60,1977,1978,50,MUSIC (Original Score),John Williams,Close Encounters of the Third Kind,False
+61,1977,1978,50,MUSIC (Original Score),Georges Delerue,Julia,False
+62,1977,1978,50,MUSIC (Original Score),Maurice Jarre,Mohammad - Messenger of God,False
+63,1977,1978,50,MUSIC (Original Score),Marvin Hamlisch,The Spy Who Loved Me,False
+64,1977,1978,50,MUSIC (Original Score),John Williams,Star Wars,True
+65,1977,1978,50,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Jonathan Tunick,A Little Night Music,True
+66,1977,1978,50,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Song Score by Al Kasha and Joel Hirschhorn; Adaptation Score by Irwin Kostal,Pete's Dragon,False
+67,1977,1978,50,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Song Score by Richard M. Sherman and Robert B. Sherman; Adaptation Score by Angela Morley,The Slipper and the Rose--The Story of Cinderella,False
+68,1977,1978,50,MUSIC (Original Song),Music and Lyrics by Al Kasha and Joel Hirschhorn,Pete's Dragon,False
+69,1977,1978,50,MUSIC (Original Song),Music by Marvin Hamlisch; Lyrics by Carole Bayer Sager,The Spy Who Loved Me,False
+70,1977,1978,50,MUSIC (Original Song),Music and Lyrics by Richard M. Sherman and Robert B. Sherman,The Slipper and the Rose--The Story of Cinderella,False
+71,1977,1978,50,MUSIC (Original Song),Music by Sammy Fain; Lyrics by Carol Connors and Ayn Robbins,The Rescuers,False
+72,1977,1978,50,MUSIC (Original Song),Music and Lyrics by Joseph Brooks,You Light Up My Life,True
+73,1977,1978,50,BEST PICTURE,"Charles H. Joffe, Producer",Annie Hall,True
+74,1977,1978,50,BEST PICTURE,"Ray Stark, Producer",The Goodbye Girl,False
+75,1977,1978,50,BEST PICTURE,"Richard Roth, Producer",Julia,False
+76,1977,1978,50,BEST PICTURE,"Gary Kurtz, Producer",Star Wars,False
+77,1977,1978,50,BEST PICTURE,"Herbert Ross and Arthur Laurents, Producers",The Turning Point,False
+78,1977,1978,50,SHORT FILM (Animated),"Ishu Patel, Producer",The Bead Game,False
+79,1977,1978,50,SHORT FILM (Animated),"John Hubley, Faith Hubley and Garry Trudeau, Producers",The Doonesbury Special,False
+80,1977,1978,50,SHORT FILM (Animated),"James Picker, Robert Grossman and Craig Whitaker, Producers",Jimmy the C,False
+81,1977,1978,50,SHORT FILM (Animated),"Co Hoedeman, Producer",The Sand Castle,True
+82,1977,1978,50,SHORT FILM (Live Action),"William E. McEuen, Producer",The Absent-Minded Waiter,False
+83,1977,1978,50,SHORT FILM (Live Action),"Jerry Butts, Producer",Floating Free,False
+84,1977,1978,50,SHORT FILM (Live Action),"Beverly Shaffer and Yuki Yoshida, Producers",I'll Find a Way,True
+85,1977,1978,50,SHORT FILM (Live Action),"Saul Bass, Producer",Notes on the Popular Arts,False
+86,1977,1978,50,SHORT FILM (Live Action),"Philip Dauber, Producer",Spaceborne,False
+87,1977,1978,50,SOUND,"Robert Knudson, Robert J. Glass, Don MacDougall, Gene S. Cantamessa",Close Encounters of the Third Kind,False
+88,1977,1978,50,SOUND,"Walter Goss, Dick Alexander, Tom Beckert, Robin Gregory",The Deep,False
+89,1977,1978,50,SOUND,"Robert Knudson, Robert J. Glass, Richard Tyler, Jean-Louis Ducarme",Sorcerer,False
+90,1977,1978,50,SOUND,"Don MacDougall, Ray West, Bob Minkler, Derek Ball",Star Wars,True
+91,1977,1978,50,SOUND,"Theodore Soderberg, Paul Wells, Douglas O. Williams, Jerry Jost",The Turning Point,False
+92,1977,1978,50,VISUAL EFFECTS,"Roy Arbogast, Douglas Trumbull, Matthew Yuricich, Gregory Jein, Richard Yuricich",Close Encounters of the Third Kind,False
+93,1977,1978,50,VISUAL EFFECTS,"John Stears, John Dykstra, Richard Edlund, Grant McCune, Robert Blalack",Star Wars,True
+94,1977,1978,50,WRITING (Screenplay--based on material from another medium),Peter Shaffer,Equus,False
+95,1977,1978,50,WRITING (Screenplay--based on material from another medium),"Gavin Lambert, Lewis John Carlino",I Never Promised You a Rose Garden,False
+96,1977,1978,50,WRITING (Screenplay--based on material from another medium),Alvin Sargent,Julia,True
+97,1977,1978,50,WRITING (Screenplay--based on material from another medium),Larry Gelbart,"Oh, God!",False
+98,1977,1978,50,WRITING (Screenplay--based on material from another medium),"Luis Buñuel, Jean-Claude Carrière",That Obscure Object of Desire,False
+99,1977,1978,50,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),"Woody Allen, Marshall Brickman",Annie Hall,True
+100,1977,1978,50,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Neil Simon,The Goodbye Girl,False
+101,1977,1978,50,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Robert Benton,The Late Show,False
+102,1977,1978,50,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),George Lucas,Star Wars,False
+103,1977,1978,50,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Arthur Laurents,The Turning Point,False
+104,1977,1978,50,SPECIAL ACHIEVEMENT AWARD, Benjamin Burtt,,True
+105,1977,1978,50,SPECIAL ACHIEVEMENT AWARD (Sound Effects Editing),Frank E. Warner,Close Encounters of the Third Kind,True
+106,1977,1978,50,JEAN HERSHOLT HUMANITARIAN AWARD,Charlton Heston,,True
+107,1977,1978,50,HONORARY AWARD, Margaret Booth for her exceptional contribution to the art of film editing in the motion picture industry.,,True
+108,1977,1978,50,IRVING G. THALBERG MEMORIAL AWARD,Walter Mirisch,,True

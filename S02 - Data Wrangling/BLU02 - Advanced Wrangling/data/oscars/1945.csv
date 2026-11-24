@@ -1,0 +1,170 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1944,1945,17,ACTOR,Charles Boyer,Gaslight,False
+1,1944,1945,17,ACTOR,Bing Crosby,Going My Way,True
+2,1944,1945,17,ACTOR,Barry Fitzgerald,Going My Way,False
+3,1944,1945,17,ACTOR,Cary Grant,None but the Lonely Heart,False
+4,1944,1945,17,ACTOR,Alexander Knox,Wilson,False
+5,1944,1945,17,ACTOR IN A SUPPORTING ROLE,Hume Cronyn,The Seventh Cross,False
+6,1944,1945,17,ACTOR IN A SUPPORTING ROLE,Barry Fitzgerald,Going My Way,True
+7,1944,1945,17,ACTOR IN A SUPPORTING ROLE,Claude Rains,Mr. Skeffington,False
+8,1944,1945,17,ACTOR IN A SUPPORTING ROLE,Clifton Webb,Laura,False
+9,1944,1945,17,ACTOR IN A SUPPORTING ROLE,Monty Woolley,Since You Went Away,False
+10,1944,1945,17,ACTRESS,Ingrid Bergman,Gaslight,True
+11,1944,1945,17,ACTRESS,Claudette Colbert,Since You Went Away,False
+12,1944,1945,17,ACTRESS,Bette Davis,Mr. Skeffington,False
+13,1944,1945,17,ACTRESS,Greer Garson,Mrs. Parkington,False
+14,1944,1945,17,ACTRESS,Barbara Stanwyck,Double Indemnity,False
+15,1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,None but the Lonely Heart,True
+16,1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Jennifer Jones,Since You Went Away,False
+17,1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,Gaslight,False
+18,1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Aline MacMahon,Dragon Seed,False
+19,1944,1945,17,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Mrs. Parkington,False
+20,1944,1945,17,ART DIRECTION (Black-and-White),"Art Direction:  Lionel Banks, Walter Holscher;  Interior Decoration:  Joseph Kish",Address Unknown,False
+21,1944,1945,17,ART DIRECTION (Black-and-White),Art Direction:  John J. Hughes;  Interior Decoration:  Fred MacLean,The Adventures of Mark Twain,False
+22,1944,1945,17,ART DIRECTION (Black-and-White),Art Direction:  Perry Ferguson;  Interior Decoration:  Julia Heron,Casanova Brown,False
+23,1944,1945,17,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, William Ferrari;  Interior Decoration:  Edwin B. Willis, Paul Huldschinsky",Gaslight,True
+24,1944,1945,17,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Leland Fuller;  Interior Decoration:  Thomas Little",Laura,False
+25,1944,1945,17,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Robert Usher;  Interior Decoration:  Sam Comer",No Time for Love,False
+26,1944,1945,17,ART DIRECTION (Black-and-White),Art Direction:  Mark-Lee Kirk;  Interior Decoration:  Victor A. Gangelin,Since You Went Away,False
+27,1944,1945,17,ART DIRECTION (Black-and-White),Song of the Open Road,Song of the Open Road,False
+28,1944,1945,17,ART DIRECTION (Black-and-White),"Art Direction:  Albert S. D'Agostino, Carroll Clark;  Interior Decoration:  Darrell Silvera, Claude Carpenter",Step Lively,False
+29,1944,1945,17,ART DIRECTION (Color),"Art Direction:  John B. Goodman, Alexander Golitzen;  Interior Decoration:  Russell A. Gausman, Ira S. Webb",The Climax,False
+30,1944,1945,17,ART DIRECTION (Color),"Art Direction:  Lionel Banks, Cary Odell;  Interior Decoration:  Fay Babcock",Cover Girl,False
+31,1944,1945,17,ART DIRECTION (Color),Art Direction:  Charles Novi;  Interior Decoration:  Jack McConaghy,The Desert Song,False
+32,1944,1945,17,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Daniel B. Cathcart;  Interior Decoration:  Edwin B. Willis, Richard Pefferle",Kismet,False
+33,1944,1945,17,ART DIRECTION (Color),"Art Direction:  Hans Dreier, Raoul Pene du Bois;  Interior Decoration:  Ray Moyer",Lady in the Dark,False
+34,1944,1945,17,ART DIRECTION (Color),Art Direction:  Ernst Fegte;  Interior Decoration:  Howard Bristol,The Princess and the Pirate,False
+35,1944,1945,17,ART DIRECTION (Color),Art Direction:  Wiard Ihnen;  Interior Decoration:  Thomas Little,Wilson,True
+36,1944,1945,17,CINEMATOGRAPHY (Black-and-White),John Seitz,Double Indemnity,False
+37,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Sidney Wagner,Dragon Seed,False
+38,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Gaslight,False
+39,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Lionel Lindon,Going My Way,False
+40,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,Laura,True
+41,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Glen MacWilliams,Lifeboat,False
+42,1944,1945,17,CINEMATOGRAPHY (Black-and-White),"Stanley Cortez, Lee Garmes",Since You Went Away,False
+43,1944,1945,17,CINEMATOGRAPHY (Black-and-White),"Robert Surtees, Harold Rosson",Thirty Seconds over Tokyo,False
+44,1944,1945,17,CINEMATOGRAPHY (Black-and-White),Charles Lang,The Uninvited,False
+45,1944,1945,17,CINEMATOGRAPHY (Black-and-White),George Folsey,The White Cliffs of Dover,False
+46,1944,1945,17,CINEMATOGRAPHY (Color),"Rudolph Maté, Allen M. Davey",Cover Girl,False
+47,1944,1945,17,CINEMATOGRAPHY (Color),Edward Cronjager,Home in Indiana,False
+48,1944,1945,17,CINEMATOGRAPHY (Color),Charles Rosher,Kismet,False
+49,1944,1945,17,CINEMATOGRAPHY (Color),Ray Rennahan,Lady in the Dark,False
+50,1944,1945,17,CINEMATOGRAPHY (Color),George Folsey,Meet Me in St. Louis,False
+51,1944,1945,17,CINEMATOGRAPHY (Color),Leon Shamroy,Wilson,True
+52,1944,1945,17,DIRECTING,Billy Wilder,Double Indemnity,False
+53,1944,1945,17,DIRECTING,Leo McCarey,Going My Way,True
+54,1944,1945,17,DIRECTING,Otto Preminger,Laura,False
+55,1944,1945,17,DIRECTING,Alfred Hitchcock,Lifeboat,False
+56,1944,1945,17,DIRECTING,Henry King,Wilson,False
+57,1944,1945,17,DOCUMENTARY (Feature),United States Navy,The Fighting Lady,True
+58,1944,1945,17,DOCUMENTARY (Feature),United States Army Air Force,Resisting Enemy Interrogation,False
+59,1944,1945,17,DOCUMENTARY (Short Subject),United States Office of War Information Overseas Motion Picture Bureau,Arturo Toscanini,False
+60,1944,1945,17,DOCUMENTARY (Short Subject),RKO Radio,New Americans,False
+61,1944,1945,17,DOCUMENTARY (Short Subject),United States Marine Corps,With the Marines at Tarawa,True
+62,1944,1945,17,FILM EDITING,Leroy Stone,Going My Way,False
+63,1944,1945,17,FILM EDITING,Owen Marks,Janie,False
+64,1944,1945,17,FILM EDITING,Roland Gross,None but the Lonely Heart,False
+65,1944,1945,17,FILM EDITING,"Hal C. Kern, James E. Newcom",Since You Went Away,False
+66,1944,1945,17,FILM EDITING,Barbara McLean,Wilson,True
+67,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morris Stoloff, Ernst Toch",Address Unknown,False
+68,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,The Adventures of Mark Twain,False
+69,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Bridge of San Luis Rey,False
+70,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Arthur Lange,Casanova Brown,False
+71,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),H. J. Salter,Christmas Holiday,False
+72,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Double Indemnity,False
+73,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),"Walter Scharf, Roy Webb",The Fighting Seabees,False
+74,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),"Edward Paul, Michel Michelet",The Hairy Ape,False
+75,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Robert Stolz,It Happened Tomorrow,False
+76,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Frederic Efrem Rich,Jack London,False
+77,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Herbert Stothart,Kismet,False
+78,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),"Hanns Eisler, C. Bakaleinikoff",None but the Lonely Heart,False
+79,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),David Rose,The Princess and the Pirate,False
+80,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Since You Went Away,True
+81,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Karl Hajos,Summer Storm,False
+82,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Franke Harling,Three Russian Girls,False
+83,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Edward Paul,Up in Mabel's Room,False
+84,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Michel Michelet,Voice in the Wind,False
+85,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,Wilson,False
+86,1944,1945,17,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Woman of the Town,False
+87,1944,1945,17,MUSIC (Scoring of a Musical Picture),Walter Scharf,Brazil,False
+88,1944,1945,17,MUSIC (Scoring of a Musical Picture),"Morris Stoloff, Carmen Dragon",Cover Girl,True
+89,1944,1945,17,MUSIC (Scoring of a Musical Picture),C. Bakaleinikoff,Higher and Higher,False
+90,1944,1945,17,MUSIC (Scoring of a Musical Picture),Ray Heindorf,Hollywood Canteen,False
+91,1944,1945,17,MUSIC (Scoring of a Musical Picture),Alfred Newman,Irish Eyes Are Smiling,False
+92,1944,1945,17,MUSIC (Scoring of a Musical Picture),"Werner R. Heymann, Kurt Weill",Knickerbocker Holiday,False
+93,1944,1945,17,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Lady in the Dark,False
+94,1944,1945,17,MUSIC (Scoring of a Musical Picture),Edward Kay,"Lady, Let's Dance",False
+95,1944,1945,17,MUSIC (Scoring of a Musical Picture),Georgie Stoll,Meet Me in St. Louis,False
+96,1944,1945,17,MUSIC (Scoring of a Musical Picture),H. J. Salter,The Merry Monahans,False
+97,1944,1945,17,MUSIC (Scoring of a Musical Picture),"Ferde Grofe, Leo Erdody",Minstrel Man,False
+98,1944,1945,17,MUSIC (Scoring of a Musical Picture),Mahlon Merrick,Sensations of 1945,False
+99,1944,1945,17,MUSIC (Scoring of a Musical Picture),Charles Previn,Song of the Open Road,False
+100,1944,1945,17,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Louis Forbes",Up in Arms,False
+101,1944,1945,17,MUSIC (Song),Music by Jimmy McHugh; Lyrics by Harold Adamson,Higher and Higher,False
+102,1944,1945,17,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Follow the Boys,False
+103,1944,1945,17,MUSIC (Song),Music by James V. Monaco; Lyrics by Mack Gordon,Sweet and Low-Down,False
+104,1944,1945,17,MUSIC (Song),Music by Jerome Kern; Lyrics by Ira Gershwin,Cover Girl,False
+105,1944,1945,17,MUSIC (Song),Music by Harold Arlen; Lyrics by Ted Koehler,Up in Arms,False
+106,1944,1945,17,MUSIC (Song),Music by Harry Revel; Lyrics by Paul Webster,Minstrel Man,False
+107,1944,1945,17,MUSIC (Song),Music by Ary Barroso; Lyrics by Ned Washington,Brazil,False
+108,1944,1945,17,MUSIC (Song),Music by Lew Pollack; Lyrics by Charles Newman,"Lady, Let's Dance",False
+109,1944,1945,17,MUSIC (Song),Music by M. K. Jerome; Lyrics by Ted Koehler,Hollywood Canteen,False
+110,1944,1945,17,MUSIC (Song),Music by James Van Heusen; Lyrics by Johnny Burke,Going My Way,True
+111,1944,1945,17,MUSIC (Song),Music by Walter Kent; Lyrics by Kim Gannon,Song of the Open Road,False
+112,1944,1945,17,MUSIC (Song),Music and Lyrics by Ralph Blane and Hugh Martin,Meet Me in St. Louis,False
+113,1944,1945,17,BEST MOTION PICTURE,Paramount,Double Indemnity,False
+114,1944,1945,17,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,Gaslight,False
+115,1944,1945,17,BEST MOTION PICTURE,Paramount,Going My Way,True
+116,1944,1945,17,BEST MOTION PICTURE,Selznick International Pictures,Since You Went Away,False
+117,1944,1945,17,BEST MOTION PICTURE,20th Century-Fox,Wilson,False
+118,1944,1945,17,SHORT SUBJECT (Cartoon),"George Pal, Producer",And to Think I Saw It on Mulberry Street,False
+119,1944,1945,17,SHORT SUBJECT (Cartoon),Screen Gems,"Dog, Cat and Canary",False
+120,1944,1945,17,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Fish Fry,False
+121,1944,1945,17,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",How to Play Football,False
+122,1944,1945,17,SHORT SUBJECT (Cartoon),"Frederick C. Quimby, Producer",Mouse Trouble,True
+123,1944,1945,17,SHORT SUBJECT (Cartoon),"Paul Terry, Producer",My Boy Johnny,False
+124,1944,1945,17,SHORT SUBJECT (Cartoon),Warner Bros.,Swooner Crooner,False
+125,1944,1945,17,SHORT SUBJECT (One-reel),"Edmund Reek, Producer",Blue Grass Gentlemen,False
+126,1944,1945,17,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Jammin' the Blues,False
+127,1944,1945,17,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Movie Pests,False
+128,1944,1945,17,SHORT SUBJECT (One-reel),"Ralph Staub, Producer",Screen Snapshots' 50th Anniversary of Motion Pictures,False
+129,1944,1945,17,SHORT SUBJECT (One-reel),"Jerry Fairbanks, Producer",Who's Who in Animal Land,True
+130,1944,1945,17,SHORT SUBJECT (Two-reel),"Louis Harris, Producer",Bombalera,False
+131,1944,1945,17,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",I Won't Play,True
+132,1944,1945,17,SHORT SUBJECT (Two-reel),"Jerry Bresler, Producer; Herbert Moulton, Associate Producer",Main Street Today,False
+133,1944,1945,17,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Brazil,False
+134,1944,1945,17,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",Casanova Brown,False
+135,1944,1945,17,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Cover Girl,False
+136,1944,1945,17,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",Double Indemnity,False
+137,1944,1945,17,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",His Butler's Sister,False
+138,1944,1945,17,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Hollywood Canteen,False
+139,1944,1945,17,SOUND RECORDING,"Sound Service, Inc., Jack Whitney, Sound Director",It Happened Tomorrow,False
+140,1944,1945,17,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Kismet,False
+141,1944,1945,17,SOUND RECORDING,"RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",Music in Manhattan,False
+142,1944,1945,17,SOUND RECORDING,"RCA Sound, W. M. Dalgleish, Sound Director",Voice in the Wind,False
+143,1944,1945,17,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",Wilson,True
+144,1944,1945,17,SPECIAL EFFECTS,"Photographic Effects by Paul Detlefsen, John Crouse; Sound Effects by Nathan Levinson",The Adventures of Mark Twain,False
+145,1944,1945,17,SPECIAL EFFECTS,"Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart, Roy Granville",Days of Glory,False
+146,1944,1945,17,SPECIAL EFFECTS,"Photographic Effects by David Allen, Ray Cory, Robert Wright; Sound Effects by Russell Malmgren, Harry Kusnick",Secret Command,False
+147,1944,1945,17,SPECIAL EFFECTS,Photographic Effects by John R. Cosgrove; Sound Effects by Arthur Johns,Since You Went Away,False
+148,1944,1945,17,SPECIAL EFFECTS,"Photographic Effects by Gordon Jennings, Farciot Edouart; Sound Effects by George Dutton",The Story of Dr. Wassell,False
+149,1944,1945,17,SPECIAL EFFECTS,"Photographic Effects by A. Arnold Gillespie, Donald Jahraus, Warren Newcombe; Sound Effects by Douglas Shearer",Thirty Seconds over Tokyo,True
+150,1944,1945,17,SPECIAL EFFECTS,Photographic Effects by Fred Sersen; Sound Effects by Roger Heman,Wilson,False
+151,1944,1945,17,WRITING (Original Motion Picture Story),Leo McCarey,Going My Way,True
+152,1944,1945,17,WRITING (Original Motion Picture Story),"Chandler Sprague, David Boehm",A Guy Named Joe,False
+153,1944,1945,17,WRITING (Original Motion Picture Story),John Steinbeck,Lifeboat,False
+154,1944,1945,17,WRITING (Original Motion Picture Story),"Alfred Neumann, Joseph Than",None Shall Escape,False
+155,1944,1945,17,WRITING (Original Motion Picture Story),"Edward Doherty, Jules Schermer",The Sullivans,False
+156,1944,1945,17,WRITING (Original Screenplay),Preston Sturges,Hail the Conquering Hero,False
+157,1944,1945,17,WRITING (Original Screenplay),Preston Sturges,The Miracle of Morgan's Creek,False
+158,1944,1945,17,WRITING (Original Screenplay),"Richard Connell, Gladys Lehman",Two Girls and a Sailor,False
+159,1944,1945,17,WRITING (Original Screenplay),Lamar Trotti,Wilson,True
+160,1944,1945,17,WRITING (Original Screenplay),Jerome Cady,Wing and a Prayer,False
+161,1944,1945,17,WRITING (Screenplay),"Billy Wilder, Raymond Chandler",Double Indemnity,False
+162,1944,1945,17,WRITING (Screenplay),"John Van Druten, Walter Reisch, John L. Balderston",Gaslight,False
+163,1944,1945,17,WRITING (Screenplay),"Frank Butler, Frank Cavett",Going My Way,True
+164,1944,1945,17,WRITING (Screenplay),"Jay Dratler, Samuel Hoffenstein, Betty Reinhardt",Laura,False
+165,1944,1945,17,WRITING (Screenplay),"Irving Brecher, Fred F. Finklehoffe",Meet Me in St. Louis,False
+166,1944,1945,17,SPECIAL AWARD, Margaret O'Brien,,True
+167,1944,1945,17,SPECIAL AWARD, Bob Hope for his many services to the Academy.,,True
+168,1944,1945,17,IRVING G. THALBERG MEMORIAL AWARD,Darryl F. Zanuck,,True

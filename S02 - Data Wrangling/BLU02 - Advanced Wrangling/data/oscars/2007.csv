@@ -1,0 +1,116 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,2006,2007,79,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Blood Diamond,False
+1,2006,2007,79,ACTOR IN A LEADING ROLE,Ryan Gosling,Half Nelson,False
+2,2006,2007,79,ACTOR IN A LEADING ROLE,Peter O'Toole,Venus,False
+3,2006,2007,79,ACTOR IN A LEADING ROLE,Will Smith,The Pursuit of Happyness,False
+4,2006,2007,79,ACTOR IN A LEADING ROLE,Forest Whitaker,The Last King of Scotland,True
+5,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Little Miss Sunshine,True
+6,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Jackie Earle Haley,Little Children,False
+7,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Djimon Hounsou,Blood Diamond,False
+8,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Eddie Murphy,Dreamgirls,False
+9,2006,2007,79,ACTOR IN A SUPPORTING ROLE,Mark Wahlberg,The Departed,False
+10,2006,2007,79,ACTRESS IN A LEADING ROLE,Penélope Cruz,Volver,False
+11,2006,2007,79,ACTRESS IN A LEADING ROLE,Judi Dench,Notes on a Scandal,False
+12,2006,2007,79,ACTRESS IN A LEADING ROLE,Helen Mirren,The Queen,True
+13,2006,2007,79,ACTRESS IN A LEADING ROLE,Meryl Streep,The Devil Wears Prada,False
+14,2006,2007,79,ACTRESS IN A LEADING ROLE,Kate Winslet,Little Children,False
+15,2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Adriana Barraza,Babel,False
+16,2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,Notes on a Scandal,False
+17,2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Abigail Breslin,Little Miss Sunshine,False
+18,2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Jennifer Hudson,Dreamgirls,True
+19,2006,2007,79,ACTRESS IN A SUPPORTING ROLE,Rinko Kikuchi,Babel,False
+20,2006,2007,79,ANIMATED FEATURE FILM,John Lasseter,Cars,False
+21,2006,2007,79,ANIMATED FEATURE FILM,George Miller,Happy Feet,True
+22,2006,2007,79,ANIMATED FEATURE FILM,Gil Kenan,Monster House,False
+23,2006,2007,79,ART DIRECTION,Art Direction:  John Myhre; Set Decoration:  Nancy Haigh,Dreamgirls,False
+24,2006,2007,79,ART DIRECTION,Art Direction:  Jeannine Oppewall; Set Decoration:  Gretchen Rau and Leslie E. Rollins,The Good Shepherd,False
+25,2006,2007,79,ART DIRECTION,Art Direction:  Eugenio Caballero; Set Decoration:  Pilar Revuelta,Pan's Labyrinth,True
+26,2006,2007,79,ART DIRECTION,Art Direction:  Rick Heinrichs; Set Decoration:  Cheryl Carasik,Pirates of the Caribbean: Dead Man's Chest,False
+27,2006,2007,79,ART DIRECTION,Art Direction:  Nathan Crowley; Set Decoration:  Julie Ochipinti,The Prestige,False
+28,2006,2007,79,CINEMATOGRAPHY,Vilmos Zsigmond,The Black Dahlia,False
+29,2006,2007,79,CINEMATOGRAPHY,Emmanuel Lubezki,Children of Men,False
+30,2006,2007,79,CINEMATOGRAPHY,Dick Pope,The Illusionist,False
+31,2006,2007,79,CINEMATOGRAPHY,Guillermo Navarro,Pan's Labyrinth,True
+32,2006,2007,79,CINEMATOGRAPHY,Wally Pfister,The Prestige,False
+33,2006,2007,79,COSTUME DESIGN,Yee Chung Man,Curse of the Golden Flower,False
+34,2006,2007,79,COSTUME DESIGN,Patricia Field,The Devil Wears Prada,False
+35,2006,2007,79,COSTUME DESIGN,Sharen Davis,Dreamgirls,False
+36,2006,2007,79,COSTUME DESIGN,Milena Canonero,Marie Antoinette,True
+37,2006,2007,79,COSTUME DESIGN,Consolata Boyle,The Queen,False
+38,2006,2007,79,DIRECTING,Alejandro González Iñárritu,Babel,False
+39,2006,2007,79,DIRECTING,Martin Scorsese,The Departed,True
+40,2006,2007,79,DIRECTING,Clint Eastwood,Letters from Iwo Jima,False
+41,2006,2007,79,DIRECTING,Stephen Frears,The Queen,False
+42,2006,2007,79,DIRECTING,Paul Greengrass,United 93,False
+43,2006,2007,79,DOCUMENTARY (Feature),Amy Berg and Frank Donner,Deliver Us from Evil,False
+44,2006,2007,79,DOCUMENTARY (Feature),Davis Guggenheim,An Inconvenient Truth,True
+45,2006,2007,79,DOCUMENTARY (Feature),James Longley and John Sinno,Iraq in Fragments,False
+46,2006,2007,79,DOCUMENTARY (Feature),Heidi Ewing and Rachel Grady,Jesus Camp,False
+47,2006,2007,79,DOCUMENTARY (Feature),Laura Poitras and Jocelyn Glatzer,"My Country, My Country",False
+48,2006,2007,79,DOCUMENTARY (Short Subject),Ruby Yang and Thomas Lennon,The Blood of Yingzhou District,True
+49,2006,2007,79,DOCUMENTARY (Short Subject),Leslie Iwerks and Mike Glad,Recycled Life,False
+50,2006,2007,79,DOCUMENTARY (Short Subject),Karen Goodman and Kirk Simon,Rehearsing a Dream,False
+51,2006,2007,79,DOCUMENTARY (Short Subject),Nathaniel Kahn and Susan Rose Behr,Two Hands,False
+52,2006,2007,79,FILM EDITING,Stephen Mirrione and Douglas Crise,Babel,False
+53,2006,2007,79,FILM EDITING,Steven Rosenblum,Blood Diamond,False
+54,2006,2007,79,FILM EDITING,Alex Rodríguez and Alfonso Cuarón,Children of Men,False
+55,2006,2007,79,FILM EDITING,Thelma Schoonmaker,The Departed,True
+56,2006,2007,79,FILM EDITING,"Clare Douglas, Christopher Rouse and Richard Pearson",United 93,False
+57,2006,2007,79,FOREIGN LANGUAGE FILM,Denmark,After the Wedding,False
+58,2006,2007,79,FOREIGN LANGUAGE FILM,Algeria,Days of Glory (Indigènes),False
+59,2006,2007,79,FOREIGN LANGUAGE FILM,Germany,The Lives of Others,True
+60,2006,2007,79,FOREIGN LANGUAGE FILM,Mexico,Pan's Labyrinth,False
+61,2006,2007,79,FOREIGN LANGUAGE FILM,Canada,Water,False
+62,2006,2007,79,MAKEUP,Aldo Signoretti and Vittorio Sodano,Apocalypto,False
+63,2006,2007,79,MAKEUP,Kazuhiro Tsuji and Bill Corso,Click,False
+64,2006,2007,79,MAKEUP,David Martí and Montse Ribé,Pan's Labyrinth,True
+65,2006,2007,79,MUSIC (Original Score),Gustavo Santaolalla,Babel,True
+66,2006,2007,79,MUSIC (Original Score),Thomas Newman,The Good German,False
+67,2006,2007,79,MUSIC (Original Score),Philip Glass,Notes on a Scandal,False
+68,2006,2007,79,MUSIC (Original Score),Javier Navarrete,Pan's Labyrinth,False
+69,2006,2007,79,MUSIC (Original Score),Alexandre Desplat,The Queen,False
+70,2006,2007,79,MUSIC (Original Song),Music and Lyric by Melissa Etheridge,An Inconvenient Truth,True
+71,2006,2007,79,MUSIC (Original Song),Music by Henry Krieger and Scott Cutler; Lyric by Anne Preven,Dreamgirls,False
+72,2006,2007,79,MUSIC (Original Song),Music by Henry Krieger; Lyric by Siedah Garrett,Dreamgirls,False
+73,2006,2007,79,MUSIC (Original Song),Music and Lyric by Randy Newman,Cars,False
+74,2006,2007,79,MUSIC (Original Song),Music by Henry Krieger; Lyric by Willie Reale,Dreamgirls,False
+75,2006,2007,79,BEST PICTURE,"Alejandro González Iñárritu, Jon Kilik and Steve Golin, Producers",Babel,False
+76,2006,2007,79,BEST PICTURE,"Graham King, Producer",The Departed,True
+77,2006,2007,79,BEST PICTURE,"Clint Eastwood, Steven Spielberg and Robert Lorenz, Producers",Letters from Iwo Jima,False
+78,2006,2007,79,BEST PICTURE,"David T. Friendly, Peter Saraf and Marc Turtletaub, Producers",Little Miss Sunshine,False
+79,2006,2007,79,BEST PICTURE,"Andy Harries, Christine Langan and Tracey Seaward, Producers",The Queen,False
+80,2006,2007,79,SHORT FILM (Animated),Torill Kove,The Danish Poet,True
+81,2006,2007,79,SHORT FILM (Animated),Gary Rydstrom,Lifted,False
+82,2006,2007,79,SHORT FILM (Animated),Roger Allers and Don Hahn,The Little Matchgirl,False
+83,2006,2007,79,SHORT FILM (Animated),Géza M. Tóth,Maestro,False
+84,2006,2007,79,SHORT FILM (Animated),Chris Renaud and Michael Thurmeier,No Time for Nuts,False
+85,2006,2007,79,SHORT FILM (Live Action),Javier Fesser and Luis Manso,Binta and the Great Idea (Binta Y La Gran Idea),False
+86,2006,2007,79,SHORT FILM (Live Action),Borja Cobeaga,Éramos Pocos (One Too Many),False
+87,2006,2007,79,SHORT FILM (Live Action),Søren Pilmark and Kim Magnusson,Helmer & Son,False
+88,2006,2007,79,SHORT FILM (Live Action),Peter Templeman and Stuart Parkyn,The Saviour,False
+89,2006,2007,79,SHORT FILM (Live Action),Ari Sandel,West Bank Story,True
+90,2006,2007,79,SOUND EDITING,Sean McCormack and Kami Asgar,Apocalypto,False
+91,2006,2007,79,SOUND EDITING,Lon Bender,Blood Diamond,False
+92,2006,2007,79,SOUND EDITING,Alan Robert Murray and Bub Asman,Flags of Our Fathers,False
+93,2006,2007,79,SOUND EDITING,Alan Robert Murray and Bub Asman,Letters from Iwo Jima,True
+94,2006,2007,79,SOUND EDITING,Christopher Boyes and George Watters II,Pirates of the Caribbean: Dead Man's Chest,False
+95,2006,2007,79,SOUND MIXING,"Kevin O'Connell, Greg P. Russell and Fernando Cámara",Apocalypto,False
+96,2006,2007,79,SOUND MIXING,"Andy Nelson, Anna Behlmer and Ivan Sharrock",Blood Diamond,False
+97,2006,2007,79,SOUND MIXING,"Michael Minkler, Bob Beemer and Willie Burton",Dreamgirls,True
+98,2006,2007,79,SOUND MIXING,"John Reitz, Dave Campbell, Gregg Rudloff and Walt Martin",Flags of Our Fathers,False
+99,2006,2007,79,SOUND MIXING,"Paul Massey, Christopher Boyes and Lee Orloff",Pirates of the Caribbean: Dead Man's Chest,False
+100,2006,2007,79,VISUAL EFFECTS,"John Knoll, Hal Hickel, Charles Gibson and Allen Hall",Pirates of the Caribbean: Dead Man's Chest,True
+101,2006,2007,79,VISUAL EFFECTS,"Boyd Shermis, Kim Libreri, Chas Jarrett and John Frazier",Poseidon,False
+102,2006,2007,79,VISUAL EFFECTS,"Mark Stetson, Neil Corbould, Richard R. Hoover and Jon Thum",Superman Returns,False
+103,2006,2007,79,WRITING (Adapted Screenplay),Screenplay by Sacha Baron Cohen & Anthony Hines & Peter Baynham & Dan Mazer; Story by Sacha Baron Cohen & Peter Baynham & Anthony Hines & Todd Phillips,Borat Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,False
+104,2006,2007,79,WRITING (Adapted Screenplay),Screenplay by Alfonso Cuarón & Timothy J. Sexton and David Arata and Mark Fergus & Hawk Ostby,Children of Men,False
+105,2006,2007,79,WRITING (Adapted Screenplay),Screenplay by William Monahan,The Departed,True
+106,2006,2007,79,WRITING (Adapted Screenplay),Screenplay by Todd Field & Tom Perrotta,Little Children,False
+107,2006,2007,79,WRITING (Adapted Screenplay),Screenplay by Patrick Marber,Notes on a Scandal,False
+108,2006,2007,79,WRITING (Original Screenplay),Written by Guillermo Arriaga,Babel,False
+109,2006,2007,79,WRITING (Original Screenplay),Screenplay by Iris Yamashita; Story by Iris Yamashita & Paul Haggis,Letters from Iwo Jima,False
+110,2006,2007,79,WRITING (Original Screenplay),Written by Michael Arndt,Little Miss Sunshine,True
+111,2006,2007,79,WRITING (Original Screenplay),Written by Guillermo del Toro,Pan's Labyrinth,False
+112,2006,2007,79,WRITING (Original Screenplay),Written by Peter Morgan,The Queen,False
+113,2006,2007,79,JEAN HERSHOLT HUMANITARIAN AWARD,Sherry Lansing,,True
+114,2006,2007,79,HONORARY AWARD, Ennio Morricone in recognition of his magnificent and multifaceted contributions to the art of film music.,,True

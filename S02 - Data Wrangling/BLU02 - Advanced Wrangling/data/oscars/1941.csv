@@ -1,0 +1,161 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1940,1941,13,ACTOR,Charles Chaplin,The Great Dictator,False
+1,1940,1941,13,ACTOR,Henry Fonda,The Grapes of Wrath,False
+2,1940,1941,13,ACTOR,Raymond Massey,Abe Lincoln in Illinois,False
+3,1940,1941,13,ACTOR,Laurence Olivier,Rebecca,False
+4,1940,1941,13,ACTOR,James Stewart,The Philadelphia Story,True
+5,1940,1941,13,ACTOR IN A SUPPORTING ROLE,Albert Basserman,Foreign Correspondent,False
+6,1940,1941,13,ACTOR IN A SUPPORTING ROLE,Walter Brennan,The Westerner,True
+7,1940,1941,13,ACTOR IN A SUPPORTING ROLE,William Gargan,They Knew What They Wanted,False
+8,1940,1941,13,ACTOR IN A SUPPORTING ROLE,Jack Oakie,The Great Dictator,False
+9,1940,1941,13,ACTOR IN A SUPPORTING ROLE,James Stephenson,The Letter,False
+10,1940,1941,13,ACTRESS,Bette Davis,The Letter,False
+11,1940,1941,13,ACTRESS,Joan Fontaine,Rebecca,False
+12,1940,1941,13,ACTRESS,Katharine Hepburn,The Philadelphia Story,False
+13,1940,1941,13,ACTRESS,Ginger Rogers,Kitty Foyle,True
+14,1940,1941,13,ACTRESS,Martha Scott,Our Town,False
+15,1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Judith Anderson,Rebecca,False
+16,1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Jane Darwell,The Grapes of Wrath,True
+17,1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Ruth Hussey,The Philadelphia Story,False
+18,1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Barbara O'Neil,"All This, and Heaven Too",False
+19,1940,1941,13,ACTRESS IN A SUPPORTING ROLE,Marjorie Rambeau,Primrose Path,False
+20,1940,1941,13,ART DIRECTION (Black-and-White),"Hans Dreier, Robert Usher","Arise, My Love",False
+21,1940,1941,13,ART DIRECTION (Black-and-White),"Lionel Banks, Robert Peterson",Arizona,False
+22,1940,1941,13,ART DIRECTION (Black-and-White),John Otterson,The Boys from Syracuse,False
+23,1940,1941,13,ART DIRECTION (Black-and-White),John Victor Mackay,The Dark Command,False
+24,1940,1941,13,ART DIRECTION (Black-and-White),Alexander Golitzen,Foreign Correspondent,False
+25,1940,1941,13,ART DIRECTION (Black-and-White),"Richard Day, Joseph C. Wright",Lillian Russell,False
+26,1940,1941,13,ART DIRECTION (Black-and-White),"Van Nest Polglase, Mark-Lee Kirk",My Favorite Wife,False
+27,1940,1941,13,ART DIRECTION (Black-and-White),John DuCasse Schulze,"My Son, My Son!",False
+28,1940,1941,13,ART DIRECTION (Black-and-White),Lewis J. Rachmil,Our Town,False
+29,1940,1941,13,ART DIRECTION (Black-and-White),"Cedric Gibbons, Paul Groesse",Pride and Prejudice,True
+30,1940,1941,13,ART DIRECTION (Black-and-White),Lyle Wheeler,Rebecca,False
+31,1940,1941,13,ART DIRECTION (Black-and-White),Anton Grot,The Sea Hawk,False
+32,1940,1941,13,ART DIRECTION (Black-and-White),James Basevi,The Westerner,False
+33,1940,1941,13,ART DIRECTION (Color),"Cedric Gibbons, John S. Detlie",Bitter Sweet,False
+34,1940,1941,13,ART DIRECTION (Color),"Richard Day, Joseph C. Wright",Down Argentine Way,False
+35,1940,1941,13,ART DIRECTION (Color),"Hans Dreier, Roland Anderson",North West Mounted Police,False
+36,1940,1941,13,ART DIRECTION (Color),Vincent Korda,The Thief of Bagdad,True
+37,1940,1941,13,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Abe Lincoln in Illinois,False
+38,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Ernest Haller,"All This, and Heaven Too",False
+39,1940,1941,13,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.","Arise, My Love",False
+40,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Harold Rosson,Boom Town,False
+41,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Rudolph Maté,Foreign Correspondent,False
+42,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Gaetano (Tony) Gaudio,The Letter,False
+43,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Gregg Toland,The Long Voyage Home,False
+44,1940,1941,13,CINEMATOGRAPHY (Black-and-White),George Barnes,Rebecca,True
+45,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Joseph Valentine,Spring Parade,False
+46,1940,1941,13,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Waterloo Bridge,False
+47,1940,1941,13,CINEMATOGRAPHY (Color),"Oliver T. Marsh, Allen Davey",Bitter Sweet,False
+48,1940,1941,13,CINEMATOGRAPHY (Color),"Arthur Miller, Ray Rennahan",The Blue Bird,False
+49,1940,1941,13,CINEMATOGRAPHY (Color),"Leon Shamroy, Ray Rennahan",Down Argentine Way,False
+50,1940,1941,13,CINEMATOGRAPHY (Color),"Victor Milner, W. Howard Greene",North West Mounted Police,False
+51,1940,1941,13,CINEMATOGRAPHY (Color),"Sidney Wagner, William V. Skall",Northwest Passage,False
+52,1940,1941,13,CINEMATOGRAPHY (Color),Georges Périnal,The Thief of Bagdad,True
+53,1940,1941,13,DIRECTING,John Ford,The Grapes of Wrath,True
+54,1940,1941,13,DIRECTING,Sam Wood,Kitty Foyle,False
+55,1940,1941,13,DIRECTING,William Wyler,The Letter,False
+56,1940,1941,13,DIRECTING,George Cukor,The Philadelphia Story,False
+57,1940,1941,13,DIRECTING,Alfred Hitchcock,Rebecca,False
+58,1940,1941,13,FILM EDITING,Robert Simpson,The Grapes of Wrath,False
+59,1940,1941,13,FILM EDITING,Warren Low,The Letter,False
+60,1940,1941,13,FILM EDITING,Sherman Todd,The Long Voyage Home,False
+61,1940,1941,13,FILM EDITING,Anne Bauchens,North West Mounted Police,True
+62,1940,1941,13,FILM EDITING,Hal C. Kern,Rebecca,False
+63,1940,1941,13,MUSIC (Original Score),Victor Young,Arizona,False
+64,1940,1941,13,MUSIC (Original Score),Victor Young,The Dark Command,False
+65,1940,1941,13,MUSIC (Original Score),Louis Gruenberg,The Fight for Life,False
+66,1940,1941,13,MUSIC (Original Score),Meredith Willson,The Great Dictator,False
+67,1940,1941,13,MUSIC (Original Score),Frank Skinner,The House of the Seven Gables,False
+68,1940,1941,13,MUSIC (Original Score),Richard Hageman,The Howards of Virginia,False
+69,1940,1941,13,MUSIC (Original Score),Max Steiner,The Letter,False
+70,1940,1941,13,MUSIC (Original Score),Richard Hageman,The Long Voyage Home,False
+71,1940,1941,13,MUSIC (Original Score),Alfred Newman,The Mark of Zorro,False
+72,1940,1941,13,MUSIC (Original Score),Roy Webb,My Favorite Wife,False
+73,1940,1941,13,MUSIC (Original Score),Victor Young,North West Mounted Police,False
+74,1940,1941,13,MUSIC (Original Score),Werner Heymann,One Million B.C.,False
+75,1940,1941,13,MUSIC (Original Score),Aaron Copland,Our Town,False
+76,1940,1941,13,MUSIC (Original Score),"Leigh Harline, Paul J. Smith, Ned Washington",Pinocchio,True
+77,1940,1941,13,MUSIC (Original Score),Franz Waxman,Rebecca,False
+78,1940,1941,13,MUSIC (Original Score),Miklos Rozsa,The Thief of Bagdad,False
+79,1940,1941,13,MUSIC (Original Score),Herbert Stothart,Waterloo Bridge,False
+80,1940,1941,13,MUSIC (Scoring),Victor Young,"Arise, My Love",False
+81,1940,1941,13,MUSIC (Scoring),Cy Feuer,Hit Parade of 1941,False
+82,1940,1941,13,MUSIC (Scoring),Anthony Collins,Irene,False
+83,1940,1941,13,MUSIC (Scoring),Aaron Copland,Our Town,False
+84,1940,1941,13,MUSIC (Scoring),Erich Wolfgang Korngold,The Sea Hawk,False
+85,1940,1941,13,MUSIC (Scoring),Artie Shaw,Second Chorus,False
+86,1940,1941,13,MUSIC (Scoring),Charles Previn,Spring Parade,False
+87,1940,1941,13,MUSIC (Scoring),"Roger Edens, Georgie Stoll",Strike Up the Band,False
+88,1940,1941,13,MUSIC (Scoring),Alfred Newman,Tin Pan Alley,True
+89,1940,1941,13,MUSIC (Song),Music by Harry Warren; Lyrics by Mack Gordon,Down Argentine Way,False
+90,1940,1941,13,MUSIC (Song),Music by Jimmy McHugh; Lyrics by Johnny Mercer,You'll Find Out,False
+91,1940,1941,13,MUSIC (Song),Music and Lyrics by Chet Forrest and Bob Wright,Music in My Heart,False
+92,1940,1941,13,MUSIC (Song),Music by Artie Shaw; Lyrics by Johnny Mercer,Second Chorus,False
+93,1940,1941,13,MUSIC (Song),Music by James Monaco; Lyrics by John Burke,Rhythm on the River,False
+94,1940,1941,13,MUSIC (Song),Music and Lyrics by Roger Edens and Arthur Freed,Strike Up the Band,False
+95,1940,1941,13,MUSIC (Song),Music by Robert Stolz; Lyrics by Gus Kahn,Spring Parade,False
+96,1940,1941,13,MUSIC (Song),Music by Leigh Harline; Lyrics by Ned Washington,Pinocchio,True
+97,1940,1941,13,MUSIC (Song),Music by Jule Styne; Lyrics by Walter Bullock,Hit Parade of 1941,False
+98,1940,1941,13,OUTSTANDING PRODUCTION,Warner Bros.,"All This, and Heaven Too",False
+99,1940,1941,13,OUTSTANDING PRODUCTION,Walter Wanger (production company),Foreign Correspondent,False
+100,1940,1941,13,OUTSTANDING PRODUCTION,20th Century-Fox,The Grapes of Wrath,False
+101,1940,1941,13,OUTSTANDING PRODUCTION,Charles Chaplin Productions,The Great Dictator,False
+102,1940,1941,13,OUTSTANDING PRODUCTION,RKO Radio,Kitty Foyle,False
+103,1940,1941,13,OUTSTANDING PRODUCTION,Warner Bros.,The Letter,False
+104,1940,1941,13,OUTSTANDING PRODUCTION,Argosy-Wanger,The Long Voyage Home,False
+105,1940,1941,13,OUTSTANDING PRODUCTION,Sol Lesser (production company),Our Town,False
+106,1940,1941,13,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Philadelphia Story,False
+107,1940,1941,13,OUTSTANDING PRODUCTION,Selznick International Pictures,Rebecca,True
+108,1940,1941,13,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,The Milky Way,True
+109,1940,1941,13,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,Puss Gets the Boot,False
+110,1940,1941,13,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",A Wild Hare,False
+111,1940,1941,13,SHORT SUBJECT (One-reel),Warner Bros.,London Can Take It,False
+112,1940,1941,13,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,More about Nostradamus,False
+113,1940,1941,13,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Quicker 'N a Wink,True
+114,1940,1941,13,SHORT SUBJECT (One-reel),RKO Radio,Siege,False
+115,1940,1941,13,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Eyes of the Navy,False
+116,1940,1941,13,SHORT SUBJECT (Two-reel),Warner Bros.,Service with the Colors,False
+117,1940,1941,13,SHORT SUBJECT (Two-reel),Warner Bros.,"Teddy, the Rough Rider",True
+118,1940,1941,13,SOUND RECORDING,"Republic Studio Sound Department, Charles L. Lootens, Sound Director",Behind the News,False
+119,1940,1941,13,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",Captain Caution,False
+120,1940,1941,13,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",The Grapes of Wrath,False
+121,1940,1941,13,SOUND RECORDING,"General Service Sound Department, Jack Whitney, Sound Director",The Howards of Virginia,False
+122,1940,1941,13,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",Kitty Foyle,False
+123,1940,1941,13,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",North West Mounted Police,False
+124,1940,1941,13,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",Our Town,False
+125,1940,1941,13,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",The Sea Hawk,False
+126,1940,1941,13,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",Spring Parade,False
+127,1940,1941,13,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Strike Up the Band,True
+128,1940,1941,13,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Too Many Husbands,False
+129,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Fred Sersen; Sound Effects by E. H. Hansen,The Blue Bird,False
+130,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by A. Arnold Gillespie; Sound Effects by Douglas Shearer,Boom Town,False
+131,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, Joseph Lapis",The Boys from Syracuse,False
+132,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by Gordon Jennings, Farciot Edouart",Dr. Cyclops,False
+133,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Paul Eagler; Sound Effects by Thomas T. Moulton,Foreign Correspondent,False
+134,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by John P. Fulton; Sound Effects by Bernard B. Brown, William Hedgecock",The Invisible Man Returns,False
+135,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by R. T. Layton, R. O. Binger; Sound Effects by Thomas T. Moulton",The Long Voyage Home,False
+136,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Roy Seawright; Sound Effects by Elmer Raguse,One Million B.C.,False
+137,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Jack Cosgrove; Sound Effects by Arthur Johns,Rebecca,False
+138,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson,The Sea Hawk,False
+139,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Vernon L. Walker; Sound Effects by John O. Aalberg,Swiss Family Robinson,False
+140,1940,1941,13,SPECIAL EFFECTS,Photographic Effects by Lawrence Butler; Sound Effects by Jack Whitney,The Thief of Bagdad,True
+141,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by Farciot Edouart, Gordon Jennings; Sound Effects by Loren Ryder",Typhoon,False
+142,1940,1941,13,SPECIAL EFFECTS,"Photographic Effects by Howard J. Lydecker, William Bradford, Ellis J. Thackery; Sound Effects by Herbert Norsch",Women in War,False
+143,1940,1941,13,WRITING (Original Screenplay),Ben Hecht,Angels over Broadway,False
+144,1940,1941,13,WRITING (Original Screenplay),"John Huston, Heinz Herald, Norman Burnside",Dr. Ehrlich's Magic Bullet,False
+145,1940,1941,13,WRITING (Original Screenplay),"Charles Bennett, Joan Harrison",Foreign Correspondent,False
+146,1940,1941,13,WRITING (Original Screenplay),Charles Chaplin,The Great Dictator,False
+147,1940,1941,13,WRITING (Original Screenplay),Preston Sturges,The Great McGinty,True
+148,1940,1941,13,WRITING (Original Story),"Benjamin Glazer, John S. Toldy","Arise, My Love",True
+149,1940,1941,13,WRITING (Original Story),Walter Reisch,Comrade X,False
+150,1940,1941,13,WRITING (Original Story),"Dore Schary, Hugo Butler","Edison, the Man",False
+151,1940,1941,13,WRITING (Original Story),"Bella Spewack, Samuel Spewack, Leo McCarey",My Favorite Wife,False
+152,1940,1941,13,WRITING (Original Story),Stuart N. Lake,The Westerner,False
+153,1940,1941,13,WRITING (Screenplay),Nunnally Johnson,The Grapes of Wrath,False
+154,1940,1941,13,WRITING (Screenplay),Dalton Trumbo,Kitty Foyle,False
+155,1940,1941,13,WRITING (Screenplay),Dudley Nichols,The Long Voyage Home,False
+156,1940,1941,13,WRITING (Screenplay),Donald Ogden Stewart,The Philadelphia Story,True
+157,1940,1941,13,WRITING (Screenplay),"Robert E. Sherwood, Joan Harrison",Rebecca,False
+158,1940,1941,13,SPECIAL AWARD, Bob Hope,,True
+159,1940,1941,13,SPECIAL AWARD, Colonel Nathan Levinson for his outstanding service to the industry and the Army during the past nine years,,True

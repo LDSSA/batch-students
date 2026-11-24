@@ -1,0 +1,144 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1939,1940,12,ACTOR,Robert Donat,"Goodbye, Mr. Chips",True
+1,1939,1940,12,ACTOR,Clark Gable,Gone with the Wind,False
+2,1939,1940,12,ACTOR,Laurence Olivier,Wuthering Heights,False
+3,1939,1940,12,ACTOR,Mickey Rooney,Babes in Arms,False
+4,1939,1940,12,ACTOR,James Stewart,Mr. Smith Goes to Washington,False
+5,1939,1940,12,ACTOR IN A SUPPORTING ROLE,Brian Aherne,Juarez,False
+6,1939,1940,12,ACTOR IN A SUPPORTING ROLE,Harry Carey,Mr. Smith Goes to Washington,False
+7,1939,1940,12,ACTOR IN A SUPPORTING ROLE,Brian Donlevy,Beau Geste,False
+8,1939,1940,12,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,Stagecoach,True
+9,1939,1940,12,ACTOR IN A SUPPORTING ROLE,Claude Rains,Mr. Smith Goes to Washington,False
+10,1939,1940,12,ACTRESS,Bette Davis,Dark Victory,False
+11,1939,1940,12,ACTRESS,Irene Dunne,Love Affair,False
+12,1939,1940,12,ACTRESS,Greta Garbo,Ninotchka,False
+13,1939,1940,12,ACTRESS,Greer Garson,"Goodbye, Mr. Chips",False
+14,1939,1940,12,ACTRESS,Vivien Leigh,Gone with the Wind,True
+15,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,Gone with the Wind,False
+16,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Geraldine Fitzgerald,Wuthering Heights,False
+17,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,True
+18,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Edna May Oliver,Drums along the Mohawk,False
+19,1939,1940,12,ACTRESS IN A SUPPORTING ROLE,Maria Ouspenskaya,Love Affair,False
+20,1939,1940,12,ART DIRECTION,"Hans Dreier, Robert Odell",Beau Geste,False
+21,1939,1940,12,ART DIRECTION,Charles D. Hall,Captain Fury,False
+22,1939,1940,12,ART DIRECTION,"Jack Otterson, Martin Obzina",First Love,False
+23,1939,1940,12,ART DIRECTION,Lyle Wheeler,Gone with the Wind,True
+24,1939,1940,12,ART DIRECTION,"Van Nest Polglase, Al Herman",Love Affair,False
+25,1939,1940,12,ART DIRECTION,John Victor Mackay,Man of Conquest,False
+26,1939,1940,12,ART DIRECTION,Lionel Banks,Mr. Smith Goes to Washington,False
+27,1939,1940,12,ART DIRECTION,Anton Grot,The Private Lives of Elizabeth and Essex,False
+28,1939,1940,12,ART DIRECTION,"William Darling, George Dudley",The Rains Came,False
+29,1939,1940,12,ART DIRECTION,Alexander Toluboff,Stagecoach,False
+30,1939,1940,12,ART DIRECTION,"Cedric Gibbons, William A. Horning",The Wizard of Oz,False
+31,1939,1940,12,ART DIRECTION,James Basevi,Wuthering Heights,False
+32,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Joseph Valentine,First Love,False
+33,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Victor Milner,The Great Victor Herbert,False
+34,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Joseph H. August,Gunga Din,False
+35,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Gregg Toland,Intermezzo,False
+36,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Tony Gaudio,Juarez,False
+37,1939,1940,12,CINEMATOGRAPHY (Black-and-White),George Folsey,Lady of the Tropics,False
+38,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Norbert Brodine,Of Mice and Men,False
+39,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Joseph Walker,Only Angels Have Wings,False
+40,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Arthur Miller,The Rains Came,False
+41,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Bert Glennon,Stagecoach,False
+42,1939,1940,12,CINEMATOGRAPHY (Black-and-White),Gregg Toland,Wuthering Heights,True
+43,1939,1940,12,CINEMATOGRAPHY (Color),"Ray Rennahan, Bert Glennon",Drums along the Mohawk,False
+44,1939,1940,12,CINEMATOGRAPHY (Color),"Georges Perinal, Osmond Borradaile",Four Feathers,False
+45,1939,1940,12,CINEMATOGRAPHY (Color),"Ernest Haller, Ray Rennahan",Gone with the Wind,True
+46,1939,1940,12,CINEMATOGRAPHY (Color),"William V. Skall, Bernard Knowles",The Mikado,False
+47,1939,1940,12,CINEMATOGRAPHY (Color),"Sol Polito, W. Howard Greene",The Private Lives of Elizabeth and Essex,False
+48,1939,1940,12,CINEMATOGRAPHY (Color),Hal Rosson,The Wizard of Oz,False
+49,1939,1940,12,DIRECTING,Victor Fleming,Gone with the Wind,True
+50,1939,1940,12,DIRECTING,Sam Wood,"Goodbye, Mr. Chips",False
+51,1939,1940,12,DIRECTING,Frank Capra,Mr. Smith Goes to Washington,False
+52,1939,1940,12,DIRECTING,John Ford,Stagecoach,False
+53,1939,1940,12,DIRECTING,William Wyler,Wuthering Heights,False
+54,1939,1940,12,FILM EDITING,"Hal C. Kern, James E. Newcom",Gone with the Wind,True
+55,1939,1940,12,FILM EDITING,Charles Frend,"Goodbye, Mr. Chips",False
+56,1939,1940,12,FILM EDITING,"Gene Havlick, Al Clark",Mr. Smith Goes to Washington,False
+57,1939,1940,12,FILM EDITING,Barbara McLean,The Rains Came,False
+58,1939,1940,12,FILM EDITING,"Otho Lovering, Dorothy Spencer",Stagecoach,False
+59,1939,1940,12,MUSIC (Original Score),Max Steiner,Dark Victory,False
+60,1939,1940,12,MUSIC (Original Score),Werner Janssen,Eternally Yours,False
+61,1939,1940,12,MUSIC (Original Score),Victor Young,Golden Boy,False
+62,1939,1940,12,MUSIC (Original Score),Max Steiner,Gone with the Wind,False
+63,1939,1940,12,MUSIC (Original Score),Victor Young,Gulliver's Travels,False
+64,1939,1940,12,MUSIC (Original Score),"Lud Gluskin, Lucien Moraweck",The Man in the Iron Mask,False
+65,1939,1940,12,MUSIC (Original Score),Victor Young,Man of Conquest,False
+66,1939,1940,12,MUSIC (Original Score),Anthony Collins,Nurse Edith Cavell,False
+67,1939,1940,12,MUSIC (Original Score),Aaron Copland,Of Mice and Men,False
+68,1939,1940,12,MUSIC (Original Score),Alfred Newman,The Rains Came,False
+69,1939,1940,12,MUSIC (Original Score),Herbert Stothart,The Wizard of Oz,True
+70,1939,1940,12,MUSIC (Original Score),Alfred Newman,Wuthering Heights,False
+71,1939,1940,12,MUSIC (Scoring),"George E. Stoll, Roger Edens",Babes in Arms,False
+72,1939,1940,12,MUSIC (Scoring),Charles Previn,First Love,False
+73,1939,1940,12,MUSIC (Scoring),"Phil Boutelje, Arthur Lange",The Great Victor Herbert,False
+74,1939,1940,12,MUSIC (Scoring),Alfred Newman,The Hunchback of Notre Dame,False
+75,1939,1940,12,MUSIC (Scoring),Lou Forbes,Intermezzo,False
+76,1939,1940,12,MUSIC (Scoring),Dimitri Tiomkin,Mr. Smith Goes to Washington,False
+77,1939,1940,12,MUSIC (Scoring),Aaron Copland,Of Mice and Men,False
+78,1939,1940,12,MUSIC (Scoring),Erich Wolfgang Korngold,The Private Lives of Elizabeth and Essex,False
+79,1939,1940,12,MUSIC (Scoring),Cy Feuer,She Married a Cop,False
+80,1939,1940,12,MUSIC (Scoring),"Richard Hageman, Frank Harling, John Leipold, Leo Shuken",Stagecoach,True
+81,1939,1940,12,MUSIC (Scoring),Louis Silvers,Swanee River,False
+82,1939,1940,12,MUSIC (Scoring),Alfred Newman,They Shall Have Music,False
+83,1939,1940,12,MUSIC (Scoring),Victor Young,Way Down South,False
+84,1939,1940,12,MUSIC (Song),Music by Ralph Rainger; Lyrics by Leo Robin,Gulliver's Travels,False
+85,1939,1940,12,MUSIC (Song),Music and Lyrics by Irving Berlin,Second Fiddle,False
+86,1939,1940,12,MUSIC (Song),Music by Harold Arlen; Lyrics by E. Y. Harburg,The Wizard of Oz,True
+87,1939,1940,12,MUSIC (Song),Music and Lyrics by Buddy de Sylva,Love Affair,False
+88,1939,1940,12,OUTSTANDING PRODUCTION,Warner Bros.-First National,Dark Victory,False
+89,1939,1940,12,OUTSTANDING PRODUCTION,Selznick International Pictures,Gone with the Wind,True
+90,1939,1940,12,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,"Goodbye, Mr. Chips",False
+91,1939,1940,12,OUTSTANDING PRODUCTION,RKO Radio,Love Affair,False
+92,1939,1940,12,OUTSTANDING PRODUCTION,Columbia,Mr. Smith Goes to Washington,False
+93,1939,1940,12,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Ninotchka,False
+94,1939,1940,12,OUTSTANDING PRODUCTION,Hal Roach (production company),Of Mice and Men,False
+95,1939,1940,12,OUTSTANDING PRODUCTION,Walter Wanger (production company),Stagecoach,False
+96,1939,1940,12,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Wizard of Oz,False
+97,1939,1940,12,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Wuthering Heights,False
+98,1939,1940,12,SHORT SUBJECT (Cartoon),Warner Bros.,Detouring America,False
+99,1939,1940,12,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,Peace on Earth,False
+100,1939,1940,12,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Pointer,False
+101,1939,1940,12,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Ugly Duckling,True
+102,1939,1940,12,SHORT SUBJECT (One-reel),Paramount,Busy Little Bears,True
+103,1939,1940,12,SHORT SUBJECT (One-reel),RKO Radio,Information Please,False
+104,1939,1940,12,SHORT SUBJECT (One-reel),Metro-Goldwyn-Mayer,Prophet without Honor,False
+105,1939,1940,12,SHORT SUBJECT (One-reel),Warner Bros.,Sword Fishing,False
+106,1939,1940,12,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Drunk Driving,False
+107,1939,1940,12,SHORT SUBJECT (Two-reel),RKO Radio,Five Times Five,False
+108,1939,1940,12,SHORT SUBJECT (Two-reel),Warner Bros.,Sons of Liberty,True
+109,1939,1940,12,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Balalaika,False
+110,1939,1940,12,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",Gone with the Wind,False
+111,1939,1940,12,SOUND RECORDING,"Denham Studio Sound Department, A. W. Watkins, Sound Director","Goodbye, Mr. Chips",False
+112,1939,1940,12,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",The Great Victor Herbert,False
+113,1939,1940,12,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",The Hunchback of Notre Dame,False
+114,1939,1940,12,SOUND RECORDING,"Republic Studio Sound Department, Charles L. Lootens, Sound Director",Man of Conquest,False
+115,1939,1940,12,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",Mr. Smith Goes to Washington,False
+116,1939,1940,12,SOUND RECORDING,"Hal Roach Studio Sound Department, Elmer A. Raguse, Sound Director",Of Mice and Men,False
+117,1939,1940,12,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",The Private Lives of Elizabeth and Essex,False
+118,1939,1940,12,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",The Rains Came,False
+119,1939,1940,12,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",When Tomorrow Comes,True
+120,1939,1940,12,SPECIAL EFFECTS,"John R. Cosgrove, Fred Albin, Arthur Johns",Gone with the Wind,False
+121,1939,1940,12,SPECIAL EFFECTS,"Roy Davidson, Edwin C. Hahn",Only Angels Have Wings,False
+122,1939,1940,12,SPECIAL EFFECTS,"Byron Haskin, Nathan Levinson",The Private Lives of Elizabeth and Essex,False
+123,1939,1940,12,SPECIAL EFFECTS,"Fred Sersen, E. H. Hansen",The Rains Came,True
+124,1939,1940,12,SPECIAL EFFECTS,Roy Seawright,Topper Takes a Trip,False
+125,1939,1940,12,SPECIAL EFFECTS,"Farciot Edouart, Gordon Jennings, Loren Ryder",Union Pacific,False
+126,1939,1940,12,SPECIAL EFFECTS,"A. Arnold Gillespie, Douglas Shearer",The Wizard of Oz,False
+127,1939,1940,12,WRITING (Original Story),Felix Jackson,Bachelor Mother,False
+128,1939,1940,12,WRITING (Original Story),"Mildred Cram, Leo McCarey",Love Affair,False
+129,1939,1940,12,WRITING (Original Story),Lewis R. Foster,Mr. Smith Goes to Washington,True
+130,1939,1940,12,WRITING (Original Story),Melchior Lengyel,Ninotchka,False
+131,1939,1940,12,WRITING (Original Story),Lamar Trotti,Young Mr. Lincoln,False
+132,1939,1940,12,WRITING (Screenplay),Sidney Howard,Gone with the Wind,True
+133,1939,1940,12,WRITING (Screenplay),"R. C. Sherriff, Claudine West, Eric Maschwitz","Goodbye, Mr. Chips",False
+134,1939,1940,12,WRITING (Screenplay),Sidney Buchman,Mr. Smith Goes to Washington,False
+135,1939,1940,12,WRITING (Screenplay),"Charles Brackett, Billy Wilder, Walter Reisch",Ninotchka,False
+136,1939,1940,12,WRITING (Screenplay),"Charles MacArthur, Ben Hecht",Wuthering Heights,False
+137,1939,1940,12,SPECIAL AWARD, Douglas Fairbanks (Commemorative Award) - recognizing the unique and outstanding contribution of Douglas Fairbanks,,True
+138,1939,1940,12,SPECIAL AWARD, The Motion Picture Relief Fund - acknowledging the outstanding services to the industry during the past year of the Motion Picture Relief Fund and its progressive leadership.  Presented to Jean Hersholt,,True
+139,1939,1940,12,SPECIAL AWARD, Judy Garland for her outstanding performance as a screen juvenile during the past year.,,True
+140,1939,1940,12,SPECIAL AWARD, William Cameron Menzies for outstanding achievement in the use of color for the enhancement of dramatic mood in the production of Gone with the Wind.,,True
+141,1939,1940,12,SPECIAL AWARD, the Technicolor Company for its contributions in successfully bringing three-color feature production to the screen.,,True
+142,1939,1940,12,IRVING G. THALBERG MEMORIAL AWARD,David O. Selznick,,True

@@ -1,0 +1,46 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1931,1932,5,ACTOR,Wallace Beery,The Champ,True
+1,1931,1932,5,ACTOR,Alfred Lunt,The Guardsman,False
+2,1931,1932,5,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,True
+3,1931,1932,5,ACTRESS,Marie Dressler,Emma,False
+4,1931,1932,5,ACTRESS,Lynn Fontanne,The Guardsman,False
+5,1931,1932,5,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,True
+6,1931,1932,5,ART DIRECTION,Lazare Meerson,À Nous la Liberté,False
+7,1931,1932,5,ART DIRECTION,Richard Day,Arrowsmith,False
+8,1931,1932,5,ART DIRECTION,Gordon Wiles,Transatlantic,True
+9,1931,1932,5,CINEMATOGRAPHY,Ray June,Arrowsmith,False
+10,1931,1932,5,CINEMATOGRAPHY,Karl Struss,Dr. Jekyll and Mr. Hyde,False
+11,1931,1932,5,CINEMATOGRAPHY,Lee Garmes,Shanghai Express,True
+12,1931,1932,5,DIRECTING,Frank Borzage,Bad Girl,True
+13,1931,1932,5,DIRECTING,King Vidor,The Champ,False
+14,1931,1932,5,DIRECTING,Josef Von Sternberg,Shanghai Express,False
+15,1931,1932,5,OUTSTANDING PRODUCTION,Samuel Goldwyn Productions,Arrowsmith,False
+16,1931,1932,5,OUTSTANDING PRODUCTION,Fox,Bad Girl,False
+17,1931,1932,5,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,The Champ,False
+18,1931,1932,5,OUTSTANDING PRODUCTION,First National,Five Star Final,False
+19,1931,1932,5,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Grand Hotel,True
+20,1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,One Hour with You,False
+21,1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,Shanghai Express,False
+22,1931,1932,5,OUTSTANDING PRODUCTION,Paramount Publix,The Smiling Lieutenant,False
+23,1931,1932,5,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Flowers and Trees,True
+24,1931,1932,5,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",It's Got Me Again,False
+25,1931,1932,5,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Mickey's Orphans,False
+26,1931,1932,5,SHORT SUBJECT (Comedy),"Mack Sennett, Producer",The Loud Mouth,False
+27,1931,1932,5,SHORT SUBJECT (Comedy),"Hal Roach, Producer",The Music Box,True
+28,1931,1932,5,SHORT SUBJECT (Comedy),RKO Radio,Scratch-As-Catch-Can,False
+29,1931,1932,5,SHORT SUBJECT (Comedy),RKO Radio,Stout Hearts and Willing Hands,False
+30,1931,1932,5,SHORT SUBJECT (Novelty),Paramount Publix,Screen Souvenirs,False
+31,1931,1932,5,SHORT SUBJECT (Novelty),Metro-Goldwyn-Mayer,Swing High,False
+32,1931,1932,5,SHORT SUBJECT (Novelty),"Mack Sennett, Producer",Wrestling Swordfish,True
+33,1931,1932,5,SOUND RECORDING,Metro-Goldwyn-Mayer Studio Sound Department,,False
+34,1931,1932,5,SOUND RECORDING,Paramount Publix Studio Sound Department,,True
+35,1931,1932,5,SOUND RECORDING,RKO Radio Studio Sound Department,,False
+36,1931,1932,5,SOUND RECORDING,Warner Bros.-First National Studio Sound Department,,False
+37,1931,1932,5,WRITING (Adaptation),Sidney Howard,Arrowsmith,False
+38,1931,1932,5,WRITING (Adaptation),Edwin Burke,Bad Girl,True
+39,1931,1932,5,WRITING (Adaptation),"Percy Heath, Samuel Hoffenstein",Dr. Jekyll and Mr. Hyde,False
+40,1931,1932,5,WRITING (Original Story),Frances Marion,The Champ,True
+41,1931,1932,5,WRITING (Original Story),"Grover Jones, William Slavens McNutt",Lady and Gent,False
+42,1931,1932,5,WRITING (Original Story),Lucien Hubbard,The Star Witness,False
+43,1931,1932,5,WRITING (Original Story),"Adela Rogers St. Johns, Jane Murfin",What Price Hollywood?,False
+44,1931,1932,5,SPECIAL AWARD," Walt Disney for the creation of ""Mickey Mouse.""",,True

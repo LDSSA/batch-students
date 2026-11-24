@@ -1,0 +1,112 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1982,1983,55,ACTOR IN A LEADING ROLE,Dustin Hoffman,Tootsie,False
+1,1982,1983,55,ACTOR IN A LEADING ROLE,Ben Kingsley,Gandhi,True
+2,1982,1983,55,ACTOR IN A LEADING ROLE,Jack Lemmon,Missing,False
+3,1982,1983,55,ACTOR IN A LEADING ROLE,Paul Newman,The Verdict,False
+4,1982,1983,55,ACTOR IN A LEADING ROLE,Peter O'Toole,My Favorite Year,False
+5,1982,1983,55,ACTOR IN A SUPPORTING ROLE,Charles Durning,The Best Little Whorehouse in Texas,False
+6,1982,1983,55,ACTOR IN A SUPPORTING ROLE,"Louis Gossett, Jr.",An Officer and a Gentleman,True
+7,1982,1983,55,ACTOR IN A SUPPORTING ROLE,John Lithgow,The World According to Garp,False
+8,1982,1983,55,ACTOR IN A SUPPORTING ROLE,James Mason,The Verdict,False
+9,1982,1983,55,ACTOR IN A SUPPORTING ROLE,Robert Preston,Victor/Victoria,False
+10,1982,1983,55,ACTRESS IN A LEADING ROLE,Julie Andrews,Victor/Victoria,False
+11,1982,1983,55,ACTRESS IN A LEADING ROLE,Jessica Lange,Frances,False
+12,1982,1983,55,ACTRESS IN A LEADING ROLE,Sissy Spacek,Missing,False
+13,1982,1983,55,ACTRESS IN A LEADING ROLE,Meryl Streep,Sophie's Choice,True
+14,1982,1983,55,ACTRESS IN A LEADING ROLE,Debra Winger,An Officer and a Gentleman,False
+15,1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Glenn Close,The World According to Garp,False
+16,1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Teri Garr,Tootsie,False
+17,1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Jessica Lange,Tootsie,True
+18,1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Kim Stanley,Frances,False
+19,1982,1983,55,ACTRESS IN A SUPPORTING ROLE,Lesley Ann Warren,Victor/Victoria,False
+20,1982,1983,55,ART DIRECTION,Art Direction:  Dale Hennesy; Set Decoration:  Marvin March,Annie,False
+21,1982,1983,55,ART DIRECTION,"Art Direction:  Lawrence G. Paull, David L. Snyder;  Set Decoration:  Linda DeScenna",Blade Runner,False
+22,1982,1983,55,ART DIRECTION,"Art Direction:  Stuart Craig, Bob Laing;  Set Decoration:  Michael Seirton",Gandhi,True
+23,1982,1983,55,ART DIRECTION,Art Direction:  Franco Zeffirelli;  Set Decoration:  Gianni Quaranta,La Traviata,False
+24,1982,1983,55,ART DIRECTION,"Art Direction:  Rodger Maus, Tim Hutchinson, William Craig Smith;  Set Decoration:  Harry Cordwell",Victor/Victoria,False
+25,1982,1983,55,CINEMATOGRAPHY,Jost Vacano,Das Boot,False
+26,1982,1983,55,CINEMATOGRAPHY,Allen Daviau,E.T. The Extra-Terrestrial,False
+27,1982,1983,55,CINEMATOGRAPHY,"Billy Williams, Ronnie Taylor",Gandhi,True
+28,1982,1983,55,CINEMATOGRAPHY,Nestor Almendros,Sophie's Choice,False
+29,1982,1983,55,CINEMATOGRAPHY,Owen Roizman,Tootsie,False
+30,1982,1983,55,COSTUME DESIGN,"John Mollo, Bhanu Athaiya",Gandhi,True
+31,1982,1983,55,COSTUME DESIGN,Piero Tosi,La Traviata,False
+32,1982,1983,55,COSTUME DESIGN,Albert Wolsky,Sophie's Choice,False
+33,1982,1983,55,COSTUME DESIGN,"Elois Jenssen, Rosanna Norton",Tron,False
+34,1982,1983,55,COSTUME DESIGN,Patricia Norris,Victor/Victoria,False
+35,1982,1983,55,DIRECTING,Wolfgang Petersen,Das Boot,False
+36,1982,1983,55,DIRECTING,Steven Spielberg,E.T. The Extra-Terrestrial,False
+37,1982,1983,55,DIRECTING,Richard Attenborough,Gandhi,True
+38,1982,1983,55,DIRECTING,Sydney Pollack,Tootsie,False
+39,1982,1983,55,DIRECTING,Sidney Lumet,The Verdict,False
+40,1982,1983,55,DOCUMENTARY (Feature),"Sturla Gunnarsson and Steve Lucas, Producers",After the Axe,False
+41,1982,1983,55,DOCUMENTARY (Feature),"John Karol and Michel Chalufour, Producers",Ben's Mill,False
+42,1982,1983,55,DOCUMENTARY (Feature),"Meg Switzgable, Producer",In Our Water,False
+43,1982,1983,55,DOCUMENTARY (Feature),"John Zaritsky, Producer",Just Another Missing Kid,True
+44,1982,1983,55,DOCUMENTARY (Feature),"Joseph Wishy, Producer",A Portrait of Giselle,False
+45,1982,1983,55,DOCUMENTARY (Short Subject),"Robert Richter, Producer",Gods of Metal,False
+46,1982,1983,55,DOCUMENTARY (Short Subject),"Edward Le Lorrain and Terri Nash, Producers",If You Love This Planet,True
+47,1982,1983,55,DOCUMENTARY (Short Subject),"Charles Guggenheim and Werner Schumann, Producers",The Klan: A Legacy of Hate in America,False
+48,1982,1983,55,DOCUMENTARY (Short Subject),"Freida Lee Mock, Producer",To Live or Let Die,False
+49,1982,1983,55,DOCUMENTARY (Short Subject),"John G. Avildsen, Producer",Traveling Hopefully,False
+50,1982,1983,55,FILM EDITING,Hannes Nikel,Das Boot,False
+51,1982,1983,55,FILM EDITING,Carol Littleton,E.T. The Extra-Terrestrial,False
+52,1982,1983,55,FILM EDITING,John Bloom,Gandhi,True
+53,1982,1983,55,FILM EDITING,Peter Zinner,An Officer and a Gentleman,False
+54,1982,1983,55,FILM EDITING,"Fredric Steinkamp, William Steinkamp",Tootsie,False
+55,1982,1983,55,FOREIGN LANGUAGE FILM,Nicaragua,Alsino and the Condor,False
+56,1982,1983,55,FOREIGN LANGUAGE FILM,France,Coup de Torchon ('Clean Slate'),False
+57,1982,1983,55,FOREIGN LANGUAGE FILM,Sweden,The Flight of the Eagle,False
+58,1982,1983,55,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,Private Life,False
+59,1982,1983,55,FOREIGN LANGUAGE FILM,Spain,Volver a Empezar ('To Begin Again'),True
+60,1982,1983,55,MAKEUP,Tom Smith,Gandhi,False
+61,1982,1983,55,MAKEUP,"Sarah Monzani, Michèle Burke",Quest for Fire,True
+62,1982,1983,55,MUSIC (Original Score),John Williams,E.T. The Extra-Terrestrial,True
+63,1982,1983,55,MUSIC (Original Score),"Ravi Shankar, George Fenton",Gandhi,False
+64,1982,1983,55,MUSIC (Original Score),Jack Nitzsche,An Officer and a Gentleman,False
+65,1982,1983,55,MUSIC (Original Score),Jerry Goldsmith,Poltergeist,False
+66,1982,1983,55,MUSIC (Original Score),Marvin Hamlisch,Sophie's Choice,False
+67,1982,1983,55,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Adaptation Score by Ralph Burns,Annie,False
+68,1982,1983,55,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Song Score by Tom Waits,One from the Heart,False
+69,1982,1983,55,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Song Score by Henry Mancini and Leslie Bricusse; Adaptation Score by Henry Mancini,Victor/Victoria,True
+70,1982,1983,55,MUSIC (Original Song),Music and Lyric by Jim Peterik and Frankie Sullivan III,Rocky III,False
+71,1982,1983,55,MUSIC (Original Song),Music by Michel Legrand; Lyric by Alan Bergman and Marilyn Bergman,Best Friends,False
+72,1982,1983,55,MUSIC (Original Song),Music by John Williams; Lyric by Alan Bergman and Marilyn Bergman,"Yes, Giorgio",False
+73,1982,1983,55,MUSIC (Original Song),Music by Dave Grusin; Lyric by Alan Bergman and Marilyn Bergman,Tootsie,False
+74,1982,1983,55,MUSIC (Original Song),Music by Jack Nitzsche and Buffy Sainte-Marie; Lyric by Will Jennings,An Officer and a Gentleman,True
+75,1982,1983,55,BEST PICTURE,"Steven Spielberg and Kathleen Kennedy, Producers",E.T. The Extra-Terrestrial,False
+76,1982,1983,55,BEST PICTURE,"Richard Attenborough, Producer",Gandhi,True
+77,1982,1983,55,BEST PICTURE,"Edward Lewis and Mildred Lewis, Producers",Missing,False
+78,1982,1983,55,BEST PICTURE,"Sydney Pollack and Dick Richards, Producers",Tootsie,False
+79,1982,1983,55,BEST PICTURE,"Richard D. Zanuck and David Brown, Producers",The Verdict,False
+80,1982,1983,55,SHORT FILM (Animated),"Will Vinton, Producer",The Great Cognito,False
+81,1982,1983,55,SHORT FILM (Animated),"John Coates, Producer",The Snowman,False
+82,1982,1983,55,SHORT FILM (Animated),"Zbigniew Rybczynski, Producer",Tango,True
+83,1982,1983,55,SHORT FILM (Live Action),"Bob Rogers, Producer",Ballet Robotique,False
+84,1982,1983,55,SHORT FILM (Live Action),"Christine Oestreicher, Producer",A Shocking Accident,True
+85,1982,1983,55,SHORT FILM (Live Action),"Michael Toshiyuki Uno and Joseph Benson, Producers",The Silence,False
+86,1982,1983,55,SHORT FILM (Live Action),"Jan Saunders, Producer",Split Cherry Tree,False
+87,1982,1983,55,SHORT FILM (Live Action),"Andrew Birkin, Producer",Sredni Vashtar,False
+88,1982,1983,55,SOUND,"Milan Bor, Trevor Pyke, Mike Le-Mare",Das Boot,False
+89,1982,1983,55,SOUND,"Robert Knudson, Robert Glass, Don Digirolamo, Gene Cantamessa",E.T. The Extra-Terrestrial,True
+90,1982,1983,55,SOUND,"Gerry Humphreys, Robin O'Donoghue, Jonathan Bates, Simon Kaye",Gandhi,False
+91,1982,1983,55,SOUND,"Arthur Piantadosi, Les Fresholtz, Dick Alexander, Les Lazarowitz",Tootsie,False
+92,1982,1983,55,SOUND,"Michael Minkler, Bob Minkler, Lee Minkler, Jim La Rue",Tron,False
+93,1982,1983,55,SOUND EFFECTS EDITING,Mike Le-Mare,Das Boot,False
+94,1982,1983,55,SOUND EFFECTS EDITING,"Charles L. Campbell, Ben Burtt",E.T. The Extra-Terrestrial,True
+95,1982,1983,55,SOUND EFFECTS EDITING,"Stephen Hunter Flick, Richard L. Anderson",Poltergeist,False
+96,1982,1983,55,VISUAL EFFECTS,"Douglas Trumbull, Richard Yuricich, David Dryer",Blade Runner,False
+97,1982,1983,55,VISUAL EFFECTS,"Carlo Rambaldi, Dennis Muren, Kenneth F. Smith",E.T. The Extra-Terrestrial,True
+98,1982,1983,55,VISUAL EFFECTS,"Richard Edlund, Michael Wood, Bruce Nicholson",Poltergeist,False
+99,1982,1983,55,WRITING (Screenplay Based on Material from Another Medium),Wolfgang Petersen,Das Boot,False
+100,1982,1983,55,WRITING (Screenplay Based on Material from Another Medium),"Costa-Gavras, Donald Stewart",Missing,True
+101,1982,1983,55,WRITING (Screenplay Based on Material from Another Medium),Alan J. Pakula,Sophie's Choice,False
+102,1982,1983,55,WRITING (Screenplay Based on Material from Another Medium),David Mamet,The Verdict,False
+103,1982,1983,55,WRITING (Screenplay Based on Material from Another Medium),Blake Edwards,Victor/Victoria,False
+104,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),Barry Levinson,Diner,False
+105,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),Melissa Mathison,E.T. The Extra-Terrestrial,False
+106,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),John Briley,Gandhi,True
+107,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),Douglas Day Stewart,An Officer and a Gentleman,False
+108,1982,1983,55,WRITING (Screenplay Written Directly for the Screen),"Screenplay by Larry Gelbart, Murray Schisgal; Story by Don McGuire, Larry Gelbart",Tootsie,False
+109,1982,1983,55,JEAN HERSHOLT HUMANITARIAN AWARD,Walter Mirisch,,True
+110,1982,1983,55,HONORARY AWARD, Mickey Rooney,,True

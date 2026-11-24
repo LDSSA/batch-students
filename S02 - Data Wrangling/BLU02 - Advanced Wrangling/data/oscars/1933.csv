@@ -1,0 +1,63 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1932,1933,6,ACTOR,Leslie Howard,Berkeley Square,False
+1,1932,1933,6,ACTOR,Charles Laughton,The Private Life of Henry VIII,True
+2,1932,1933,6,ACTOR,Paul Muni,I Am a Fugitive from a Chain Gang,False
+3,1932,1933,6,ACTRESS,Katharine Hepburn,Morning Glory,True
+4,1932,1933,6,ACTRESS,May Robson,Lady for a Day,False
+5,1932,1933,6,ACTRESS,Diana Wynyard,Cavalcade,False
+6,1932,1933,6,ART DIRECTION,William S. Darling,Cavalcade,True
+7,1932,1933,6,ART DIRECTION,"Hans Dreier, Roland Anderson",A Farewell to Arms,False
+8,1932,1933,6,ART DIRECTION,Cedric Gibbons,When Ladies Meet,False
+9,1932,1933,6,ASSISTANT DIRECTOR,Percy Ikerd (Fox),,False
+10,1932,1933,6,ASSISTANT DIRECTOR,William Tummel (Fox),,True
+11,1932,1933,6,ASSISTANT DIRECTOR,Charles Dorian (Metro-Goldwyn-Mayer),,True
+12,1932,1933,6,ASSISTANT DIRECTOR,Bunny Dull (Metro-Goldwyn-Mayer),,False
+13,1932,1933,6,ASSISTANT DIRECTOR,John S. Waters (Metro-Goldwyn-Mayer),,False
+14,1932,1933,6,ASSISTANT DIRECTOR,Charles Barton (Paramount),,True
+15,1932,1933,6,ASSISTANT DIRECTOR,Sidney S. Brod (Paramount),,False
+16,1932,1933,6,ASSISTANT DIRECTOR,Arthur Jacobson (Paramount),,False
+17,1932,1933,6,ASSISTANT DIRECTOR,Eddie Killey (RKO Radio),,False
+18,1932,1933,6,ASSISTANT DIRECTOR,Dewey Starkey (RKO Radio),,True
+19,1932,1933,6,ASSISTANT DIRECTOR,Fred Fox (United Artists),,True
+20,1932,1933,6,ASSISTANT DIRECTOR,Benjamin Silvey (United Artists),,False
+21,1932,1933,6,ASSISTANT DIRECTOR,Scott Beal (Universal),,True
+22,1932,1933,6,ASSISTANT DIRECTOR,Joe McDonough (Universal),,False
+23,1932,1933,6,ASSISTANT DIRECTOR,W. J. Reiter (Universal),,False
+24,1932,1933,6,ASSISTANT DIRECTOR,Al Alborn (Warner Bros.),,False
+25,1932,1933,6,ASSISTANT DIRECTOR,Gordon Hollingshead (Warner Bros.),,True
+26,1932,1933,6,ASSISTANT DIRECTOR,Frank X. Shaw (Warner Bros.),,False
+27,1932,1933,6,CINEMATOGRAPHY,"Charles Bryant Lang, Jr.",A Farewell to Arms,True
+28,1932,1933,6,CINEMATOGRAPHY,George J. Folsey,Reunion in Vienna,False
+29,1932,1933,6,CINEMATOGRAPHY,Karl Struss,The Sign of the Cross,False
+30,1932,1933,6,DIRECTING,Frank Lloyd,Cavalcade,True
+31,1932,1933,6,DIRECTING,Frank Capra,Lady for a Day,False
+32,1932,1933,6,DIRECTING,George Cukor,Little Women,False
+33,1932,1933,6,OUTSTANDING PRODUCTION,Fox,Cavalcade,True
+34,1932,1933,6,OUTSTANDING PRODUCTION,Paramount,A Farewell to Arms,False
+35,1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,42nd Street,False
+36,1932,1933,6,OUTSTANDING PRODUCTION,Warner Bros.,I Am a Fugitive from a Chain Gang,False
+37,1932,1933,6,OUTSTANDING PRODUCTION,Columbia,Lady for a Day,False
+38,1932,1933,6,OUTSTANDING PRODUCTION,RKO Radio,Little Women,False
+39,1932,1933,6,OUTSTANDING PRODUCTION,London Films,The Private Life of Henry VIII,False
+40,1932,1933,6,OUTSTANDING PRODUCTION,Paramount,She Done Him Wrong,False
+41,1932,1933,6,OUTSTANDING PRODUCTION,Metro-Goldwyn-Mayer,Smilin' Through,False
+42,1932,1933,6,OUTSTANDING PRODUCTION,Fox,State Fair,False
+43,1932,1933,6,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Building a Building,False
+44,1932,1933,6,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",The Merry Old Soul,False
+45,1932,1933,6,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",The Three Little Pigs,True
+46,1932,1933,6,SHORT SUBJECT (Comedy),"Warren Doane, Producer",Mister Mugg,False
+47,1932,1933,6,SHORT SUBJECT (Comedy),"Louis Brock, Producer",A Preferred List,False
+48,1932,1933,6,SHORT SUBJECT (Comedy),"Louis Brock, Producer",So This Is Harris,True
+49,1932,1933,6,SHORT SUBJECT (Novelty),"Joe Rock, Producer",Krakatoa,True
+50,1932,1933,6,SHORT SUBJECT (Novelty),"Pete Smith, Producer",Menu,False
+51,1932,1933,6,SHORT SUBJECT (Novelty),Educational,The Sea,False
+52,1932,1933,6,SOUND RECORDING,"Paramount Studio Sound Department, Franklin B. Hansen, Sound Director",A Farewell to Arms,True
+53,1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",42nd Street,False
+54,1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Gold Diggers of 1933,False
+55,1932,1933,6,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",I Am a Fugitive from a Chain Gang,False
+56,1932,1933,6,WRITING (Adaptation),Robert Riskin,Lady for a Day,False
+57,1932,1933,6,WRITING (Adaptation),"Victor Heerman, Sarah Y. Mason",Little Women,True
+58,1932,1933,6,WRITING (Adaptation),"Paul Green, Sonya Levien",State Fair,False
+59,1932,1933,6,WRITING (Original Story),Robert Lord,One Way Passage,True
+60,1932,1933,6,WRITING (Original Story),Frances Marion,The Prizefighter and the Lady,False
+61,1932,1933,6,WRITING (Original Story),Charles MacArthur,Rasputin and the Empress,False

@@ -1,0 +1,109 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1990,1991,63,ACTOR IN A LEADING ROLE,Kevin Costner,Dances With Wolves,False
+1,1990,1991,63,ACTOR IN A LEADING ROLE,Robert De Niro,Awakenings,False
+2,1990,1991,63,ACTOR IN A LEADING ROLE,Gerard Depardieu,Cyrano de Bergerac,False
+3,1990,1991,63,ACTOR IN A LEADING ROLE,Richard Harris,The Field,False
+4,1990,1991,63,ACTOR IN A LEADING ROLE,Jeremy Irons,Reversal of Fortune,True
+5,1990,1991,63,ACTOR IN A SUPPORTING ROLE,Bruce Davison,Longtime Companion,False
+6,1990,1991,63,ACTOR IN A SUPPORTING ROLE,Andy Garcia,"The Godfather, Part III",False
+7,1990,1991,63,ACTOR IN A SUPPORTING ROLE,Graham Greene,Dances With Wolves,False
+8,1990,1991,63,ACTOR IN A SUPPORTING ROLE,Al Pacino,Dick Tracy,False
+9,1990,1991,63,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Good Fellas,True
+10,1990,1991,63,ACTRESS IN A LEADING ROLE,Kathy Bates,Misery,True
+11,1990,1991,63,ACTRESS IN A LEADING ROLE,Anjelica Huston,The Grifters,False
+12,1990,1991,63,ACTRESS IN A LEADING ROLE,Julia Roberts,Pretty Woman,False
+13,1990,1991,63,ACTRESS IN A LEADING ROLE,Meryl Streep,Postcards from the Edge,False
+14,1990,1991,63,ACTRESS IN A LEADING ROLE,Joanne Woodward,Mr. & Mrs. Bridge,False
+15,1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Annette Bening,The Grifters,False
+16,1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Lorraine Bracco,Good Fellas,False
+17,1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,Ghost,True
+18,1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Wild at Heart,False
+19,1990,1991,63,ACTRESS IN A SUPPORTING ROLE,Mary McDonnell,Dances With Wolves,False
+20,1990,1991,63,ART DIRECTION,Art Direction:  Ezio Frigerio;  Set Decoration:  Jacques Rouxel,Cyrano de Bergerac,False
+21,1990,1991,63,ART DIRECTION,Art Direction:  Jeffrey Beecroft;  Set Decoration:  Lisa Dean,Dances With Wolves,False
+22,1990,1991,63,ART DIRECTION,Art Direction:  Richard Sylbert;  Set Decoration:  Rick Simpson,Dick Tracy,True
+23,1990,1991,63,ART DIRECTION,Art Direction:  Dean Tavoularis;  Set Decoration:  Gary Fettis,"The Godfather, Part III",False
+24,1990,1991,63,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,Hamlet,False
+25,1990,1991,63,CINEMATOGRAPHY,Allen Daviau,Avalon,False
+26,1990,1991,63,CINEMATOGRAPHY,Dean Semler,Dances With Wolves,True
+27,1990,1991,63,CINEMATOGRAPHY,Vittorio Storaro,Dick Tracy,False
+28,1990,1991,63,CINEMATOGRAPHY,Gordon Willis,"The Godfather, Part III",False
+29,1990,1991,63,CINEMATOGRAPHY,Philippe Rousselot,Henry & June,False
+30,1990,1991,63,COSTUME DESIGN,Gloria Gresham,Avalon,False
+31,1990,1991,63,COSTUME DESIGN,Franca Squarciapino,Cyrano de Bergerac,True
+32,1990,1991,63,COSTUME DESIGN,Elsa Zamparelli,Dances With Wolves,False
+33,1990,1991,63,COSTUME DESIGN,Milena Canonero,Dick Tracy,False
+34,1990,1991,63,COSTUME DESIGN,Maurizio Millenotti,Hamlet,False
+35,1990,1991,63,DIRECTING,Kevin Costner,Dances With Wolves,True
+36,1990,1991,63,DIRECTING,Francis Ford Coppola,"The Godfather, Part III",False
+37,1990,1991,63,DIRECTING,Martin Scorsese,Good Fellas,False
+38,1990,1991,63,DIRECTING,Stephen Frears,The Grifters,False
+39,1990,1991,63,DIRECTING,Barbet Schroeder,Reversal of Fortune,False
+40,1990,1991,63,DOCUMENTARY (Feature),"Barbara Kopple and Arthur Cohn, Producers",American Dream,True
+41,1990,1991,63,DOCUMENTARY (Feature),"Mark Kitchell, Producer",Berkeley in the Sixties,False
+42,1990,1991,63,DOCUMENTARY (Feature),"Mark Mori and Susan Robinson, Producers",Building Bombs,False
+43,1990,1991,63,DOCUMENTARY (Feature),"Judith Montell, Producer",Forever Activists: Stories from the Veterans of the Abraham Lincoln Brigade,False
+44,1990,1991,63,DOCUMENTARY (Feature),"Robert Hillmann and Eugene Corr, Producers",Waldo Salt: A Screenwriter's Journey,False
+45,1990,1991,63,DOCUMENTARY (Short Subject),"Kit Thomas, Producer",Burning Down Tomorrow,False
+46,1990,1991,63,DOCUMENTARY (Short Subject),"Karen Goodman and Kirk Simon, Producers",Chimps: So Like Us,False
+47,1990,1991,63,DOCUMENTARY (Short Subject),"Steven Okazaki, Producer",Days of Waiting,True
+48,1990,1991,63,DOCUMENTARY (Short Subject),"Derek Bromhall, Producer",Journey into Life: The World of the Unborn,False
+49,1990,1991,63,DOCUMENTARY (Short Subject),"Freida Lee Mock and Terry Sanders, Producers",Rose Kennedy: A Life to Remember,False
+50,1990,1991,63,FILM EDITING,Neil Travis,Dances With Wolves,True
+51,1990,1991,63,FILM EDITING,Walter Murch,Ghost,False
+52,1990,1991,63,FILM EDITING,"Barry Malkin, Lisa Fruchtman, Walter Murch","The Godfather, Part III",False
+53,1990,1991,63,FILM EDITING,Thelma Schoonmaker,Good Fellas,False
+54,1990,1991,63,FILM EDITING,"Dennis Virkler, John Wright",The Hunt for Red October,False
+55,1990,1991,63,FOREIGN LANGUAGE FILM,France,Cyrano de Bergerac,False
+56,1990,1991,63,FOREIGN LANGUAGE FILM,Switzerland,Journey of Hope,True
+57,1990,1991,63,FOREIGN LANGUAGE FILM,People's Republic of China,Ju Dou,False
+58,1990,1991,63,FOREIGN LANGUAGE FILM,Germany,The Nasty Girl,False
+59,1990,1991,63,FOREIGN LANGUAGE FILM,Italy,Open Doors,False
+60,1990,1991,63,MAKEUP,"Michèle Burke, Jean-Pierre Eychenne",Cyrano de Bergerac,False
+61,1990,1991,63,MAKEUP,"John Caglione, Jr., Doug Drexler",Dick Tracy,True
+62,1990,1991,63,MAKEUP,"Ve Neill, Stan Winston",Edward Scissorhands,False
+63,1990,1991,63,MUSIC (Original Score),Randy Newman,Avalon,False
+64,1990,1991,63,MUSIC (Original Score),John Barry,Dances With Wolves,True
+65,1990,1991,63,MUSIC (Original Score),Maurice Jarre,Ghost,False
+66,1990,1991,63,MUSIC (Original Score),David Grusin,Havana,False
+67,1990,1991,63,MUSIC (Original Score),John Williams,Home Alone,False
+68,1990,1991,63,MUSIC (Original Song),Music and Lyric by Jon Bon Jovi,Young Guns II,False
+69,1990,1991,63,MUSIC (Original Song),Music and Lyric by Shel Silverstein,Postcards from the Edge,False
+70,1990,1991,63,MUSIC (Original Song),Music by Carmine Coppola; Lyric by John Bettis,"The Godfather, Part III",False
+71,1990,1991,63,MUSIC (Original Song),Music by John Williams; Lyric by Leslie Bricusse,Home Alone,False
+72,1990,1991,63,MUSIC (Original Song),Music and Lyric by Stephen Sondheim,Dick Tracy,True
+73,1990,1991,63,BEST PICTURE,"Walter F. Parkes and Lawrence Lasker, Producers",Awakenings,False
+74,1990,1991,63,BEST PICTURE,"Jim Wilson and Kevin Costner, Producers",Dances With Wolves,True
+75,1990,1991,63,BEST PICTURE,"Lisa Weinstein, Producer",Ghost,False
+76,1990,1991,63,BEST PICTURE,"Francis Ford Coppola, Producer","The Godfather, Part III",False
+77,1990,1991,63,BEST PICTURE,"Irwin Winkler, Producer",Good Fellas,False
+78,1990,1991,63,SHORT FILM (Animated),Nick Park,Creature Comforts,True
+79,1990,1991,63,SHORT FILM (Animated),Nick Park,A Grand Day Out,False
+80,1990,1991,63,SHORT FILM (Animated),Bruno Bozzetto,Grasshoppers (Cavallette),False
+81,1990,1991,63,SHORT FILM (Live Action),"Raymond De Felitta, Matthew Gross",Bronx Cheers,False
+82,1990,1991,63,SHORT FILM (Live Action),"Peter Cattaneo, Barnaby Thompson",Dear Rosie,False
+83,1990,1991,63,SHORT FILM (Live Action),Adam Davidson,The Lunch Date,True
+84,1990,1991,63,SHORT FILM (Live Action),"Bernard Joffa, Anthony E. Nicholas",Senzeni Na? (What Have We Done?),False
+85,1990,1991,63,SHORT FILM (Live Action),"Hillary Ripps, Jonathan Heap",12:01 PM,False
+86,1990,1991,63,SOUND,"Jeffrey Perkins, Bill W. Benton, Greg Watkins, Russell Williams II",Dances With Wolves,True
+87,1990,1991,63,SOUND,"Donald O. Mitchell, Rick Kline, Kevin O'Connell, Charles Wilborn",Days of Thunder,False
+88,1990,1991,63,SOUND,"Chris Jenkins, David E. Campbell, D. M. Hemphill, Thomas Causey",Dick Tracy,False
+89,1990,1991,63,SOUND,"Don Bassman, Richard Overton, Kevin F. Cleary, Richard Bryce Goodman",The Hunt for Red October,False
+90,1990,1991,63,SOUND,"Michael J. Kohut, Carlos de Larios, Aaron Rochin, Nelson Stoll",Total Recall,False
+91,1990,1991,63,SOUND EFFECTS EDITING,"Charles L. Campbell, Richard Franklin",Flatliners,False
+92,1990,1991,63,SOUND EFFECTS EDITING,"Cecelia Hall, George Watters II",The Hunt for Red October,True
+93,1990,1991,63,SOUND EFFECTS EDITING,Stephen H. Flick,Total Recall,False
+94,1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Steven Zaillian,Awakenings,False
+95,1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Michael Blake,Dances With Wolves,True
+96,1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),"Nicholas Pileggi, Martin Scorsese",Good Fellas,False
+97,1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Donald E. Westlake,The Grifters,False
+98,1990,1991,63,WRITING (Screenplay Based on Material from Another Medium),Nicholas Kazan,Reversal of Fortune,False
+99,1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Alice,False
+100,1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Barry Levinson,Avalon,False
+101,1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Bruce Joel Rubin,Ghost,True
+102,1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Peter Weir,Green Card,False
+103,1990,1991,63,WRITING (Screenplay Written Directly for the Screen),Whit Stillman,Metropolitan,False
+104,1990,1991,63,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Eric Brevig, Rob Bottin, Tim McGovern, Alex Funke",Total Recall,True
+105,1990,1991,63,HONORARY AWARD, Sophia Loren,,True
+106,1990,1991,63,HONORARY AWARD, Myrna Loy,,True
+107,1990,1991,63,IRVING G. THALBERG MEMORIAL AWARD,David Brown and Richard D. Zanuck,,True

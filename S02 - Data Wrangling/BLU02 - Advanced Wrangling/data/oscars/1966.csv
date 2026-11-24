@@ -1,0 +1,126 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1965,1966,38,ACTOR,Richard Burton,The Spy Who Came In from the Cold,False
+1,1965,1966,38,ACTOR,Lee Marvin,Cat Ballou,True
+2,1965,1966,38,ACTOR,Laurence Olivier,Othello,False
+3,1965,1966,38,ACTOR,Rod Steiger,The Pawnbroker,False
+4,1965,1966,38,ACTOR,Oskar Werner,Ship of Fools,False
+5,1965,1966,38,ACTOR IN A SUPPORTING ROLE,Martin Balsam,A Thousand Clowns,True
+6,1965,1966,38,ACTOR IN A SUPPORTING ROLE,Ian Bannen,The Flight of the Phoenix,False
+7,1965,1966,38,ACTOR IN A SUPPORTING ROLE,Tom Courtenay,Doctor Zhivago,False
+8,1965,1966,38,ACTOR IN A SUPPORTING ROLE,Michael Dunn,Ship of Fools,False
+9,1965,1966,38,ACTOR IN A SUPPORTING ROLE,Frank Finlay,Othello,False
+10,1965,1966,38,ACTRESS,Julie Andrews,The Sound of Music,False
+11,1965,1966,38,ACTRESS,Julie Christie,Darling,True
+12,1965,1966,38,ACTRESS,Samantha Eggar,The Collector,False
+13,1965,1966,38,ACTRESS,Elizabeth Hartman,A Patch of Blue,False
+14,1965,1966,38,ACTRESS,Simone Signoret,Ship of Fools,False
+15,1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Inside Daisy Clover,False
+16,1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Othello,False
+17,1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,Othello,False
+18,1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,A Patch of Blue,True
+19,1965,1966,38,ACTRESS IN A SUPPORTING ROLE,Peggy Wood,The Sound of Music,False
+20,1965,1966,38,ART DIRECTION (Black-and-White),Art Direction:  Robert Emmet Smith;  Set Decoration:  Frank Tuttle,King Rat,False
+21,1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Urie McCleary;  Set Decoration:  Henry Grace, Charles S. Thompson",A Patch of Blue,False
+22,1965,1966,38,ART DIRECTION (Black-and-White),Art Direction:  Robert Clatworthy;  Set Decoration:  Joseph Kish,Ship of Fools,True
+23,1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Jack Poplin;  Set Decoration:  Robert Benton, Joseph Kish",The Slender Thread,False
+24,1965,1966,38,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Tambi Larsen, Edward Marshall;  Set Decoration:  Josie MacAvin",The Spy Who Came In from the Cold,False
+25,1965,1966,38,ART DIRECTION (Color),"Art Direction:  John DeCuir, Jack Martin Smith;  Set Decoration:  Dario Simoni",The Agony and the Ecstasy,False
+26,1965,1966,38,ART DIRECTION (Color),"Art Direction:  John Box, Terry Marsh;  Set Decoration:  Dario Simoni",Doctor Zhivago,True
+27,1965,1966,38,ART DIRECTION (Color),"Art Direction:  Richard Day, William Creber, David Hall;  Set Decoration:  Ray Moyer, Fred MacLean, Norman Rockett",The Greatest Story Ever Told,False
+28,1965,1966,38,ART DIRECTION (Color),Art Direction:  Robert Clatworthy;  Set Decoration:  George James Hopkins,Inside Daisy Clover,False
+29,1965,1966,38,ART DIRECTION (Color),"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, Ruby Levitt",The Sound of Music,False
+30,1965,1966,38,CINEMATOGRAPHY (Black-and-White),Loyal Griggs,In Harm's Way,False
+31,1965,1966,38,CINEMATOGRAPHY (Black-and-White),Burnett Guffey,King Rat,False
+32,1965,1966,38,CINEMATOGRAPHY (Black-and-White),Conrad Hall,Morituri,False
+33,1965,1966,38,CINEMATOGRAPHY (Black-and-White),Robert Burks,A Patch of Blue,False
+34,1965,1966,38,CINEMATOGRAPHY (Black-and-White),Ernest Laszlo,Ship of Fools,True
+35,1965,1966,38,CINEMATOGRAPHY (Color),Leon Shamroy,The Agony and the Ecstasy,False
+36,1965,1966,38,CINEMATOGRAPHY (Color),Freddie Young,Doctor Zhivago,True
+37,1965,1966,38,CINEMATOGRAPHY (Color),Russell Harlan,The Great Race,False
+38,1965,1966,38,CINEMATOGRAPHY (Color),"William C. Mellor, Loyal Griggs",The Greatest Story Ever Told,False
+39,1965,1966,38,CINEMATOGRAPHY (Color),Ted McCord,The Sound of Music,False
+40,1965,1966,38,COSTUME DESIGN (Black-and-White),Julie Harris,Darling,True
+41,1965,1966,38,COSTUME DESIGN (Black-and-White),Moss Mabry,Morituri,False
+42,1965,1966,38,COSTUME DESIGN (Black-and-White),Howard Shoup,A Rage to Live,False
+43,1965,1966,38,COSTUME DESIGN (Black-and-White),"Bill Thomas, Jean Louis",Ship of Fools,False
+44,1965,1966,38,COSTUME DESIGN (Black-and-White),Edith Head,The Slender Thread,False
+45,1965,1966,38,COSTUME DESIGN (Color),Vittorio Nino Novarese,The Agony and the Ecstasy,False
+46,1965,1966,38,COSTUME DESIGN (Color),Phyllis Dalton,Doctor Zhivago,True
+47,1965,1966,38,COSTUME DESIGN (Color),"Vittorio Nino Novarese, Marjorie Best",The Greatest Story Ever Told,False
+48,1965,1966,38,COSTUME DESIGN (Color),"Edith Head, Bill Thomas",Inside Daisy Clover,False
+49,1965,1966,38,COSTUME DESIGN (Color),Dorothy Jeakins,The Sound of Music,False
+50,1965,1966,38,DIRECTING,William Wyler,The Collector,False
+51,1965,1966,38,DIRECTING,John Schlesinger,Darling,False
+52,1965,1966,38,DIRECTING,David Lean,Doctor Zhivago,False
+53,1965,1966,38,DIRECTING,Robert Wise,The Sound of Music,True
+54,1965,1966,38,DIRECTING,Hiroshi Teshigahara,Woman in the Dunes,False
+55,1965,1966,38,DOCUMENTARY (Feature),"Laurence E. Mascott, Producer",The Battle of the Bulge...The Brave Rifles,False
+56,1965,1966,38,DOCUMENTARY (Feature),"Sidney Glazier, Producer",The Eleanor Roosevelt Story,True
+57,1965,1966,38,DOCUMENTARY (Feature),"Peter Mills, Producer",The Forth Road Bridge,False
+58,1965,1966,38,DOCUMENTARY (Feature),"Marshall Flaum, Producer",Let My People Go,False
+59,1965,1966,38,DOCUMENTARY (Feature),"Frédéric Rossif, Producer",To Die in Madrid,False
+60,1965,1966,38,DOCUMENTARY (Short Subject),"Kirk Smallman, Producer",Mural on Our Street,False
+61,1965,1966,38,DOCUMENTARY (Short Subject),Mafilm Productions,Ouverture,False
+62,1965,1966,38,DOCUMENTARY (Short Subject),Vision Associates Productions,Point of View,False
+63,1965,1966,38,DOCUMENTARY (Short Subject),"Francis Thompson, Producer",To Be Alive!,True
+64,1965,1966,38,DOCUMENTARY (Short Subject),"Patrick Carey and Joe Mendoza, Producers",Yeats Country,False
+65,1965,1966,38,FILM EDITING,Charles Nelson,Cat Ballou,False
+66,1965,1966,38,FILM EDITING,Norman Savage,Doctor Zhivago,False
+67,1965,1966,38,FILM EDITING,Michael Luciano,The Flight of the Phoenix,False
+68,1965,1966,38,FILM EDITING,Ralph E. Winters,The Great Race,False
+69,1965,1966,38,FILM EDITING,William Reynolds,The Sound of Music,True
+70,1965,1966,38,FOREIGN LANGUAGE FILM,Greece,Blood on the Land,False
+71,1965,1966,38,FOREIGN LANGUAGE FILM,Sweden,Dear John,False
+72,1965,1966,38,FOREIGN LANGUAGE FILM,Japan,Kwaidan,False
+73,1965,1966,38,FOREIGN LANGUAGE FILM,Italy,Marriage Italian Style,False
+74,1965,1966,38,FOREIGN LANGUAGE FILM,Czechoslovakia,The Shop on Main Street,True
+75,1965,1966,38,MUSIC (Music Score--substantially original),Alex North,The Agony and the Ecstasy,False
+76,1965,1966,38,MUSIC (Music Score--substantially original),Maurice Jarre,Doctor Zhivago,True
+77,1965,1966,38,MUSIC (Music Score--substantially original),Alfred Newman,The Greatest Story Ever Told,False
+78,1965,1966,38,MUSIC (Music Score--substantially original),Jerry Goldsmith,A Patch of Blue,False
+79,1965,1966,38,MUSIC (Music Score--substantially original),"Michel Legrand, Jacques Demy",The Umbrellas of Cherbourg,False
+80,1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),DeVol,Cat Ballou,False
+81,1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),"Lionel Newman, Alexander Courage",The Pleasure Seekers,False
+82,1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Irwin Kostal,The Sound of Music,True
+83,1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Don Walker,A Thousand Clowns,False
+84,1965,1966,38,MUSIC (Scoring of Music--adaptation or treatment),Michel Legrand,The Umbrellas of Cherbourg,False
+85,1965,1966,38,MUSIC (Song),Music by Jerry Livingston; Lyrics by Mack David,Cat Ballou,False
+86,1965,1966,38,MUSIC (Song),Music by Michel Legrand; Lyrics by Jacques Demy; English Lyrics by Norman Gimbel,The Umbrellas of Cherbourg,False
+87,1965,1966,38,MUSIC (Song),Music by Johnny Mandel; Lyrics by Paul Francis Webster,The Sandpiper,True
+88,1965,1966,38,MUSIC (Song),Music by Henry Mancini; Lyrics by Johnny Mercer,The Great Race,False
+89,1965,1966,38,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,What's New Pussycat?,False
+90,1965,1966,38,BEST PICTURE,"Joseph Janni, Producer",Darling,False
+91,1965,1966,38,BEST PICTURE,"Carlo Ponti, Producer",Doctor Zhivago,False
+92,1965,1966,38,BEST PICTURE,"Stanley Kramer, Producer",Ship of Fools,False
+93,1965,1966,38,BEST PICTURE,"Robert Wise, Producer",The Sound of Music,True
+94,1965,1966,38,BEST PICTURE,"Fred Coe, Producer",A Thousand Clowns,False
+95,1965,1966,38,SHORT SUBJECT (Cartoon),"Eliot Noyes, Jr., Producer",Clay or The Origin of Species,False
+96,1965,1966,38,SHORT SUBJECT (Cartoon),"Chuck Jones and Les Goldman, Producers",The Dot and the Line,True
+97,1965,1966,38,SHORT SUBJECT (Cartoon),"Emanuele Luzzati, Producer",The Thieving Magpie (La Gazza Ladra),False
+98,1965,1966,38,SHORT SUBJECT (Live Action),"Claude Berri, Producer",The Chicken (Le Poulet),True
+99,1965,1966,38,SHORT SUBJECT (Live Action),"Lothar Wolff, Producer",Fortress of Peace,False
+100,1965,1966,38,SHORT SUBJECT (Live Action),"Marshal Backlar and Noel Black, Producers",Skaterdater,False
+101,1965,1966,38,SHORT SUBJECT (Live Action),"Edgar Anstey, Producer",Snow,False
+102,1965,1966,38,SHORT SUBJECT (Live Action),"Jim Henson, Producer",Time Piece,False
+103,1965,1966,38,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",The Agony and the Ecstasy,False
+104,1965,1966,38,SOUND,"Metro-Goldwyn-Mayer British Studio Sound Department, A. W. Watkins, Sound Director; and Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Doctor Zhivago,False
+105,1965,1966,38,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",The Great Race,False
+106,1965,1966,38,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Shenandoah,False
+107,1965,1966,38,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director; and Todd-AO Sound Department, Fred Hynes, Sound Director",The Sound of Music,True
+108,1965,1966,38,SOUND EFFECTS,Tregoweth Brown,The Great Race,True
+109,1965,1966,38,SOUND EFFECTS,Walter A. Rossi,Von Ryan's Express,False
+110,1965,1966,38,SPECIAL VISUAL EFFECTS,J. McMillan Johnson,The Greatest Story Ever Told,False
+111,1965,1966,38,SPECIAL VISUAL EFFECTS,John Stears,Thunderball,True
+112,1965,1966,38,WRITING (Screenplay--based on material from another medium),"Walter Newman, Frank R. Pierson",Cat Ballou,False
+113,1965,1966,38,WRITING (Screenplay--based on material from another medium),"Stanley Mann, John Kohn",The Collector,False
+114,1965,1966,38,WRITING (Screenplay--based on material from another medium),Robert Bolt,Doctor Zhivago,True
+115,1965,1966,38,WRITING (Screenplay--based on material from another medium),Abby Mann,Ship of Fools,False
+116,1965,1966,38,WRITING (Screenplay--based on material from another medium),Herb Gardner,A Thousand Clowns,False
+117,1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Age, Scarpelli, Mario Monicelli, Tonino Guerra, Giorgio Salvioni, Suso Cecchi D'Amico",Casanova '70,False
+118,1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),Frederic Raphael,Darling,True
+119,1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Jack Davies, Ken Annakin",Those Magnificent Men in Their Flying Machines,False
+120,1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),"Franklin Coen, Frank Davis",The Train,False
+121,1965,1966,38,WRITING (Story and Screenplay--written directly for the screen),Jacques Demy,The Umbrellas of Cherbourg,False
+122,1965,1966,38,JEAN HERSHOLT HUMANITARIAN AWARD,Edmond L. DePatie,,True
+123,1965,1966,38,HONORARY AWARD, Bob Hope for unique and distinguished service to our industry and the Academy.,,True
+124,1965,1966,38,IRVING G. THALBERG MEMORIAL AWARD,William Wyler,,True

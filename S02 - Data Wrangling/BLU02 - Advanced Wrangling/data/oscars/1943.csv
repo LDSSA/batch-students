@@ -1,0 +1,187 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1942,1943,15,ACTOR,James Cagney,Yankee Doodle Dandy,True
+1,1942,1943,15,ACTOR,Ronald Colman,Random Harvest,False
+2,1942,1943,15,ACTOR,Gary Cooper,The Pride of the Yankees,False
+3,1942,1943,15,ACTOR,Walter Pidgeon,Mrs. Miniver,False
+4,1942,1943,15,ACTOR,Monty Woolley,The Pied Piper,False
+5,1942,1943,15,ACTOR IN A SUPPORTING ROLE,William Bendix,Wake Island,False
+6,1942,1943,15,ACTOR IN A SUPPORTING ROLE,Van Heflin,Johnny Eager,True
+7,1942,1943,15,ACTOR IN A SUPPORTING ROLE,Walter Huston,Yankee Doodle Dandy,False
+8,1942,1943,15,ACTOR IN A SUPPORTING ROLE,Frank Morgan,Tortilla Flat,False
+9,1942,1943,15,ACTOR IN A SUPPORTING ROLE,Henry Travers,Mrs. Miniver,False
+10,1942,1943,15,ACTRESS,Bette Davis,"Now, Voyager",False
+11,1942,1943,15,ACTRESS,Greer Garson,Mrs. Miniver,True
+12,1942,1943,15,ACTRESS,Katharine Hepburn,Woman of the Year,False
+13,1942,1943,15,ACTRESS,Rosalind Russell,My Sister Eileen,False
+14,1942,1943,15,ACTRESS,Teresa Wright,The Pride of the Yankees,False
+15,1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,"Now, Voyager",False
+16,1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,The Magnificent Ambersons,False
+17,1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Susan Peters,Random Harvest,False
+18,1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Dame May Whitty,Mrs. Miniver,False
+19,1942,1943,15,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,Mrs. Miniver,True
+20,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Max Parker, Mark-Lee Kirk;  Interior Decoration:  Casey Roberts",George Washington Slept Here,False
+21,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Albert S. D'Agostino;  Interior Decoration:  Darrell Silvera, Al Fields",The Magnificent Ambersons,False
+22,1942,1943,15,ART DIRECTION (Black-and-White),Art Direction:  Perry Ferguson;  Interior Decoration:  Howard Bristol,The Pride of the Yankees,False
+23,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Randall Duell;  Interior Decoration:  Edwin B. Willis, Jack Moore",Random Harvest,False
+24,1942,1943,15,ART DIRECTION (Black-and-White),Art Direction:  Boris Leven;  Interior Decoration:  Boris Leven,The Shanghai Gesture,False
+25,1942,1943,15,ART DIRECTION (Black-and-White),Art Direction:  Ralph Berger;  Interior Decoration:  Emile Kuri,Silver Queen,False
+26,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Jack Otterson, John B. Goodman;  Interior Decoration:  Russell A. Gausman, Edward R. Robinson",The Spoilers,False
+27,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Roland Anderson;  Interior Decoration:  Sam Comer","Take a Letter, Darling",False
+28,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Lionel Banks, Rudolph Sternad;  Interior Decoration:  Fay Babcock",The Talk of the Town,False
+29,1942,1943,15,ART DIRECTION (Black-and-White),"Art Direction:  Richard Day, Joseph Wright;  Interior Decoration:  Thomas Little",This above All,True
+30,1942,1943,15,ART DIRECTION (Color),"Art Direction:  Jack Otterson, Alexander Golitzen;  Interior Decoration:  Russell A. Gausman, Ira S. Webb",Arabian Nights,False
+31,1942,1943,15,ART DIRECTION (Color),Art Direction:  Ted Smith;  Interior Decoration:  Casey Roberts,Captains of the Clouds,False
+32,1942,1943,15,ART DIRECTION (Color),Art Direction:  Vincent Korda;  Interior Decoration:  Julia Heron,Jungle Book,False
+33,1942,1943,15,ART DIRECTION (Color),"Art Direction:  Richard Day, Joseph Wright;  Interior Decoration:  Thomas Little",My Gal Sal,True
+34,1942,1943,15,ART DIRECTION (Color),"Art Direction:  Hans Dreier, Roland Anderson;  Interior Decoration:  George Sawley",Reap the Wild Wind,False
+35,1942,1943,15,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Kings Row,False
+36,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Stanley Cortez,The Magnificent Ambersons,False
+37,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Joseph Ruttenberg,Mrs. Miniver,True
+38,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Charles Clarke,Moontide,False
+39,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Edward Cronjager,The Pied Piper,False
+40,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Rudolph Maté,The Pride of the Yankees,False
+41,1942,1943,15,CINEMATOGRAPHY (Black-and-White),John Mescall,"Take a Letter, Darling",False
+42,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Ted Tetzlaff,The Talk of the Town,False
+43,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Leon Shamroy,Ten Gentlemen from West Point,False
+44,1942,1943,15,CINEMATOGRAPHY (Black-and-White),Arthur Miller,This above All,False
+45,1942,1943,15,CINEMATOGRAPHY (Color),"Milton Krasner, William V. Skall, W. Howard Greene",Arabian Nights,False
+46,1942,1943,15,CINEMATOGRAPHY (Color),Leon Shamroy,The Black Swan,True
+47,1942,1943,15,CINEMATOGRAPHY (Color),Sol Polito,Captains of the Clouds,False
+48,1942,1943,15,CINEMATOGRAPHY (Color),W. Howard Greene,Jungle Book,False
+49,1942,1943,15,CINEMATOGRAPHY (Color),"Victor Milner, William V. Skall",Reap the Wild Wind,False
+50,1942,1943,15,CINEMATOGRAPHY (Color),"Edward Cronjager, William V. Skall",To the Shores of Tripoli,False
+51,1942,1943,15,DIRECTING,Sam Wood,Kings Row,False
+52,1942,1943,15,DIRECTING,William Wyler,Mrs. Miniver,True
+53,1942,1943,15,DIRECTING,Mervyn LeRoy,Random Harvest,False
+54,1942,1943,15,DIRECTING,John Farrow,Wake Island,False
+55,1942,1943,15,DIRECTING,Michael Curtiz,Yankee Doodle Dandy,False
+56,1942,1943,15,DOCUMENTARY,The March of Time,"Africa, Prelude to Victory",False
+57,1942,1943,15,DOCUMENTARY,United States Navy,The Battle of Midway,True
+58,1942,1943,15,DOCUMENTARY,United States Army Signal Corps,Combat Report,False
+59,1942,1943,15,DOCUMENTARY,"Frederic Ullman, Jr., Producer",Conquer by the Clock,False
+60,1942,1943,15,DOCUMENTARY,"Walt Disney, Producer",The Grain That Built a Hemisphere,False
+61,1942,1943,15,DOCUMENTARY,United States Department of Agriculture,"Henry Browne, Farmer",False
+62,1942,1943,15,DOCUMENTARY,National Film Board of Canada,High over the Borders,False
+63,1942,1943,15,DOCUMENTARY,The Netherlands Information Bureau,High Stakes in the East,False
+64,1942,1943,15,DOCUMENTARY,National Film Board of Canada,Inside Fighting China,False
+65,1942,1943,15,DOCUMENTARY,United States Office of War Information,It's Everybody's War,False
+66,1942,1943,15,DOCUMENTARY,Australian News & Information Bureau,Kokoda Front Line!,True
+67,1942,1943,15,DOCUMENTARY,British Ministry of Information,Listen to Britain,False
+68,1942,1943,15,DOCUMENTARY,Belgian Ministry of Information,Little Belgium,False
+69,1942,1943,15,DOCUMENTARY,"Victor Stoloff and Edgar Loew, Producers",Little Isles of Freedom,False
+70,1942,1943,15,DOCUMENTARY,United States Office of War Information,Mr. Blabbermouth!,False
+71,1942,1943,15,DOCUMENTARY,United States Office of War Information,Mr. Gardenia Jones,False
+72,1942,1943,15,DOCUMENTARY,Artkino,Moscow Strikes Back,True
+73,1942,1943,15,DOCUMENTARY,"Walt Disney, Producer",The New Spirit,False
+74,1942,1943,15,DOCUMENTARY,United States Army Special Services,Prelude to War,True
+75,1942,1943,15,DOCUMENTARY,"William H. Pine, Producer",The Price of Victory,False
+76,1942,1943,15,DOCUMENTARY,United States Merchant Marine,A Ship Is Born,False
+77,1942,1943,15,DOCUMENTARY,British Ministry of Information,Twenty-One Miles,False
+78,1942,1943,15,DOCUMENTARY,"William C. Thomas, Producer",We Refuse to Die,False
+79,1942,1943,15,DOCUMENTARY,Concanen Films,White Eagle,False
+80,1942,1943,15,DOCUMENTARY,United States Army Air Force,Winning Your Wings,False
+81,1942,1943,15,FILM EDITING,Harold F. Kress,Mrs. Miniver,False
+82,1942,1943,15,FILM EDITING,Daniel Mandell,The Pride of the Yankees,True
+83,1942,1943,15,FILM EDITING,Otto Meyer,The Talk of the Town,False
+84,1942,1943,15,FILM EDITING,Walter Thompson,This above All,False
+85,1942,1943,15,FILM EDITING,George Amy,Yankee Doodle Dandy,False
+86,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Frank Skinner,Arabian Nights,False
+87,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),"Frank Churchill, Edward Plumb",Bambi,False
+88,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Black Swan,False
+89,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,The Corsican Brothers,False
+90,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Flying Tigers,False
+91,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Terr,The Gold Rush,False
+92,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Roy Webb,I Married a Witch,False
+93,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Roy Webb,Joan of Paris,False
+94,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Jungle Book,False
+95,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Edward Kay,Klondike Fury,False
+96,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,"Now, Voyager",True
+97,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Leigh Harline,The Pride of the Yankees,False
+98,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Herbert Stothart,Random Harvest,False
+99,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Richard Hageman,The Shanghai Gesture,False
+100,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Silver Queen,False
+101,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,"Take a Letter, Darling",False
+102,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),"Frederick Hollander, Morris Stoloff",The Talk of the Town,False
+103,1942,1943,15,MUSIC (Music Score of a Dramatic or Comedy Picture),Werner Heymann,To Be or Not to Be,False
+104,1942,1943,15,MUSIC (Scoring of a Musical Picture),Edward Ward,Flying with Music,False
+105,1942,1943,15,MUSIC (Scoring of a Musical Picture),"Roger Edens, Georgie Stoll",For Me and My Gal,False
+106,1942,1943,15,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Holiday Inn,False
+107,1942,1943,15,MUSIC (Scoring of a Musical Picture),"Hans Salter, Charles Previn",It Started with Eve,False
+108,1942,1943,15,MUSIC (Scoring of a Musical Picture),Walter Scharf,Johnny Doughboy,False
+109,1942,1943,15,MUSIC (Scoring of a Musical Picture),Alfred Newman,My Gal Sal,False
+110,1942,1943,15,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Heinz Roemheld",Yankee Doodle Dandy,True
+111,1942,1943,15,MUSIC (Scoring of a Musical Picture),Leigh Harline,You Were Never Lovelier,False
+112,1942,1943,15,MUSIC (Song),Music by Ernesto Lecuona; Lyrics by Kim Gannon,Always in My Heart,False
+113,1942,1943,15,MUSIC (Song),Music by Jerome Kern; Lyrics by Johnny Mercer,You Were Never Lovelier,False
+114,1942,1943,15,MUSIC (Song),Music by Burton Lane; Lyrics by Ralph Freed,Babes on Broadway,False
+115,1942,1943,15,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Youth on Parade,False
+116,1942,1943,15,MUSIC (Song),Music by Harry Warren; Lyrics by Mack Gordon,Orchestra Wives,False
+117,1942,1943,15,MUSIC (Song),Music by Frank Churchill; Lyrics by Larry Morey,Bambi,False
+118,1942,1943,15,MUSIC (Song),Music by Edward Ward; Lyrics by Chet Forrest and Bob Wright,Flying with Music,False
+119,1942,1943,15,MUSIC (Song),Music by Gene de Paul; Lyrics by Don Raye,Hellzapoppin',False
+120,1942,1943,15,MUSIC (Song),Music by Harry Revel; Lyrics by Mort Greene,The Mayor of 44th Street,False
+121,1942,1943,15,MUSIC (Song),Music and Lyrics by Irving Berlin,Holiday Inn,True
+122,1942,1943,15,OUTSTANDING MOTION PICTURE,Ortus,The Invaders,False
+123,1942,1943,15,OUTSTANDING MOTION PICTURE,Warner Bros.,Kings Row,False
+124,1942,1943,15,OUTSTANDING MOTION PICTURE,Mercury,The Magnificent Ambersons,False
+125,1942,1943,15,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,Mrs. Miniver,True
+126,1942,1943,15,OUTSTANDING MOTION PICTURE,20th Century-Fox,The Pied Piper,False
+127,1942,1943,15,OUTSTANDING MOTION PICTURE,Samuel Goldwyn Productions,The Pride of the Yankees,False
+128,1942,1943,15,OUTSTANDING MOTION PICTURE,Metro-Goldwyn-Mayer,Random Harvest,False
+129,1942,1943,15,OUTSTANDING MOTION PICTURE,Columbia,The Talk of the Town,False
+130,1942,1943,15,OUTSTANDING MOTION PICTURE,Paramount,Wake Island,False
+131,1942,1943,15,OUTSTANDING MOTION PICTURE,Warner Bros.,Yankee Doodle Dandy,False
+132,1942,1943,15,SHORT SUBJECT (Cartoon),20th Century-Fox,All Out for 'V',False
+133,1942,1943,15,SHORT SUBJECT (Cartoon),Metro-Goldwyn-Mayer,Blitz Wolf,False
+134,1942,1943,15,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Der Fuehrer's Face,True
+135,1942,1943,15,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Juke Box Jamboree,False
+136,1942,1943,15,SHORT SUBJECT (Cartoon),"Leon Schlesinger, Producer",Pigs in a Polka,False
+137,1942,1943,15,SHORT SUBJECT (Cartoon),"George Pal, Producer",Tulips Shall Grow,False
+138,1942,1943,15,SHORT SUBJECT (One-reel),20th Century-Fox,Desert Wonderland,False
+139,1942,1943,15,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Marines in the Making,False
+140,1942,1943,15,SHORT SUBJECT (One-reel),Paramount,Speaking of Animals and Their Families,True
+141,1942,1943,15,SHORT SUBJECT (One-reel),Warner Bros.,United States Marine Band,False
+142,1942,1943,15,SHORT SUBJECT (Two-reel),Warner Bros.,Beyond the Line of Duty,True
+143,1942,1943,15,SHORT SUBJECT (Two-reel),Metro-Goldwyn-Mayer,Don't Talk,False
+144,1942,1943,15,SHORT SUBJECT (Two-reel),RKO Radio,Private Smith of the U.S.A.,False
+145,1942,1943,15,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",Arabian Nights,False
+146,1942,1943,15,SOUND RECORDING,"Walt Disney Studio Sound Department, Sam Slyfield, Sound Director",Bambi,False
+147,1942,1943,15,SOUND RECORDING,"Republic Studio Sound Department, Daniel Bloomberg, Sound Director",Flying Tigers,False
+148,1942,1943,15,SOUND RECORDING,"Sound Service, Inc., Jack Whitney, Sound Director",Friendly Enemies,False
+149,1942,1943,15,SOUND RECORDING,"RCA Sound, James Fields, Sound Director",The Gold Rush,False
+150,1942,1943,15,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",Mrs. Miniver,False
+151,1942,1943,15,SOUND RECORDING,"RKO Radio Studio Sound Department, Steve Dunn, Sound Director",Once upon a Honeymoon,False
+152,1942,1943,15,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Thomas T. Moulton, Sound Director",The Pride of the Yankees,False
+153,1942,1943,15,SOUND RECORDING,"Paramount Studio Sound Department, Loren Ryder, Sound Director",Road to Morocco,False
+154,1942,1943,15,SOUND RECORDING,"20th Century-Fox Studio Sound Department, E. H. Hansen, Sound Director",This above All,False
+155,1942,1943,15,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Yankee Doodle Dandy,True
+156,1942,1943,15,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",You Were Never Lovelier,False
+157,1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by Fred Sersen; Sound Effects by Roger Heman, George Leverett",The Black Swan,False
+158,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by Byron Haskin; Sound Effects by Nathan Levinson,Desperate Journey,False
+159,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by Howard Lydecker; Sound Effects by Daniel J. Bloomberg,Flying Tigers,False
+160,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by John Fulton; Sound Effects by Bernard B. Brown,Invisible Agent,False
+161,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by Lawrence Butler; Sound Effects by William H. Wilmarth,Jungle Book,False
+162,1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by A. Arnold Gillespie, Warren Newcombe; Sound Effects by Douglas Shearer",Mrs. Miniver,False
+163,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by Vernon L. Walker; Sound Effects by James G. Stewart,The Navy Comes Through,False
+164,1942,1943,15,SPECIAL EFFECTS,Photographic Effects by Ronald Neame; Sound Effects by C. C. Stevens,One of Our Aircraft Is Missing,False
+165,1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by Jack Cosgrove, Ray Binger; Sound Effects by Thomas T. Moulton",The Pride of the Yankees,False
+166,1942,1943,15,SPECIAL EFFECTS,"Photographic Effects by Gordon Jennings, Farciot Edouart, William L. Pereira; Sound Effects by Louis Mesenkop",Reap the Wild Wind,True
+167,1942,1943,15,WRITING (Original Motion Picture Story),Irving Berlin,Holiday Inn,False
+168,1942,1943,15,WRITING (Original Motion Picture Story),Emeric Pressburger,The Invaders,True
+169,1942,1943,15,WRITING (Original Motion Picture Story),Paul Gallico,The Pride of the Yankees,False
+170,1942,1943,15,WRITING (Original Motion Picture Story),Sidney Harmon,The Talk of the Town,False
+171,1942,1943,15,WRITING (Original Motion Picture Story),Robert Buckner,Yankee Doodle Dandy,False
+172,1942,1943,15,WRITING (Original Screenplay),"Michael Powell, Emeric Pressburger",One of Our Aircraft Is Missing,False
+173,1942,1943,15,WRITING (Original Screenplay),"Frank Butler, Don Hartman",Road to Morocco,False
+174,1942,1943,15,WRITING (Original Screenplay),"W. R. Burnett, Frank Butler",Wake Island,False
+175,1942,1943,15,WRITING (Original Screenplay),George Oppenheimer,The War against Mrs. Hadley,False
+176,1942,1943,15,WRITING (Original Screenplay),"Ring Lardner, Jr., Michael Kanin",Woman of the Year,True
+177,1942,1943,15,WRITING (Screenplay),"Rodney Ackland, Emeric Pressburger",The Invaders,False
+178,1942,1943,15,WRITING (Screenplay),"Arthur Wimperis, George Froeschel, James Hilton, Claudine West",Mrs. Miniver,True
+179,1942,1943,15,WRITING (Screenplay),"Jo Swerling, Herman J. Mankiewicz",The Pride of the Yankees,False
+180,1942,1943,15,WRITING (Screenplay),"Claudine West, George Froeschel, Arthur Wimperis",Random Harvest,False
+181,1942,1943,15,WRITING (Screenplay),"Irwin Shaw, Sidney Buchman",The Talk of the Town,False
+182,1942,1943,15,SPECIAL AWARD, Charles Boyer for his progressive cultural achievement in establishing the French Research Foundation in Los Angeles as a source of reference for the Hollywood Motion Picture Industry.,,True
+183,1942,1943,15,SPECIAL AWARD, Noel Coward for his outstanding production achievement in In Which We Serve.,,True
+184,1942,1943,15,SPECIAL AWARD," Metro-Goldwyn-Mayer for its achievement in representing the American Way of Life in the production of the ""Andy Hardy"" series of films.",,True
+185,1942,1943,15,IRVING G. THALBERG MEMORIAL AWARD,Sidney Franklin,,True

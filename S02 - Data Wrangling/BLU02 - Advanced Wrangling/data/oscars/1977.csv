@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1976,1977,49,ACTOR IN A LEADING ROLE,Robert De Niro,Taxi Driver,False
+1,1976,1977,49,ACTOR IN A LEADING ROLE,Peter Finch,Network,True
+2,1976,1977,49,ACTOR IN A LEADING ROLE,Giancarlo Giannini,Seven Beauties,False
+3,1976,1977,49,ACTOR IN A LEADING ROLE,William Holden,Network,False
+4,1976,1977,49,ACTOR IN A LEADING ROLE,Sylvester Stallone,Rocky,False
+5,1976,1977,49,ACTOR IN A SUPPORTING ROLE,Ned Beatty,Network,False
+6,1976,1977,49,ACTOR IN A SUPPORTING ROLE,Burgess Meredith,Rocky,False
+7,1976,1977,49,ACTOR IN A SUPPORTING ROLE,Laurence Olivier,Marathon Man,False
+8,1976,1977,49,ACTOR IN A SUPPORTING ROLE,Jason Robards,All the President's Men,True
+9,1976,1977,49,ACTOR IN A SUPPORTING ROLE,Burt Young,Rocky,False
+10,1976,1977,49,ACTRESS IN A LEADING ROLE,Marie-Christine Barrault,"Cousin, Cousine",False
+11,1976,1977,49,ACTRESS IN A LEADING ROLE,Faye Dunaway,Network,True
+12,1976,1977,49,ACTRESS IN A LEADING ROLE,Talia Shire,Rocky,False
+13,1976,1977,49,ACTRESS IN A LEADING ROLE,Sissy Spacek,Carrie,False
+14,1976,1977,49,ACTRESS IN A LEADING ROLE,Liv Ullmann,Face to Face,False
+15,1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Jane Alexander,All the President's Men,False
+16,1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Jodie Foster,Taxi Driver,False
+17,1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Voyage of the Damned,False
+18,1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Piper Laurie,Carrie,False
+19,1976,1977,49,ACTRESS IN A SUPPORTING ROLE,Beatrice Straight,Network,True
+20,1976,1977,49,ART DIRECTION,Art Direction:  George Jenkins;  Set Decoration:  George Gaines,All the President's Men,True
+21,1976,1977,49,ART DIRECTION,"Art Direction:  Elliot Scott, Norman Reynolds;  Set Decoration:  Peter Howitt",The Incredible Sarah,False
+22,1976,1977,49,ART DIRECTION,"Art Direction:  Gene Callahan, Jack Collis;  Set Decoration:  Jerry Wunderlich",The Last Tycoon,False
+23,1976,1977,49,ART DIRECTION,Art Direction:  Dale Hennesy;  Set Decoration:  Robert de Vestel,Logan's Run,False
+24,1976,1977,49,ART DIRECTION,Art Direction:  Robert F. Boyle;  Set Decoration:  Arthur Jeph Parker,The Shootist,False
+25,1976,1977,49,CINEMATOGRAPHY,Haskell Wexler,Bound for Glory,True
+26,1976,1977,49,CINEMATOGRAPHY,Richard H. Kline,King Kong,False
+27,1976,1977,49,CINEMATOGRAPHY,Ernest Laszlo,Logan's Run,False
+28,1976,1977,49,CINEMATOGRAPHY,Owen Roizman,Network,False
+29,1976,1977,49,CINEMATOGRAPHY,Robert Surtees,A Star Is Born,False
+30,1976,1977,49,COSTUME DESIGN,William Theiss,Bound for Glory,False
+31,1976,1977,49,COSTUME DESIGN,Danilo Donati,Fellini's Casanova,True
+32,1976,1977,49,COSTUME DESIGN,Anthony Mendleson,The Incredible Sarah,False
+33,1976,1977,49,COSTUME DESIGN,Mary Wills,The Passover Plot,False
+34,1976,1977,49,COSTUME DESIGN,Alan Barrett,The Seven-per-cent Solution,False
+35,1976,1977,49,DIRECTING,Alan J. Pakula,All the President's Men,False
+36,1976,1977,49,DIRECTING,Ingmar Bergman,Face to Face,False
+37,1976,1977,49,DIRECTING,Sidney Lumet,Network,False
+38,1976,1977,49,DIRECTING,John G. Avildsen,Rocky,True
+39,1976,1977,49,DIRECTING,Lina Wertmüller,Seven Beauties,False
+40,1976,1977,49,DOCUMENTARY (Feature),"Barbara Kopple, Producer","Harlan County, U.S.A.",True
+41,1976,1977,49,DOCUMENTARY (Feature),"James Gutman and David Helpern, Jr., Producers",Hollywood on Trial,False
+42,1976,1977,49,DOCUMENTARY (Feature),"Michael Firth, Producer",Off the Edge,False
+43,1976,1977,49,DOCUMENTARY (Feature),"Anthony Howarth and David Koff, Producers",People of the Wind,False
+44,1976,1977,49,DOCUMENTARY (Feature),"Donald Brittain and Robert Duncan, Producers",Volcano:  An Inquiry into the Life and Death of Malcolm Lowry,False
+45,1976,1977,49,DOCUMENTARY (Short Subject),"Sparky Greene, Producer",American Shoeshine,False
+46,1976,1977,49,DOCUMENTARY (Short Subject),"Tony Ianzelo and Andy Thomson, Producers",Blackwood,False
+47,1976,1977,49,DOCUMENTARY (Short Subject),"John Armstrong, Producer",The End of the Road,False
+48,1976,1977,49,DOCUMENTARY (Short Subject),"Lynne Littman, Producer",Number Our Days,True
+49,1976,1977,49,DOCUMENTARY (Short Subject),"Lester Novros, Producer",Universe,False
+50,1976,1977,49,FILM EDITING,Robert L. Wolfe,All the President's Men,False
+51,1976,1977,49,FILM EDITING,"Robert Jones, Pembroke J. Herring",Bound for Glory,False
+52,1976,1977,49,FILM EDITING,Alan Heim,Network,False
+53,1976,1977,49,FILM EDITING,"Richard Halsey, Scott Conrad",Rocky,True
+54,1976,1977,49,FILM EDITING,"Eve Newman, Walter Hannemann",Two-Minute Warning,False
+55,1976,1977,49,FOREIGN LANGUAGE FILM,Ivory Coast,Black and White in Color,True
+56,1976,1977,49,FOREIGN LANGUAGE FILM,France,"Cousin, Cousine",False
+57,1976,1977,49,FOREIGN LANGUAGE FILM,German Democratic Republic,"Jacob, the Liar",False
+58,1976,1977,49,FOREIGN LANGUAGE FILM,Poland,Nights and Days,False
+59,1976,1977,49,FOREIGN LANGUAGE FILM,Italy,Seven Beauties,False
+60,1976,1977,49,MUSIC (Original Score),Bernard Herrmann,Obsession,False
+61,1976,1977,49,MUSIC (Original Score),Jerry Goldsmith,The Omen,True
+62,1976,1977,49,MUSIC (Original Score),Jerry Fielding,The Outlaw Josey Wales,False
+63,1976,1977,49,MUSIC (Original Score),Bernard Herrmann,Taxi Driver,False
+64,1976,1977,49,MUSIC (Original Score),Lalo Schifrin,Voyage of the Damned,False
+65,1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Leonard Rosenman,Bound for Glory,True
+66,1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Song Score and Adaptation Score by Paul Williams,Bugsy Malone,False
+67,1976,1977,49,MUSIC (Original Song Score and Its Adaptation or Adaptation Score),Adaptation Score by Roger Kellaway,A Star Is Born,False
+68,1976,1977,49,MUSIC (Original Song),Music by Sammy Fain; Lyrics by Paul Francis Webster,Half a House,False
+69,1976,1977,49,MUSIC (Original Song),Music and Lyrics by Jerry Goldsmith,The Omen,False
+70,1976,1977,49,MUSIC (Original Song),Music by Henry Mancini; Lyrics by Don Black,The Pink Panther Strikes Again,False
+71,1976,1977,49,MUSIC (Original Song),Music by Barbra Streisand; Lyrics by Paul Williams,A Star Is Born,True
+72,1976,1977,49,MUSIC (Original Song),Music by Bill Conti; Lyrics by Carol Connors and Ayn Robbins,Rocky,False
+73,1976,1977,49,BEST PICTURE,"Walter Coblenz, Producer",All the President's Men,False
+74,1976,1977,49,BEST PICTURE,"Robert F. Blumofe and Harold Leventhal, Producers",Bound for Glory,False
+75,1976,1977,49,BEST PICTURE,"Howard Gottfried, Producer",Network,False
+76,1976,1977,49,BEST PICTURE,"Irwin Winkler and Robert Chartoff, Producers",Rocky,True
+77,1976,1977,49,BEST PICTURE,"Michael Phillips and Julia Phillips, Producers",Taxi Driver,False
+78,1976,1977,49,SHORT FILM (Animated),"Manfredo Manfredi, Producer",Dedalo,False
+79,1976,1977,49,SHORT FILM (Animated),"Suzanne Baker, Producer",Leisure,True
+80,1976,1977,49,SHORT FILM (Animated),"Caroline Leaf and Guy Glover, Producers",The Street,False
+81,1976,1977,49,SHORT FILM (Live Action),"Andre Guttfreund and Peter Werner, Producers",In the Region of Ice,True
+82,1976,1977,49,SHORT FILM (Live Action),"Marjorie Anne Short, Producer",Kudzu,False
+83,1976,1977,49,SHORT FILM (Live Action),"Julian Chagrin and Claude Chagrin, Producers",The Morning Spider,False
+84,1976,1977,49,SHORT FILM (Live Action),"Claire Wilbur and Robin Lehman, Producers",Nightlife,False
+85,1976,1977,49,SHORT FILM (Live Action),"Dyan Cannon and Vince Cannon, Producers",Number One,False
+86,1976,1977,49,SOUND,"Arthur Piantadosi, Les Fresholtz, Dick Alexander, Jim Webb",All the President's Men,True
+87,1976,1977,49,SOUND,"Harry Warren Tetrick, William McCaughey, Aaron Rochin, Jack Solomon",King Kong,False
+88,1976,1977,49,SOUND,"Harry Warren Tetrick, William McCaughey, Lyle Burbridge, Bud Alper",Rocky,False
+89,1976,1977,49,SOUND,"Donald Mitchell, Douglas Williams, Richard Tyler, Hal Etherington",Silver Streak,False
+90,1976,1977,49,SOUND,"Robert Knudson, Dan Wallin, Robert Glass, Tom Overton",A Star Is Born,False
+91,1976,1977,49,WRITING (Screenplay--based on material from another medium),William Goldman,All the President's Men,True
+92,1976,1977,49,WRITING (Screenplay--based on material from another medium),Robert Getchell,Bound for Glory,False
+93,1976,1977,49,WRITING (Screenplay--based on material from another medium),"Federico Fellini, Bernardino Zapponi",Fellini's Casanova,False
+94,1976,1977,49,WRITING (Screenplay--based on material from another medium),Nicholas Meyer,The Seven-per-cent Solution,False
+95,1976,1977,49,WRITING (Screenplay--based on material from another medium),"Steve Shagan, David Butler",Voyage of the Damned,False
+96,1976,1977,49,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Story and Screenplay by Jean-Charles Tacchella;  Adaptation by Daniele Thompson,"Cousin, Cousine",False
+97,1976,1977,49,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Walter Bernstein,The Front,False
+98,1976,1977,49,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Paddy Chayefsky,Network,True
+99,1976,1977,49,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Sylvester Stallone,Rocky,False
+100,1976,1977,49,WRITING (Screenplay Written Directly for the Screen--based on factual material or on story material not previously published or produced),Lina Wertmüller,Seven Beauties,False
+101,1976,1977,49,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Carlo Rambaldi, Glen Robinson, Frank Van der Veer",King Kong,True
+102,1976,1977,49,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"L. B. Abbott, Glen Robinson, Matthew Yuricich",Logan's Run,True
+103,1976,1977,49,IRVING G. THALBERG MEMORIAL AWARD,Pandro S. Berman,,True

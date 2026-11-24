@@ -1,0 +1,112 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1979,1980,52,ACTOR IN A LEADING ROLE,Dustin Hoffman,Kramer vs. Kramer,True
+1,1979,1980,52,ACTOR IN A LEADING ROLE,Jack Lemmon,The China Syndrome,False
+2,1979,1980,52,ACTOR IN A LEADING ROLE,Al Pacino,...And Justice for All,False
+3,1979,1980,52,ACTOR IN A LEADING ROLE,Roy Scheider,All That Jazz,False
+4,1979,1980,52,ACTOR IN A LEADING ROLE,Peter Sellers,Being There,False
+5,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Being There,True
+6,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Robert Duvall,Apocalypse Now,False
+7,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Frederic Forrest,The Rose,False
+8,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Justin Henry,Kramer vs. Kramer,False
+9,1979,1980,52,ACTOR IN A SUPPORTING ROLE,Mickey Rooney,The Black Stallion,False
+10,1979,1980,52,ACTRESS IN A LEADING ROLE,Jill Clayburgh,Starting Over,False
+11,1979,1980,52,ACTRESS IN A LEADING ROLE,Sally Field,Norma Rae,True
+12,1979,1980,52,ACTRESS IN A LEADING ROLE,Jane Fonda,The China Syndrome,False
+13,1979,1980,52,ACTRESS IN A LEADING ROLE,Marsha Mason,Chapter Two,False
+14,1979,1980,52,ACTRESS IN A LEADING ROLE,Bette Midler,The Rose,False
+15,1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Jane Alexander,Kramer vs. Kramer,False
+16,1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Barbara Barrie,Breaking Away,False
+17,1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Candice Bergen,Starting Over,False
+18,1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Mariel Hemingway,Manhattan,False
+19,1979,1980,52,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Kramer vs. Kramer,True
+20,1979,1980,52,ART DIRECTION,"Art Direction:  Michael Seymour, Les Dilley, Roger Christian;  Set Decoration:  Ian Whittaker",Alien,False
+21,1979,1980,52,ART DIRECTION,"Art Direction:  Philip Rosenberg, Tony Walton;  Set Decoration:  Edward Stewart, Gary Brink",All That Jazz,True
+22,1979,1980,52,ART DIRECTION,"Art Direction:  Dean Tavoularis, Angelo Graham;  Set Decoration:  George R. Nelson",Apocalypse Now,False
+23,1979,1980,52,ART DIRECTION,Art Direction:  George Jenkins;  Set Decoration:  Arthur Jeph Parker,The China Syndrome,False
+24,1979,1980,52,ART DIRECTION,"Art Direction:  Harold Michelson, Joe Jennings, Leon Harris, John Vallone;  Set Decoration:  Linda DeScenna",Star Trek - The Motion Picture,False
+25,1979,1980,52,CINEMATOGRAPHY,Giuseppe Rotunno,All That Jazz,False
+26,1979,1980,52,CINEMATOGRAPHY,Vittorio Storaro,Apocalypse Now,True
+27,1979,1980,52,CINEMATOGRAPHY,Frank Phillips,The Black Hole,False
+28,1979,1980,52,CINEMATOGRAPHY,Nestor Almendros,Kramer vs. Kramer,False
+29,1979,1980,52,CINEMATOGRAPHY,William A. Fraker,1941,False
+30,1979,1980,52,COSTUME DESIGN,Shirley Russell,Agatha,False
+31,1979,1980,52,COSTUME DESIGN,Albert Wolsky,All That Jazz,True
+32,1979,1980,52,COSTUME DESIGN,William Ware Theiss,Butch and Sundance: The Early Days,False
+33,1979,1980,52,COSTUME DESIGN,Judy Moorcroft,The Europeans,False
+34,1979,1980,52,COSTUME DESIGN,"Piero Tosi, Ambra Danon",La Cage aux Folles,False
+35,1979,1980,52,DIRECTING,Bob Fosse,All That Jazz,False
+36,1979,1980,52,DIRECTING,Francis Coppola,Apocalypse Now,False
+37,1979,1980,52,DIRECTING,Peter Yates,Breaking Away,False
+38,1979,1980,52,DIRECTING,Robert Benton,Kramer vs. Kramer,True
+39,1979,1980,52,DIRECTING,Edouard Molinaro,La Cage aux Folles,False
+40,1979,1980,52,DOCUMENTARY (Feature),"Ira Wohl, Producer",Best Boy,True
+41,1979,1980,52,DOCUMENTARY (Feature),"David A. Vassar, Producer",Generation on the Wind,False
+42,1979,1980,52,DOCUMENTARY (Feature),"Paul Cowan and Jacques Bobet, Producers",Going the Distance,False
+43,1979,1980,52,DOCUMENTARY (Feature),"Steve Singer and Tom Priestley, Producers",The Killing Ground,False
+44,1979,1980,52,DOCUMENTARY (Feature),"Glenn Silber and Barry Alexander Brown, Producers",The War at Home,False
+45,1979,1980,52,DOCUMENTARY (Short Subject),"Risto Teofilovski, Producer",Dae,False
+46,1979,1980,52,DOCUMENTARY (Short Subject),"Donald A. Connolly and James R. Messenger, Producers",Koryo Celadon,False
+47,1979,1980,52,DOCUMENTARY (Short Subject),"Phillip Borsos, Producer",Nails,False
+48,1979,1980,52,DOCUMENTARY (Short Subject),"Saul J. Turell, Producer",Paul Robeson: Tribute to an Artist,True
+49,1979,1980,52,DOCUMENTARY (Short Subject),"Dick Young, Producer",Remember Me,False
+50,1979,1980,52,FILM EDITING,Alan Heim,All That Jazz,True
+51,1979,1980,52,FILM EDITING,"Richard Marks, Walter Murch, Gerald B. Greenberg, Lisa Fruchtman",Apocalypse Now,False
+52,1979,1980,52,FILM EDITING,Robert Dalva,The Black Stallion,False
+53,1979,1980,52,FILM EDITING,Jerry Greenberg,Kramer vs. Kramer,False
+54,1979,1980,52,FILM EDITING,"Robert L. Wolfe, C. Timothy O'Meara",The Rose,False
+55,1979,1980,52,FOREIGN LANGUAGE FILM,Poland,The Maids of Wilko,False
+56,1979,1980,52,FOREIGN LANGUAGE FILM,Spain,Mama Turns a Hundred,False
+57,1979,1980,52,FOREIGN LANGUAGE FILM,France,A Simple Story,False
+58,1979,1980,52,FOREIGN LANGUAGE FILM,Federal Republic of Germany,The Tin Drum,True
+59,1979,1980,52,FOREIGN LANGUAGE FILM,Italy,To Forget Venice,False
+60,1979,1980,52,MUSIC (Original Score),Lalo Schifrin,The Amityville Horror,False
+61,1979,1980,52,MUSIC (Original Score),Dave Grusin,The Champ,False
+62,1979,1980,52,MUSIC (Original Score),Georges Delerue,A Little Romance,True
+63,1979,1980,52,MUSIC (Original Score),Jerry Goldsmith,Star Trek - The Motion Picture,False
+64,1979,1980,52,MUSIC (Original Score),Henry Mancini,10,False
+65,1979,1980,52,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Adaptation Score by Ralph Burns,All That Jazz,True
+66,1979,1980,52,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Adaptation Score by Patrick Williams,Breaking Away,False
+67,1979,1980,52,MUSIC (Original Song Score and Its Adaptation -or- Adaptation Score),Song Score by Paul Williams and Kenny Ascher; Adaptation Score by Paul Williams,The Muppet Movie,False
+68,1979,1980,52,MUSIC (Original Song),Music by David Shire; Lyric by Alan Bergman and Marilyn Bergman,The Promise,False
+69,1979,1980,52,MUSIC (Original Song),Music by David Shire; Lyric by Norman Gimbel,Norma Rae,True
+70,1979,1980,52,MUSIC (Original Song),Music by Henry Mancini; Lyric by Robert Wells,10,False
+71,1979,1980,52,MUSIC (Original Song),Music and Lyric by Paul Williams and Kenny Ascher,The Muppet Movie,False
+72,1979,1980,52,MUSIC (Original Song),Music by Marvin Hamlisch; Lyric by Carole Bayer Sager,Ice Castles,False
+73,1979,1980,52,BEST PICTURE,"Robert Alan Aurthur, Producer",All That Jazz,False
+74,1979,1980,52,BEST PICTURE,"Francis Coppola, Producer;  Fred Roos, Gray Frederickson and Tom Sternberg, Co-Producers",Apocalypse Now,False
+75,1979,1980,52,BEST PICTURE,"Peter Yates, Producer",Breaking Away,False
+76,1979,1980,52,BEST PICTURE,"Stanley R. Jaffe, Producer",Kramer vs. Kramer,True
+77,1979,1980,52,BEST PICTURE,"Tamara Asseyev and Alex Rose, Producers",Norma Rae,False
+78,1979,1980,52,SHORT FILM (Animated),"Bob Godfrey and Zlatko Grgic, Producers",Dream Doll,False
+79,1979,1980,52,SHORT FILM (Animated),"Derek Lamb, Producer",Every Child,True
+80,1979,1980,52,SHORT FILM (Animated),"Paul Fierlinger, Producer",It's So Nice to Have a Wolf around the House,False
+81,1979,1980,52,SHORT FILM (Live Action),"Sarah Pillsbury and Ron Ellis, Producers",Board and Care,True
+82,1979,1980,52,SHORT FILM (Live Action),"Roman Kroitor and Stefan Wodoslawsky, Producers",Bravery in the Field,False
+83,1979,1980,52,SHORT FILM (Live Action),"Carol Lowell and Ross Lowell, Producers","Oh Brother, My Brother",False
+84,1979,1980,52,SHORT FILM (Live Action),"Saul Bass and Michael Britton, Producers",The Solar Film,False
+85,1979,1980,52,SHORT FILM (Live Action),"Harry Mathias, Jay Zukerman and Larry Hankin, Producers",Solly's Diner,False
+86,1979,1980,52,SOUND,"Walter Murch, Mark Berger, Richard Beggs, Nat Boxer",Apocalypse Now,True
+87,1979,1980,52,SOUND,"Arthur Piantadosi, Les Fresholtz, Michael Minkler, Al Overton",The Electric Horseman,False
+88,1979,1980,52,SOUND,"William McCaughey, Aaron Rochin, Michael J. Kohut, Jack Solomon",Meteor,False
+89,1979,1980,52,SOUND,"Robert Knudson, Robert J. Glass, Don MacDougall, Gene S. Cantamessa",1941,False
+90,1979,1980,52,SOUND,"Theodore Soderberg, Douglas Williams, Paul Wells, Jim Webb",The Rose,False
+91,1979,1980,52,VISUAL EFFECTS,"H.R. Giger, Carlo Rambaldi, Brian Johnson, Nick Allder, Denys Ayling",Alien,True
+92,1979,1980,52,VISUAL EFFECTS,"Peter Ellenshaw, Art Cruickshank, Eustace Lycett, Danny Lee, Harrison Ellenshaw, Joe Hale",The Black Hole,False
+93,1979,1980,52,VISUAL EFFECTS,"Derek Meddings, Paul Wilson, John Evans",Moonraker,False
+94,1979,1980,52,VISUAL EFFECTS,"William A. Fraker, A. D. Flowers, Gregory Jein",1941,False
+95,1979,1980,52,VISUAL EFFECTS,"Douglas Trumbull, John Dykstra, Richard Yuricich, Robert Swarthe, Dave Stewart, Grant McCune",Star Trek - The Motion Picture,False
+96,1979,1980,52,WRITING (Screenplay Based on Material from Another Medium),"John Milius, Francis Coppola",Apocalypse Now,False
+97,1979,1980,52,WRITING (Screenplay Based on Material from Another Medium),Robert Benton,Kramer vs. Kramer,True
+98,1979,1980,52,WRITING (Screenplay Based on Material from Another Medium),"Francis Veber, Edouard Molinaro, Marcello Danon, Jean Poiret",La Cage aux Folles,False
+99,1979,1980,52,WRITING (Screenplay Based on Material from Another Medium),Allan Burns,A Little Romance,False
+100,1979,1980,52,WRITING (Screenplay Based on Material from Another Medium),"Irving Ravetch, Harriet Frank, Jr.",Norma Rae,False
+101,1979,1980,52,WRITING (Screenplay Written Directly for the Screen),"Robert Alan Aurthur, Bob Fosse",All That Jazz,False
+102,1979,1980,52,WRITING (Screenplay Written Directly for the Screen),"Valerie Curtin, Barry Levinson",...And Justice for All,False
+103,1979,1980,52,WRITING (Screenplay Written Directly for the Screen),Steve Tesich,Breaking Away,True
+104,1979,1980,52,WRITING (Screenplay Written Directly for the Screen),"Mike Gray, T.S. Cook, James Bridges",The China Syndrome,False
+105,1979,1980,52,WRITING (Screenplay Written Directly for the Screen),"Woody Allen, Marshall Brickman",Manhattan,False
+106,1979,1980,52,SPECIAL ACHIEVEMENT AWARD (Sound Editing),Alan Splet,The Black Stallion,True
+107,1979,1980,52,JEAN HERSHOLT HUMANITARIAN AWARD,Robert Benjamin,,True
+108,1979,1980,52,HONORARY AWARD, Alec Guinness for advancing the art of screen acting through a host of memorable and distinguished performances.,,True
+109,1979,1980,52,HONORARY AWARD, Hal Elias for his dedication and distinguished service to the Academy of Motion Picture Arts and Sciences.,,True
+110,1979,1980,52,IRVING G. THALBERG MEMORIAL AWARD,Ray Stark,,True

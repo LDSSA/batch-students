@@ -1,0 +1,106 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1989,1990,62,ACTOR IN A LEADING ROLE,Kenneth Branagh,Henry V,False
+1,1989,1990,62,ACTOR IN A LEADING ROLE,Tom Cruise,Born on the Fourth of July,False
+2,1989,1990,62,ACTOR IN A LEADING ROLE,Daniel Day Lewis,My Left Foot,True
+3,1989,1990,62,ACTOR IN A LEADING ROLE,Morgan Freeman,Driving Miss Daisy,False
+4,1989,1990,62,ACTOR IN A LEADING ROLE,Robin Williams,Dead Poets Society,False
+5,1989,1990,62,ACTOR IN A SUPPORTING ROLE,Danny Aiello,Do the Right Thing,False
+6,1989,1990,62,ACTOR IN A SUPPORTING ROLE,Dan Aykroyd,Driving Miss Daisy,False
+7,1989,1990,62,ACTOR IN A SUPPORTING ROLE,Marlon Brando,A Dry White Season,False
+8,1989,1990,62,ACTOR IN A SUPPORTING ROLE,Martin Landau,Crimes and Misdemeanors,False
+9,1989,1990,62,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Glory,True
+10,1989,1990,62,ACTRESS IN A LEADING ROLE,Isabelle Adjani,Camille Claudel,False
+11,1989,1990,62,ACTRESS IN A LEADING ROLE,Pauline Collins,Shirley Valentine,False
+12,1989,1990,62,ACTRESS IN A LEADING ROLE,Jessica Lange,Music Box,False
+13,1989,1990,62,ACTRESS IN A LEADING ROLE,Michelle Pfeiffer,The Fabulous Baker Boys,False
+14,1989,1990,62,ACTRESS IN A LEADING ROLE,Jessica Tandy,Driving Miss Daisy,True
+15,1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot,True
+16,1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,"Enemies, A Love Story",False
+17,1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Lena Olin,"Enemies, A Love Story",False
+18,1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,Steel Magnolias,False
+19,1989,1990,62,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Parenthood,False
+20,1989,1990,62,ART DIRECTION,Art Direction:  Leslie Dilley;  Set Decoration:  Anne Kuljian,The Abyss,False
+21,1989,1990,62,ART DIRECTION,Art Direction:  Dante Ferretti;  Set Decoration:  Francesca Lo Schiavo,The Adventures of Baron Munchausen,False
+22,1989,1990,62,ART DIRECTION,Art Direction:  Anton Furst;  Set Decoration:  Peter Young,Batman,True
+23,1989,1990,62,ART DIRECTION,Art Direction:  Bruno Rubeo;  Set Decoration:  Crispian Sallis,Driving Miss Daisy,False
+24,1989,1990,62,ART DIRECTION,Art Direction:  Norman Garwood;  Set Decoration:  Garrett Lewis,Glory,False
+25,1989,1990,62,CINEMATOGRAPHY,Mikael Salomon,The Abyss,False
+26,1989,1990,62,CINEMATOGRAPHY,Haskell Wexler,Blaze,False
+27,1989,1990,62,CINEMATOGRAPHY,Robert Richardson,Born on the Fourth of July,False
+28,1989,1990,62,CINEMATOGRAPHY,Michael Ballhaus,The Fabulous Baker Boys,False
+29,1989,1990,62,CINEMATOGRAPHY,Freddie Francis,Glory,True
+30,1989,1990,62,COSTUME DESIGN,Gabriella Pescucci,The Adventures of Baron Munchausen,False
+31,1989,1990,62,COSTUME DESIGN,Elizabeth McBride,Driving Miss Daisy,False
+32,1989,1990,62,COSTUME DESIGN,Joe I. Tompkins,Harlem Nights,False
+33,1989,1990,62,COSTUME DESIGN,Phyllis Dalton,Henry V,True
+34,1989,1990,62,COSTUME DESIGN,Theodor Pistek,Valmont,False
+35,1989,1990,62,DIRECTING,Oliver Stone,Born on the Fourth of July,True
+36,1989,1990,62,DIRECTING,Woody Allen,Crimes and Misdemeanors,False
+37,1989,1990,62,DIRECTING,Peter Weir,Dead Poets Society,False
+38,1989,1990,62,DIRECTING,Kenneth Branagh,Henry V,False
+39,1989,1990,62,DIRECTING,Jim Sheridan,My Left Foot,False
+40,1989,1990,62,DOCUMENTARY (Feature),"Richard Kilberg and Yvonne Smith, Producers",Adam Clayton Powell,False
+41,1989,1990,62,DOCUMENTARY (Feature),"Robert Epstein and Bill Couturié, Producers",Common Threads: Stories from the Quilt,True
+42,1989,1990,62,DOCUMENTARY (Feature),"Vince DiPersio and William Guttentag, Producers",Crack USA: County under Siege,False
+43,1989,1990,62,DOCUMENTARY (Feature),"Al Reinert and Betsy Broyles Breier, Producers",For All Mankind,False
+44,1989,1990,62,DOCUMENTARY (Feature),"Judith Leonard and Bill Jersey, Producers",Super Chief: The Life and Legacy of Earl Warren,False
+45,1989,1990,62,DOCUMENTARY (Short Subject),"David Petersen, Producer","Fine Food, Fine Pastries, Open 6 to 9",False
+46,1989,1990,62,DOCUMENTARY (Short Subject),"Charles Guggenheim, Producer",The Johnstown Flood,True
+47,1989,1990,62,DOCUMENTARY (Short Subject),"Ray Errol Fox, Producer",Yad Vashem: Preserving the Past to Ensure the Future,False
+48,1989,1990,62,FILM EDITING,Noëlle Boisson,The Bear,False
+49,1989,1990,62,FILM EDITING,"David Brenner, Joe Hutshing",Born on the Fourth of July,True
+50,1989,1990,62,FILM EDITING,Mark Warner,Driving Miss Daisy,False
+51,1989,1990,62,FILM EDITING,William Steinkamp,The Fabulous Baker Boys,False
+52,1989,1990,62,FILM EDITING,Steven Rosenblum,Glory,False
+53,1989,1990,62,FOREIGN LANGUAGE FILM,France,Camille Claudel,False
+54,1989,1990,62,FOREIGN LANGUAGE FILM,Italy,Cinema Paradiso,True
+55,1989,1990,62,FOREIGN LANGUAGE FILM,Canada,Jesus of Montreal,False
+56,1989,1990,62,FOREIGN LANGUAGE FILM,Denmark,Waltzing Regitze,False
+57,1989,1990,62,FOREIGN LANGUAGE FILM,Puerto Rico,What Happened to Santiago,False
+58,1989,1990,62,MAKEUP,"Maggie Weston, Fabrizio Sforza",The Adventures of Baron Munchausen,False
+59,1989,1990,62,MAKEUP,"Dick Smith, Ken Diaz, Greg Nelson",Dad,False
+60,1989,1990,62,MAKEUP,"Manlio Rocchetti, Lynn Barber, Kevin Haney",Driving Miss Daisy,True
+61,1989,1990,62,MUSIC (Original Score),John Williams,Born on the Fourth of July,False
+62,1989,1990,62,MUSIC (Original Score),David Grusin,The Fabulous Baker Boys,False
+63,1989,1990,62,MUSIC (Original Score),James Horner,Field of Dreams,False
+64,1989,1990,62,MUSIC (Original Score),John Williams,Indiana Jones and the Last Crusade,False
+65,1989,1990,62,MUSIC (Original Score),Alan Menken,The Little Mermaid,True
+66,1989,1990,62,MUSIC (Original Song),Music by Tom Snow; Lyric by Dean Pitchford,Chances Are,False
+67,1989,1990,62,MUSIC (Original Song),Music by Marvin Hamlisch; Lyric by Alan Bergman and Marilyn Bergman,Shirley Valentine,False
+68,1989,1990,62,MUSIC (Original Song),Music and Lyric by Randy Newman,Parenthood,False
+69,1989,1990,62,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,The Little Mermaid,False
+70,1989,1990,62,MUSIC (Original Song),Music by Alan Menken; Lyric by Howard Ashman,The Little Mermaid,True
+71,1989,1990,62,BEST PICTURE,"A. Kitman Ho and Oliver Stone, Producers",Born on the Fourth of July,False
+72,1989,1990,62,BEST PICTURE,"Steven Haft, Paul Junger Witt and Tony Thomas, Producers",Dead Poets Society,False
+73,1989,1990,62,BEST PICTURE,"Richard D. Zanuck and Lili Fini Zanuck, Producers",Driving Miss Daisy,True
+74,1989,1990,62,BEST PICTURE,"Lawrence Gordon and Charles Gordon, Producers",Field of Dreams,False
+75,1989,1990,62,BEST PICTURE,"Noel Pearson, Producer",My Left Foot,False
+76,1989,1990,62,SHORT FILM (Animated),"Christoph Lauenstein, Wolfgang Lauenstein",Balance,True
+77,1989,1990,62,SHORT FILM (Animated),Alexander Petrov,The Cow,False
+78,1989,1990,62,SHORT FILM (Animated),Mark Baker,The Hill Farm,False
+79,1989,1990,62,SHORT FILM (Live Action),Robert Nixon,Amazon Diary,False
+80,1989,1990,62,SHORT FILM (Live Action),Jonathan Tammuz,The Childeater,False
+81,1989,1990,62,SHORT FILM (Live Action),James Hendrie,Work Experience,True
+82,1989,1990,62,SOUND,"Don Bassman, Kevin F. Cleary, Richard Overton, Lee Orloff",The Abyss,False
+83,1989,1990,62,SOUND,"Donald O. Mitchell, Kevin O'Connell, Greg P. Russell, Keith A. Wester",Black Rain,False
+84,1989,1990,62,SOUND,"Michael Minkler, Gregory H. Watkins, Wylie Stateman, Tod A. Maitland",Born on the Fourth of July,False
+85,1989,1990,62,SOUND,"Donald O. Mitchell, Gregg C. Rudloff, Elliot Tyson, Russell Williams II",Glory,True
+86,1989,1990,62,SOUND,"Ben Burtt, Gary Summers, Shawn Murphy, Tony Dawe",Indiana Jones and the Last Crusade,False
+87,1989,1990,62,SOUND EFFECTS EDITING,"Milton C. Burrow, William L. Manger",Black Rain,False
+88,1989,1990,62,SOUND EFFECTS EDITING,"Ben Burtt, Richard Hymns",Indiana Jones and the Last Crusade,True
+89,1989,1990,62,SOUND EFFECTS EDITING,"Robert Henderson, Alan Robert Murray",Lethal Weapon 2,False
+90,1989,1990,62,VISUAL EFFECTS,"John Bruno, Dennis Muren, Hoyt Yeatman, Dennis Skotak",The Abyss,True
+91,1989,1990,62,VISUAL EFFECTS,"Richard Conway, Kent Houston",The Adventures of Baron Munchausen,False
+92,1989,1990,62,VISUAL EFFECTS,"Ken Ralston, Michael Lantieri, John Bell, Steve Gawley",Back to the Future Part II,False
+93,1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Oliver Stone, Ron Kovic",Born on the Fourth of July,False
+94,1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),Alfred Uhry,Driving Miss Daisy,True
+95,1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Roger L. Simon, Paul Mazursky","Enemies, A Love Story",False
+96,1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),Phil Alden Robinson,Field of Dreams,False
+97,1989,1990,62,WRITING (Screenplay Based on Material from Another Medium),"Jim Sheridan, Shane Connaughton",My Left Foot,False
+98,1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Woody Allen,Crimes and Misdemeanors,False
+99,1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Tom Schulman,Dead Poets Society,True
+100,1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Spike Lee,Do the Right Thing,False
+101,1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Steven Soderbergh,"sex, lies, and videotape",False
+102,1989,1990,62,WRITING (Screenplay Written Directly for the Screen),Nora Ephron,When Harry Met Sally...,False
+103,1989,1990,62,JEAN HERSHOLT HUMANITARIAN AWARD,Howard W. Koch,,True
+104,1989,1990,62,HONORARY AWARD, Akira Kurosawa for accomplishments that have inspired,,True

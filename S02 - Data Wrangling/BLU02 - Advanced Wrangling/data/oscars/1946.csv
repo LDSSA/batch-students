@@ -1,0 +1,161 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1945,1946,18,ACTOR,Bing Crosby,The Bells of St. Mary's,False
+1,1945,1946,18,ACTOR,Gene Kelly,Anchors Aweigh,False
+2,1945,1946,18,ACTOR,Ray Milland,The Lost Weekend,True
+3,1945,1946,18,ACTOR,Gregory Peck,The Keys of the Kingdom,False
+4,1945,1946,18,ACTOR,Cornel Wilde,A Song to Remember,False
+5,1945,1946,18,ACTOR IN A SUPPORTING ROLE,Michael Chekhov,Spellbound,False
+6,1945,1946,18,ACTOR IN A SUPPORTING ROLE,John Dall,The Corn Is Green,False
+7,1945,1946,18,ACTOR IN A SUPPORTING ROLE,James Dunn,A Tree Grows in Brooklyn,True
+8,1945,1946,18,ACTOR IN A SUPPORTING ROLE,Robert Mitchum,G. I. Joe,False
+9,1945,1946,18,ACTOR IN A SUPPORTING ROLE,J. Carrol Naish,A Medal for Benny,False
+10,1945,1946,18,ACTRESS,Ingrid Bergman,The Bells of St. Mary's,False
+11,1945,1946,18,ACTRESS,Joan Crawford,Mildred Pierce,True
+12,1945,1946,18,ACTRESS,Greer Garson,The Valley of Decision,False
+13,1945,1946,18,ACTRESS,Jennifer Jones,Love Letters,False
+14,1945,1946,18,ACTRESS,Gene Tierney,Leave Her to Heaven,False
+15,1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Eve Arden,Mildred Pierce,False
+16,1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Ann Blyth,Mildred Pierce,False
+17,1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,The Picture of Dorian Gray,False
+18,1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Joan Lorring,The Corn Is Green,False
+19,1945,1946,18,ACTRESS IN A SUPPORTING ROLE,Anne Revere,National Velvet,True
+20,1945,1946,18,ART DIRECTION (Black-and-White),Art Direction:  Wiard Ihnen;  Interior Decoration:  A. Roland Fields,Blood on the Sun,True
+21,1945,1946,18,ART DIRECTION (Black-and-White),"Art Direction:  Albert S. D'Agostino, Jack Okey;  Interior Decoration:  Darrell Silvera, Claude Carpenter",Experiment Perilous,False
+22,1945,1946,18,ART DIRECTION (Black-and-White),"Art Direction:  James Basevi, William Darling;  Interior Decoration:  Thomas Little, Frank E. Hughes",The Keys of the Kingdom,False
+23,1945,1946,18,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Roland Anderson;  Interior Decoration:  Sam Comer, Ray Moyer",Love Letters,False
+24,1945,1946,18,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Hans Peters;  Interior Decoration:  Edwin B. Willis, Hugh Hunt, John Bonar",The Picture of Dorian Gray,False
+25,1945,1946,18,ART DIRECTION (Color),"Art Direction:  Hans Dreier, Ernst Fegte;  Interior Decoration:  Sam Comer",Frenchman's Creek,True
+26,1945,1946,18,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, Maurice Ransford;  Interior Decoration:  Thomas Little",Leave Her to Heaven,False
+27,1945,1946,18,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Urie McCleary;  Interior Decoration:  Edwin B. Willis, Mildred Griffiths",National Velvet,False
+28,1945,1946,18,ART DIRECTION (Color),Art Direction:  Ted Smith;  Interior Decoration:  Jack McConaghy,San Antonio,False
+29,1945,1946,18,ART DIRECTION (Color),"Art Direction:  Stephen Goosson, Rudolph Sternad;  Interior Decoration:  Frank Tuttle",A Thousand and One Nights,False
+30,1945,1946,18,CINEMATOGRAPHY (Black-and-White),Arthur Miller,The Keys of the Kingdom,False
+31,1945,1946,18,CINEMATOGRAPHY (Black-and-White),John F. Seitz,The Lost Weekend,False
+32,1945,1946,18,CINEMATOGRAPHY (Black-and-White),Ernest Haller,Mildred Pierce,False
+33,1945,1946,18,CINEMATOGRAPHY (Black-and-White),Harry Stradling,The Picture of Dorian Gray,True
+34,1945,1946,18,CINEMATOGRAPHY (Black-and-White),George Barnes,Spellbound,False
+35,1945,1946,18,CINEMATOGRAPHY (Color),"Robert Planck, Charles Boyle",Anchors Aweigh,False
+36,1945,1946,18,CINEMATOGRAPHY (Color),Leon Shamroy,Leave Her to Heaven,True
+37,1945,1946,18,CINEMATOGRAPHY (Color),Leonard Smith,National Velvet,False
+38,1945,1946,18,CINEMATOGRAPHY (Color),"Tony Gaudio, Allen M. Davey",A Song to Remember,False
+39,1945,1946,18,CINEMATOGRAPHY (Color),George Barnes,The Spanish Main,False
+40,1945,1946,18,DIRECTING,Leo McCarey,The Bells of St. Mary's,False
+41,1945,1946,18,DIRECTING,Billy Wilder,The Lost Weekend,True
+42,1945,1946,18,DIRECTING,Clarence Brown,National Velvet,False
+43,1945,1946,18,DIRECTING,Jean Renoir,The Southerner,False
+44,1945,1946,18,DIRECTING,Alfred Hitchcock,Spellbound,False
+45,1945,1946,18,DOCUMENTARY (Feature),United States Army Air Force,The Last Bomb,False
+46,1945,1946,18,DOCUMENTARY (Feature),The Governments of Great Britain and the United States of America,The True Glory,True
+47,1945,1946,18,DOCUMENTARY (Short Subject),"Gordon Hollingshead, Producer",Hitler Lives?,True
+48,1945,1946,18,DOCUMENTARY (Short Subject),United States Office of War Information Overseas Motion Picture Bureau,Library of Congress,False
+49,1945,1946,18,DOCUMENTARY (Short Subject),United States Marine Corps,To the Shores of Iwo Jima,False
+50,1945,1946,18,FILM EDITING,Harry Marker,The Bells of St. Mary's,False
+51,1945,1946,18,FILM EDITING,Doane Harrison,The Lost Weekend,False
+52,1945,1946,18,FILM EDITING,Robert J. Kern,National Velvet,True
+53,1945,1946,18,FILM EDITING,George Amy,"Objective, Burma!",False
+54,1945,1946,18,FILM EDITING,Charles Nelson,A Song to Remember,False
+55,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Robert Emmett Dolan,The Bells of St. Mary's,False
+56,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Lou Forbes,Brewster's Millions,False
+57,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Werner Janssen,Captain Kidd,False
+58,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Roy Webb,The Enchanted Cottage,False
+59,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),"Morton Scott, Dale Butts",Flame of Barbary Coast,False
+60,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Edward J. Kay,G. I. Honeymoon,False
+61,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),"Louis Applebaum, Ann Ronell",G. I. Joe,False
+62,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Werner Janssen,Guest in the House,False
+63,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Daniele Amfitheatrof,Guest Wife,False
+64,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Alfred Newman,The Keys of the Kingdom,False
+65,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,The Lost Weekend,False
+66,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Victor Young,Love Letters,False
+67,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Karl Hajos,The Man Who Walked Alone,False
+68,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,"Objective, Burma!",False
+69,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Alexander Tansman,Paris--Underground,False
+70,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),"Miklos Rozsa, Morris Stoloff",A Song to Remember,False
+71,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Werner Janssen,The Southerner,False
+72,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Spellbound,True
+73,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),H. J. Salter,This Love of Ours,False
+74,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),Herbert Stothart,The Valley of Decision,False
+75,1945,1946,18,MUSIC (Music Score of a Dramatic or Comedy Picture),"Arthur Lange, Hugo Friedhofer",The Woman in the Window,False
+76,1945,1946,18,MUSIC (Scoring of a Musical Picture),Georgie Stoll,Anchors Aweigh,True
+77,1945,1946,18,MUSIC (Scoring of a Musical Picture),Arthur Lange,Belle of the Yukon,False
+78,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Jerome Kern, H. J. Salter",Can't Help Singing,False
+79,1945,1946,18,MUSIC (Scoring of a Musical Picture),Morton Scott,Hitchhike to Happiness,False
+80,1945,1946,18,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Incendiary Blonde,False
+81,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Max Steiner",Rhapsody in Blue,False
+82,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Alfred Newman, Charles Henderson",State Fair,False
+83,1945,1946,18,MUSIC (Scoring of a Musical Picture),Edward J. Kay,Sunbonnet Sue,False
+84,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Charles Wolcott, Edward Plumb, Paul J. Smith",The Three Caballeros,False
+85,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Marlin Skiles, Morris Stoloff",Tonight and Every Night,False
+86,1945,1946,18,MUSIC (Scoring of a Musical Picture),Walter Greene,Why Girls Leave Home,False
+87,1945,1946,18,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Lou Forbes",Wonder Man,False
+88,1945,1946,18,MUSIC (Song),Music by Harold Arlen; Lyrics by Johnny Mercer,Here Come the Waves,False
+89,1945,1946,18,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Tonight and Every Night,False
+90,1945,1946,18,MUSIC (Song),Music by James Van Heusen; Lyrics by Johnny Burke,The Bells of St. Mary's,False
+91,1945,1946,18,MUSIC (Song),Music by Jay Livingston; Lyrics by Ray Evans,Why Girls Leave Home,False
+92,1945,1946,18,MUSIC (Song),Music by Walter Kent; Lyrics by Kim Gannon,Earl Carroll Vanities,False
+93,1945,1946,18,MUSIC (Song),Music by Jule Styne; Lyrics by Sammy Cahn,Anchors Aweigh,False
+94,1945,1946,18,MUSIC (Song),Music by Allie Wrubel; Lyrics by Herb Magidson,Sing Your Way Home,False
+95,1945,1946,18,MUSIC (Song),Music by Richard Rodgers; Lyrics by Oscar Hammerstein II,State Fair,True
+96,1945,1946,18,MUSIC (Song),Music and Lyrics by Ann Ronell,G. I. Joe,False
+97,1945,1946,18,MUSIC (Song),Music by Victor Young; Lyrics by Eddie Heyman,Love Letters,False
+98,1945,1946,18,MUSIC (Song),Music by Jerome Kern; Lyrics by E. Y. Harburg,Can't Help Singing,False
+99,1945,1946,18,MUSIC (Song),Music by James Van Heusen; Lyrics by Johnny Burke,Belle of the Yukon,False
+100,1945,1946,18,MUSIC (Song),Music by David Rose; Lyrics by Leo Robin,Wonder Man,False
+101,1945,1946,18,MUSIC (Song),Music by Ray Heindorf and M. K. Jerome; Lyrics by Ted Koehler,San Antonio,False
+102,1945,1946,18,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,Anchors Aweigh,False
+103,1945,1946,18,BEST MOTION PICTURE,Rainbow Productions,The Bells of St. Mary's,False
+104,1945,1946,18,BEST MOTION PICTURE,Paramount,The Lost Weekend,True
+105,1945,1946,18,BEST MOTION PICTURE,Warner Bros.,Mildred Pierce,False
+106,1945,1946,18,BEST MOTION PICTURE,Selznick International Pictures,Spellbound,False
+107,1945,1946,18,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Donald's Crime,False
+108,1945,1946,18,SHORT SUBJECT (Cartoon),"George Pal, Producer",Jasper and the Beanstalk,False
+109,1945,1946,18,SHORT SUBJECT (Cartoon),"Eddie Selzer, Producer",Life with Feathers,False
+110,1945,1946,18,SHORT SUBJECT (Cartoon),"Paul Terry, Producer",Mighty Mouse in Gypsy Life,False
+111,1945,1946,18,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",The Poet and Peasant,False
+112,1945,1946,18,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",Quiet Please!,True
+113,1945,1946,18,SHORT SUBJECT (Cartoon),Screen Gems,Rippling Romance,False
+114,1945,1946,18,SHORT SUBJECT (One-reel),"Edmund Reek, Producer",Along the Rainbow Trail,False
+115,1945,1946,18,SHORT SUBJECT (One-reel),"Ralph Staub, Producer",Screen Snapshots' 25th Anniversary,False
+116,1945,1946,18,SHORT SUBJECT (One-reel),"Herbert Moulton, Producer;  Jerry Bresler, Executive Producer",Stairway to Light,True
+117,1945,1946,18,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Story of a Dog,False
+118,1945,1946,18,SHORT SUBJECT (One-reel),"Grantland Rice, Producer",White Rhapsody,False
+119,1945,1946,18,SHORT SUBJECT (One-reel),"Joseph O'Brien and Thomas Mead, Producers",Your National Gallery,False
+120,1945,1946,18,SHORT SUBJECT (Two-reel),"Chester Franklin, Producer;  Jerry Bresler, Executive Producer",A Gun in His Hand,False
+121,1945,1946,18,SHORT SUBJECT (Two-reel),"Jules White, Producer",The Jury Goes Round 'N' Round,False
+122,1945,1946,18,SHORT SUBJECT (Two-reel),"George Templeton, Producer",The Little Witch,False
+123,1945,1946,18,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Star in the Night,True
+124,1945,1946,18,SOUND RECORDING,"RKO Radio Studio Sound Department, Stephen Dunn, Sound Director",The Bells of St. Mary's,True
+125,1945,1946,18,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",Flame of Barbary Coast,False
+126,1945,1946,18,SOUND RECORDING,"Universal Studio Sound Department, Bernard B. Brown, Sound Director",Lady on a Train,False
+127,1945,1946,18,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",Leave Her to Heaven,False
+128,1945,1946,18,SOUND RECORDING,"Warner Bros. Studio Sound Department, Nathan Levinson, Sound Director",Rhapsody in Blue,False
+129,1945,1946,18,SOUND RECORDING,"Columbia Studio Sound Department, John P. Livadary, Sound Director",A Song to Remember,False
+130,1945,1946,18,SOUND RECORDING,"General Service, Jack Whitney, Sound Director",The Southerner,False
+131,1945,1946,18,SOUND RECORDING,"Metro-Goldwyn-Mayer Studio Sound Department, Douglas Shearer, Sound Director",They Were Expendable,False
+132,1945,1946,18,SOUND RECORDING,"Walt Disney Studio Sound Department, C. O. Slyfield, Sound Director",The Three Caballeros,False
+133,1945,1946,18,SOUND RECORDING,"RCA Sound, W. V. Wolfe, Sound Director",Three Is a Family,False
+134,1945,1946,18,SOUND RECORDING,"Paramount Studio Sound Department, Loren L. Ryder, Sound Director",The Unseen,False
+135,1945,1946,18,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",Wonder Man,False
+136,1945,1946,18,SPECIAL EFFECTS,"Photographic Effects by Fred Sersen, Sol Halprin; Sound Effects by Roger Heman, Harry Leonard",Captain Eddie,False
+137,1945,1946,18,SPECIAL EFFECTS,Photographic Effects by Jack Cosgrove,Spellbound,False
+138,1945,1946,18,SPECIAL EFFECTS,"Photographic Effects by A. Arnold Gillespie, Donald Jahraus, Robert A. MacDonald; Sound Effects by Michael Steinore",They Were Expendable,False
+139,1945,1946,18,SPECIAL EFFECTS,Photographic Effects by Lawrence W. Butler; Sound Effects by Ray Bomba,A Thousand and One Nights,False
+140,1945,1946,18,SPECIAL EFFECTS,Photographic Effects by John Fulton; Sound Effects by Arthur W. Johns,Wonder Man,True
+141,1945,1946,18,WRITING (Original Motion Picture Story),"Thomas Monroe, Laszlo Gorog",The Affairs of Susan,False
+142,1945,1946,18,WRITING (Original Motion Picture Story),Charles G. Booth,The House on 92nd Street,True
+143,1945,1946,18,WRITING (Original Motion Picture Story),"John Steinbeck, Jack Wagner",A Medal for Benny,False
+144,1945,1946,18,WRITING (Original Motion Picture Story),Alvah Bessie,"Objective, Burma!",False
+145,1945,1946,18,WRITING (Original Motion Picture Story),Ernst Marischka,A Song to Remember,False
+146,1945,1946,18,WRITING (Original Screenplay),Philip Yordan,Dillinger,False
+147,1945,1946,18,WRITING (Original Screenplay),Richard Schweizer,Marie-Louise,True
+148,1945,1946,18,WRITING (Original Screenplay),Myles Connolly,Music for Millions,False
+149,1945,1946,18,WRITING (Original Screenplay),Milton Holmes,Salty O'Rourke,False
+150,1945,1946,18,WRITING (Original Screenplay),Harry Kurnitz,"What Next, Corporal Hargrove?",False
+151,1945,1946,18,WRITING (Screenplay),"Leopold Atlas, Guy Endore, Philip Stevenson",G. I. Joe,False
+152,1945,1946,18,WRITING (Screenplay),"Charles Brackett, Billy Wilder",The Lost Weekend,True
+153,1945,1946,18,WRITING (Screenplay),Ranald MacDougall,Mildred Pierce,False
+154,1945,1946,18,WRITING (Screenplay),Albert Maltz,Pride of the Marines,False
+155,1945,1946,18,WRITING (Screenplay),"Tess Slesinger, Frank Davis",A Tree Grows in Brooklyn,False
+156,1945,1946,18,SPECIAL AWARD, Walter Wanger for his six years service as President of the Academy of Motion Picture Arts and Sciences.,,True
+157,1945,1946,18,SPECIAL AWARD, Peggy Ann Garner,,True
+158,1945,1946,18,SPECIAL AWARD, The House I Live In,,True
+159,1945,1946,18,SPECIAL AWARD, Republic Studio,,True

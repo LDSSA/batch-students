@@ -1,0 +1,125 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1966,1967,39,ACTOR,Alan Arkin,The Russians Are Coming The Russians Are Coming,False
+1,1966,1967,39,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf?,False
+2,1966,1967,39,ACTOR,Michael Caine,Alfie,False
+3,1966,1967,39,ACTOR,Steve McQueen,The Sand Pebbles,False
+4,1966,1967,39,ACTOR,Paul Scofield,A Man for All Seasons,True
+5,1966,1967,39,ACTOR IN A SUPPORTING ROLE,Mako,The Sand Pebbles,False
+6,1966,1967,39,ACTOR IN A SUPPORTING ROLE,James Mason,Georgy Girl,False
+7,1966,1967,39,ACTOR IN A SUPPORTING ROLE,Walter Matthau,The Fortune Cookie,True
+8,1966,1967,39,ACTOR IN A SUPPORTING ROLE,George Segal,Who's Afraid of Virginia Woolf?,False
+9,1966,1967,39,ACTOR IN A SUPPORTING ROLE,Robert Shaw,A Man for All Seasons,False
+10,1966,1967,39,ACTRESS,Anouk Aimee,A Man and a Woman,False
+11,1966,1967,39,ACTRESS,Ida Kaminska,The Shop on Main Street,False
+12,1966,1967,39,ACTRESS,Lynn Redgrave,Georgy Girl,False
+13,1966,1967,39,ACTRESS,Vanessa Redgrave,Morgan!,False
+14,1966,1967,39,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,True
+15,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf?,True
+16,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,A Man for All Seasons,False
+17,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Jocelyne Lagarde,Hawaii,False
+18,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Vivien Merchant,Alfie,False
+19,1966,1967,39,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,You're a Big Boy Now,False
+20,1966,1967,39,ART DIRECTION (Black-and-White),Art Direction:  Robert Luthardt;  Set Decoration:  Edward G. Boyle,The Fortune Cookie,False
+21,1966,1967,39,ART DIRECTION (Black-and-White),Luigi Scaccianoce,The Gospel According to St. Matthew,False
+22,1966,1967,39,ART DIRECTION (Black-and-White),"Art Direction:  Willy Holt;  Set Decoration:  Marc Frederix, Pierre Guffroy",Is Paris Burning?,False
+23,1966,1967,39,ART DIRECTION (Black-and-White),"Art Direction:  George W. Davis, Paul Groesse;  Set Decoration:  Henry Grace, Hugh Hunt",Mister Buddwing,False
+24,1966,1967,39,ART DIRECTION (Black-and-White),Art Direction:  Richard Sylbert;  Set Decoration:  George James Hopkins,Who's Afraid of Virginia Woolf?,True
+25,1966,1967,39,ART DIRECTION (Color),"Art Direction:  Jack Martin Smith, Dale Hennesy;  Set Decoration:  Walter M. Scott, Stuart A. Reiss",Fantastic Voyage,True
+26,1966,1967,39,ART DIRECTION (Color),"Art Direction:  Alexander Golitzen, George C. Webb;  Set Decoration:  John McCarthy, John Austin",Gambit,False
+27,1966,1967,39,ART DIRECTION (Color),Piero Gherardi,Juliet of the Spirits,False
+28,1966,1967,39,ART DIRECTION (Color),"Art Direction:  Hal Pereira, Arthur Lonergan;  Set Decoration:  Robert Benton, James Payne",The Oscar,False
+29,1966,1967,39,ART DIRECTION (Color),"Art Direction:  Boris Leven;  Set Decoration:  Walter M. Scott, John Sturtevant, William Kiernan",The Sand Pebbles,False
+30,1966,1967,39,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,The Fortune Cookie,False
+31,1966,1967,39,CINEMATOGRAPHY (Black-and-White),Ken Higgins,Georgy Girl,False
+32,1966,1967,39,CINEMATOGRAPHY (Black-and-White),Marcel Grignon,Is Paris Burning?,False
+33,1966,1967,39,CINEMATOGRAPHY (Black-and-White),James Wong Howe,Seconds,False
+34,1966,1967,39,CINEMATOGRAPHY (Black-and-White),Haskell Wexler,Who's Afraid of Virginia Woolf?,True
+35,1966,1967,39,CINEMATOGRAPHY (Color),Ernest Laszlo,Fantastic Voyage,False
+36,1966,1967,39,CINEMATOGRAPHY (Color),Russell Harlan,Hawaii,False
+37,1966,1967,39,CINEMATOGRAPHY (Color),Ted Moore,A Man for All Seasons,True
+38,1966,1967,39,CINEMATOGRAPHY (Color),Conrad Hall,The Professionals,False
+39,1966,1967,39,CINEMATOGRAPHY (Color),Joseph MacDonald,The Sand Pebbles,False
+40,1966,1967,39,COSTUME DESIGN (Black-and-White),Danilo Donati,The Gospel According to St. Matthew,False
+41,1966,1967,39,COSTUME DESIGN (Black-and-White),Danilo Donati,Mandragola,False
+42,1966,1967,39,COSTUME DESIGN (Black-and-White),Helen Rose,Mister Buddwing,False
+43,1966,1967,39,COSTUME DESIGN (Black-and-White),Jocelyn Rickards,Morgan!,False
+44,1966,1967,39,COSTUME DESIGN (Black-and-White),Irene Sharaff,Who's Afraid of Virginia Woolf?,True
+45,1966,1967,39,COSTUME DESIGN (Color),Jean Louis,Gambit,False
+46,1966,1967,39,COSTUME DESIGN (Color),Dorothy Jeakins,Hawaii,False
+47,1966,1967,39,COSTUME DESIGN (Color),Piero Gherardi,Juliet of the Spirits,False
+48,1966,1967,39,COSTUME DESIGN (Color),"Elizabeth Haffenden, Joan Bridge",A Man for All Seasons,True
+49,1966,1967,39,COSTUME DESIGN (Color),Edith Head,The Oscar,False
+50,1966,1967,39,DIRECTING,Michelangelo Antonioni,Blow-Up,False
+51,1966,1967,39,DIRECTING,Claude Lelouch,A Man and a Woman,False
+52,1966,1967,39,DIRECTING,Fred Zinnemann,A Man for All Seasons,True
+53,1966,1967,39,DIRECTING,Richard Brooks,The Professionals,False
+54,1966,1967,39,DIRECTING,Mike Nichols,Who's Afraid of Virginia Woolf?,False
+55,1966,1967,39,DOCUMENTARY (Feature),"Alfred R. Kelman, Producer",The Face of Genius,False
+56,1966,1967,39,DOCUMENTARY (Feature),"Peter Jones and Tom Daly, Producers",Helicopter Canada,False
+57,1966,1967,39,DOCUMENTARY (Feature),"Haroun Tazieff, Producer",Le Volcan Interdit (The Forbidden Volcano),False
+58,1966,1967,39,DOCUMENTARY (Feature),"Alex Grasshoff, Producer",The Really Big Family,False
+59,1966,1967,39,DOCUMENTARY (Feature),"Peter Watkins, Producer",The War Game,True
+60,1966,1967,39,DOCUMENTARY (Short Subject),"Marin Karmitz and Vladimir Forgency, Producers",Adolescence,False
+61,1966,1967,39,DOCUMENTARY (Short Subject),"Michael Ahnemann and Gary Schlosser, Producers",Cowboy,False
+62,1966,1967,39,DOCUMENTARY (Short Subject),"Lee R. Bobker and Helen Kristt Radin, Producers",The Odds Against,False
+63,1966,1967,39,DOCUMENTARY (Short Subject),Mafilm Studio,Saint Matthew Passion,False
+64,1966,1967,39,DOCUMENTARY (Short Subject),"Edmond A. Levy, Producer",A Year toward Tomorrow,True
+65,1966,1967,39,FILM EDITING,William B. Murphy,Fantastic Voyage,False
+66,1966,1967,39,FILM EDITING,"Fredric Steinkamp, Henry Berman, Stewart Linder, Frank Santillo",Grand Prix,True
+67,1966,1967,39,FILM EDITING,"Hal Ashby, J. Terry Williams",The Russians Are Coming The Russians Are Coming,False
+68,1966,1967,39,FILM EDITING,William Reynolds,The Sand Pebbles,False
+69,1966,1967,39,FILM EDITING,Sam O'Steen,Who's Afraid of Virginia Woolf?,False
+70,1966,1967,39,FOREIGN LANGUAGE FILM,Italy,The Battle of Algiers,False
+71,1966,1967,39,FOREIGN LANGUAGE FILM,Czechoslovakia,Loves of a Blonde,False
+72,1966,1967,39,FOREIGN LANGUAGE FILM,France,A Man and a Woman,True
+73,1966,1967,39,FOREIGN LANGUAGE FILM,Poland,Pharaoh,False
+74,1966,1967,39,FOREIGN LANGUAGE FILM,Yugoslavia,Three,False
+75,1966,1967,39,MUSIC (Original Music Score),Toshiro Mayuzumi,The Bible,False
+76,1966,1967,39,MUSIC (Original Music Score),John Barry,Born Free,True
+77,1966,1967,39,MUSIC (Original Music Score),Elmer Bernstein,Hawaii,False
+78,1966,1967,39,MUSIC (Original Music Score),Jerry Goldsmith,The Sand Pebbles,False
+79,1966,1967,39,MUSIC (Original Music Score),Alex North,Who's Afraid of Virginia Woolf?,False
+80,1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Ken Thorne,A Funny Thing Happened on the Way to the Forum,True
+81,1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Luis Enrique Bacalov,The Gospel According to St. Matthew,False
+82,1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Elmer Bernstein,Return of the Seven,False
+83,1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Harry Sukman,The Singing Nun,False
+84,1966,1967,39,MUSIC (Scoring of Music--adaptation or treatment),Al Ham,Stop the World--I Want to Get Off,False
+85,1966,1967,39,MUSIC (Song),Music by Burt Bacharach; Lyrics by Hal David,Alfie,False
+86,1966,1967,39,MUSIC (Song),Music by John Barry; Lyrics by Don Black,Born Free,True
+87,1966,1967,39,MUSIC (Song),Music by Tom Springfield; Lyrics by Jim Dale,Georgy Girl,False
+88,1966,1967,39,MUSIC (Song),Music by Elmer Bernstein; Lyrics by Mack David,Hawaii,False
+89,1966,1967,39,MUSIC (Song),Music by Johnny Mandel; Lyrics by Paul Francis Webster,An American Dream,False
+90,1966,1967,39,BEST PICTURE,"Lewis Gilbert, Producer",Alfie,False
+91,1966,1967,39,BEST PICTURE,"Fred Zinnemann, Producer",A Man for All Seasons,True
+92,1966,1967,39,BEST PICTURE,"Norman Jewison, Producer",The Russians Are Coming The Russians Are Coming,False
+93,1966,1967,39,BEST PICTURE,"Robert Wise, Producer",The Sand Pebbles,False
+94,1966,1967,39,BEST PICTURE,"Ernest Lehman, Producer",Who's Afraid of Virginia Woolf?,False
+95,1966,1967,39,SHORT SUBJECT (Cartoon),"Wolf Koenig and Robert Verrall, Producers",The Drag,False
+96,1966,1967,39,SHORT SUBJECT (Cartoon),"John Hubley and Faith Hubley, Producers",Herb Alpert and the Tijuana Brass Double Feature,True
+97,1966,1967,39,SHORT SUBJECT (Cartoon),"David H. DePatie and Friz Freleng, Producers",The Pink Blueprint,False
+98,1966,1967,39,SHORT SUBJECT (Live Action),"Derek Williams, Producer",Turkey the Bridge,False
+99,1966,1967,39,SHORT SUBJECT (Live Action),"Edgar Anstey, Producer",Wild Wings,True
+100,1966,1967,39,SHORT SUBJECT (Live Action),"Leslie Winik, Producer",The Winning Strain,False
+101,1966,1967,39,SOUND,"Universal City Studio Sound Department, Waldon O. Watson, Sound Director",Gambit,False
+102,1966,1967,39,SOUND,"Metro-Goldwyn-Mayer Studio Sound Department, Franklin E. Milton, Sound Director",Grand Prix,True
+103,1966,1967,39,SOUND,"Samuel Goldwyn Studio Sound Department, Gordon E. Sawyer, Sound Director",Hawaii,False
+104,1966,1967,39,SOUND,"20th Century-Fox Studio Sound Department, James P. Corcoran, Sound Director",The Sand Pebbles,False
+105,1966,1967,39,SOUND,"Warner Bros. Studio Sound Department, George R. Groves, Sound Director",Who's Afraid of Virginia Woolf?,False
+106,1966,1967,39,SOUND EFFECTS,Walter Rossi,Fantastic Voyage,False
+107,1966,1967,39,SOUND EFFECTS,Gordon Daniel,Grand Prix,True
+108,1966,1967,39,SPECIAL VISUAL EFFECTS,Art Cruickshank,Fantastic Voyage,True
+109,1966,1967,39,SPECIAL VISUAL EFFECTS,Linwood G. Dunn,Hawaii,False
+110,1966,1967,39,WRITING (Screenplay--based on material from another medium),Bill Naughton,Alfie,False
+111,1966,1967,39,WRITING (Screenplay--based on material from another medium),Robert Bolt,A Man for All Seasons,True
+112,1966,1967,39,WRITING (Screenplay--based on material from another medium),Richard Brooks,The Professionals,False
+113,1966,1967,39,WRITING (Screenplay--based on material from another medium),William Rose,The Russians Are Coming The Russians Are Coming,False
+114,1966,1967,39,WRITING (Screenplay--based on material from another medium),Ernest Lehman,Who's Afraid of Virginia Woolf?,False
+115,1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Story by Michelangelo Antonioni;  Screenplay by Michelangelo Antonioni, Tonino Guerra, Edward Bond",Blow-Up,False
+116,1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Billy Wilder, I. A. L. Diamond",The Fortune Cookie,False
+117,1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),Robert Ardrey,Khartoum,False
+118,1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Story by Claude Lelouch;  Screenplay by Claude Lelouch, Pierre Uytterhoeven",A Man and a Woman,True
+119,1966,1967,39,WRITING (Story and Screenplay--written directly for the screen),"Clint Johnston, Don Peters",The Naked Prey,False
+120,1966,1967,39,JEAN HERSHOLT HUMANITARIAN AWARD,George Bagnall,,True
+121,1966,1967,39,HONORARY AWARD, Y. Frank Freeman for unusual and outstanding service to the Academy during his thirty years in Hollywood.,,True
+122,1966,1967,39,HONORARY AWARD, Yakima Canutt for achievements as a stunt man and for developing safety devices to protect stunt men everywhere.,,True
+123,1966,1967,39,IRVING G. THALBERG MEMORIAL AWARD,Robert Wise,,True

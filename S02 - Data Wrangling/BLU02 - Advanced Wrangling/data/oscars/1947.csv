@@ -1,0 +1,105 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1946,1947,19,ACTOR,Fredric March,The Best Years of Our Lives,True
+1,1946,1947,19,ACTOR,Laurence Olivier,Henry V,False
+2,1946,1947,19,ACTOR,Larry Parks,The Jolson Story,False
+3,1946,1947,19,ACTOR,Gregory Peck,The Yearling,False
+4,1946,1947,19,ACTOR,James Stewart,It's a Wonderful Life,False
+5,1946,1947,19,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The Green Years,False
+6,1946,1947,19,ACTOR IN A SUPPORTING ROLE,William Demarest,The Jolson Story,False
+7,1946,1947,19,ACTOR IN A SUPPORTING ROLE,Claude Rains,Notorious,False
+8,1946,1947,19,ACTOR IN A SUPPORTING ROLE,Harold Russell,The Best Years of Our Lives,True
+9,1946,1947,19,ACTOR IN A SUPPORTING ROLE,Clifton Webb,The Razor's Edge,False
+10,1946,1947,19,ACTRESS,Olivia de Havilland,To Each His Own,True
+11,1946,1947,19,ACTRESS,Celia Johnson,Brief Encounter,False
+12,1946,1947,19,ACTRESS,Jennifer Jones,Duel in the Sun,False
+13,1946,1947,19,ACTRESS,Rosalind Russell,Sister Kenny,False
+14,1946,1947,19,ACTRESS,Jane Wyman,The Yearling,False
+15,1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,The Spiral Staircase,False
+16,1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Anne Baxter,The Razor's Edge,True
+17,1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Lillian Gish,Duel in the Sun,False
+18,1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Flora Robson,Saratoga Trunk,False
+19,1946,1947,19,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anna and the King of Siam,False
+20,1946,1947,19,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, William Darling;  Interior Decoration:  Thomas Little, Frank E. Hughes",Anna and the King of Siam,True
+21,1946,1947,19,ART DIRECTION (Black-and-White),"Art Direction:  Hans Dreier, Walter Tyler;  Interior Decoration:  Sam Comer, Ray Moyer",Kitty,False
+22,1946,1947,19,ART DIRECTION (Black-and-White),"Art Direction:  Richard Day, Nathan Juran;  Interior Decoration:  Thomas Little, Paul S. Fox",The Razor's Edge,False
+23,1946,1947,19,ART DIRECTION (Color),John Bryan,Caesar and Cleopatra,False
+24,1946,1947,19,ART DIRECTION (Color),"Art Direction:  Paul Sheriff, Carmen Dillon",Henry V,False
+25,1946,1947,19,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Interior Decoration:  Edwin B. Willis",The Yearling,True
+26,1946,1947,19,CINEMATOGRAPHY (Black-and-White),Arthur Miller,Anna and the King of Siam,True
+27,1946,1947,19,CINEMATOGRAPHY (Black-and-White),George Folsey,The Green Years,False
+28,1946,1947,19,CINEMATOGRAPHY (Color),Joseph Walker,The Jolson Story,False
+29,1946,1947,19,CINEMATOGRAPHY (Color),"Charles Rosher, Leonard Smith, Arthur Arling",The Yearling,True
+30,1946,1947,19,DIRECTING,William Wyler,The Best Years of Our Lives,True
+31,1946,1947,19,DIRECTING,David Lean,Brief Encounter,False
+32,1946,1947,19,DIRECTING,Frank Capra,It's a Wonderful Life,False
+33,1946,1947,19,DIRECTING,Robert Siodmak,The Killers,False
+34,1946,1947,19,DIRECTING,Clarence Brown,The Yearling,False
+35,1946,1947,19,DOCUMENTARY (Short Subject),The March of Time,Atomic Power,False
+36,1946,1947,19,DOCUMENTARY (Short Subject),Artkino,Life at the Zoo,False
+37,1946,1947,19,DOCUMENTARY (Short Subject),Paramount,Paramount News Issue #37 (Twentieth Anniversary Issue!  1927.....1947),False
+38,1946,1947,19,DOCUMENTARY (Short Subject),United States Department of War,Seeds of Destiny,True
+39,1946,1947,19,DOCUMENTARY (Short Subject),"Herbert Morgan, Producer",Traffic with the Devil,False
+40,1946,1947,19,FILM EDITING,Daniel Mandell,The Best Years of Our Lives,True
+41,1946,1947,19,FILM EDITING,William Hornbeck,It's a Wonderful Life,False
+42,1946,1947,19,FILM EDITING,William Lyon,The Jolson Story,False
+43,1946,1947,19,FILM EDITING,Arthur Hilton,The Killers,False
+44,1946,1947,19,FILM EDITING,Harold Kress,The Yearling,False
+45,1946,1947,19,MUSIC (Music Score of a Dramatic or Comedy Picture),Bernard Herrmann,Anna and the King of Siam,False
+46,1946,1947,19,MUSIC (Music Score of a Dramatic or Comedy Picture),Hugo Friedhofer,The Best Years of Our Lives,True
+47,1946,1947,19,MUSIC (Music Score of a Dramatic or Comedy Picture),William Walton,Henry V,False
+48,1946,1947,19,MUSIC (Music Score of a Dramatic or Comedy Picture),Franz Waxman,Humoresque,False
+49,1946,1947,19,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,The Killers,False
+50,1946,1947,19,MUSIC (Scoring of a Musical Picture),Robert Emmett Dolan,Blue Skies,False
+51,1946,1947,19,MUSIC (Scoring of a Musical Picture),Alfred Newman,Centennial Summer,False
+52,1946,1947,19,MUSIC (Scoring of a Musical Picture),Lennie Hayton,The Harvey Girls,False
+53,1946,1947,19,MUSIC (Scoring of a Musical Picture),Morris Stoloff,The Jolson Story,True
+54,1946,1947,19,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Max Steiner",Night and Day,False
+55,1946,1947,19,MUSIC (Song),Music by Jerome Kern; Lyrics by Oscar Hammerstein II,Centennial Summer,False
+56,1946,1947,19,MUSIC (Song),Music by James Monaco; Lyrics by Mack Gordon,The Dolly Sisters,False
+57,1946,1947,19,MUSIC (Song),Music by Hoagy Carmichael; Lyrics by Jack Brooks,Canyon Passage,False
+58,1946,1947,19,MUSIC (Song),Music by Harry Warren; Lyrics by Johnny Mercer,The Harvey Girls,True
+59,1946,1947,19,MUSIC (Song),Music and Lyrics by Irving Berlin,Blue Skies,False
+60,1946,1947,19,BEST MOTION PICTURE,Samuel Goldwyn Productions,The Best Years of Our Lives,True
+61,1946,1947,19,BEST MOTION PICTURE,J. Arthur Rank-Two Cities Films,Henry V,False
+62,1946,1947,19,BEST MOTION PICTURE,Liberty Films,It's a Wonderful Life,False
+63,1946,1947,19,BEST MOTION PICTURE,20th Century-Fox,The Razor's Edge,False
+64,1946,1947,19,BEST MOTION PICTURE,Metro-Goldwyn-Mayer,The Yearling,False
+65,1946,1947,19,SHORT SUBJECT (Cartoon),"Frederick Quimby, Producer",The Cat Concerto,True
+66,1946,1947,19,SHORT SUBJECT (Cartoon),"Walter Lantz, Producer",Chopin's Musical Moments,False
+67,1946,1947,19,SHORT SUBJECT (Cartoon),"George Pal, Producer",John Henry and the Inky Poo,False
+68,1946,1947,19,SHORT SUBJECT (Cartoon),"Walt Disney, Producer",Squatter's Rights,False
+69,1946,1947,19,SHORT SUBJECT (Cartoon),"Edward Selzer, Producer",Walky Talky Hawky,False
+70,1946,1947,19,SHORT SUBJECT (One-reel),"Jack Eaton, Producer",Dive-Hi Champs,False
+71,1946,1947,19,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Facing Your Danger,True
+72,1946,1947,19,SHORT SUBJECT (One-reel),"Edmund Reek, Producer",Golden Horses,False
+73,1946,1947,19,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Smart as a Fox,False
+74,1946,1947,19,SHORT SUBJECT (One-reel),"Pete Smith, Producer",Sure Cures,False
+75,1946,1947,19,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",A Boy and His Dog,True
+76,1946,1947,19,SHORT SUBJECT (Two-reel),"George B. Templeton, Producer",College Queen,False
+77,1946,1947,19,SHORT SUBJECT (Two-reel),"Jules White, Producer",Hiss and Yell,False
+78,1946,1947,19,SHORT SUBJECT (Two-reel),"Jerry Bresler, Producer",The Luckiest Guy in the World,False
+79,1946,1947,19,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",The Best Years of Our Lives,False
+80,1946,1947,19,SOUND RECORDING,"RKO Radio Studio Sound Department, John Aalberg, Sound Director",It's a Wonderful Life,False
+81,1946,1947,19,SOUND RECORDING,"Columbia Studio Sound Department, John Livadary, Sound Director",The Jolson Story,True
+82,1946,1947,19,SPECIAL EFFECTS,Special Visual Effects by Thomas Howard,Blithe Spirit,True
+83,1946,1947,19,SPECIAL EFFECTS,Special Visual Effects by William McGann; Special Audible Effects by Nathan Levinson,A Stolen Life,False
+84,1946,1947,19,WRITING (Original Motion Picture Story),Vladimir Pozner,The Dark Mirror,False
+85,1946,1947,19,WRITING (Original Motion Picture Story),Jack Patrick,The Strange Love of Martha Ivers,False
+86,1946,1947,19,WRITING (Original Motion Picture Story),Victor Trivas,The Stranger,False
+87,1946,1947,19,WRITING (Original Motion Picture Story),Charles Brackett,To Each His Own,False
+88,1946,1947,19,WRITING (Original Motion Picture Story),Clemence Dane,Vacation from Marriage,True
+89,1946,1947,19,WRITING (Original Screenplay),Raymond Chandler,The Blue Dahlia,False
+90,1946,1947,19,WRITING (Original Screenplay),Jacques Prevert,Children of Paradise,False
+91,1946,1947,19,WRITING (Original Screenplay),Ben Hecht,Notorious,False
+92,1946,1947,19,WRITING (Original Screenplay),"Norman Panama, Melvin Frank",Road to Utopia,False
+93,1946,1947,19,WRITING (Original Screenplay),"Muriel Box, Sydney Box",The Seventh Veil,True
+94,1946,1947,19,WRITING (Screenplay),"Talbot Jennings, Sally Benson",Anna and the King of Siam,False
+95,1946,1947,19,WRITING (Screenplay),Robert E. Sherwood,The Best Years of Our Lives,True
+96,1946,1947,19,WRITING (Screenplay),"David Lean, Anthony Havelock-Allan, Ronald Neame",Brief Encounter,False
+97,1946,1947,19,WRITING (Screenplay),Anthony Veiller,The Killers,False
+98,1946,1947,19,WRITING (Screenplay),"Sergio Amidei, F. Fellini",Open City,False
+99,1946,1947,19,SPECIAL AWARD, Laurence Olivier for his outstanding achievement as actor,,True
+100,1946,1947,19,SPECIAL AWARD, Harold Russell for bringing hope and courage to his fellow veterans through his appearance in The Best Years of Our Lives.,,True
+101,1946,1947,19,SPECIAL AWARD, Ernst Lubitsch for his distinguished contributions to the art of the motion picture.,,True
+102,1946,1947,19,SPECIAL AWARD, Claude Jarman,,True
+103,1946,1947,19,IRVING G. THALBERG MEMORIAL AWARD,Samuel Goldwyn,,True

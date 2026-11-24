@@ -1,0 +1,130 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1952,1953,25,ACTOR,Marlon Brando,Viva Zapata!,False
+1,1952,1953,25,ACTOR,Gary Cooper,High Noon,True
+2,1952,1953,25,ACTOR,Kirk Douglas,The Bad and the Beautiful,False
+3,1952,1953,25,ACTOR,José Ferrer,Moulin Rouge,False
+4,1952,1953,25,ACTOR,Alec Guinness,The Lavender Hill Mob,False
+5,1952,1953,25,ACTOR IN A SUPPORTING ROLE,Richard Burton,My Cousin Rachel,False
+6,1952,1953,25,ACTOR IN A SUPPORTING ROLE,Arthur Hunnicutt,The Big Sky,False
+7,1952,1953,25,ACTOR IN A SUPPORTING ROLE,Victor McLaglen,The Quiet Man,False
+8,1952,1953,25,ACTOR IN A SUPPORTING ROLE,Jack Palance,Sudden Fear,False
+9,1952,1953,25,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Viva Zapata!,True
+10,1952,1953,25,ACTRESS,Shirley Booth,"Come Back, Little Sheba",True
+11,1952,1953,25,ACTRESS,Joan Crawford,Sudden Fear,False
+12,1952,1953,25,ACTRESS,Bette Davis,The Star,False
+13,1952,1953,25,ACTRESS,Julie Harris,The Member of the Wedding,False
+14,1952,1953,25,ACTRESS,Susan Hayward,With a Song in My Heart,False
+15,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,The Bad and the Beautiful,True
+16,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Jean Hagen,Singin' in the Rain,False
+17,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Colette Marchand,Moulin Rouge,False
+18,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Terry Moore,"Come Back, Little Sheba",False
+19,1952,1953,25,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,With a Song in My Heart,False
+20,1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Cedric Gibbons, Edward Carfagno;  Set Decoration:  Edwin B. Willis, Keogh Gleason",The Bad and the Beautiful,True
+21,1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Hal Pereira, Roland Anderson;  Set Decoration:  Emile Kuri",Carrie,False
+22,1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, John DeCuir;  Set Decoration:  Walter M. Scott",My Cousin Rachel,False
+23,1952,1953,25,ART DIRECTION (Black-and-White),Art Direction:  Matsuyama;  Set Decoration:  H. Motsumoto,Rashomon,False
+24,1952,1953,25,ART DIRECTION (Black-and-White),"Art Direction:  Lyle Wheeler, Leland Fuller;  Set Decoration:  Thomas Little, Claude Carpenter",Viva Zapata!,False
+25,1952,1953,25,ART DIRECTION (Color),"Art Direction:  Richard Day, Clave;  Set Decoration:  Howard Bristol",Hans Christian Andersen,False
+26,1952,1953,25,ART DIRECTION (Color),"Art Direction:  Cedric Gibbons, Paul Groesse;  Set Decoration:  Edwin B. Willis, Arthur Krams",The Merry Widow,False
+27,1952,1953,25,ART DIRECTION (Color),Art Direction:  Paul Sheriff;  Set Decoration:  Marcel Vertes,Moulin Rouge,True
+28,1952,1953,25,ART DIRECTION (Color),"Art Direction:  Frank Hotaling;  Set Decoration:  John McCarthy, Jr., Charles Thompson",The Quiet Man,False
+29,1952,1953,25,ART DIRECTION (Color),"Art Direction:  Lyle Wheeler, John DeCuir;  Set Decoration:  Thomas Little, Paul S. Fox",The Snows of Kilimanjaro,False
+30,1952,1953,25,CINEMATOGRAPHY (Black-and-White),Robert Surtees,The Bad and the Beautiful,True
+31,1952,1953,25,CINEMATOGRAPHY (Black-and-White),Russell Harlan,The Big Sky,False
+32,1952,1953,25,CINEMATOGRAPHY (Black-and-White),Joseph LaShelle,My Cousin Rachel,False
+33,1952,1953,25,CINEMATOGRAPHY (Black-and-White),Virgil E. Miller,Navajo,False
+34,1952,1953,25,CINEMATOGRAPHY (Black-and-White),"Charles B. Lang, Jr.",Sudden Fear,False
+35,1952,1953,25,CINEMATOGRAPHY (Color),Harry Stradling,Hans Christian Andersen,False
+36,1952,1953,25,CINEMATOGRAPHY (Color),F. A. Young,Ivanhoe,False
+37,1952,1953,25,CINEMATOGRAPHY (Color),George J. Folsey,Million Dollar Mermaid,False
+38,1952,1953,25,CINEMATOGRAPHY (Color),"Winton C. Hoch, Archie Stout",The Quiet Man,True
+39,1952,1953,25,CINEMATOGRAPHY (Color),Leon Shamroy,The Snows of Kilimanjaro,False
+40,1952,1953,25,COSTUME DESIGN (Black-and-White),Jean Louis,Affair in Trinidad,False
+41,1952,1953,25,COSTUME DESIGN (Black-and-White),Helen Rose,The Bad and the Beautiful,True
+42,1952,1953,25,COSTUME DESIGN (Black-and-White),Edith Head,Carrie,False
+43,1952,1953,25,COSTUME DESIGN (Black-and-White),"Charles LeMaire, Dorothy Jeakins",My Cousin Rachel,False
+44,1952,1953,25,COSTUME DESIGN (Black-and-White),Sheila O'Brien,Sudden Fear,False
+45,1952,1953,25,COSTUME DESIGN (Color),"Edith Head, Dorothy Jeakins, Miles White",The Greatest Show on Earth,False
+46,1952,1953,25,COSTUME DESIGN (Color),"Clave, Mary Wills, Madame Karinska",Hans Christian Andersen,False
+47,1952,1953,25,COSTUME DESIGN (Color),"Helen Rose, Gile Steele",The Merry Widow,False
+48,1952,1953,25,COSTUME DESIGN (Color),Marcel Vertes,Moulin Rouge,True
+49,1952,1953,25,COSTUME DESIGN (Color),Charles LeMaire,With a Song in My Heart,False
+50,1952,1953,25,DIRECTING,Joseph L. Mankiewicz,Five Fingers,False
+51,1952,1953,25,DIRECTING,Cecil B. DeMille,The Greatest Show on Earth,False
+52,1952,1953,25,DIRECTING,Fred Zinnemann,High Noon,False
+53,1952,1953,25,DIRECTING,John Huston,Moulin Rouge,False
+54,1952,1953,25,DIRECTING,John Ford,The Quiet Man,True
+55,1952,1953,25,DOCUMENTARY (Feature),"Dore Schary, Producer",The Hoaxters,False
+56,1952,1953,25,DOCUMENTARY (Feature),"Hall Bartlett, Producer",Navajo,False
+57,1952,1953,25,DOCUMENTARY (Feature),"Irwin Allen, Producer",The Sea around Us,True
+58,1952,1953,25,DOCUMENTARY (Short Subject),"Herbert Morgan, Producer",Devil Take Us,False
+59,1952,1953,25,DOCUMENTARY (Short Subject),"Alberto Ancilotto, Producer",The Garden Spider (Epeira Diadema),False
+60,1952,1953,25,DOCUMENTARY (Short Subject),"Stephen Bosustow, Executive Producer",Man Alive!,False
+61,1952,1953,25,DOCUMENTARY (Short Subject),"Norman McLaren, Producer",Neighbours,True
+62,1952,1953,25,FILM EDITING,Warren Low,"Come Back, Little Sheba",False
+63,1952,1953,25,FILM EDITING,William Austin,Flat Top,False
+64,1952,1953,25,FILM EDITING,Anne Bauchens,The Greatest Show on Earth,False
+65,1952,1953,25,FILM EDITING,"Elmo Williams, Harry Gerstad",High Noon,True
+66,1952,1953,25,FILM EDITING,Ralph Kemplen,Moulin Rouge,False
+67,1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Dimitri Tiomkin,High Noon,True
+68,1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Miklos Rozsa,Ivanhoe,False
+69,1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Max Steiner,Miracle of Fatima,False
+70,1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Herschel Burke Gilbert,The Thief,False
+71,1952,1953,25,MUSIC (Music Score of a Dramatic or Comedy Picture),Alex North,Viva Zapata!,False
+72,1952,1953,25,MUSIC (Scoring of a Musical Picture),Walter Scharf,Hans Christian Andersen,False
+73,1952,1953,25,MUSIC (Scoring of a Musical Picture),"Ray Heindorf, Max Steiner",The Jazz Singer,False
+74,1952,1953,25,MUSIC (Scoring of a Musical Picture),Gian-Carlo Menotti,The Medium,False
+75,1952,1953,25,MUSIC (Scoring of a Musical Picture),Lennie Hayton,Singin' in the Rain,False
+76,1952,1953,25,MUSIC (Scoring of a Musical Picture),Alfred Newman,With a Song in My Heart,True
+77,1952,1953,25,MUSIC (Song),Music and Lyrics by Jack Brooks,Son of Paleface,False
+78,1952,1953,25,MUSIC (Song),Music by Nicholas Brodszky; Lyrics by Sammy Cahn,Because You're Mine,False
+79,1952,1953,25,MUSIC (Song),Music by Dimitri Tiomkin; Lyrics by Ned Washington,High Noon,True
+80,1952,1953,25,MUSIC (Song),Music and Lyrics by Frank Loesser,Hans Christian Andersen,False
+81,1952,1953,25,MUSIC (Song),Music by Harry Warren; Lyrics by Leo Robin,Just for You,False
+82,1952,1953,25,BEST MOTION PICTURE,"Cecil B. DeMille, Producer",The Greatest Show on Earth,True
+83,1952,1953,25,BEST MOTION PICTURE,"Stanley Kramer, Producer",High Noon,False
+84,1952,1953,25,BEST MOTION PICTURE,"Pandro S. Berman, Producer",Ivanhoe,False
+85,1952,1953,25,BEST MOTION PICTURE,Romulus Films,Moulin Rouge,False
+86,1952,1953,25,BEST MOTION PICTURE,"John Ford and Merian C. Cooper, Producers",The Quiet Man,False
+87,1952,1953,25,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",Johann Mouse,True
+88,1952,1953,25,SHORT SUBJECT (Cartoon),"Fred Quimby, Producer",Little Johnny Jet,False
+89,1952,1953,25,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Executive Producer",Madeline,False
+90,1952,1953,25,SHORT SUBJECT (Cartoon),"Stephen Bosustow, Executive Producer",Pink and Blue Blues,False
+91,1952,1953,25,SHORT SUBJECT (Cartoon),"Tom Daly, Producer",Romance of Transportation,False
+92,1952,1953,25,SHORT SUBJECT (One-reel),"Jack Eaton, Producer",Athletes of the Saddle,False
+93,1952,1953,25,SHORT SUBJECT (One-reel),"Gordon Hollingshead, Producer",Desert Killer,False
+94,1952,1953,25,SHORT SUBJECT (One-reel),"Boris Vermont, Producer",Light in the Window: The Art of Vermeer,True
+95,1952,1953,25,SHORT SUBJECT (One-reel),"Norman McLaren, Producer",Neighbours,False
+96,1952,1953,25,SHORT SUBJECT (One-reel),Crown Film Unit,Royal Scotland,False
+97,1952,1953,25,SHORT SUBJECT (Two-reel),London Film Production,Bridge of Time,False
+98,1952,1953,25,SHORT SUBJECT (Two-reel),"Herbert Morgan, Producer",Devil Take Us,False
+99,1952,1953,25,SHORT SUBJECT (Two-reel),"Gordon Hollingshead, Producer",Thar She Blows!,False
+100,1952,1953,25,SHORT SUBJECT (Two-reel),"Walt Disney, Producer",Water Birds,True
+101,1952,1953,25,SOUND RECORDING,London Film Sound Department,Breaking the Sound Barrier,True
+102,1952,1953,25,SOUND RECORDING,"Samuel Goldwyn Studio Sound Department, Gordon Sawyer, Sound Director",Hans Christian Andersen,False
+103,1952,1953,25,SOUND RECORDING,Pinewood Studios Sound Department,The Promoter,False
+104,1952,1953,25,SOUND RECORDING,"Republic Studio Sound Department, Daniel J. Bloomberg, Sound Director",The Quiet Man,False
+105,1952,1953,25,SOUND RECORDING,"20th Century-Fox Studio Sound Department, Thomas T. Moulton, Sound Director",With a Song in My Heart,False
+106,1952,1953,25,SPECIAL EFFECTS,Metro-Goldwyn-Mayer,Plymouth Adventure,True
+107,1952,1953,25,WRITING (Motion Picture Story),"Fredric M. Frank, Theodore St. John, Frank Cavett",The Greatest Show on Earth,True
+108,1952,1953,25,WRITING (Motion Picture Story),Leo McCarey,My Son John,False
+109,1952,1953,25,WRITING (Motion Picture Story),"Martin Goldsmith, Jack Leonard",The Narrow Margin,False
+110,1952,1953,25,WRITING (Motion Picture Story),Guy Trosper,The Pride of St. Louis,False
+111,1952,1953,25,WRITING (Motion Picture Story),"Edna Anhalt, Edward Anhalt",The Sniper,False
+112,1952,1953,25,WRITING (Screenplay),Charles Schnee,The Bad and the Beautiful,True
+113,1952,1953,25,WRITING (Screenplay),Michael Wilson,Five Fingers,False
+114,1952,1953,25,WRITING (Screenplay),Carl Foreman,High Noon,False
+115,1952,1953,25,WRITING (Screenplay),"Roger MacDougall, John Dighton, Alexander Mackendrick",The Man in the White Suit,False
+116,1952,1953,25,WRITING (Screenplay),Frank S. Nugent,The Quiet Man,False
+117,1952,1953,25,WRITING (Story and Screenplay),Sydney Boehm,The Atomic City,False
+118,1952,1953,25,WRITING (Story and Screenplay),Terence Rattigan,Breaking the Sound Barrier,False
+119,1952,1953,25,WRITING (Story and Screenplay),T. E. B. Clarke,The Lavender Hill Mob,True
+120,1952,1953,25,WRITING (Story and Screenplay),"Ruth Gordon, Garson Kanin",Pat and Mike,False
+121,1952,1953,25,WRITING (Story and Screenplay),John Steinbeck,Viva Zapata!,False
+122,1952,1953,25,HONORARY FOREIGN LANGUAGE FILM AWARD,Forbidden Games - Best Foreign Language Film first released in the United States during 1952.,,True
+123,1952,1953,25,HONORARY AWARD, George Alfred Mitchell for the design and development of the camera which bears his name and for his continued and dominant presence in the field of cinematography.,,True
+124,1952,1953,25,HONORARY AWARD, Joseph M. Schenck for long and distinguished service to the motion picture industry.,,True
+125,1952,1953,25,HONORARY AWARD, Merian C. Cooper for his many innovations and contributions to the art of motion pictures.,,True
+126,1952,1953,25,HONORARY AWARD, Harold Lloyd,,True
+127,1952,1953,25,HONORARY AWARD, Bob Hope for his contribution to the laughter of the world,,True
+128,1952,1953,25,IRVING G. THALBERG MEMORIAL AWARD,Cecil B. DeMille,,True

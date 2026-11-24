@@ -1,0 +1,108 @@
+,year_film,year_ceremony,ceremony,category,name,film,winner
+0,1975,1976,48,ACTOR,Walter Matthau,The Sunshine Boys,False
+1,1975,1976,48,ACTOR,Jack Nicholson,One Flew over the Cuckoo's Nest,True
+2,1975,1976,48,ACTOR,Al Pacino,Dog Day Afternoon,False
+3,1975,1976,48,ACTOR,Maximilian Schell,The Man in the Glass Booth,False
+4,1975,1976,48,ACTOR,James Whitmore,"Give 'em Hell, Harry!",False
+5,1975,1976,48,ACTOR IN A SUPPORTING ROLE,George Burns,The Sunshine Boys,True
+6,1975,1976,48,ACTOR IN A SUPPORTING ROLE,Brad Dourif,One Flew over the Cuckoo's Nest,False
+7,1975,1976,48,ACTOR IN A SUPPORTING ROLE,Burgess Meredith,The Day of the Locust,False
+8,1975,1976,48,ACTOR IN A SUPPORTING ROLE,Chris Sarandon,Dog Day Afternoon,False
+9,1975,1976,48,ACTOR IN A SUPPORTING ROLE,Jack Warden,Shampoo,False
+10,1975,1976,48,ACTRESS,Isabelle Adjani,The Story of Adele H.,False
+11,1975,1976,48,ACTRESS,Ann-Margret,Tommy,False
+12,1975,1976,48,ACTRESS,Louise Fletcher,One Flew over the Cuckoo's Nest,True
+13,1975,1976,48,ACTRESS,Glenda Jackson,Hedda,False
+14,1975,1976,48,ACTRESS,Carol Kane,Hester Street,False
+15,1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Ronee Blakley,Nashville,False
+16,1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Shampoo,True
+17,1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Sylvia Miles,"Farewell, My Lovely",False
+18,1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Lily Tomlin,Nashville,False
+19,1975,1976,48,ACTRESS IN A SUPPORTING ROLE,Brenda Vaccaro,Jacqueline Susann's Once Is Not Enough,False
+20,1975,1976,48,ART DIRECTION,"Art Direction:  Ken Adam, Roy Walker;  Set Decoration:  Vernon Dixon",Barry Lyndon,True
+21,1975,1976,48,ART DIRECTION,Art Direction:  Edward Carfagno;  Set Decoration:  Frank McKelvy,The Hindenburg,False
+22,1975,1976,48,ART DIRECTION,"Art Direction:  Alexander Trauner, Tony Inglis;  Set Decoration:  Peter James",The Man Who Would Be King,False
+23,1975,1976,48,ART DIRECTION,"Art Direction:  Richard Sylbert, W. Stewart Campbell;  Set Decoration:  George Gaines",Shampoo,False
+24,1975,1976,48,ART DIRECTION,Art Direction:  Albert Brenner;  Set Decoration:  Marvin March,The Sunshine Boys,False
+25,1975,1976,48,CINEMATOGRAPHY,John Alcott,Barry Lyndon,True
+26,1975,1976,48,CINEMATOGRAPHY,Conrad Hall,The Day of the Locust,False
+27,1975,1976,48,CINEMATOGRAPHY,James Wong Howe,Funny Lady,False
+28,1975,1976,48,CINEMATOGRAPHY,Robert Surtees,The Hindenburg,False
+29,1975,1976,48,CINEMATOGRAPHY,"Haskell Wexler, Bill Butler",One Flew over the Cuckoo's Nest,False
+30,1975,1976,48,COSTUME DESIGN,"Ulla-Britt Soderlund, Milena Canonero",Barry Lyndon,True
+31,1975,1976,48,COSTUME DESIGN,"Yvonne Blake, Ron Talsky",The Four Musketeers,False
+32,1975,1976,48,COSTUME DESIGN,"Ray Aghayan, Bob Mackie",Funny Lady,False
+33,1975,1976,48,COSTUME DESIGN,"Henny Noremark, Karin Erskine",The Magic Flute,False
+34,1975,1976,48,COSTUME DESIGN,Edith Head,The Man Who Would Be King,False
+35,1975,1976,48,DIRECTING,Federico Fellini,Amarcord,False
+36,1975,1976,48,DIRECTING,Stanley Kubrick,Barry Lyndon,False
+37,1975,1976,48,DIRECTING,Sidney Lumet,Dog Day Afternoon,False
+38,1975,1976,48,DIRECTING,Robert Altman,Nashville,False
+39,1975,1976,48,DIRECTING,Milos Forman,One Flew over the Cuckoo's Nest,True
+40,1975,1976,48,DOCUMENTARY (Feature),"Walter F. Parkes and Keith F. Critchlow, Producers",The California Reich,False
+41,1975,1976,48,DOCUMENTARY (Feature),"Glen Pearcy, Producer",Fighting for Our Lives,False
+42,1975,1976,48,DOCUMENTARY (Feature),"Irwin Rosten, Producer",The Incredible Machine,False
+43,1975,1976,48,DOCUMENTARY (Feature),"F. R. Crawley, James Hager and Dale Hartleben, Producers",The Man Who Skied down Everest,True
+44,1975,1976,48,DOCUMENTARY (Feature),"Shirley MacLaine, Producer",The Other Half of the Sky: A China Memoir,False
+45,1975,1976,48,DOCUMENTARY (Short Subject),"Jon Else, Steven Kovacs and Kristine Samuelson, Producers",Arthur and Lillie,False
+46,1975,1976,48,DOCUMENTARY (Short Subject),"Claire Wilbur and Robin Lehman, Producers",The End of the Game,True
+47,1975,1976,48,DOCUMENTARY (Short Subject),"Manfred Baier, Producer",Millions of Years Ahead of Man,False
+48,1975,1976,48,DOCUMENTARY (Short Subject),"George V. Casey, Producer",Probes in Space,False
+49,1975,1976,48,DOCUMENTARY (Short Subject),"Barrie Howells and Michael Scott, Producers",Whistling Smith,False
+50,1975,1976,48,FILM EDITING,Dede Allen,Dog Day Afternoon,False
+51,1975,1976,48,FILM EDITING,Verna Fields,Jaws,True
+52,1975,1976,48,FILM EDITING,Russell Lloyd,The Man Who Would Be King,False
+53,1975,1976,48,FILM EDITING,"Richard Chew, Lynzee Klingman, Sheldon Kahn",One Flew over the Cuckoo's Nest,False
+54,1975,1976,48,FILM EDITING,"Fredric Steinkamp, Don Guidice",Three Days of the Condor,False
+55,1975,1976,48,FOREIGN LANGUAGE FILM,Union of Soviet Socialist Republics,Dersu Uzala,True
+56,1975,1976,48,FOREIGN LANGUAGE FILM,Poland,Land of Promise,False
+57,1975,1976,48,FOREIGN LANGUAGE FILM,Mexico,Letters from Marusia,False
+58,1975,1976,48,FOREIGN LANGUAGE FILM,Japan,Sandakan No. 8,False
+59,1975,1976,48,FOREIGN LANGUAGE FILM,Italy,Scent of a Woman,False
+60,1975,1976,48,MUSIC (Original Score),Gerald Fried,"Birds Do It, Bees Do It",False
+61,1975,1976,48,MUSIC (Original Score),Alex North,Bite the Bullet,False
+62,1975,1976,48,MUSIC (Original Score),John Williams,Jaws,True
+63,1975,1976,48,MUSIC (Original Score),Jack Nitzsche,One Flew over the Cuckoo's Nest,False
+64,1975,1976,48,MUSIC (Original Score),Jerry Goldsmith,The Wind and the Lion,False
+65,1975,1976,48,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Leonard Rosenman,Barry Lyndon,True
+66,1975,1976,48,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Peter Matz,Funny Lady,False
+67,1975,1976,48,MUSIC (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation),Adaptation Score by Peter Townshend,Tommy,False
+68,1975,1976,48,MUSIC (Original Song),Music and Lyrics by Fred Ebb and John Kander,Funny Lady,False
+69,1975,1976,48,MUSIC (Original Song),Music and Lyrics by Keith Carradine,Nashville,True
+70,1975,1976,48,MUSIC (Original Song),Music by George Barrie; Lyrics by Sammy Cahn,Whiffs,False
+71,1975,1976,48,MUSIC (Original Song),Music by Charles Fox; Lyrics by Norman Gimbel,The Other Side of the Mountain,False
+72,1975,1976,48,MUSIC (Original Song),Music by Michael Masser; Lyrics by Gerry Goffin,Mahogany,False
+73,1975,1976,48,BEST PICTURE,"Stanley Kubrick, Producer",Barry Lyndon,False
+74,1975,1976,48,BEST PICTURE,"Martin Bregman and Martin Elfand, Producers",Dog Day Afternoon,False
+75,1975,1976,48,BEST PICTURE,"Richard D. Zanuck and David Brown, Producers",Jaws,False
+76,1975,1976,48,BEST PICTURE,"Robert Altman, Producer",Nashville,False
+77,1975,1976,48,BEST PICTURE,"Saul Zaentz and Michael Douglas, Producers",One Flew over the Cuckoo's Nest,True
+78,1975,1976,48,SHORT FILM (Animated),"Bob Godfrey, Producer",Great,True
+79,1975,1976,48,SHORT FILM (Animated),"Robert Swarthe, Producer",Kick Me,False
+80,1975,1976,48,SHORT FILM (Animated),"René Jodoin, Bernard Longpré and André Leduc, Producers",Monsieur Pointu,False
+81,1975,1976,48,SHORT FILM (Animated),"Marcell Jankovics, Producer",Sisyphus,False
+82,1975,1976,48,SHORT FILM (Live Action),"Bert Salzman, Producer",Angel and Big Joe,True
+83,1975,1976,48,SHORT FILM (Live Action),"Louis Marcus, Producer",Conquest of Light,False
+84,1975,1976,48,SHORT FILM (Live Action),"Lawrence M. Lansburgh and Brian Lansburgh, Producers",Dawn Flight,False
+85,1975,1976,48,SHORT FILM (Live Action),"Barry Spinello, Producer",A Day in the Life of Bonnie Consolo,False
+86,1975,1976,48,SHORT FILM (Live Action),"Alan Beattie, Producer",Doubletalk,False
+87,1975,1976,48,SOUND,"Arthur Piantadosi, Les Fresholtz, Richard Tyler, Al Overton, Jr.",Bite the Bullet,False
+88,1975,1976,48,SOUND,"Richard Portman, Don MacDougall, Curly Thirlwell, Jack Solomon",Funny Lady,False
+89,1975,1976,48,SOUND,"Leonard Peterson, John A. Bolger, Jr., John Mack, Don K. Sharpless",The Hindenburg,False
+90,1975,1976,48,SOUND,"Robert L. Hoyt, Roger Heman, Earl Madery, John Carter",Jaws,True
+91,1975,1976,48,SOUND,"Harry W. Tetrick, Aaron Rochin, William McCaughey, Roy Charman",The Wind and the Lion,False
+92,1975,1976,48,WRITING (Original Screenplay),"Federico Fellini, Tonino Guerra",Amarcord,False
+93,1975,1976,48,WRITING (Original Screenplay),"Claude Lelouch, Pierre Uytterhoeven",And Now My Love,False
+94,1975,1976,48,WRITING (Original Screenplay),Frank Pierson,Dog Day Afternoon,True
+95,1975,1976,48,WRITING (Original Screenplay),Ted Allan,Lies My Father Told Me,False
+96,1975,1976,48,WRITING (Original Screenplay),"Robert Towne, Warren Beatty",Shampoo,False
+97,1975,1976,48,WRITING (Screenplay Adapted from Other Material),Stanley Kubrick,Barry Lyndon,False
+98,1975,1976,48,WRITING (Screenplay Adapted from Other Material),"John Huston, Gladys Hill",The Man Who Would Be King,False
+99,1975,1976,48,WRITING (Screenplay Adapted from Other Material),"Lawrence Hauben, Bo Goldman",One Flew over the Cuckoo's Nest,True
+100,1975,1976,48,WRITING (Screenplay Adapted from Other Material),"Ruggero Maccari, Dino Risi",Scent of a Woman,False
+101,1975,1976,48,WRITING (Screenplay Adapted from Other Material),Neil Simon,The Sunshine Boys,False
+102,1975,1976,48,SPECIAL ACHIEVEMENT AWARD (Sound Effects),Peter Berkos,The Hindenburg,True
+103,1975,1976,48,SPECIAL ACHIEVEMENT AWARD (Visual Effects),"Albert Whitlock, Glen Robinson",The Hindenburg,True
+104,1975,1976,48,JEAN HERSHOLT HUMANITARIAN AWARD,Dr. Jules C. Stein,,True
+105,1975,1976,48,HONORARY AWARD, Mary Pickford in recognition of her unique contributions to the film industry and the development of film as an artistic medium.,,True
+106,1975,1976,48,IRVING G. THALBERG MEMORIAL AWARD,Mervyn LeRoy,,True
